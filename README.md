@@ -86,3 +86,6 @@ The `evaluation_dataset` folder contains the test dataset used in the paper. It 
 
 
 The `code` folder contains all the notebooks used in creating the paper's experiments
+
+
+The `XCOMET-XL Error Analysis Results` folder contains the results and statistics of the error analysis performed in the paper using [XCOMET-XL](https://huggingface.co/Unbabel/XCOMET-XL) 
