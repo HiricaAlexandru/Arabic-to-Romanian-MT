@@ -1,0 +1,2444 @@
+{
+    "/content/drive/MyDrive/ArRo/XCOMET_XL_Error_Analysis/ar-ro/translate/OPENNMT_WITHOUT_DIALECTS/drepturile_economice_culturale/OPEN_NMT.txt": [
+        {
+            "src": "الجزء الأول",
+            "mt": "Prima parte, prima parte a primei părţi.",
+            "ref": "Partea INTAI",
+            "COMET": 0.6906484365463257,
+            "errors": [
+                {
+                    "text": "Prima parte, prima parte a primei părţi",
+                    "confidence": 0.41259765625,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 39
+                }
+            ]
+        },
+        {
+            "src": "المادة 1",
+            "mt": "Articolul 1 din articolul 1 al articolului",
+            "ref": "Articolul 1",
+            "COMET": 0.5917714834213257,
+            "errors": [
+                {
+                    "text": "Articolul 1 din articolul 1 al articolului",
+                    "confidence": 0.385009765625,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 42
+                }
+            ]
+        },
+        {
+            "src": "1. لجميع الشعوب حق تقرير مصيرها بنفسها، وهى بمقتضى هذا الحق حرة في تقرير مركزها السياسي وحرة في السعي لتحقيق نمائها الاقتصادي والاجتماعي والثقافي.",
+            "mt": "Toate popoarele au dreptul de a-şi decide propriul destin, liber să-şi decidă propriul centru politic şi liber în urmărirea dezvoltării economice, sociale şi culturale.",
+            "ref": "1. Toate popoarele au dreptul de a dispune de ele insele. În virtutea acestui drept este îşi determina liber statutul politic şi îşi asigura liber dezvoltarea economica, sociala şi culturala.",
+            "COMET": 0.7065976858139038,
+            "errors": [
+                {
+                    "text": ", liber să",
+                    "confidence": 0.4521484375,
+                    "severity": "major",
+                    "start": 57,
+                    "end": 67
+                },
+                {
+                    "text": "şi decidă propriul centru politic",
+                    "confidence": 0.451416015625,
+                    "severity": "major",
+                    "start": 68,
+                    "end": 101
+                },
+                {
+                    "text": "liber",
+                    "confidence": 0.422119140625,
+                    "severity": "major",
+                    "start": 104,
+                    "end": 110
+                },
+                {
+                    "text": "urmări",
+                    "confidence": 0.35498046875,
+                    "severity": "major",
+                    "start": 113,
+                    "end": 120
+                }
+            ]
+        },
+        {
+            "src": "2. لجميع الشعوب، سعيا وراء أهدافها الخاصة، التصرف الحر بثرواتها ومواردها الطبيعية دونما إخلال بأية التزامات منبثقة عن مقتضيات التعاون الاقتصادي الدولي القائم على مبدأ المنفعة المتبادلة وعن القانون الدولي. ولا يجوز في أية حال حرمان أي شعب من أسباب عيشه الخاصة.",
+            "mt": "Pentru toate popoarele, în căutarea propriilor scopuri, să acţioneze liber cu resursele şi resursele lor naturale, fără a aduce atingere necesităţilor unei cooperări economice internaţionale bazate pe principiul reciprocităţii şi pe dreptul internaţional şi în nici un caz să priveze vreun popor de propriile motive de viaţă.",
+            "ref": "2. Pentru a-şi infaptui scopurile, toate popoarele pot dispune liber de bogatiile şi resursele lor naturale, fără a aduce atingere obligaţiilor care decurg din cooperarea economica internationala, intemeiata pe principiul interesului reciproc, şi în dreptul international. În nici un caz un popor nu va putea fi lipsit de propriile mijloace de trai.",
+            "COMET": 0.6162109375,
+            "errors": [
+                {
+                    "text": "Pentru toate popoarele, în căutarea propriilor scopuri, să acţi",
+                    "confidence": 0.480224609375,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 63
+                },
+                {
+                    "text": "eze liber cu resursele şi resurse",
+                    "confidence": 0.482666015625,
+                    "severity": "major",
+                    "start": 65,
+                    "end": 98
+                },
+                {
+                    "text": "lor",
+                    "confidence": 0.400390625,
+                    "severity": "major",
+                    "start": 100,
+                    "end": 104
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.38330078125,
+                    "severity": "major",
+                    "start": 189,
+                    "end": 190
+                },
+                {
+                    "text": "motive de",
+                    "confidence": 0.40478515625,
+                    "severity": "major",
+                    "start": 308,
+                    "end": 318
+                }
+            ]
+        },
+        {
+            "src": "3. على الدول الأطراف في هذا العهد، بما فيها الدول التي تقع على عاتقها مسئولية إدارة الأقاليم غير المتمتعة بالحكم الذاتي والأقاليم المشمولة بالوصاية أن تعمل على تحقيق حق تقرير المصير وأن تحترم هذا الحق، وفقا لأحكام ميثاق الأمم المتحدة.",
+            "mt": "Statele părți la prezentul Pact, inclusiv statele care au responsabilitatea de a administra teritorii autonome și teritorii aflate sub tutelă, trebuie să acționeze în vederea obținerii dreptului la autodeterminare și să respecte acest drept, în conformitate cu prevederile Cartei Națiunilor Unite.",
+            "ref": "3. Statele părţi la prezentul pact, inclusiv cele care au raspunderea administrarii de teritorii neautonome şi de teritorii sub tutela, trebuie să inlesneasca realizarea dreptului popoarelor de a dispune de ele insele şi să respecte acest drept, în conformitate cu dispozitiile Cartei Natiunilor Unite.",
+            "COMET": 0.8318054676055908,
+            "errors": [
+                {
+                    "text": "autonom",
+                    "confidence": 0.3408203125,
+                    "severity": "minor",
+                    "start": 101,
+                    "end": 109
+                }
+            ]
+        },
+        {
+            "src": "الجزء الثاني",
+            "mt": "Partea a doua e a doua.",
+            "ref": "Partea A DOUA",
+            "COMET": 0.6886953115463257,
+            "errors": [
+                {
+                    "text": "Partea a doua e a doua",
+                    "confidence": 0.437744140625,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 22
+                }
+            ]
+        },
+        {
+            "src": "المادة 2",
+            "mt": "Articolul 2 din Articolul 2 din Articolul",
+            "ref": "Articolul 2",
+            "COMET": 0.34122851490974426,
+            "errors": [
+                {
+                    "text": "Articolul 2 din Articolul 2 din Articolul",
+                    "confidence": 0.728515625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 41
+                }
+            ]
+        },
+        {
+            "src": "1. تتعهد كل دولة طرف في هذا العهد بأن تتخذ، بمفردها وعن طريق المساعدة والتعاون الدوليين، ولا سيما على الصعيدين الاقتصادي والتقني، وبأقصى ما تسمح به مواردها المتاحة، ما يلزم من خطوات لضمان التمتع الفعلي التدريجي بالحقوق المعترف بها في هذا العهد، سالكة إلى ذلك جميع السبل المناسبة، وخصوصا سبيل اعتماد تدابير تشريعية.",
+            "mt": "Fiecare stat parte la prezentul Pact se angajează să ia, pe cont propriu și prin asistență și cooperare internațională, în special la nivel economic și tehnic, în măsura permisă de resursele sale disponibile, măsurile necesare pentru a asigura exercitarea efectivă progresivă a drepturilor recunoscute în prezentul pact, în toate modurile adecvate, în special prin adoptarea măsurilor legislative.",
+            "ref": "1. Fiecare stat parte la prezentul pact se angajează sa actioneze, atit prin propriul sau efort, cit şi prin asistenţa şi cooperare internationala, în special pe plan economic şi tehnic, folosind la maximum resursele sale disponibile pentru ca exercitarea deplina a drepturilor recunoscute în prezentul pact să fie asigurată progresiv prin toate mijloacele adecvate, inclusiv prin adoptarea de măsuri legislative.",
+            "COMET": 0.9450976848602295
+        },
+        {
+            "src": "2. تتعهد الدول الأطراف في هذا العهد بأن تضمن جعل ممارسة الحقوق المنصوص عليها في هذا العهد بريئة من أي تمييز بسبب العرق، أو اللون، أو الجنس، أو اللغة، أو الدين، أو الرأي سياسيا أو غير سياسي، أو الأصل القومي أو الاجتماعي، أو الثروة، أو النسب، أو غير ذلك من الأسباب.",
+            "mt": "Statele părţi la prezentul pact se angajează să se asigure că exercitarea drepturilor prevăzute în prezentul pact este lipsită de orice discriminare din cauza rasei, culorii, sexului, limbii, religiei, opiniei politice sau nepolitice, originii naţionale sau sociale, avuţiei sau a altor cauze.",
+            "ref": "2. Statele părţi la prezentul pact se angajează sa garanteze ca drepturile enuntate în el vor fi exercitate fără nici o discriminare intemeiata pe rasa, culoare, sex, limba, religie, opinie politica sau orice alta opinie, origine naţionala sau sociala, avere, nastere sau orice alta imprejurare.",
+            "COMET": 0.9020960927009583,
+            "errors": [
+                {
+                    "text": "ne",
+                    "confidence": 0.370361328125,
+                    "severity": "minor",
+                    "start": 222,
+                    "end": 225
+                },
+                {
+                    "text": "avuţiei",
+                    "confidence": 0.3876953125,
+                    "severity": "minor",
+                    "start": 266,
+                    "end": 274
+                },
+                {
+                    "text": "cauze",
+                    "confidence": 0.35498046875,
+                    "severity": "minor",
+                    "start": 286,
+                    "end": 292
+                }
+            ]
+        },
+        {
+            "src": "3. للبلدان النامية أن تقرر، مع إيلاء المراعاة الواجبة لحقوق الإنسان ولاقتصادها القومي، إلى أي مدى ستضمن الحقوق الاقتصادية المعترف بها في هذا العهد لغير المواطنين.",
+            "mt": "3) Tarile in curs de dezvoltare vor decide, tinand cont de drepturile omului si de economia lor nationala, in ce masura vor garanta drepturile economice recunoscute in prezentul pact cetatenilor straini.",
+            "ref": "3. Tarile în curs de dezvoltare, tinind seama în modul cuvenit de drepturile omului şi de economia lor naţionala, pot sa stabileasca în ce măsura vor garanta celor care nu le sînt cetăţeni drepturile economice recunoscute în prezentul pact.",
+            "COMET": 0.9377515316009521,
+            "errors": [
+                {
+                    "text": "cetateni",
+                    "confidence": 0.349365234375,
+                    "severity": "minor",
+                    "start": 182,
+                    "end": 191
+                },
+                {
+                    "text": "straini",
+                    "confidence": 0.37646484375,
+                    "severity": "minor",
+                    "start": 194,
+                    "end": 202
+                }
+            ]
+        },
+        {
+            "src": "المادة 3",
+            "mt": "Articolul 3 din Articolul 3 din Articolul",
+            "ref": "Articolul 3",
+            "COMET": 0.35404589772224426,
+            "errors": [
+                {
+                    "text": "Articolul 3 din Articolul 3 din Articolul",
+                    "confidence": 0.716796875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 41
+                }
+            ]
+        },
+        {
+            "src": "تتعهد الدول الأطراف في هذا العهد بضمان مساواة الذكور والإناث في حق التمتع بجميع الحقوق الاقتصادية والاجتماعية والثقافية المنصوص عليها في هذا العهد.",
+            "mt": "Statele părţi la prezentul pact se angajează să asigure egalitatea între bărbaţi şi femei în dreptul de a se bucura de toate drepturile economice, sociale şi culturale prevăzute în prezentul pact.",
+            "ref": "Statele părţi la prezentul pact se angajează să asigure dreptul egal pe care îl au barbatul şi femeia de a beneficia de toate drepturile economice, sociale şi culturale care sînt enumerate în prezentul pact.",
+            "COMET": 0.9963672161102295
+        },
+        {
+            "src": "المادة 4",
+            "mt": "Articolul 4 din Articolul 4 din Articolul",
+            "ref": "Articolul 4",
+            "COMET": 0.4302050769329071
+        },
+        {
+            "src": "تقر الدول الأطراف في هذا العهد بأنه ليس للدولة أن تخضع التمتع بالحقوق التي تضمنها طبقا لهذا العهد إلا للحدود المقررة في القانون، وإلا بمقدار توافق ذلك مع طبيعة هذه الحقوق، وشريطة أن يكون هدفها الوحيد تعزيز الرفاه العام في مجتمع ديمقراطي.",
+            "mt": "Statele părţi la prezentul pact recunosc că statul nu poate să se bucure de drepturile pe care le garantează în conformitate cu prezentul Pact decât cu limitele prevăzute de lege, în caz contrar cu natura acestor drepturi şi cu condiţia ca acesta să fie unicul său scop de a promova bunăstarea generală într-o societate democratică.",
+            "ref": "Statele părţi la prezentul pact recunosc ca, în ce priveste folosinţă drepturilor asigurate de către stat în conformitate cu prezentul pact, statul nu poate supune aceste drepturi decit la limitarile stabilite de lege, numai în măsura compatibila cu natura acestor drepturi şi exclusiv în vederea promovarii bunastarii generale intr-o societate democratica.",
+            "COMET": 0.6870554685592651,
+            "errors": [
+                {
+                    "text": "să se bucur",
+                    "confidence": 0.484375,
+                    "severity": "major",
+                    "start": 59,
+                    "end": 71
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.390869140625,
+                    "severity": "major",
+                    "start": 72,
+                    "end": 75
+                },
+                {
+                    "text": "Pac",
+                    "confidence": 0.353271484375,
+                    "severity": "minor",
+                    "start": 137,
+                    "end": 141
+                },
+                {
+                    "text": "cu",
+                    "confidence": 0.44775390625,
+                    "severity": "major",
+                    "start": 148,
+                    "end": 151
+                },
+                {
+                    "text": "caz contrar",
+                    "confidence": 0.5009765625,
+                    "severity": "major",
+                    "start": 182,
+                    "end": 194
+                }
+            ]
+        },
+        {
+            "src": "المادة 5",
+            "mt": "Articolul 5 din Articolul 5 din Articolul",
+            "ref": "Articolul 5",
+            "COMET": 0.37809374928474426,
+            "errors": [
+                {
+                    "text": "Articolul 5 din Articolul 5 din Articolul",
+                    "confidence": 0.6669921875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 41
+                }
+            ]
+        },
+        {
+            "src": "1. ليس في هذا العهد أي حكم يجوز تأويله على نحو يفيد انطواءه على أي حق لأي دولة أو جماعة أو شخص بمباشرة أي نشاط أو القيام بأي فعل يهدف إلى إهدار أي من الحقوق أو الحريات المعترف بها في هذا العهد أو إلي فرض قيود عليها أوسع من تلك المنصوص عليها فيه.",
+            "mt": "Nicio prevedere din prezenta convenție nu poate fi interpretată în mod corespunzător oricărui stat, grup sau persoană în mod direct de orice activitate care are ca scop pierderea oricăror drepturi sau libertăți recunoscute în prezentul Pact sau impunerea unor restricții mai largi decât cele prevăzute în prezentul pact.",
+            "ref": "1. Nici o dispoziţie din prezentul pact nu poate fi interpretata ca implicind pentru un stat, o grupare sau un individ vreun drept de a se deda la o activitate sau de a savirsi un act urmarind suprimarea drepturilor sau libertatilor recunoscute în prezentul pact ori limitari ale lor mai ample decit cele prevăzute în pact.",
+            "COMET": 0.493408203125,
+            "errors": [
+                {
+                    "text": "interpreta",
+                    "confidence": 0.33984375,
+                    "severity": "major",
+                    "start": 50,
+                    "end": 61
+                },
+                {
+                    "text": "în mod corespun",
+                    "confidence": 0.454345703125,
+                    "severity": "major",
+                    "start": 63,
+                    "end": 79
+                },
+                {
+                    "text": "ător or",
+                    "confidence": 0.46923828125,
+                    "severity": "critical",
+                    "start": 80,
+                    "end": 87
+                },
+                {
+                    "text": "rui",
+                    "confidence": 0.38232421875,
+                    "severity": "critical",
+                    "start": 90,
+                    "end": 93
+                },
+                {
+                    "text": "persoană în mod direct de orice activitate",
+                    "confidence": 0.406982421875,
+                    "severity": "major",
+                    "start": 108,
+                    "end": 151
+                }
+            ]
+        },
+        {
+            "src": "2. لا يقبل فرض أي قيد أو أي تضييق على أي من حقوق الإنسان الأساسية المعترف بها أو النافذة في أي بلد تطبيقا لقوانين أو اتفاقيات أو أنظمة أو أعراف، بذريعة كون هذا العهد لا يعترف بها أو كون اعترافه بها أضيق مدي.",
+            "mt": "Impunerea oricărei limitări sau restrângeri la oricare dintre drepturile fundamentale recunoscute sau valabile în orice țară nu va accepta aplicarea legilor, acordurilor, regulamentelor sau normelor, în virtutea faptului că prezentul legământ nu este recunoscut sau că recunoașterea sa este prea îngustă.",
+            "ref": "2. Nu se poate admite nici o restrictie sau derogare de la drepturile fundamentale ale omului recunoscute sau în vigoare în orice tara în virtutea unor legi, conventii, regulamente sau cutume, sub pretextul ca prezentul pact nu recunoaste aceste drepturi sau le recunoaste intr-o măsura mai mica.",
+            "COMET": 0.239990234375,
+            "errors": [
+                {
+                    "text": "Impunerea",
+                    "confidence": 0.34912109375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 9
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.352294921875,
+                    "severity": "critical",
+                    "start": 84,
+                    "end": 85
+                },
+                {
+                    "text": "țară nu va accepta aplicarea",
+                    "confidence": 0.50146484375,
+                    "severity": "critical",
+                    "start": 119,
+                    "end": 148
+                },
+                {
+                    "text": "ilor",
+                    "confidence": 0.5029296875,
+                    "severity": "critical",
+                    "start": 152,
+                    "end": 156
+                },
+                {
+                    "text": "urilor",
+                    "confidence": 0.353515625,
+                    "severity": "critical",
+                    "start": 163,
+                    "end": 169
+                },
+                {
+                    "text": "normelor",
+                    "confidence": 0.390625,
+                    "severity": "major",
+                    "start": 189,
+                    "end": 198
+                },
+                {
+                    "text": "în",
+                    "confidence": 0.351806640625,
+                    "severity": "critical",
+                    "start": 199,
+                    "end": 202
+                },
+                {
+                    "text": "ul legământ nu este recunoscut",
+                    "confidence": 0.40087890625,
+                    "severity": "critical",
+                    "start": 231,
+                    "end": 261
+                },
+                {
+                    "text": "recuno",
+                    "confidence": 0.35546875,
+                    "severity": "major",
+                    "start": 268,
+                    "end": 275
+                },
+                {
+                    "text": "rea",
+                    "confidence": 0.361328125,
+                    "severity": "major",
+                    "start": 279,
+                    "end": 282
+                },
+                {
+                    "text": "prea",
+                    "confidence": 0.370849609375,
+                    "severity": "major",
+                    "start": 290,
+                    "end": 295
+                },
+                {
+                    "text": "gust",
+                    "confidence": 0.4140625,
+                    "severity": "major",
+                    "start": 298,
+                    "end": 302
+                }
+            ]
+        },
+        {
+            "src": "الجزء الثالث",
+            "mt": "Partea a treia e a treia.",
+            "ref": "Partea A TREIA",
+            "COMET": 0.7433828115463257,
+            "errors": [
+                {
+                    "text": "Partea a treia e a treia",
+                    "confidence": 0.44287109375,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 24
+                }
+            ]
+        },
+        {
+            "src": "المادة 6",
+            "mt": "Articolul 6 din Articolul 6 din Articolul",
+            "ref": "Articolul 6",
+            "COMET": 0.38370898365974426,
+            "errors": [
+                {
+                    "text": "Articolul 6 din Articolul 6 din Articolul",
+                    "confidence": 0.65966796875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 41
+                }
+            ]
+        },
+        {
+            "src": "1. تعترف الدول الأطراف في هذا العهد بالحق في العمل، الذي يشمل ما لكل شخص من حق في أن تتاح له إمكانية كسب رزقه بعمل يختاره أو يقبله بحرية، وتقوم باتخاذ تدابير مناسبة لصون هذا الحق.",
+            "mt": "Statele părţi la prezentul Pact recunosc dreptul de a munci, care cuprinde dreptul oricărei persoane de a-şi câştiga existenţa prin munca pe care o alege sau o acceptă liber şi iau măsuri corespunzătoare pentru menţinerea acestui drept.",
+            "ref": "1. Statele părţi la prezentul pact recunosc dreptul la munca ce cuprinde dreptul pe care îl are orice persoană de a obtine posibilitatea să-şi cîştige existenta printr-o munca liber aleasa sau acceptata şi vor lua măsuri potrivite pentru garantarea acestui drept.",
+            "COMET": 0.9690234661102295
+        },
+        {
+            "src": "2. يجب أن تشمل التدابير التي تتخذها كل من الدول الأطراف في هذا العهد لتأمين الممارسة الكاملة لهذا الحق توفير برامج التوجيه والتدريب التقنيين والمهنيين، والأخذ في هذا المجال بسياسات وتقنيات من شأنها تحقيق تنمية اقتصادية واجتماعية وثقافية مطردة وعمالة كاملة ومنتجة في ظل شروط تضمن للفرد الحريات السياسية والاقتصادية الأساسية.",
+            "mt": "Măsurile luate de statele părți la prezentul Pact pentru asigurarea exercitării complete a acestui drept trebuie să includă programe de orientare, formare tehnică și profesioniști, politici și tehnologii care să asigure o dezvoltare economică, socială, culturală continuă și productivă în condiții care să garanteze libertățile politice și economice fundamentale ale individului.",
+            "ref": "2. Masurile pe care fiecare stat parte la prezentul pact le va lua spre a asigura deplina exercitare a acestui drept trebuie să includa orientarea şi pregătirea tehnica şi profesionala, elaborarea de programe, de măsuri şi de tehnici potrivite pentru a asigura o dezvoltare economica, sociala şi culturala constanta şi o deplina intrebuintare productiva a fortelor de muncă în condiţii care garanteaza indivizilor folosinţă libertatilor politice şi economice fundamentale.",
+            "COMET": 0.863489031791687,
+            "errors": [
+                {
+                    "text": "formare",
+                    "confidence": 0.33935546875,
+                    "severity": "minor",
+                    "start": 146,
+                    "end": 154
+                },
+                {
+                    "text": "și profesioniști",
+                    "confidence": 0.416748046875,
+                    "severity": "major",
+                    "start": 162,
+                    "end": 179
+                }
+            ]
+        },
+        {
+            "src": "المادة 7",
+            "mt": "Articolul 7 din Articolul 7 al articolului",
+            "ref": "Articolul 7",
+            "COMET": 0.6071523427963257,
+            "errors": [
+                {
+                    "text": "Articolul 7 din Articolul 7 al articolului",
+                    "confidence": 0.39404296875,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 42
+                }
+            ]
+        },
+        {
+            "src": "تعترف الدول الأطراف في هذا العهد بما لكل شخص من حق في التمتع بشروط عمل عادلة ومرضية تكفل على الخصوص:",
+            "mt": "Statele părţi la prezentul pact recunosc dreptul fiecărei persoane de a beneficia de condiţii de muncă echitabile şi satisfăcătoare, în special:",
+            "ref": "Statele părţi la prezentul pact recunosc dreptul pe care îl are orice persoană de a se bucura de condiţii de muncă juste şi prielnice, care să asigure indeosebi:",
+            "COMET": 0.9782898426055908,
+            "errors": [
+                {
+                    "text": "t",
+                    "confidence": 0.39501953125,
+                    "severity": "minor",
+                    "start": 107,
+                    "end": 108
+                }
+            ]
+        },
+        {
+            "src": "(أ) مكافأة توفر لجميع العمال، كحد أدنى:",
+            "mt": "(a) Bonusul oferit tuturor salariaților, minim:",
+            "ref": "a) remuneratia care asigura tuturor muncitorilor cel puţin:",
+            "COMET": 0.9294507503509521,
+            "errors": [
+                {
+                    "text": "Bonusul",
+                    "confidence": 0.42578125,
+                    "severity": "minor",
+                    "start": 3,
+                    "end": 11
+                },
+                {
+                    "text": "minim",
+                    "confidence": 0.417236328125,
+                    "severity": "minor",
+                    "start": 40,
+                    "end": 46
+                }
+            ]
+        },
+        {
+            "src": "\"1\" أجر منصفا، ومكافأة متساوية لدى تساوى قيمة العمل دون أي تمييز، على أن يضمن للمرأة خصوصا تمتعها بشروط عمل لا تكون أدنى من تلك التي يتمتع بها الرجل، وتقاضيها أجرا يساوى أجر الرجل لدى تساوى العمل،",
+            "mt": "(i) o remuneratie echitabila si o remuneratie egala pentru munca egala fara nici o distinctie, care sa asigure femeii, in special, ca dispune de conditii de munca care nu sunt inferioare celor ale barbatului si platite pentru munca egala;",
+            "ref": "(i) un salariu echitabil şi o remuneratie egala pentru o munca de valoare egala, fără nici o distinctie; în special, femeile trebuie să aibă garantia ca condiţiile de muncă ce li se acordă nu sînt inferioare acelora de care beneficiaza barbatii şi sa primeasca aceeasi remuneratie ca ei pentru aceeasi munca;",
+            "COMET": 0.790680468082428,
+            "errors": [
+                {
+                    "text": "asigure femeii",
+                    "confidence": 0.40966796875,
+                    "severity": "major",
+                    "start": 102,
+                    "end": 117
+                },
+                {
+                    "text": "dispune",
+                    "confidence": 0.3447265625,
+                    "severity": "major",
+                    "start": 133,
+                    "end": 141
+                },
+                {
+                    "text": "platit",
+                    "confidence": 0.37109375,
+                    "severity": "minor",
+                    "start": 210,
+                    "end": 217
+                }
+            ]
+        },
+        {
+            "src": "\"2\" عيشا كريما لهم ولأسرهم طبقا لأحكام هذا العهد،",
+            "mt": "(iii) o viață demnă pentru ei și pentru familiile lor, în conformitate cu prevederile prezentului legământ;",
+            "ref": "(îi) o existenta decenta pentru ei şi familia lor, în conformitate cu dispozitiile prezentului pact;",
+            "COMET": 0.9895312786102295
+        },
+        {
+            "src": "(ب) ظروف عمل تكفل السلامة والصحة،",
+            "mt": "b) condițiile de muncă care asigură siguranța și sănătatea;",
+            "ref": "b) securitatea şi igiena muncii;",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "(ج) تساوى الجميع في فرص الترقية، داخل عملهم، إلى مرتبة أعلى ملائمة، دون إخضاع ذلك إلا لاعتباري الأقدمية والكفاءة،",
+            "mt": "c) Toată lumea va fi egală cu șansele de promovare, în cadrul activității lor, la un nivel mai înalt, fără a fi supusă doar ca vechime și competență;",
+            "ref": "c) posibilitatea egala pentru toţi de a fi promovati în munca lor la o categorie superioara adecvata, luindu-se în considerare numai durata serviciilor indeplinite şi aptitudinile:",
+            "COMET": 0.47960156202316284,
+            "errors": [
+                {
+                    "text": "lumea va fi egală cu",
+                    "confidence": 0.43505859375,
+                    "severity": "major",
+                    "start": 8,
+                    "end": 29
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.3828125,
+                    "severity": "major",
+                    "start": 72,
+                    "end": 73
+                },
+                {
+                    "text": "fără a fi supusă doar ca vechime și competență;",
+                    "confidence": 0.482177734375,
+                    "severity": "major",
+                    "start": 101,
+                    "end": 149
+                }
+            ]
+        },
+        {
+            "src": "(د) الاستراحة وأوقات الفراغ، والتحديد المعقول لساعات العمل، والاجازات الدورية المدفوعة الأجر، وكذلك المكافأة عن أيام العطل الرسمية.",
+            "mt": "d) odihna, timpul liber, determinarea rezonabilă a orelor de muncă, concediile periodice plătite, precum și recompensa pentru sărbătorile legale.",
+            "ref": "d) odihna, timpul liber, limitarea rationala a duratei muncii şi concediile periodice platite, precum şi remunerarea zilelor de sarbatoare.",
+            "COMET": 0.9201515913009644,
+            "errors": [
+                {
+                    "text": "determina",
+                    "confidence": 0.45654296875,
+                    "severity": "minor",
+                    "start": 24,
+                    "end": 34
+                },
+                {
+                    "text": "elor",
+                    "confidence": 0.391845703125,
+                    "severity": "minor",
+                    "start": 53,
+                    "end": 57
+                },
+                {
+                    "text": "sărbători",
+                    "confidence": 0.384521484375,
+                    "severity": "minor",
+                    "start": 125,
+                    "end": 135
+                },
+                {
+                    "text": "legale",
+                    "confidence": 0.412841796875,
+                    "severity": "minor",
+                    "start": 137,
+                    "end": 144
+                }
+            ]
+        },
+        {
+            "src": "المادة 8",
+            "mt": "Articolul 8 din Articolul 8 din Articolul",
+            "ref": "Articolul 8",
+            "COMET": 0.4380175769329071
+        },
+        {
+            "src": "1. تتعهد الدول الأطراف في هذا العهد بكفالة ما يلي:",
+            "mt": "Statele părţi la prezentul Pact se angajează să:",
+            "ref": "1. Statele părţi la prezentul pact se angajează să asigure:",
+            "COMET": 0.881989061832428,
+            "errors": [
+                {
+                    "text": "Pact",
+                    "confidence": 0.4345703125,
+                    "severity": "minor",
+                    "start": 26,
+                    "end": 31
+                },
+                {
+                    "text": "să:",
+                    "confidence": 0.36767578125,
+                    "severity": "critical",
+                    "start": 44,
+                    "end": 48
+                }
+            ]
+        },
+        {
+            "src": "(أ) حق كل شخص في تكوين النقابات بالاشتراك مع آخرين وفى الانضمام إلى النقابة التي يختارها، دونما قيد سوى قواعد المنظمة المعنية، على قصد تعزيز مصالحه الاقتصادية والاجتماعية وحمايتها. ولا يجوز إخضاع ممارسة هذا الحق لأية قيود غير تلك التي ينص عليها القانون وتشكل تدابير ضرورية، في مجتمع ديمقراطي، لصيانة الأمن القومي أو النظام العام أو لحماية حقوق الآخرين وحرياتهم،",
+            "mt": "a) dreptul oricărei persoane de a forma sindicate în asociere cu alte persoane şi de a adera la sindicatul pe care îl alege, dar numai în conformitate cu normele organizaţiei, de a-şi consolida şi proteja interesele economice şi sociale; exercitarea acestui drept nu poate fi supusă niciunei restricţii în afara celor prevăzute de lege şi constituie măsuri necesare, într-o societate democratică, pentru a menţine securitatea naţională sau ordinea publică sau pentru a proteja drepturile şi libertăţile celorlalţi;",
+            "ref": "a) dreptul pe care îl are orice persoană, în vederea favorizarii şi ocrotirii intereselor sale economice, de a forma împreună cu alte persoane sindicate şi de a se afilia la un sindicat la alegerea sa, sub singura rezerva a regulilor stabilite de organizaţia interesata. Exercitarea acestui drept nu poate face obiectul altor restrictii decit cele prevăzute în lege şi care constituie măsuri necesare intr-o societate democratica, în interesul securitatii naţionale sau al ordinii publice ori pentru a ocroti drepturile şi libertatile altora;",
+            "COMET": 0.7608515620231628,
+            "errors": [
+                {
+                    "text": "organiza",
+                    "confidence": 0.415283203125,
+                    "severity": "major",
+                    "start": 161,
+                    "end": 170
+                },
+                {
+                    "text": ", de a",
+                    "confidence": 0.40380859375,
+                    "severity": "major",
+                    "start": 174,
+                    "end": 180
+                },
+                {
+                    "text": "consolida",
+                    "confidence": 0.434814453125,
+                    "severity": "major",
+                    "start": 183,
+                    "end": 193
+                }
+            ]
+        },
+        {
+            "src": "(ب) حق النقابات في إنشاء اتحادات أو اتحادات حلافية قومية، وحق هذه الاتحادات في تكوين منظمات نقابية دولية أو الانضمام إليها،",
+            "mt": "b) dreptul sindicatelor de a crea sau de a adera la federații sau federații naționale și la dreptul acestora de a forma sau de a se alătura organizațiilor sindicale internaționale;",
+            "ref": "b) dreptul pe care îl au sindicatele de a forma federatii sau confederatii naţionale şi dreptul pe care îl au acestea din urma de a forma organizaţii sindicale internationale sau de a se afilia la acestea;",
+            "COMET": 0.9011195302009583,
+            "errors": [
+                {
+                    "text": "adera",
+                    "confidence": 0.38232421875,
+                    "severity": "minor",
+                    "start": 42,
+                    "end": 48
+                },
+                {
+                    "text": "sau federa",
+                    "confidence": 0.389404296875,
+                    "severity": "minor",
+                    "start": 61,
+                    "end": 72
+                },
+                {
+                    "text": "la",
+                    "confidence": 0.412841796875,
+                    "severity": "minor",
+                    "start": 88,
+                    "end": 91
+                }
+            ]
+        },
+        {
+            "src": "(ج) حق النقابات في ممارسة نشاطها بحرية، دونما قيود غير تلك التي ينص عليها القانون وتشكل تدابير ضرورية، في مجتمع ديمقراطي، لصيانة الأمن القومي أو النظام العام أو لحماية حقوق الآخرين وحرياتهم.",
+            "mt": "c) Sindicatele au dreptul să-și desfășoare activitatea în mod liber, fără restricții, și constituie măsuri necesare, într-o societate democratică, pentru menținerea securității naționale sau a ordinii publice sau pentru protejarea drepturilor și libertăților altora.",
+            "ref": "c) dreptul pe care îl au sindicatele de a-şi exercită liber activitatea, fără alte limitari decit cele prevăzute de lege şi care constituie măsuri necesare intr-o societate democratica, în interesul securitatii naţionale sau al ordinii publice, ori pentru a ocroti drepturile şi libertatile altora;",
+            "COMET": 0.9509570598602295
+        },
+        {
+            "src": "(د) حق الإضراب، شريطة ممارسته وفقا لقوانين البلد المعنى.",
+            "mt": "d) dreptul la grevă, cu condiţia să fie exercitat în conformitate cu legile statului respectiv.",
+            "ref": "d) dreptul la greva, exercitat în conformitate cu legile fiecarei tari.",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "2. لا تحول هذه المادة دون إخضاع أفراد القوات المسلحة أو رجال الشرطة أو موظفي الإدارات الحكومية لقيود قانونية على ممارستهم لهذه الحقوق.",
+            "mt": "Acest articol nu împiedică membrii forțelor armate, polițiștii sau angajații departamentelor guvernamentale să fie supuși unor restricții legale în exercitarea acestor drepturi.",
+            "ref": "2. Prezentul articol nu se opune ca exercitarea acestor drepturi de către membrii fortelor armate, ai politiei sau de către funcţionarii publici să fie supusă unor restrictii legale.",
+            "COMET": 0.9304492473602295
+        },
+        {
+            "src": "3. ليس في هذه المادة أي حكم يجيز للدول الأطراف في اتفاقية منظمة العمل الدولية المعقودة 1948 بشأن الحرية النقابية وحماية حق التنظيم النقابي اتخاذ تدابير تشريعية من شأنها، أو تطبيق القانون بطريقة من شأنها، أن تخل بالضمانات المنصوص عليها في تلك الاتفاقية.",
+            "mt": "Nimic din acest articol nu va permite statelor părți la Convenția Organizației Internaționale a Muncii din 1948 privind libertatea sindicală și protecția dreptului sindical de reglementare să adopte măsuri legislative care, sau să aplice legea într-un mod care să aducă atingere garanțiilor prevăzute în prezenta convenție.",
+            "ref": "3. Nici o dispoziţie din prezentul articol nu permite statelor părţi la Convenţia din 1948 a Organizaţiei Internationale a Muncii privind libertatea sindicala şi ocrotirea dreptului sindical sa ia măsuri legislative aducind atingere - sau să aplice legi într-un fel care ar aduce atingere - garantiilor prevăzute în mentionata convenţie.",
+            "COMET": 0.7266718745231628,
+            "errors": [
+                {
+                    "text": "va",
+                    "confidence": 0.47900390625,
+                    "severity": "major",
+                    "start": 26,
+                    "end": 29
+                },
+                {
+                    "text": "ului sindical de reglementare",
+                    "confidence": 0.4638671875,
+                    "severity": "major",
+                    "start": 159,
+                    "end": 188
+                },
+                {
+                    "text": "care, sau",
+                    "confidence": 0.439453125,
+                    "severity": "major",
+                    "start": 217,
+                    "end": 227
+                }
+            ]
+        },
+        {
+            "src": "المادة 9",
+            "mt": "Articolul 9 din Articolul 9 al articolului",
+            "ref": "Articolul 9",
+            "COMET": 0.6354726552963257,
+            "errors": [
+                {
+                    "text": "Articolul 9 din Articolul 9 al articolului",
+                    "confidence": 0.415771484375,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 42
+                }
+            ]
+        },
+        {
+            "src": "تقر الدول الأطراف في هذا العهد بحق كل شخص في الضمان الاجتماعي، بما في ذلك التأمينات الاجتماعية.",
+            "mt": "Statele părţi la prezentul pact recunosc dreptul oricărei persoane la securitate socială, inclusiv la asigurări sociale.",
+            "ref": "Statele părţi la prezentul pact recunosc dreptul oricarei persoane la securitate sociala, inclusiv la asigurări sociale.",
+            "COMET": 0.9983203411102295
+        },
+        {
+            "src": "المادة 10",
+            "mt": "Articolul 10 din Articolul 10 al",
+            "ref": "Articolul 10",
+            "COMET": 0.6784961223602295
+        },
+        {
+            "src": "تقر الدول الأطراف في هذا العهد بما يلي:",
+            "mt": "Statele părţi la prezentul pact recunosc:",
+            "ref": "Statele părţi la prezentul pact recunosc ca:",
+            "COMET": 0.9699890613555908,
+            "errors": [
+                {
+                    "text": "recunosc:",
+                    "confidence": 0.3955078125,
+                    "severity": "minor",
+                    "start": 31,
+                    "end": 41
+                }
+            ]
+        },
+        {
+            "src": "1. وجوب منح الأسرة، التي تشكل الوحدة الجماعية الطبيعية والأساسية في المجتمع، أكبر قدر ممكن من الحماية والمساعدة، وخصوصا لتكوين هذه الأسرة وطوال نهوضها بمسؤولية تعهد وتربية الأولاد الذين تعيلهم. ويجب أن ينعقد الزواج برضا الطرفين المزمع زواجهما رضاء لا إكراه فيه.",
+            "mt": "Familia, care constituie unitatea naturală şi fundamentală a societăţii, trebuie să acorde cea mai mare protecţie şi asistenţă posibilă, în special formării acestei familii şi pe parcursul dezvoltării sale cu responsabilitatea de a se angaja şi de a creşte copiii pe care îi inspiră.",
+            "ref": "1. O ocrotire şi o asistenţa cit mai larga cu putinta trebuie acordate familiei, elementul natural şi fundamental al societatii, în special pentru intemeierea sa şi în rastimpul cit are responsabilitatea intretinerii şi educarii copiilor care sînt în sarcina sa. Căsătoria trebuie să fie liber consimtita de viitorii soti.",
+            "COMET": 0.2364501953125,
+            "errors": [
+                {
+                    "text": "să acorde",
+                    "confidence": 0.374755859375,
+                    "severity": "critical",
+                    "start": 80,
+                    "end": 90
+                },
+                {
+                    "text": "formării acestei familii şi",
+                    "confidence": 0.40380859375,
+                    "severity": "critical",
+                    "start": 147,
+                    "end": 175
+                },
+                {
+                    "text": "parcursul dezvoltării sale cu responsabilitate",
+                    "confidence": 0.417236328125,
+                    "severity": "critical",
+                    "start": 178,
+                    "end": 225
+                },
+                {
+                    "text": "de a se angaja şi de a creşte copiii pe care îi inspiră.",
+                    "confidence": 0.42578125,
+                    "severity": "critical",
+                    "start": 226,
+                    "end": 283
+                }
+            ]
+        },
+        {
+            "src": "2. وجوب توفير حماية خاصة للأمهات خلال فترة معقولة قبل الوضع وبعده. وينبغي منح الأمهات العاملات، أثناء الفترة المذكورة، اجازة مأجورة أو اجازه مصحوبة باستحقاقات ضمان اجتماعي كافية.",
+            "mt": "O protecție specială trebuie acordată mamelor într-o perioadă rezonabilă de timp înainte și după situație.Mamele lucrătoare trebuie să acorde, în perioada menționată, o concediu plătit sau o garanție socială adecvată.",
+            "ref": "2. O ocrotire speciala trebuie acordată mamelor într-o perioadă de timp rezonabila, înainte şi după nasterea copiilor. Mamele salariate trebuie să beneficieze, în decursul acestei perioade, de un concediu platit sau de un concediu beneficiind de alocatii de securitate sociala adecvate.",
+            "COMET": 0.4287656247615814,
+            "errors": [
+                {
+                    "text": "și după situație.Mamele lucrătoare trebuie să acorde",
+                    "confidence": 0.397216796875,
+                    "severity": "major",
+                    "start": 88,
+                    "end": 141
+                },
+                {
+                    "text": "on",
+                    "confidence": 0.38671875,
+                    "severity": "major",
+                    "start": 160,
+                    "end": 162
+                },
+                {
+                    "text": "o concediu",
+                    "confidence": 0.427490234375,
+                    "severity": "major",
+                    "start": 166,
+                    "end": 177
+                },
+                {
+                    "text": "garanție",
+                    "confidence": 0.420166015625,
+                    "severity": "major",
+                    "start": 190,
+                    "end": 199
+                }
+            ]
+        },
+        {
+            "src": "3. وجوب اتخاذ تدابير حماية ومساعدة خاصة لصالح جميع الأطفال والمراهقين، دون أي تمييز بسبب النسب أو غيره من الظروف. ومن الواجب حماية الأطفال والمراهقين من الاستغلال الاقتصادي والاجتماعي. كما يجب جعل القانون يعاقب على استخدامهم في أي عمل من شأنه إفساد أخلاقهم أو الأضرار بصحتهم أو تهديد حياتهم بالخطر أو إلحاق الأذى بنموهم الطبيعي. وعلى الدول أيضا أن تفرض حدودا دنيا للسن يحظر القانون استخدام الصغار الذين لم يبلغوها في عمل مأجور ويعاقب عليه.",
+            "mt": "Este necesar să se ia măsuri speciale de protecție și asistență în beneficiul tuturor copiilor și adolescenților, fără nicio discriminare din cauza proporțiilor sau a altor circumstanțe; copiii și adolescenții trebuie să fie protejați de exploatarea economică și socială; legea trebuie, de asemenea, sancționată prin folosirea unor măsuri care să le corupă etica, să le afecteze sănătatea, să le pună în pericol viața sau să le afecteze dezvoltarea normală.",
+            "ref": "3. Măsuri speciale de ocrotire şi de asistenţa trebuie luate în favoarea tuturor copiilor şi adolescentilor, fără nici o discriminare din motive de filiatiune sau din alte motive. Copiii şi adolescentii trebuie ocrotiti împotriva exploatarii economice şi sociale. Folosirea lor la lucrari de natura a le dauna moralitatea sau sănătatea, de a le pune viaţa în primejdie sau de a dauna dezvoltării lor normale trebuie sanctionata prin lege. Statele trebuie, de asemenea, sa stabileasca limite de vîrsta sub care folosirea muncii salariate a copiilor va fi interzisa şi sanctionata prin lege.",
+            "COMET": 0.345703125,
+            "errors": [
+                {
+                    "text": "proporțiilor",
+                    "confidence": 0.361328125,
+                    "severity": "major",
+                    "start": 147,
+                    "end": 160
+                },
+                {
+                    "text": "legea trebuie",
+                    "confidence": 0.42822265625,
+                    "severity": "critical",
+                    "start": 271,
+                    "end": 285
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.35693359375,
+                    "severity": "critical",
+                    "start": 286,
+                    "end": 289
+                },
+                {
+                    "text": ", sanc",
+                    "confidence": 0.429931640625,
+                    "severity": "critical",
+                    "start": 298,
+                    "end": 304
+                },
+                {
+                    "text": "onată prin folosirea unor măsuri care să le corupă etica",
+                    "confidence": 0.453857421875,
+                    "severity": "critical",
+                    "start": 306,
+                    "end": 362
+                }
+            ]
+        },
+        {
+            "src": "المادة 11",
+            "mt": "Articolul 11 din Articolul 11 al",
+            "ref": "Articolul 11",
+            "COMET": 0.6621387004852295
+        },
+        {
+            "src": "1. تقر الدول الأطراف في هذا العهد بحق كل شخص في مستوى معيشي كاف له ولأسرته، يوفر ما يفي بحاجتهم من الغذاء والكساء والمأوى، وبحقه في تحسين متواصل لظروفه المعيشية. وتتعهد الدول الأطراف باتخاذ التدابير اللازمة لإنفاذ هذا الحق، معترفة في هذا الصدد بالأهمية الأساسية للتعاون الدولي القائم على الارتضاء الحر.",
+            "mt": "Statele părţi la prezentul Pact recunosc dreptul fiecărei persoane la un nivel de trai adecvat şi al familiei sale, care le satisface nevoia de hrană, îmbrăcăminte şi adăpost, dreptul de a-şi îmbunătăţi continuu condiţiile de viaţă, iar statele părţi se angajează să ia măsurile necesare pentru punerea în aplicare a acestui drept, recunoscând importanţa esenţială a cooperării internaţionale bazate pe liber.",
+            "ref": "1. Statele părţi la prezentul pact recunosc dreptul oricarei persoane la un nivel de trai suficient pentru ea insasi şi familia sa, inclusiv hrana, imbracaminte şi locuinta suficiente, precum şi la imbunatatire continua a condiţiilor sale de existenta. Statele părţi vor lua măsuri potrivite pentru a asigură realizarea acestui drept şi recunosc în acest scop importanţa esenţială a unei cooperari internationale liber consimtite.",
+            "COMET": 0.6074765920639038,
+            "errors": [
+                {
+                    "text": "adecvat şi al familie",
+                    "confidence": 0.344482421875,
+                    "severity": "major",
+                    "start": 86,
+                    "end": 108
+                },
+                {
+                    "text": "sale",
+                    "confidence": 0.321533203125,
+                    "severity": "major",
+                    "start": 109,
+                    "end": 114
+                },
+                {
+                    "text": "le",
+                    "confidence": 0.320068359375,
+                    "severity": "major",
+                    "start": 120,
+                    "end": 123
+                },
+                {
+                    "text": "bazate pe liber.",
+                    "confidence": 0.39501953125,
+                    "severity": "major",
+                    "start": 392,
+                    "end": 409
+                }
+            ]
+        },
+        {
+            "src": "2. واعترافا بما لكل إنسان من حق أساسي في التحرر من الجوع، تقوم الدول الأطراف في هذا العهد، بمجهودها الفردي وعن طريق التعاون الدولي، باتخاذ التدابير المشتملة على برامج محددة ملموسة واللازمة لما يلي:",
+            "mt": "Recunoscând dreptul fundamental al fiecărei persoane de a se elibera de foame, statele părți la prezentul pact, prin eforturile lor individuale și prin cooperarea internațională, iau măsuri derivate din programe concrete și necesare:",
+            "ref": "2. Statele părţi la prezentul pact, recunoscind dreptul fundamental pe care îl are orice persoană de a fi la adapost de foame, vor adopta, individual şi prin cooperare internationala, masurile necesare, inclusiv programe concrete:",
+            "COMET": 0.8634452819824219,
+            "errors": [
+                {
+                    "text": "derivate din programe",
+                    "confidence": 0.39892578125,
+                    "severity": "major",
+                    "start": 189,
+                    "end": 211
+                },
+                {
+                    "text": "necesare",
+                    "confidence": 0.37890625,
+                    "severity": "major",
+                    "start": 223,
+                    "end": 232
+                }
+            ]
+        },
+        {
+            "src": "(أ) تحسين طرق إنتاج وحفظ وتوزيع المواد الغذائية، عن طريق الاستفادة الكلية من المعارف التقنية والعلمية، ونشر المعرفة بمبادئ التغذية، واستحداث أو إصلاح نظم توزيع الأراضي الزراعية بطريقة تكفل أفضل إنماء للموارد الطبيعية وانتفاع بها،",
+            "mt": "a) optimizarea metodelor de producție, conservare și distribuție a produselor alimentare, prin utilizarea în totalitate a cunoștințelor tehnice și științifice, prin diseminarea cunoștințelor principiilor nutriției și prin crearea sau repararea sistemelor de distribuție a terenurilor agricole într-un mod care să asigure o mai bună dezvoltare și acces la resursele naturale;",
+            "ref": "a) pentru a imbunatati metodele de productie, de conservare şi de distribuire a produselor alimentare prin deplina utilizare a cunoştinţelor tehnice şi stiintifice, prin difuzarea principiilor de educatie în ce priveste nutritia şi prin dezvoltarea sau reforma regimurilor agrare, în asa fel incit să asigure cit mai bine punerea în valoare şi utilizarea resurselor naturale;",
+            "COMET": 0.8825539350509644,
+            "errors": [
+                {
+                    "text": "elor principiilor nutri",
+                    "confidence": 0.3759765625,
+                    "severity": "minor",
+                    "start": 186,
+                    "end": 209
+                },
+                {
+                    "text": "repara",
+                    "confidence": 0.37548828125,
+                    "severity": "minor",
+                    "start": 233,
+                    "end": 240
+                },
+                {
+                    "text": "distribu",
+                    "confidence": 0.36962890625,
+                    "severity": "minor",
+                    "start": 257,
+                    "end": 266
+                },
+                {
+                    "text": "teren",
+                    "confidence": 0.3671875,
+                    "severity": "minor",
+                    "start": 271,
+                    "end": 277
+                }
+            ]
+        },
+        {
+            "src": "(ب) تأمين توزيع الموارد الغذائية العالمية توزيعا عادلا في ضوء الاحتياجات، يضع في اعتباره المشاكل التي تواجهها البلدان المستوردة للأغذية والمصدرة لها على السواء.",
+            "mt": "b) să asigure repartizarea echitabilă a resurselor alimentare la nivel global în funcție de necesități, ținând cont de problemele cu care se confruntă atât țările importatoare, cât și cele cu care se confruntă.",
+            "ref": "b) pentru a asigura o repartitie echitabila a resurselor alimentare mondiale în raport cu nevoile, tinind seama de problemele care se pun atit tarilor importatoare, cit şi tarilor exportatoare de produse alimentare.",
+            "COMET": 0.544921875,
+            "errors": [
+                {
+                    "text": "fru",
+                    "confidence": 0.44482421875,
+                    "severity": "critical",
+                    "start": 144,
+                    "end": 147
+                },
+                {
+                    "text": "și cele cu care se confru",
+                    "confidence": 0.681640625,
+                    "severity": "critical",
+                    "start": 180,
+                    "end": 206
+                },
+                {
+                    "text": "tă",
+                    "confidence": 0.6953125,
+                    "severity": "critical",
+                    "start": 207,
+                    "end": 209
+                }
+            ]
+        },
+        {
+            "src": "المادة 12",
+            "mt": "Articolul 12 din Articolul 12 al",
+            "ref": "Articolul 12",
+            "COMET": 0.6675097942352295
+        },
+        {
+            "src": "1. تقر الدول الأطراف في هذا العهد بحق كل إنسان في التمتع بأعلى مستوى من الصحة الجسمية والعقلية يمكن بلوغه.",
+            "mt": "Statele părţi la prezentul pact recunosc dreptul fiecărei persoane de a se bucura de cel mai înalt nivel de sănătate fizică şi psihică care poate fi atins.",
+            "ref": "1. Statele părţi la prezentul pact recunosc dreptul pe care îl are orice persoană de a se bucura de cea mai buna sănătate fizica şi mintala pe care o poate atinge.",
+            "COMET": 0.9973437786102295
+        },
+        {
+            "src": "2. تشمل التدابير التي يتعين على الدول الأطراف في هذا العهد اتخاذها لتأمين الممارسة الكاملة لهذا الحق، تلك التدابير اللازمة من أجل:",
+            "mt": "Măsurile pe care statele părți la prezentul Pact trebuie să le ia pentru a asigura exercitarea deplină a acestui drept vor include măsurile necesare pentru:",
+            "ref": "2. Masurile pe care statele părţi la prezentul pact le vor adopta în vederea asigurarii exercitarii depline a acestui drept vor cuprinde masurile necesare pentru a asigura:",
+            "COMET": 0.9763476848602295
+        },
+        {
+            "src": "(أ) العمل علي خفض معدل موتي المواليد ومعدل وفيات الرضع وتأمين نمو الطفل نموا صحيا،",
+            "mt": "a) reducerea ratei mortalităţii infantile şi asigurarea dezvoltării sănătoase a copilului;",
+            "ref": "a) scaderea mortalitatii noilor nascuti şi a mortalitatii infantile, precum şi dezvoltarea sanatoasa a copilului;",
+            "COMET": 0.9880664348602295
+        },
+        {
+            "src": "(ب) تحسين جميع جوانب الصحة البيئية والصناعية،",
+            "mt": "b) îmbunătățirea tuturor aspectelor legate de sănătatea mediului și industrial;",
+            "ref": "b) îmbunătăţirea tuturor aspectelor igienei mediului şi ale igienei industriale;",
+            "COMET": 0.9001210927963257,
+            "errors": [
+                {
+                    "text": "de sănătatea mediului și industrial",
+                    "confidence": 0.41259765625,
+                    "severity": "major",
+                    "start": 42,
+                    "end": 78
+                }
+            ]
+        },
+        {
+            "src": "(ج) الوقاية من الأمراض الوبائية والمتوطنة والمهنية والأمراض الأخرى وعلاجها ومكافحتها،",
+            "mt": "c) prevenirea, tratamentul și combaterea bolilor epidemiologice, profesionale și a altor boli;",
+            "ref": "c) profilaxia şi tratamentul maladiilor epidemice, endemice, profesionale şi a altora, precum şi lupta împotriva acestor maladii;",
+            "COMET": 0.9875781536102295
+        },
+        {
+            "src": "(د) تهيئة ظروف من شأنها تأمين الخدمات الطبية والعناية الطبية للجميع في حالة المرض.",
+            "mt": "d) să creeze condiții care să asigure servicii medicale și de îngrijire medicală tuturor în caz de boală.",
+            "ref": "d) crearea de condiţii care să asigure tuturor servicii medicale şi un ajutor medical în caz de boala.",
+            "COMET": 0.9816968441009521,
+            "errors": [
+                {
+                    "text": "să",
+                    "confidence": 0.405029296875,
+                    "severity": "minor",
+                    "start": 2,
+                    "end": 5
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.410400390625,
+                    "severity": "minor",
+                    "start": 58,
+                    "end": 61
+                }
+            ]
+        },
+        {
+            "src": "المادة 13",
+            "mt": "Articolul 13 din Articolul 13 al",
+            "ref": "Articolul 13",
+            "COMET": 0.6533496379852295
+        },
+        {
+            "src": "1. تقر الدول الأطراف في هذا العهد بحق كل فرد في التربية والتعليم. وهى متفقة على وجوب توجيه التربية والتعليم إلى الإنماء الكامل للشخصية الإنسانية والحس بكرامتها وإلى توطيد احترام حقوق الإنسان والحريات الأساسية. وهى متفقة كذلك على وجوب استهداف التربية والتعليم تمكين كل شخص من الإسهام بدور نافع في مجتمع حر، وتوثيق أواصر التفاهم والتسامح والصداقة بين جميع الأمم ومختلف الفئات السلالية أو الإثنية أو الدينية، ودعم الأنشطة التي تقوم بها الأمم المتحدة من أجل صيانة السلم.",
+            "mt": "Statele părţi la prezentul pact recunosc dreptul fiecăruia la educaţie şi sunt de acord că educaţia trebuie să fie orientată spre dezvoltarea deplină a personalităţii umane şi a respectului pentru drepturile omului şi libertăţile fundamentale.",
+            "ref": "1. Statele părţi la prezentul pact recunosc dreptul pe care îl are orice persoană la educatie. Ele sînt de acord ca educatia trebuie să urmareasca deplina dezvoltare a personalitatii umane şi a simtului demnitatii sale şi sa intareasca respectarea drepturilor omului şi libertatilor fundamentale. Pe linga aceasta, ele sînt de acord ca prin educatie orice persoană trebuie să devina capabila de a juca un rol util intr-o societate libera, ca educatia trebuie să favorizeze înţelegerea, toleranta şi prietenia între toate natiunile şi toate grupurile rasiale, etnice sau religioase şi sa încurajeze dezvoltarea activităţilor Natiunilor Unite pentru menţinerea pacii.",
+            "COMET": 0.8122851848602295
+        },
+        {
+            "src": "2. وتقر الدول الأطراف في هذا العهد بأن ضمان الممارسة التامة لهذا الحق يتطلب:",
+            "mt": "Statele părţi la prezentul pact recunosc că asigurarea exercitării depline a acestui drept necesită:",
+            "ref": "2. Statele părţi la prezentul pact recunosc ca în vederea asigurarii deplinei exercitari a acestui drept:",
+            "COMET": 0.947473406791687,
+            "errors": [
+                {
+                    "text": "neces",
+                    "confidence": 0.322265625,
+                    "severity": "major",
+                    "start": 90,
+                    "end": 96
+                },
+                {
+                    "text": ":",
+                    "confidence": 0.335693359375,
+                    "severity": "minor",
+                    "start": 99,
+                    "end": 100
+                }
+            ]
+        },
+        {
+            "src": "(أ) جعل التعليم الابتدائي إلزاميا وإتاحته مجانا للجميع،",
+            "mt": "a) educatia primara este obligatorie si gratuita pentru toata lumea;",
+            "ref": "a) invatamintul primar trebuie să fie obligatoriu şi accesibil tuturor în mod gratuit;",
+            "COMET": 0.9919726848602295
+        },
+        {
+            "src": "(ب) تعميم التعليم الثانوي بمختلف أنواعه، بما في ذلك التعليم الثانوي التقني والمهني، وجعله متاحا للجميع بكافة الوسائل المناسبة ولا سيما بالأخذ تدريجيا بمجانية التعليم،",
+            "mt": "b) universalizarea învățământului secundar de diferite tipuri, inclusiv a învățământului secundar tehnic și profesional, și punerea acestuia la dispoziția tuturor prin toate mijloacele adecvate, în special prin acordarea progresivă a liberei educații;",
+            "ref": "b) invatamintul secundar sub diferitele sale forme, inclusiv invatamintul secundar tehnic şi profesional, trebuie să fie generalizat şi sa devina accesibil tuturor prin toate mijloacele potrivite şi în special prin instaurarea în mod progresiv a gratuitatii lui;",
+            "COMET": 0.7931327819824219,
+            "errors": [
+                {
+                    "text": "acord",
+                    "confidence": 0.44873046875,
+                    "severity": "major",
+                    "start": 210,
+                    "end": 216
+                },
+                {
+                    "text": "ă a liberei educații",
+                    "confidence": 0.463623046875,
+                    "severity": "major",
+                    "start": 230,
+                    "end": 250
+                }
+            ]
+        },
+        {
+            "src": "(ج) جعل التعليم العالي متاحا للجميع على قدم المساواة، تبعا للكفاءة، بكافة الوسائل المناسبة ولا سيما بالأخذ تدريجيا بمجانية التعليم،",
+            "mt": "c) asigurarea accesului egal al învățământului superior, în funcție de competență, prin toate mijloacele adecvate, în special prin acordarea progresivă a unei licențe educaționale;",
+            "ref": "c) invatamintul superior trebuie să devina accesibil tuturor în deplina egalitate, în functie de capacitatea fiecaruia, prin toate mijloacele potrivite şi în special prin introducerea treptata a gratuitatii;",
+            "COMET": 0.6484375,
+            "errors": [
+                {
+                    "text": "acces",
+                    "confidence": 0.38232421875,
+                    "severity": "major",
+                    "start": 13,
+                    "end": 19
+                },
+                {
+                    "text": "al",
+                    "confidence": 0.485107421875,
+                    "severity": "major",
+                    "start": 28,
+                    "end": 31
+                },
+                {
+                    "text": "ului",
+                    "confidence": 0.431884765625,
+                    "severity": "major",
+                    "start": 42,
+                    "end": 46
+                },
+                {
+                    "text": "acord",
+                    "confidence": 0.462890625,
+                    "severity": "major",
+                    "start": 130,
+                    "end": 136
+                },
+                {
+                    "text": "a unei licențe educaționale",
+                    "confidence": 0.53173828125,
+                    "severity": "major",
+                    "start": 151,
+                    "end": 179
+                }
+            ]
+        },
+        {
+            "src": "(د) تشجيع التربية الأساسية أو تكثيفها، إلى أبعد مدى ممكن، من أجل الأشخاص الذين لم يتلقوا أو لم يستكملوا الدراسة الابتدائية،",
+            "mt": "d) încurajarea sau intensificarea, pe cât posibil, a educaţiei de bază pentru persoanele care nu au primit sau nu au terminat şcoala primară;",
+            "ref": "d) educatia de baza trebuie incurajata sau intensificata cit mai mult posibil, pentru persoanele care au primit instructie primara sau care n-au primit-o pînă la capat;",
+            "COMET": 0.9504468441009521,
+            "errors": [
+                {
+                    "text": "nu",
+                    "confidence": 0.34423828125,
+                    "severity": "minor",
+                    "start": 93,
+                    "end": 96
+                },
+                {
+                    "text": "primit",
+                    "confidence": 0.362060546875,
+                    "severity": "minor",
+                    "start": 99,
+                    "end": 106
+                }
+            ]
+        },
+        {
+            "src": "(هـ) العمل بنشاط على إنماء شبكة مدرسية على جميع المستويات، وإنشاء نظام منح واف بالغرض، ومواصلة تحسين الأوضاع المادية للعاملين في التدريس.",
+            "mt": "e) să dezvolte în mod activ o rețea școlară la toate nivelurile, să creeze un sistem de atribuire și scop și să îmbunătățească în continuare condițiile materiale ale personalului didactic.",
+            "ref": "e) trebuie să se urmareasca activ dezvoltarea unei retele scolare la toate nivelurile, să se stabileasca un sistem adecvat de burse şi să se amelioreze în mod continuu condiţiile materiale ale personalului didactic.",
+            "COMET": 0.7486991882324219,
+            "errors": [
+                {
+                    "text": ") să",
+                    "confidence": 0.4052734375,
+                    "severity": "major",
+                    "start": 1,
+                    "end": 5
+                },
+                {
+                    "text": "creeze un sistem de atribuire și scop",
+                    "confidence": 0.46630859375,
+                    "severity": "major",
+                    "start": 67,
+                    "end": 105
+                }
+            ]
+        },
+        {
+            "src": "3. تتعهد الدول الأطراف في هذا العهد باحترام حرية الأباء، أو الأوصياء عند وجودهم، في اختيار مدارس لأولادهم غير المدارس الحكومية، شريطة تقيد المدارس المختارة بمعايير التعليم الدنيا التي قد تفرضها أو تقرها الدولة، وبتامين تربية أولئك الأولاد دينيا وخلقيا وفقا لقناعاتهم الخاصة.",
+            "mt": "Statele părți la prezentul pact se angajează să respecte libertatea părinților sau tutorilor atunci când aceștia aleg școli pentru copiii lor non-școlari, cu condiția ca școlile selectate să respecte standardele minime de educație care pot fi impuse sau aprobate de stat și să asigure educația acestor copii în conformitate cu convingerile lor specifice.",
+            "ref": "3. Statele părţi la prezentul pact se angajează să respecte libertatea parintilor şi, atunci cînd este cazul, a tutorilor legali, de a alege pentru copiii lor institutii de invatamint, altele decit cele ale autorităţilor publice, dar conforme cu normele minimale pe care le poate prescrie sau aproba statul în materie de educatie şi de a asigura educatia religioasa şi morala a copiilor lor în conformitate cu propriile lor convingeri.",
+            "COMET": 0.7614492177963257,
+            "errors": [
+                {
+                    "text": "copiii lor non-școlari",
+                    "confidence": 0.379638671875,
+                    "severity": "major",
+                    "start": 130,
+                    "end": 153
+                }
+            ]
+        },
+        {
+            "src": "4. ليس في أي من أحكام هذه المادة ما يجوز تأويله على نحو يفيد مساسه بحرية الأفراد والهيئات في إنشاء وإدارة مؤسسات تعليمية، شريطة التقيد دائما بالمبادئ المنصوص عليها في الفقرة 1 من هذه المادة ورهنا بخضوع التعليم الذي توفره هذه المؤسسات لما قد تفرضه الدولة من معايير دنيا.",
+            "mt": "Nimic din prezentul articol nu poate fi interpretat în beneficiul dreptului liber al persoanelor și al organismelor la înființarea și administrarea instituțiilor de învățământ, cu condiția ca principiile prevăzute la paragraful 1 al prezentului articol să fie respectate și respectate de instituțiile de învățământ oferite de aceste instituții la standardele minime de către stat.",
+            "ref": "4. Nici o dispoziţie din prezentul articol nu trebuie interpretata ca aducind atingere libertatii indivizilor şi persoanelor juridice de a înfiinţa şi de a conduce institutii de invatamint cu condiţia ca principiile enuntate în paragraful 1 al prezentului articol să fie respectate, iar educatia data în aceste institutii să fie conforma cu normele minimale pe care le poate prescrie statul.",
+            "COMET": 0.4919980466365814,
+            "errors": [
+                {
+                    "text": "în benefici",
+                    "confidence": 0.368408203125,
+                    "severity": "major",
+                    "start": 51,
+                    "end": 63
+                },
+                {
+                    "text": "ului liber",
+                    "confidence": 0.37744140625,
+                    "severity": "major",
+                    "start": 71,
+                    "end": 81
+                },
+                {
+                    "text": "organism",
+                    "confidence": 0.4462890625,
+                    "severity": "major",
+                    "start": 102,
+                    "end": 111
+                },
+                {
+                    "text": "te și respectate de instituțiile de învățământ oferite de aceste instituții la standardele minime de către",
+                    "confidence": 0.3798828125,
+                    "severity": "major",
+                    "start": 268,
+                    "end": 374
+                }
+            ]
+        },
+        {
+            "src": "المادة 14",
+            "mt": "Articolul 14 din Articolul 14 al",
+            "ref": "Articolul 14",
+            "COMET": 0.6091601848602295
+        },
+        {
+            "src": "تتعهد كل دولة طرف في هذا العهد، لم تكن بعد وهى تصبح طرفا فيه قد تمكنت من كفالة إلزامية ومجانية التعليم الابتدائي في بلدها ذاته أو في أقاليم أخرى تحت ولايتها، بالقيام، في غضون سنتين، بوضع واعتماد خطة عمل مفصلة للتنفيذ الفعلي والتدريجي لمبدأ إلزامية التعليم ومجانيته للجميع، خلال عدد معقول من السنين يحدد في الخطة.",
+            "mt": "Fiecare stat parte care nu a devenit parte la prezentul pact se angajează să asigure obligatoriu și gratuitatea învățământului primar în propria țară sau în alte teritorii aflate sub jurisdicția sa și să instituie, în termen de doi ani, un plan de acțiune detaliat pentru punerea în aplicare efectivă și treptată a principiului obligatoriu de educație și pentru toți, într-un număr rezonabil de ani în plan.",
+            "ref": "Orice stat parte la prezentul pact, care în momentul în care devine parte nu a putut inca asigura în teritoriul sau metropolitan sau în teritoriile aflate sub jurisdictia sa obligativitatea şi gratuitatea învăţămîntului primar, se angajează sa stabileasca şi sa adopte, într-un termen de 2 ani, un plan detaliat de măsuri necesare pentru a realiza treptat, într-un numar rezonabil de ani, fixat prin acest plan, deplina aplicare a principiului învăţămîntului primar obligatoriu şi gratuit pentru toţi.",
+            "COMET": 0.46630859375,
+            "errors": [
+                {
+                    "text": "nu a devenit parte",
+                    "confidence": 0.39453125,
+                    "severity": "major",
+                    "start": 23,
+                    "end": 42
+                },
+                {
+                    "text": "obligatoriu și",
+                    "confidence": 0.39306640625,
+                    "severity": "major",
+                    "start": 85,
+                    "end": 99
+                },
+                {
+                    "text": "institu",
+                    "confidence": 0.31298828125,
+                    "severity": "major",
+                    "start": 203,
+                    "end": 211
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.335205078125,
+                    "severity": "major",
+                    "start": 290,
+                    "end": 291
+                },
+                {
+                    "text": "principiului",
+                    "confidence": 0.372802734375,
+                    "severity": "major",
+                    "start": 314,
+                    "end": 327
+                },
+                {
+                    "text": "obligatoriu de educație și pentru toți, într",
+                    "confidence": 0.38525390625,
+                    "severity": "major",
+                    "start": 328,
+                    "end": 372
+                },
+                {
+                    "text": "un număr rezonabil de ani în plan.",
+                    "confidence": 0.3896484375,
+                    "severity": "major",
+                    "start": 373,
+                    "end": 407
+                }
+            ]
+        },
+        {
+            "src": "المادة 15",
+            "mt": "Articolul 15 din Articolul 15 al",
+            "ref": "Articolul 15",
+            "COMET": 0.6477344036102295
+        },
+        {
+            "src": "1. تقر الدول الأطراف في هذا العهد بأن من حق كل فرد:",
+            "mt": "Statele părţi la prezentul pact recunosc dreptul fiecăruia:",
+            "ref": "1. Statele părţi la prezentul pact recunosc fiecaruia dreptul:",
+            "COMET": 0.9919726848602295
+        },
+        {
+            "src": "(أ) أن يشارك في الحياة الثقافية،",
+            "mt": "a) să participe la viaţa culturală;",
+            "ref": "a) de a participa la viaţa culturala;",
+            "COMET": 0.9914734363555908,
+            "errors": [
+                {
+                    "text": "să",
+                    "confidence": 0.408203125,
+                    "severity": "minor",
+                    "start": 2,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "src": "(ب)أن يتمتع بفوائد التقدم العلمي وبتطبيقاته،",
+            "mt": "b) să beneficieze de progresul ştiinţific şi de aplicaţiile sale;",
+            "ref": "b) de a beneficia de progresul ştiinţific şi de aplicatiile sale;",
+            "COMET": 0.9914734363555908,
+            "errors": [
+                {
+                    "text": "să",
+                    "confidence": 0.401611328125,
+                    "severity": "minor",
+                    "start": 2,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "src": "(ج) أن يفيد من حماية المصالح المعنوية والمادية الناجمة عن أي أثر علمي أو فني أو أدبي من صنعه.",
+            "mt": "c) să beneficieze de protecția intereselor morale și materiale rezultate din orice relicvă științifică, artistică sau literară a operei sale.",
+            "ref": "c) de a beneficia de protectia intereselor morale şi materiale decurgind din orice productie stiintifica, literara sau artistica al carei autor este.",
+            "COMET": 0.7931327819824219,
+            "errors": [
+                {
+                    "text": "relicvă",
+                    "confidence": 0.494140625,
+                    "severity": "major",
+                    "start": 82,
+                    "end": 90
+                },
+                {
+                    "text": "literară a opere",
+                    "confidence": 0.435302734375,
+                    "severity": "major",
+                    "start": 117,
+                    "end": 134
+                }
+            ]
+        },
+        {
+            "src": "2. تراعى الدول الأطراف في هذا العهد، في التدابير التي ستتخذها بغية ضمان الممارسة الكاملة لهذا الحق، أن تشمل تلك التدابير التي تتطلبها صيانة العلم والثقافة وإنماؤهما وإشاعتهما.",
+            "mt": "Statele părţi la prezentul Pact vor lua în considerare măsurile pe care le vor lua în vederea asigurării exercitării depline a acestui drept, care vor include măsurile necesare pentru menţinerea, valorificarea şi difuzarea ştiinţei şi culturii.",
+            "ref": "2. Masurile pe care statele părţi la prezentul pact le vor lua pentru a asigura deplina exercitare a acestui drept trebuie să cuprindă masurile necesare pentru a asigura menţinerea, dezvoltarea şi difuzarea stiintei şi culturii.",
+            "COMET": 0.769629716873169,
+            "errors": [
+                {
+                    "text": "Pac",
+                    "confidence": 0.366943359375,
+                    "severity": "minor",
+                    "start": 26,
+                    "end": 30
+                },
+                {
+                    "text": "vor lua",
+                    "confidence": 0.468505859375,
+                    "severity": "major",
+                    "start": 31,
+                    "end": 39
+                },
+                {
+                    "text": "considerare",
+                    "confidence": 0.47705078125,
+                    "severity": "major",
+                    "start": 42,
+                    "end": 54
+                },
+                {
+                    "text": "le",
+                    "confidence": 0.3662109375,
+                    "severity": "major",
+                    "start": 61,
+                    "end": 63
+                }
+            ]
+        },
+        {
+            "src": "3. تتعهد الدول الأطراف في هذا العهد باحترام الحرية التي لا غنى عنها للبحث العلمي والنشاط الإبداعي.",
+            "mt": "Statele părţi la prezentul Pact se angajează să respecte libertatea indispensabilă cercetării ştiinţifice şi activităţilor creatoare.",
+            "ref": "3. Statele părţi la prezentul pact se angajează să respecte libertatea indispensabila cercetării stiintifice şi activităţilor creatoare.",
+            "COMET": 0.9953906536102295
+        },
+        {
+            "src": "4. تقر الدول الأطراف في هذا العهد بالفوائد التي تجنى من تشجيع وإنماء الاتصال والتعاون الدوليين في ميداني العلم والثقافة.",
+            "mt": "Statele părți la prezentul pact recunosc beneficiile obținute din încurajarea, dezvoltarea comunicării și cooperarea internațională în domeniul științei și culturii.",
+            "ref": "4. Statele părţi la prezentul pact recunosc urmarile binefacatoare care trebuie să rezulte din incurajarea şi dezvoltarea cooperarii şi contactelor internationale în domeniul stiintei şi culturii.",
+            "COMET": 0.9817187786102295
+        },
+        {
+            "src": "الجزء الرابع",
+            "mt": "Partea a patra e a patra.",
+            "ref": "Partea A PATRA",
+            "COMET": 0.7487539052963257,
+            "errors": [
+                {
+                    "text": "a a patra e a patra",
+                    "confidence": 0.378173828125,
+                    "severity": "major",
+                    "start": 5,
+                    "end": 24
+                }
+            ]
+        },
+        {
+            "src": "المادة 16",
+            "mt": "Articolul 16 din Articolul 16 al",
+            "ref": "Articolul 16",
+            "COMET": 0.6306445598602295
+        },
+        {
+            "src": "1. تتعهد الدول الأطراف في هذا العهد بأن تقدم، طبقا لأحكام هذا الجزء من العهد، تقارير عن التدابير التي تكون قد اتخذتها وعن التقدم المحرز على طريق ضمان احترام الحقوق المعترف بها في هذا العهد.",
+            "mt": "Statele părţi la prezentul Pact se angajează să prezinte, în conformitate cu prevederile acestei părţi a pactului, rapoartele privind măsurile luate şi progresele realizate prin asigurarea respectării drepturilor recunoscute în prezentul Pact.",
+            "ref": "1. Statele părţi la prezentul pact se angajează să prezinte, în conformitate cu dispozitiile cuprinse în aceasta parte a pactului, rapoarte asupra masurilor pe care le-au adoptat şi asupra progreselor obtinute în asigurarea respectarii drepturilor recunoscute în pact.",
+            "COMET": 0.9778125286102295
+        },
+        {
+            "src": "2. (أ) توجه جميع التقارير إلى الأمين العام للأمم المتحدة، الذي يحيل نسخا منها إلى المجلس الاقتصادي والاجتماعي للنظر فيها طبقا لأحكام هذا العهد،",
+            "mt": "a) toate rapoartele vor fi transmise secretarului general al Organizației Națiunilor Unite, care le va aduce copiilor Consiliului Economic și Social pentru a fi examinate în conformitate cu prevederile prezentului pact;",
+            "ref": "2. a) Toate rapoartele vor fi adresate secretarului general al Organizaţiei Natiunilor Unite, care le va transmite în copie, spre examinare, Consiliului Economic şi Social, în conformitate cu dispozitiile prezentului pact.",
+            "COMET": 0.8669179677963257,
+            "errors": [
+                {
+                    "text": "aduce copiilor Consiliului",
+                    "confidence": 0.4541015625,
+                    "severity": "major",
+                    "start": 102,
+                    "end": 129
+                }
+            ]
+        },
+        {
+            "src": "(ب) على الأمين العام للأمم المتحدة أيضا، حين يكون التقرير الوارد من دولة طرف في هذا العهد، أو جزء أو أكثر منه، متصلا بأية مسألة تدخل في اختصاص إحدى الوكالات المتخصصة وفقا لصكها التأسيسى وتكون الدولة الطرف المذكورة عضوا في هذه الوكالة، أن يحيل إلى تلك الوكالة نسخة من هذا التقرير أو من جزئه المتصل بتلك المسألة، حسب الحالة.",
+            "mt": "b) Secretarul general al Organizației Națiunilor Unite, în cazul în care raportul prezentat de un stat parte la prezentul Pact, sau o parte sau mai mult, este legat de orice interferență în jurisdicția unei agenții specializate, în conformitate cu instrumentul său constitutiv, iar statul parte menționat este membru al acestei agenții, să transmită agenției o copie a acestui raport sau a părții sale, în funcție de caz.",
+            "ref": "b) Secretarul general al Organizaţiei Natiunilor Unite va transmite, de asemenea, instituţiilor specializate copii de pe rapoartele sau de pe părţile relevante din rapoartele trimise de statele părţi la prezentul pact, care sînt şi membre ale instituţiilor specializate respective, în măsura în care aceste rapoarte sau părţi din rapoarte privesc probleme de competenţa instituţiilor lor menţionate, potrivit actelor lor constitutive.",
+            "COMET": 0.29541015625,
+            "errors": [
+                {
+                    "text": "b) Secretarul",
+                    "confidence": 0.3828125,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 13
+                },
+                {
+                    "text": "Unite,",
+                    "confidence": 0.35693359375,
+                    "severity": "major",
+                    "start": 48,
+                    "end": 55
+                },
+                {
+                    "text": "raport",
+                    "confidence": 0.3740234375,
+                    "severity": "major",
+                    "start": 72,
+                    "end": 79
+                },
+                {
+                    "text": "Pac",
+                    "confidence": 0.351806640625,
+                    "severity": "major",
+                    "start": 121,
+                    "end": 125
+                },
+                {
+                    "text": ", sau o",
+                    "confidence": 0.33984375,
+                    "severity": "major",
+                    "start": 126,
+                    "end": 133
+                },
+                {
+                    "text": "sau mai mult, este legat de orice interferență în juris",
+                    "confidence": 0.392333984375,
+                    "severity": "major",
+                    "start": 139,
+                    "end": 195
+                },
+                {
+                    "text": "cția",
+                    "confidence": 0.343505859375,
+                    "severity": "major",
+                    "start": 197,
+                    "end": 201
+                },
+                {
+                    "text": "cu instrument",
+                    "confidence": 0.412841796875,
+                    "severity": "major",
+                    "start": 244,
+                    "end": 258
+                },
+                {
+                    "text": "său constitu",
+                    "confidence": 0.365234375,
+                    "severity": "major",
+                    "start": 260,
+                    "end": 273
+                },
+                {
+                    "text": "să",
+                    "confidence": 0.43359375,
+                    "severity": "major",
+                    "start": 336,
+                    "end": 339
+                },
+                {
+                    "text": "agen",
+                    "confidence": 0.365234375,
+                    "severity": "major",
+                    "start": 349,
+                    "end": 354
+                },
+                {
+                    "text": "a păr",
+                    "confidence": 0.425537109375,
+                    "severity": "major",
+                    "start": 387,
+                    "end": 393
+                },
+                {
+                    "text": "sale",
+                    "confidence": 0.40234375,
+                    "severity": "major",
+                    "start": 396,
+                    "end": 401
+                }
+            ]
+        },
+        {
+            "src": "المادة 17",
+            "mt": "Articolul 17 din Articolul 17 al",
+            "ref": "Articolul 17",
+            "COMET": 0.6863086223602295
+        },
+        {
+            "src": "1. تقدم الدول الأطراف في هذا العهد تقاريرها على مراحل، طبقا لبرنامج يضعه المجلس الاقتصادي والاجتماعي في غضون سنة من بدء نفاذ هذا العهد، بعد التشاور مع الدول الأطراف والوكالات المتخصصة المعنية.",
+            "mt": "Statele părţi la prezentul pact vor prezenta rapoartele lor în etape, în conformitate cu un program stabilit de Consiliul Economic şi Social în termen de un an de la intrarea în vigoare a prezentului pact, după consultarea statelor părţi şi a instituţiilor specializate interesate.",
+            "ref": "1. Statele părţi la prezentul pact îşi vor prezenta rapoartele pe etape, potrivit unui program pe care îl va stabili Consiliul Economic şi Social în termen de un an de la data intrarii în vigoare a prezentului pact, după ce va fi consultat statele părţi şi instituţiile specializate interesate.",
+            "COMET": 0.9680469036102295
+        },
+        {
+            "src": "2. للدولة أن تشير في تقريرها إلى العوامل والمصاعب التي تمنعها من الإيفاء الكامل بالالتزامات المنصوص عليها في هذا العهد.",
+            "mt": "Statul se referă în raportul său la factorii și greutățile care îi împiedică să îndeplinească pe deplin obligațiile prevăzute în prezentul pact.",
+            "ref": "2. Rapoartele pot sa aduca la cunoştinţa factorii şi dificultatile care împiedica statele de a-şi îndeplini intru totul oblibaţiile prevăzute în prezentul pact.",
+            "COMET": 0.788239061832428,
+            "errors": [
+                {
+                    "text": "Statul se referă",
+                    "confidence": 0.425048828125,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 16
+                },
+                {
+                    "text": "raport",
+                    "confidence": 0.3740234375,
+                    "severity": "major",
+                    "start": 19,
+                    "end": 26
+                },
+                {
+                    "text": "greu",
+                    "confidence": 0.347412109375,
+                    "severity": "minor",
+                    "start": 47,
+                    "end": 52
+                }
+            ]
+        },
+        {
+            "src": "3. حين يكون قد سبق للدولة الطرف في هذا العهد أن أرسلت المعلومات المناسبة إلى الأمم المتحدة أو إلي إحدى الوكالات المتخصصة، ينتفي لزوم تكرار إيراد هذه المعلومات ويكتفي بإحالة دقيقة إلى المعلومات المذكورة.",
+            "mt": "În cazul în care un stat parte a acestui pact a trimis deja informații adecvate Organizației Națiunilor Unite sau unei agenții specializate, acesta refuză să repete declarațiile și se limitează la o trimitere exactă la informațiile respective.",
+            "ref": "3. În cazul în care informaţii cu privire la acest subiect au fost deja trimise Organizaţiei Natiunilor Unite sau unei institutii specializate de către un stat parte la pact, nu va mai fi necesar a se reproduce informaţiile, ci o referire precisa la aceste informaţii va fi suficienta.",
+            "COMET": 0.65966796875,
+            "errors": [
+                {
+                    "text": "adecvat",
+                    "confidence": 0.44921875,
+                    "severity": "major",
+                    "start": 70,
+                    "end": 78
+                },
+                {
+                    "text": "acesta refuză să repe",
+                    "confidence": 0.4873046875,
+                    "severity": "major",
+                    "start": 140,
+                    "end": 162
+                },
+                {
+                    "text": "declara",
+                    "confidence": 0.47119140625,
+                    "severity": "major",
+                    "start": 164,
+                    "end": 172
+                },
+                {
+                    "text": "se",
+                    "confidence": 0.42236328125,
+                    "severity": "major",
+                    "start": 180,
+                    "end": 183
+                },
+                {
+                    "text": "ează",
+                    "confidence": 0.43310546875,
+                    "severity": "major",
+                    "start": 189,
+                    "end": 193
+                },
+                {
+                    "text": "trimitere exact",
+                    "confidence": 0.379150390625,
+                    "severity": "major",
+                    "start": 198,
+                    "end": 214
+                }
+            ]
+        },
+        {
+            "src": "المادة 18",
+            "mt": "Articolul 18 din Articolul 18 al",
+            "ref": "Articolul 18",
+            "COMET": 0.6413867473602295
+        },
+        {
+            "src": "للمجلس الاقتصادي والاجتماعي، بمقتضى المسؤوليات التي عهد بها إليه ميثاق الأمم المتحدة في ميدان حقوق الإنسان والحريات الأساسية، أن يعقد مع الوكالات المتخصصة ما يلزم من ترتيبات كيما توافيه بتقارير عن التقدم المحرز في تأمين الامتثال لما يدخل في نطاق أنشطتها من أحكام هذا العهد، ويمكن تضمين هذه التقارير تفاصيل عن المقررات والتوصيات التي اعتمدتها الأجهزة المختصة في هذه الوكالات بشأن هذا الامتثال.",
+            "mt": "Consiliul Economic și Social, în virtutea responsabilităților încredințate de Carta Organizației Națiunilor Unite în domeniul drepturilor omului și al libertăților fundamentale, poate, împreună cu agențiile specializate, să țină seama de progresele înregistrate în asigurarea conformității cu ceea ce intră în sfera sa de aplicare a prezentului pact, iar aceste rapoarte pot include detalii despre cursurile și recomandările adoptate de organele competente în aceste agenții competente cu privire la această conformitate.",
+            "ref": "În virtutea responsabilitatilor care îi sînt conferite de Carta Natiunilor Unite în domeniul drepturilor omului şi libertatilor fundamentale, Consiliul Economic şi Social va putea incheia înţelegeri cu instituţiile specializate, în vederea prezentarii de către acestea de rapoarte cu privire la progresul realizat în indeplinirea dispoziţiilor prezentului pact, care intră în cadrul activităţilor lor. Rapoartele vor putea cuprinde date asupra deciziilor şi recomandarilor adoptate în legătură cu traducerea în viaţa, de către organele competente ale instituţiilor specializate, a acestor dispozitii.",
+            "COMET": 0.6289609670639038,
+            "errors": [
+                {
+                    "text": "seama",
+                    "confidence": 0.37744140625,
+                    "severity": "major",
+                    "start": 228,
+                    "end": 234
+                },
+                {
+                    "text": "sa",
+                    "confidence": 0.3828125,
+                    "severity": "major",
+                    "start": 315,
+                    "end": 318
+                },
+                {
+                    "text": "cursuri",
+                    "confidence": 0.389404296875,
+                    "severity": "major",
+                    "start": 397,
+                    "end": 405
+                },
+                {
+                    "text": "competente",
+                    "confidence": 0.35986328125,
+                    "severity": "major",
+                    "start": 474,
+                    "end": 485
+                }
+            ]
+        },
+        {
+            "src": "المادة 19",
+            "mt": "Articolul 19 din Articolul 19 al",
+            "ref": "Articolul 19",
+            "COMET": 0.6806933879852295
+        },
+        {
+            "src": "للمجلس الاقتصادي والاجتماعي أن يحيل إلى لجنة حقوق الإنسان التقارير المتعلقة بحقوق الإنسان والمقدمة من الدول عملا بالمادتين 16 و 17 ومن الوكالات المتخصصة عملا بالمادة 18، لدراستها ووضع توصية عامة بشأنها أو لإطلاعها عليها عند الاقتضاء.",
+            "mt": "Consiliul Economic și Social va transmite Comitetului pentru Drepturile Omului rapoartele privind drepturile omului, furnizate de state în conformitate cu art. 16, 17 și agenții specializate, conform art. 18, pentru a le studia și a le informa sau a le informa, dacă este cazul.",
+            "ref": "Consiliul Economic şi Social poate transmite Comisiei drepturilor omului, în scop de studiu şi recomandari de ordin general, sau pentru informare, dacă este cazul, rapoartele privind drepturile omului pe care le comunică statele în conformitate cu art. 16 şi 17 şi rapoartele privind drepturile omului pe care le comunică instituţiile specializate în conformitate cu art. 18.",
+            "COMET": 0.5723749995231628,
+            "errors": [
+                {
+                    "text": "Com",
+                    "confidence": 0.47705078125,
+                    "severity": "major",
+                    "start": 41,
+                    "end": 45
+                },
+                {
+                    "text": "agen",
+                    "confidence": 0.396240234375,
+                    "severity": "major",
+                    "start": 169,
+                    "end": 174
+                },
+                {
+                    "text": "a le studia și a le informa sau a le informa",
+                    "confidence": 0.423828125,
+                    "severity": "major",
+                    "start": 215,
+                    "end": 260
+                }
+            ]
+        },
+        {
+            "src": "المادة 20",
+            "mt": "Articolul 20 din Articolul 20 al",
+            "ref": "Articolul 20",
+            "COMET": 0.6562793254852295
+        },
+        {
+            "src": "للدول الأطراف في هذا العهد وللوكالات المتخصصة المعنية أن تقدم إلى المجلس الاقتصادي والاجتماعي ملاحظات على أية توصية عامة تبديها لجنة حقوق الإنسان بمقتضى المادة 19 أو على أي إيماء إلى توصية عامة يرد في أي تقرير للجنة حقوق الإنسان أو في أية وثيقة تتضمن إحالة إليها.",
+            "mt": "Statele părţi la prezentul Pact şi instituţiile specializate interesate vor prezenta Consiliului Economic şi Social observaţiile cu privire la orice recomandare publică dată de Comisia pentru Drepturile Omului, în conformitate cu art. 19, sau orice semn de referinţă la o recomandare publică prevăzută în orice raport al Comitetului pentru drepturile omului sau în orice document la care se face referire.",
+            "ref": "Statele părţi la prezentul pact şi instituţiile specializate interesate pot prezenta Consiliului Economic şi Social observatii cu privire la orice recomandare de ordin general facuta în virtutea art. 19 sau cu privire la orice menţiune a unei recomandari de ordin general figurind într-un raport al Comisiei drepturilor omului sau în orice alt document mentionat în raportul respectiv.",
+            "COMET": 0.8405726552009583,
+            "errors": [
+                {
+                    "text": "semn de",
+                    "confidence": 0.364990234375,
+                    "severity": "minor",
+                    "start": 248,
+                    "end": 256
+                },
+                {
+                    "text": "document",
+                    "confidence": 0.349853515625,
+                    "severity": "minor",
+                    "start": 370,
+                    "end": 379
+                },
+                {
+                    "text": "face",
+                    "confidence": 0.32568359375,
+                    "severity": "minor",
+                    "start": 390,
+                    "end": 395
+                }
+            ]
+        },
+        {
+            "src": "المادة 21",
+            "mt": "Articolul 21 din Articolul 21 al",
+            "ref": "Articolul 21",
+            "COMET": 0.6592090129852295
+        },
+        {
+            "src": "للمجلس الاقتصادي والاجتماعي أن يقدم إلى الجمعية العامة بين الحين والحين تقارير تشتمل على توصيات ذات طبيعة عامة وموجز للمعلومات الواردة من الدول الأطراف في هذا العهد ومن الوكالات المتخصصة حول التدابير المتخذة والتقدم المحرز على طريق كفالة تعميم مراعاة الحقوق المعترف بها في هذا العهد.",
+            "mt": "Consiliul Economic și Social va prezenta Adunării Generale, din când în când, rapoarte care conțin recomandări de natură generală și concisă a informațiilor primite de la statele părți la prezentul Pact și de la agențiile specializate cu privire la măsurile luate și progresele realizate prin asigurarea generalizării respectării drepturilor recunoscute în prezentul pact.",
+            "ref": "Consiliul Economic şi Social poate prezenta din timp în timp adunarii generale rapoarte cuprinzind recomandari cu caracter general şi un rezumat al informărilor primite de la statele părţi la prezentul pact şi de la instituţiile specializate în legătură cu masurile luate şi progresele realizate în vederea asigurarii respectarii generale a drepturilor recunoscute în prezentul pact.",
+            "COMET": 0.8004351258277893,
+            "errors": [
+                {
+                    "text": "concisă a",
+                    "confidence": 0.432373046875,
+                    "severity": "major",
+                    "start": 132,
+                    "end": 142
+                },
+                {
+                    "text": "Pac",
+                    "confidence": 0.40380859375,
+                    "severity": "minor",
+                    "start": 197,
+                    "end": 201
+                },
+                {
+                    "text": "prin",
+                    "confidence": 0.382568359375,
+                    "severity": "minor",
+                    "start": 287,
+                    "end": 292
+                },
+                {
+                    "text": "generalizării",
+                    "confidence": 0.376953125,
+                    "severity": "major",
+                    "start": 303,
+                    "end": 317
+                }
+            ]
+        },
+        {
+            "src": "المادة 22",
+            "mt": "Articolul 22 din Articolul 22 al",
+            "ref": "Articolul 22",
+            "COMET": 0.6662890911102295
+        },
+        {
+            "src": "للمجلس الاقتصادي والاجتماعي استرعاء نظر هيئات الأمم المتحدة الأخرى وهيئاتها الفرعية، والوكالات المتخصصة المعنية بتوفير المساعدة التقنية، إلى أية مسائل تنشا عن التقارير المشار إليها في هذا الجزء من هذا العهد ويمكن أن تساعد تلك الأجهزة كل في مجال اختصاصه، على تكوين رأى حول ملاءمة اتخاذ تدابير دولية من شأنها أن تساعد على فعالية التنفيذ التدريجي لهذا العهد.",
+            "mt": "Consiliul Economic și Social, având în vedere celelalte organisme ale Organizației Națiunilor Unite, organele sale subsidiare și agențiile specializate în materie de asistență tehnică, poate aborda orice problemă care ar putea contribui la punerea în aplicare progresivă a prezentului pact.",
+            "ref": "Consiliul Economic şi Social poate supune atenţiei celorlalte organe ale O.N.U., organelor subsidiare şi instituţiilor specializate interesate care se ocupa de furnizarea unei asistente tehnice, orice problema pe care o ridica rapoartele menţionate în prezenta parte a prezentului pact şi care poate ajuta acestor organisme să se pronunte fiecare în propria sa sfera de competenţa asupra oportunitatii masurilor internationale capabile să contribuie la punerea în aplicare efectiva şi progresiva a prezentului pact.",
+            "COMET": 0.6254081726074219,
+            "errors": [
+                {
+                    "text": "vedere",
+                    "confidence": 0.3193359375,
+                    "severity": "major",
+                    "start": 38,
+                    "end": 45
+                },
+                {
+                    "text": "aborda",
+                    "confidence": 0.36279296875,
+                    "severity": "major",
+                    "start": 190,
+                    "end": 197
+                }
+            ]
+        },
+        {
+            "src": "المادة 23",
+            "mt": "Articolul 23 din Articolul 23 al",
+            "ref": "Articolul 23",
+            "COMET": 0.6216113567352295
+        },
+        {
+            "src": "توافق الدول الأطراف في هذا العهد على أن التدابير الدولية الرامية إلى كفالة إعمال الحقوق المعترف بها في هذا العهد تشمل عقد اتفاقيات، واعتماد توصيات، وتوفير مساعدة تقنية، وعقد اجتماعات إقليمية واجتماعات تقنية بغية التشاور والدراسة تنظم بالاشتراك مع الحكومات المعنية.",
+            "mt": "Statele părţi la prezentul Pact sunt de acord că măsurile internaţionale menite să asigure respectarea drepturilor recunoscute în prezentul Pact includ încheierea de acorduri, adoptarea de recomandări, acordarea de asistenţă tehnică, organizarea de reuniuni regionale şi tehnice, în vederea consultării şi studierii organizate în comun cu guvernele interesate.",
+            "ref": "Statele părţi la prezentul pact sînt de acord ca masurile de ordin international destinate să asigure realizarea drepturilor recunoscute în pact cuprind indeosebi incheierea de conventii, adoptarea de recomandari, furnizarea unei asistente tehnice şi organizarea, împreună cu guvernele interesate, a unor reuniuni regionale şi reuniuni tehnice în scop de consultare şi de studiu.",
+            "COMET": 0.9411804676055908,
+            "errors": [
+                {
+                    "text": "studierii",
+                    "confidence": 0.42236328125,
+                    "severity": "minor",
+                    "start": 305,
+                    "end": 315
+                }
+            ]
+        },
+        {
+            "src": "المادة 24",
+            "mt": "Articolul 24 din Articolul 24 al",
+            "ref": "Articolul 24",
+            "COMET": 0.5962207317352295
+        },
+        {
+            "src": "ليس في أي حكم من أحكام هذا العهد ما يجوز تأويله على نحو يفيد مساسه بأحكام ميثاق الأمم المتحدة وأحكام دساتير الوكالات المتخصصة التي تحدد مسؤوليات مختلف هيئات الأمم المتحدة والوكالات المتخصصة بصدد المسائل التي يتناولها هذا العهد.",
+            "mt": "Nici o dispoziție a prezentului Pact nu poate fi interpretată în mod corespunzător de dispozițiile Cartei Națiunilor Unite și de prevederile constituenților agențiilor specializate care stabilesc responsabilitățile diferitelor organisme ale Națiunilor Unite și agenții specializate cu privire la problemele abordate de prezentul pact.",
+            "ref": "Nici o dispoziţie din prezentul pact nu trebuie interpretata ca aducind atingere dispoziţiilor din Carta Natiunilor Unite şi din statutele instituţiilor specializate care definesc raspunsurile diverselor organe ale O.N.U. şi ale instituţiilor specializate cu privire la chestiunile prevăzute în prezentul pact.",
+            "COMET": 0.56591796875,
+            "errors": [
+                {
+                    "text": "poate",
+                    "confidence": 0.397705078125,
+                    "severity": "major",
+                    "start": 39,
+                    "end": 45
+                },
+                {
+                    "text": "interpreta",
+                    "confidence": 0.468505859375,
+                    "severity": "major",
+                    "start": 48,
+                    "end": 59
+                },
+                {
+                    "text": "mod corespunzător de",
+                    "confidence": 0.41650390625,
+                    "severity": "major",
+                    "start": 64,
+                    "end": 85
+                },
+                {
+                    "text": "Carte",
+                    "confidence": 0.40869140625,
+                    "severity": "major",
+                    "start": 98,
+                    "end": 104
+                },
+                {
+                    "text": "de prevederile constituenților agențiilor",
+                    "confidence": 0.4716796875,
+                    "severity": "major",
+                    "start": 125,
+                    "end": 167
+                }
+            ]
+        },
+        {
+            "src": "المادة 25",
+            "mt": "Articolul 25 din Articolul 25 al",
+            "ref": "Articolul 25",
+            "COMET": 0.5720508098602295
+        },
+        {
+            "src": "ليس في أي حكم من أحكام هذا العهد ما يجوز تأويله علي نحو يفيد مساسه بما لجميع الشعوب من حق أصيل في حرية التمتع والانتفاع كليا بثرواتها ومواردها الطبيعية.",
+            "mt": "Nici o dispoziție a prezentului legământ nu poate fi interpretată în beneficiul tuturor popoarelor de dreptul de a se bucura și de a se bucura în întregime de bogățiile și resursele sale naturale.",
+            "ref": "Nici o dispoziţie din prezentul pact nu va fi interpretata ca aducind atingere dreptului inerent al tuturor popoarelor de a beneficia şi de a se folosi pe deplin şi în mod liber de bogatiile şi resursele lor naturale.",
+            "COMET": 0.5845273733139038,
+            "errors": [
+                {
+                    "text": "interpretată în beneficiul tuturor popoarelor de dreptul",
+                    "confidence": 0.377685546875,
+                    "severity": "major",
+                    "start": 52,
+                    "end": 109
+                },
+                {
+                    "text": "a",
+                    "confidence": 0.32958984375,
+                    "severity": "major",
+                    "start": 112,
+                    "end": 114
+                },
+                {
+                    "text": "bucura și de",
+                    "confidence": 0.379150390625,
+                    "severity": "major",
+                    "start": 117,
+                    "end": 130
+                },
+                {
+                    "text": "bucura",
+                    "confidence": 0.44189453125,
+                    "severity": "major",
+                    "start": 135,
+                    "end": 142
+                }
+            ]
+        },
+        {
+            "src": "الجزء الخامس",
+            "mt": "Partea a cincea e a cincea.",
+            "ref": "Partea A CINCEA",
+            "COMET": 0.6940664052963257,
+            "errors": [
+                {
+                    "text": "Partea a cincea e a cincea",
+                    "confidence": 0.398193359375,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 26
+                }
+            ]
+        },
+        {
+            "src": "المادة 26",
+            "mt": "Articolul 26 din Articolul 26 al articolului 26.",
+            "ref": "Articolul 26",
+            "COMET": 0.3334643542766571
+        },
+        {
+            "src": "1. هذا العهد متاح لتوقيع أية دولة عضو في الأمم المتحدة أو عضو في أية وكالة من وكالاتها المتخصصة وأية دولة طرف في النظام الأساسي لمحكمة العدل الدولية، وأية دولة أخرى دعتها الجمعية العامة للأمم المتحدة إلى أن تصبح طرفا في هذا العهد.",
+            "mt": "Prezentul pact este disponibil pentru semnarea oricărui stat membru al Organizației Națiunilor Unite sau al oricărei agenții sale specializate și a oricărui stat parte la Statutul Curții Internaționale de Justiție și a oricărui alt stat invitat de Adunarea Generală a Națiunilor Unite să devină parte la prezentul Pact.",
+            "ref": "1. Prezentul pact este deschis spre semnare oricărui stat membru al Organizaţiei Natiunilor Unite sau membru al vreuneia dintre instituţiile sale specializate, oricărui stat parte la Statutul Curtii Internationale de Justiţie, precum şi oricărui alt stat invitat de Adunarea Generală a Natiunilor Unite sa devina parte la prezentul pact.",
+            "COMET": 0.8884242177009583,
+            "errors": [
+                {
+                    "text": "narea",
+                    "confidence": 0.391357421875,
+                    "severity": "minor",
+                    "start": 41,
+                    "end": 46
+                },
+                {
+                    "text": "rei agen",
+                    "confidence": 0.401611328125,
+                    "severity": "minor",
+                    "start": 113,
+                    "end": 121
+                },
+                {
+                    "text": "Pac",
+                    "confidence": 0.392822265625,
+                    "severity": "minor",
+                    "start": 313,
+                    "end": 317
+                }
+            ]
+        },
+        {
+            "src": "2. يخضع هذا العهد للتصديق. وتودع صكوك التصديق لدى الأمين العام للأمم المتحدة.",
+            "mt": "Prezentul pact este supus ratificării și instrumentele de ratificare sunt depuse la secretarul general al Organizației Națiunilor Unite.",
+            "ref": "2. Prezentul pact este supus ratificarii, iar instrumentele de ratificare vor fi depuse la secretarul general al Organizaţiei Natiunilor Unite.",
+            "COMET": 0.9743945598602295
+        },
+        {
+            "src": "3. يتاح الانضمام إلى هذا العهد لأية دولة من الدول المشار إليها في الفقرة 1 من هذه المادة.",
+            "mt": "Aderarea la prezentul Pact va fi disponibilă oricăruia dintre statele vizate la paragraful 1 al prezentului articol.",
+            "ref": "3. Prezentul pact va fi deschis spre aderare oricărui stat la care se referă paragraful 1 din prezentul articol.",
+            "COMET": 0.9709656238555908,
+            "errors": [
+                {
+                    "text": "Pac",
+                    "confidence": 0.4189453125,
+                    "severity": "minor",
+                    "start": 21,
+                    "end": 25
+                }
+            ]
+        },
+        {
+            "src": "4. يقع الانضمام بإيداع صك انضمام لدى الأمين العام للأمم المتحدة.",
+            "mt": "Aderarea se face prin depunerea unui instrument de aderare la secretarul general al ONU.",
+            "ref": "4. Aderarea se va face prin depunerea la secretarul general al Organizaţiei Natiunilor Unite a unui instrument de aderare.",
+            "COMET": 0.9963672161102295
+        },
+        {
+            "src": "5. يخطر الأمين العام للأمم المتحدة جميع الدول التي تكون قد وقعت هذا العهد أو انضمت إليه بإيداع كل صك من صكوك التصديق أو الانضمام.",
+            "mt": "Secretarul general al Organizației Națiunilor Unite va notifica tuturor statelor care au semnat prezentul Pact sau au aderat la el să depună toate instrumentele de ratificare sau de aderare.",
+            "ref": "5. Secretarul general al Organizaţiei Natiunilor Unite va informa toate statele care au semnat prezentul pact sau care au aderat la el despre depunerea fiecarui instrument de ratificare sau de aderare.",
+            "COMET": 0.8698476552963257,
+            "errors": [
+                {
+                    "text": "notifica tuturor",
+                    "confidence": 0.37255859375,
+                    "severity": "minor",
+                    "start": 54,
+                    "end": 71
+                },
+                {
+                    "text": "lor",
+                    "confidence": 0.390380859375,
+                    "severity": "minor",
+                    "start": 77,
+                    "end": 80
+                },
+                {
+                    "text": "Pac",
+                    "confidence": 0.424560546875,
+                    "severity": "minor",
+                    "start": 105,
+                    "end": 109
+                },
+                {
+                    "text": "să",
+                    "confidence": 0.36767578125,
+                    "severity": "minor",
+                    "start": 130,
+                    "end": 133
+                },
+                {
+                    "text": "ă",
+                    "confidence": 0.345458984375,
+                    "severity": "minor",
+                    "start": 139,
+                    "end": 140
+                }
+            ]
+        },
+        {
+            "src": "المادة 27",
+            "mt": "Articolul 27 din Articolul 27 al articolului 27",
+            "ref": "Articolul 27",
+            "COMET": 0.3362109363079071
+        },
+        {
+            "src": "1. يبدأ نفاذ هذا العهد بعد ثلاثة أشهر من تاريخ إيداع صك الانضمام أو التصديق الخامس والثلاثين لدى الأمين العام للأمم المتحدة.",
+            "mt": "Prezenta convenţie va intra în vigoare la trei luni de la data depunerii instrumentului de aderare sau la ratificarea celui de-al 35-lea de către secretarul general al ONU.",
+            "ref": "1. Prezentul pact va intra în vigoare la 3 luni de la data depunerii la secretarul general al Organizaţiei Natiunilor Unite a celui de-al treizeci şi cincilea instrument de ratificare sau de aderare.",
+            "COMET": 0.7359492182731628,
+            "errors": [
+                {
+                    "text": "instrumentului",
+                    "confidence": 0.376953125,
+                    "severity": "major",
+                    "start": 72,
+                    "end": 87
+                },
+                {
+                    "text": "la ratificarea celui de-al 35",
+                    "confidence": 0.376953125,
+                    "severity": "major",
+                    "start": 102,
+                    "end": 132
+                },
+                {
+                    "text": "lea",
+                    "confidence": 0.436767578125,
+                    "severity": "major",
+                    "start": 133,
+                    "end": 136
+                }
+            ]
+        },
+        {
+            "src": "2. أما الدول التي تصدق هذا العهد أو تنضم إليه بعد أن يكون قد تم إيداع صك التصديق أو الانضمام الخامس والثلاثين فيبدأ نفاذ هذا العهد إزاء كل منها بعد ثلاثة أشهر من تاريخ إيداعها صك تصديقها أو صك انضمامها.",
+            "mt": "Țările care ratifică sau aderă la prezentul pact, după ce au depus instrumentul de ratificare sau de aderare, vor intra în vigoare în fața fiecăruia după trei luni de la data depunerii instrumentului de ratificare sau de aderare.",
+            "ref": "2. Pentru fiecare dintre statele care vor ratifica prezentul pact sau vor adera la el după depunerea celui de-al treizeci şi cincilea instrument de ratificare sau de aderare, pactul va intra în vigoare la 3 luni de la data depunerii de către stat a instrumentului sau de ratificare sau de aderare.",
+            "COMET": 0.5838496088981628,
+            "errors": [
+                {
+                    "text": "Țările",
+                    "confidence": 0.349609375,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 6
+                },
+                {
+                    "text": ", vor intra în vigoare",
+                    "confidence": 0.33447265625,
+                    "severity": "major",
+                    "start": 108,
+                    "end": 130
+                },
+                {
+                    "text": "fața fiecăruia",
+                    "confidence": 0.41015625,
+                    "severity": "major",
+                    "start": 133,
+                    "end": 148
+                }
+            ]
+        },
+        {
+            "src": "المادة 28",
+            "mt": "Articolul 28 din Articolul 28 al articolului 28.",
+            "ref": "Articolul 28",
+            "COMET": 0.30961230397224426,
+            "errors": [
+                {
+                    "text": "Articolul 28 din Articolul 28 al articolului 28.",
+                    "confidence": 0.7373046875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 48
+                }
+            ]
+        },
+        {
+            "src": "تنطبق أحكام هذا العهد، دون أي قيد أو استثناء، على جميع الوحدات التي تتشكل منها الدول الاتحادية.",
+            "mt": "Dispoziţiile prezentului pact se aplică, fără nicio limitare sau excepţie, tuturor unităţilor din care se formează statele federale.",
+            "ref": "Dispozitiile prezentului pact se aplică, fără nici o limitate sau excepţie, tuturor unităţilor constitutive ale statelor federative.",
+            "COMET": 0.9919726848602295
+        },
+        {
+            "src": "المادة 29",
+            "mt": "Articolul 29 din Articolul 29 al articolului 29.",
+            "ref": "Articolul 29",
+            "COMET": 0.33488085865974426,
+            "errors": [
+                {
+                    "text": "Articolul 29 din Articolul 29 al articolului 29.",
+                    "confidence": 0.70458984375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 48
+                }
+            ]
+        },
+        {
+            "src": "1. لأية دولة طرف في هذا العهد أن تقترح تعديلا عليه تودع نصه لدى الأمين العام للأمم المتحدة. وعلى إثر ذلك يقوم الأمين العام بإبلاغ الدول الأطراف في هذا العهد بأية تعديلات مقترحة، طالبا إليها إعلامه عما إذا كانت تحبذ عقد مؤتمر للدول الأطراف للنظر في تلك المقترحات والتصويت عليها. فإذا حبذ عقد المؤتمر ثلث الدول الأطراف على الأقل عقده الأمين العام برعاية الأمم المتحدة. وأي تعديل تعتمده أغلبية الدول الأطراف الحاضرة والمقترعة في المؤتمر يعرض على الجمعية العامة للأمم المتحدة لإقراره.",
+            "mt": "Orice stat parte la prezentul Pact va propune un amendament la care va depune textul său la secretarul general al Națiunilor Unite; prin urmare, secretarul general va informa statele părți la prezentul Pact cu privire la orice modificări propuse, solicitându-i să-i informeze dacă doresc să convoace o conferință a statelor părți pentru a examina și a vota aceste propuneri, în cazul în care susține convocarea conferinței de către o treime din statele părți, sub auspiciile de către secretarul general al Organizației Națiunilor Unite.",
+            "ref": "1. Orice stat parte la prezentul pact poate să propuna un amendament şi să-i depuna textul la secretarul general al Organizaţiei Natiunilor Unite. Secretarul general va transmite apoi toate proiectele de amendamente statelor părţi la prezentul pact, cerindu-le să-i comunice dacă doresc să se convoace o conferinta a statelor părţi pentru a examina aceste proiecte şi a le supune votării. Dacă cel puţin o treime din state se declara în favoarea acestei convocari, secretarul general va convoca conferinta sub auspiciile Organizaţiei Natiunilor Unite. Orice amendament adoptat de majoritatea statelor prezente şi votante la conferinta va fi supus aprobării Adunarii Generale a Natiunilor Unite.",
+            "COMET": 0.3701171875,
+            "errors": [
+                {
+                    "text": "va",
+                    "confidence": 0.30810546875,
+                    "severity": "critical",
+                    "start": 34,
+                    "end": 37
+                },
+                {
+                    "text": "la care va",
+                    "confidence": 0.30615234375,
+                    "severity": "major",
+                    "start": 59,
+                    "end": 70
+                },
+                {
+                    "text": "în care susține",
+                    "confidence": 0.3359375,
+                    "severity": "major",
+                    "start": 383,
+                    "end": 399
+                },
+                {
+                    "text": "rea",
+                    "confidence": 0.30517578125,
+                    "severity": "major",
+                    "start": 407,
+                    "end": 410
+                },
+                {
+                    "text": "piciile",
+                    "confidence": 0.33740234375,
+                    "severity": "major",
+                    "start": 467,
+                    "end": 474
+                },
+                {
+                    "text": "către",
+                    "confidence": 0.338623046875,
+                    "severity": "major",
+                    "start": 477,
+                    "end": 483
+                }
+            ]
+        },
+        {
+            "src": "2. يبدأ نفاذ التعديلات متى أقرتها الجمعية العامة للأمم المتحدة وقبلتها أغلبية ثلثي الدول الأطراف في هذا العهد، وفقا للإجراءات الدستورية لدى كل منها.",
+            "mt": "Amendamentele vor intra în vigoare în momentul în care vor fi adoptate de Adunarea Generală a Națiunilor Unite și acceptate de majoritatea de două treimi din statele părți la prezentul pact, în conformitate cu procedurile constituționale respective.",
+            "ref": "2. Aceste amendamente intră în vigoare după ce au fost aprobate de Adunarea Generală a Natiunilor Unite şi acceptate de o majoritate de două treimi a statelor părţi la prezentul pact, în conformitate cu respectivele lor reguli constitutionale.",
+            "COMET": 0.9104297161102295
+        },
+        {
+            "src": "3. متى بدأ نفاذ هذه التعديلات تصبح ملزمة للدول الأطراف التي قبلتها، بينما تظل الدول الأطراف الأخرى ملزمة بأحكام هذا العهد وبأي تعديل سابق تكون قد قبلته.",
+            "mt": "Când aceste amendamente vor intra în vigoare, statele părți care le-au acceptat vor fi obligate, în timp ce celelalte state părți vor rămâne obligate să se supună prevederilor prezentului pact și în ce modificare anterioară a fost acceptată.",
+            "ref": "3. Cînd aceste amendamente intră în vigoare, ele sînt obligatorii pentru statele părţi care le-au acceptat, celelalte state părţi raminind legate de dispozitiile prezentului pact şi de orice amendament anterior pe care l-au acceptat.",
+            "COMET": 0.7828788757324219,
+            "errors": [
+                {
+                    "text": "fi obligat",
+                    "confidence": 0.46142578125,
+                    "severity": "major",
+                    "start": 83,
+                    "end": 94
+                },
+                {
+                    "text": "în ce modificare anterioară a fost acceptată",
+                    "confidence": 0.472900390625,
+                    "severity": "major",
+                    "start": 195,
+                    "end": 240
+                }
+            ]
+        },
+        {
+            "src": "المادة 30",
+            "mt": "Articolul 30 din articolul 30 din articol.",
+            "ref": "Articolul 30",
+            "COMET": 0.5600879192352295
+        },
+        {
+            "src": "بصرف النظر عن الاخطارات التي تتم بمقتضى الفقرة 5 من المادة 26، يخطر الأمين العام للأمم المتحدة جميع الدول المشار إليها في الفقرة 1 من المادة المذكورة بما يلي:",
+            "mt": "În afară de declarațiile făcute la paragraful 5 al art. 26, secretarul general al Organizației Națiunilor Unite va notifica tuturor statelor vizate la paragraful 1 al articolului:",
+            "ref": "Independent de notificarile prevăzute la paragraful 5 al art. 26, secretarul general al O.N.U. va informa toate statele la care se referă paragraful 1 al aceluiasi articol:",
+            "COMET": 0.8952601552009583,
+            "errors": [
+                {
+                    "text": "notifica",
+                    "confidence": 0.385498046875,
+                    "severity": "minor",
+                    "start": 114,
+                    "end": 123
+                },
+                {
+                    "text": "lor",
+                    "confidence": 0.410888671875,
+                    "severity": "minor",
+                    "start": 137,
+                    "end": 140
+                },
+                {
+                    "text": "articolului",
+                    "confidence": 0.376220703125,
+                    "severity": "minor",
+                    "start": 166,
+                    "end": 178
+                }
+            ]
+        },
+        {
+            "src": "(أ) التوقيعات والتصديقات والانضمامات التي تتم طبقا للمادة 26،",
+            "mt": "a) semnaturi, ratificări și aderări efectuate conform art. 26;",
+            "ref": "a) cu privire la semnaturile, instrumentele de ratificare şi de aderare depuse în conformitate cu art. 26;",
+            "COMET": 0.9504468441009521,
+            "errors": [
+                {
+                    "text": "a) semnaturi, ratificări",
+                    "confidence": 0.432861328125,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 24
+                },
+                {
+                    "text": "ări",
+                    "confidence": 0.3984375,
+                    "severity": "minor",
+                    "start": 32,
+                    "end": 35
+                }
+            ]
+        },
+        {
+            "src": "(ب) تاريخ بدء نفاذ هذا العهد بمقتضى المادة 27، وتاريخ بدء نفاذ أية تعديلات تتم في إطار المادة 29.",
+            "mt": "b) data intrării în vigoare a prezentului Pact conform art. 27 și data intrării în vigoare a oricăror modificări efectuate în cadrul art. 29.",
+            "ref": "b) cu privire la data la care prezentul pact va intra în vigoare în conformitate cu art. 27 şi la data cînd vor intra în vigoare amendamentele prevăzute în art. 29.",
+            "COMET": 0.9675476551055908,
+            "errors": [
+                {
+                    "text": "cadrul",
+                    "confidence": 0.406005859375,
+                    "severity": "minor",
+                    "start": 125,
+                    "end": 132
+                }
+            ]
+        },
+        {
+            "src": "المادة 31",
+            "mt": "Articolul 31 din articolul 31 al articolului 31",
+            "ref": "Articolul 31",
+            "COMET": 0.3101489245891571
+        },
+        {
+            "src": "1. يودع هذا العهد، الذي تتساوى في الحجية نصوصه بالأسبانية والإنكليزية والروسية والصينية والفرنسية، في محفوظات الأمم المتحدة.",
+            "mt": "Acest legământ, al cărui text este egal în limba spaniolă, engleză, rusă, chineză și franceză, este depus în arhivele Organizației Națiunilor Unite.",
+            "ref": "1. Prezentul pact, ale cărui texte în chineza, engleza, franceza, rusa şi spaniola, sînt în egala măsura autentice, va fi depus în arhivele Organizaţiei Natiunilor Unite.",
+            "COMET": 0.8527578115463257,
+            "errors": [
+                {
+                    "text": "este egal în limba span",
+                    "confidence": 0.456298828125,
+                    "severity": "major",
+                    "start": 29,
+                    "end": 53
+                }
+            ]
+        },
+        {
+            "src": "2. يقوم الأمين العام للأمم المتحدة بإرسال صور مصدقة من هذا العهد إلى جميع الدول المشار إليها في المادة 26.",
+            "mt": "Secretarul general al Organizației Națiunilor Unite va transmite tuturor statelor vizate la art. 26 fotografii ratificate.",
+            "ref": "2. Secretarul general al O.N.U. va transmite tuturor statelor la care se referă art. 26 cite o copie certificata de pe prezentul pact.",
+            "COMET": 0.8810781240463257,
+            "errors": [
+                {
+                    "text": "fotografii ratificate",
+                    "confidence": 0.4716796875,
+                    "severity": "major",
+                    "start": 99,
+                    "end": 121
+                }
+            ]
+        }
+    ]
+}

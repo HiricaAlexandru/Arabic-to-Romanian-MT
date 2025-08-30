@@ -1,0 +1,1030 @@
+{
+    "/content/drive/MyDrive/ArRo/XCOMET_XL_Error_Analysis/ar-ro/translate/NLLB_TRAINED/drepturile_omului/nllb.txt": [
+        {
+            "src": "المادة 1",
+            "mt": "Articolul 1",
+            "ref": "Articolul 1",
+            "COMET": 0.9997851848602295
+        },
+        {
+            "src": "يولد جميع الناس أحراراً ومتساوين في الكرامة والحقوق. وهم قد وهبوا العقل والوجدان وعليهم أن يعاملوا بعضهم بعضاً بروح الإخاء.",
+            "mt": "Toți oamenii se nasc liberi și egali în demnitate și drepturi, au primit rațiunea și capacitatea de a se trata reciproc în spirit de fraternitate.",
+            "ref": "Toate fiinţele umane se nasc libere şi egale în demnitate şi în drepturi. Ele înzestraţe cu raţiune şi conştiinţă şi trebuie să se comporte unii faţă de altele în spiritul fraternităţii.",
+            "COMET": 0.9465515613555908,
+            "errors": [
+                {
+                    "text": "primit",
+                    "confidence": 0.382568359375,
+                    "severity": "minor",
+                    "start": 65,
+                    "end": 72
+                }
+            ]
+        },
+        {
+            "src": "المادة 2",
+            "mt": "Articolul 2",
+            "ref": "Articolul 2",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لكلِّ إنسان حقُّ التمتُّع بجميع الحقوق والحرِّيات المذكورة في هذا الإعلان، دونما تمييز من أيِّ نوع، ولا سيما التمييز بسبب العنصر، أو اللون، أو الجنس، أو اللغة، أو الدِّين، أو الرأي سياسيًّا وغير سياسي، أو الأصل الوطني أو الاجتماعي، أو الثروة، أو المولد، أو أيِّ وضع آخر. وفضلاً عن ذلك لا يجوز التمييزُ علي أساس الوضع السياسي أو القانوني أو الدولي للبلد أو الإقليم الذي ينتمي إليه الشخص، سواء أكان مستقلاًّ أو موضوعًا تحت الوصاية أو غير متمتِّع بالحكم الذاتي أم خاضعًا لأيِّ قيد آخر على سيادته.",
+            "mt": "Fiecare om are dreptul de a se bucura de toate drepturile și libertățile menționate în prezenta Declarație, fără nici o discriminare de orice natură, în special în ceea ce privește elementul, culoarea, sexul, limbajul, religia, opiniile politice și non-politice, originea națională sau socială, bogăția, nașterea sau orice altă situație.",
+            "ref": "Fiecare om se poate prevala de toate drepturile şi libertăţile proclamate în prezenta Declaraţie fără nici un fel de deosebire ca, de pildă, deosebirea de rasă, culoare, sex, limbă, religie, opinie politică sau orice altă opinie, de origine naţională sau socială, avere, naştere sau orice alte împrejurări. În afară de aceasta, nu se va face nici o deosebire după statutul politic, juridic sau internaţional al ţării sau al teritoriului de care ţine o persoană, fie că această ţară sau teritoriu sînt independente, sub tutelă, neautonome sau supuse vreunei alte limitări a suveranităte.",
+            "COMET": 0.7048085927963257,
+            "errors": [
+                {
+                    "text": "elementul,",
+                    "confidence": 0.416748046875,
+                    "severity": "major",
+                    "start": 180,
+                    "end": 191
+                }
+            ]
+        },
+        {
+            "src": "المادة 3",
+            "mt": "Articolul 3",
+            "ref": "Articolul 3",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لكلِّ فرد الحقُّ في الحياة والحرِّية وفي الأمان على شخصه.",
+            "mt": "Fiecare are dreptul la viață, libertate și siguranță.",
+            "ref": "Orice fiinţă umană are dreptul la viaţă, la libertate şi la securitatea persoanei sale.",
+            "COMET": 0.9944140911102295
+        },
+        {
+            "src": "المادة 4",
+            "mt": "Articolul 4",
+            "ref": "Articolul 4",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لا يجوز استرقاقُ أحد أو استعبادُه، ويُحظر الرق والاتجار بالرقيق بجميع صورهما.",
+            "mt": "Nimeni nu poate fi jefuit sau sclav, iar sclavia și traficul de sclavi sunt interzise în toate formele lor.",
+            "ref": "Nimeni nu va fi ţinut în sclavie, nici în servitute; sclavajul şi comerţul cu sclavi sînt interzise sub toate formele lor.",
+            "COMET": 0.8595937490463257,
+            "errors": [
+                {
+                    "text": "poate fi jefuit sau sclav",
+                    "confidence": 0.490478515625,
+                    "severity": "major",
+                    "start": 9,
+                    "end": 35
+                }
+            ]
+        },
+        {
+            "src": "المادة 5",
+            "mt": "Articolul 5",
+            "ref": "Articolul 5",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لا يجوز إخضاعُ أحد للتعذيب ولا للمعاملة أو العقوبة القاسية أو اللاإنسانية أو الحاطَّة بالكرامة.",
+            "mt": "Nimeni nu poate fi supus torturii, tratamentelor sau pedepsei crude, inumane sau demne.",
+            "ref": "Nimeni nu va fi supus torturi, nici la pedepse sau tratamente crude, inumane sau degradante.",
+            "COMET": 0.5981992483139038,
+            "errors": [
+                {
+                    "text": "poate",
+                    "confidence": 0.40625,
+                    "severity": "major",
+                    "start": 9,
+                    "end": 15
+                },
+                {
+                    "text": "tratamentelor sau pedepsei cru",
+                    "confidence": 0.427001953125,
+                    "severity": "major",
+                    "start": 34,
+                    "end": 65
+                },
+                {
+                    "text": "in",
+                    "confidence": 0.373779296875,
+                    "severity": "major",
+                    "start": 68,
+                    "end": 71
+                },
+                {
+                    "text": "ne sau demne",
+                    "confidence": 0.4296875,
+                    "severity": "major",
+                    "start": 74,
+                    "end": 86
+                }
+            ]
+        },
+        {
+            "src": "المادة 6",
+            "mt": "Articolul 6",
+            "ref": "Articolul 6",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لكلِّ إنسان، في كلِّ مكان، الحقُّ بأن يُعترَف له بالشخصية القانونية.",
+            "mt": "Orice persoană, oriunde, are dreptul să fie recunoscută ca fiind o persoană legală.",
+            "ref": "Fiecare om are dreptul să i se recunoaşca pretutindeni personalitatea juridică.",
+            "COMET": 0.9778015613555908,
+            "errors": [
+                {
+                    "text": "legal",
+                    "confidence": 0.44140625,
+                    "severity": "minor",
+                    "start": 75,
+                    "end": 81
+                }
+            ]
+        },
+        {
+            "src": "المادة 7",
+            "mt": "Articolul 7",
+            "ref": "Articolul 7",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "الناسُ جميعًا سواءٌ أمام القانون، وهم يتساوون في حقِّ التمتُّع بحماية القانون دونما تمييز، كما يتساوون في حقِّ التمتُّع بالحماية من أيِّ تمييز ينتهك هذا الإعلانَ ومن أيِّ تحريض على مثل هذا التمييز.",
+            "mt": "Toți oamenii au dreptul de a se bucura de protecția legală fără discriminare și de a se bucura de protecția împotriva oricăror discriminări care încalcă această Declarație și oricăror incitare la o astfel de discriminare.",
+            "ref": "Toţi oamenii sînt egali în faţa legii şi au, fără nici o deosebire, dreptul la o egală protecţie a legii. Toţi oamenii au dreptul la o protecţie egală împotriva oricărei discriminări care ar viola prezenta Declaraţie şi împotriva oricărei provocări la o asemenea discriminare.",
+            "COMET": 0.9260437488555908,
+            "errors": [
+                {
+                    "text": "ror incitare",
+                    "confidence": 0.414794921875,
+                    "severity": "minor",
+                    "start": 180,
+                    "end": 192
+                }
+            ]
+        },
+        {
+            "src": "المادة 8",
+            "mt": "Articolul 8",
+            "ref": "Articolul 8",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لكلِّ شخص حقُّ اللجوء إلى المحاكم الوطنية المختصَّة لإنصافه الفعلي من أيَّة أعمال تَنتهك الحقوقَ الأساسيةَ التي يمنحها إيَّاه الدستورُ أو القانونُ.",
+            "mt": "Orice persoană are dreptul de a se adresa instanțelor naționale competente pentru justiția sa efectivă în ceea ce privește orice acțiune care încalcă drepturile fundamentale conferite de Constituție sau de lege.",
+            "ref": "Orice persoana are dreptul la satisfacţia efectivă din partea instanţelor juridice naţionale competente împotriva actelor care violează drepturile fundamentale cei sînt recunoscute prin constituţie sau lege.",
+            "COMET": 0.8937734365463257,
+            "errors": [
+                {
+                    "text": "justiția sa efectiv",
+                    "confidence": 0.4296875,
+                    "severity": "major",
+                    "start": 81,
+                    "end": 101
+                }
+            ]
+        },
+        {
+            "src": "المادة 9",
+            "mt": "Articolul 9",
+            "ref": "Articolul 9",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لا يجوز اعتقالُ أيِّ إنسان أو حجزُه أو نفيُه تعسُّفًا.",
+            "mt": "Nimeni nu poate fi arestat, reţinut sau exilat arbitrar.",
+            "ref": "Nimeni nu trebuie să fie arestat, deţinut sau exilat în mod arbitrar.",
+            "COMET": 0.9787890911102295
+        },
+        {
+            "src": "المادة 10",
+            "mt": "Articolul 10",
+            "ref": "Articolul 10",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لكلِّ إنسان، على قدم المساواة التامة مع الآخرين، الحقُّ في أن تَنظر قضيتَه محكمةٌ مستقلَّةٌ ومحايدةٌ، نظرًا مُنصفًا وعلنيًّا، للفصل في حقوقه والتزاماته وفى أيَّة تهمة جزائية تُوجَّه إليه.",
+            "mt": "Fiecare om, la egalitate deplină cu ceilalţi, are dreptul să fie judecat de un tribunal independent şi neutru, în mod just şi public, pentru a-şi separa drepturile şi obligaţiile şi orice acuzaţie penală.",
+            "ref": "Orice persoană are dreptul în deplină egalitate de a fi audiată în mod echitabil şi public de către un tribunal independent şi imparţial care va hotărî fie asupra drepturilor şi obligaţiilor sale, fie asupra temeiniciei oricărei acuzări în materie penală îndreptată împotriva sa.",
+            "COMET": 0.7183710932731628,
+            "errors": [
+                {
+                    "text": "just",
+                    "confidence": 0.4736328125,
+                    "severity": "major",
+                    "start": 117,
+                    "end": 122
+                },
+                {
+                    "text": "pentru a-şi separa drepturile",
+                    "confidence": 0.467529296875,
+                    "severity": "major",
+                    "start": 133,
+                    "end": 163
+                },
+                {
+                    "text": "ţiile şi orice acuzaţie",
+                    "confidence": 0.423583984375,
+                    "severity": "major",
+                    "start": 173,
+                    "end": 196
+                }
+            ]
+        },
+        {
+            "src": "المادة 11",
+            "mt": "Articolul 11",
+            "ref": "Articolul 11",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. كلُّ شخص متَّهم بجريمة يُعتبَر بريئًا إلى أن يثبت ارتكابُه لها قانونًا في محاكمة علنية تكون قد وُفِّرت له فيها جميعُ الضمانات اللازمة للدفاع عن نفسه.",
+            "mt": "1. Orice persoană acuzată de o crimă este considerată nevinovată până când comiterea sa nu este dovedită legală într-un proces public, în care este rezervată toate garanțiile necesare pentru apărare.",
+            "ref": "1. Orice persoană acuzată de comiterea unui act cu caracter penal are dreptul să fie presupusă nevinovată pînă cînd vinovăţia sa va fi stabilită în mod legal în cursul unui proces public in care i-au fost asigurate toate garanţiile necesare apărării sale.",
+            "COMET": 0.7412656545639038,
+            "errors": [
+                {
+                    "text": "comiterea",
+                    "confidence": 0.40625,
+                    "severity": "major",
+                    "start": 74,
+                    "end": 84
+                },
+                {
+                    "text": "nu",
+                    "confidence": 0.45263671875,
+                    "severity": "major",
+                    "start": 87,
+                    "end": 90
+                },
+                {
+                    "text": "dovedită legală",
+                    "confidence": 0.49853515625,
+                    "severity": "major",
+                    "start": 95,
+                    "end": 111
+                },
+                {
+                    "text": "este rezervată",
+                    "confidence": 0.4619140625,
+                    "severity": "major",
+                    "start": 142,
+                    "end": 157
+                }
+            ]
+        },
+        {
+            "src": "2.لا يُدان أيُّ شخص بجريمة بسبب أيِّ عمل أو امتناع عن عمل لم يكن في حينه يشكِّل جُرمًا بمقتضى القانون الوطني أو الدولي، كما لا تُوقَع عليه أيَّةُ عقوبة أشدَّ من تلك التي كانت ساريةً في الوقت الذي ارتُكب فيه الفعل الجُرمي.",
+            "mt": "2.Nimeni nu poate fi condamnat pentru o infracțiune pentru orice acțiune sau abstinență de muncă care în momentul în care nu constituie o infracțiune în temeiul legislației naționale sau internaționale și nu poate fi pedepsit cu o pedeapsă mai severă decât cea în vigoare la momentul comiterii faptei.",
+            "ref": "2. Nimeni nu va fi condamnat pentru acţiuni sau omisiuni care nui constituiau, în momentul cînd au fost comise, un act cu caracter penal conform dreptului internaţional sau naţional. De asemenea, nu se va aplica nici o pedeapsă mai grea decît aceea care era aplicabilă în momentul cînd a fost săvîrşit actul cu caracter penal.",
+            "COMET": 0.5894648432731628,
+            "errors": [
+                {
+                    "text": "pentru o infracțiune pentru orice a",
+                    "confidence": 0.339111328125,
+                    "severity": "critical",
+                    "start": 30,
+                    "end": 66
+                },
+                {
+                    "text": "abstinență de muncă care în momentul în care nu",
+                    "confidence": 0.40869140625,
+                    "severity": "major",
+                    "start": 76,
+                    "end": 124
+                }
+            ]
+        },
+        {
+            "src": "المادة 12",
+            "mt": "Articolul 12",
+            "ref": "Articolul 12",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لا يجوز تعريضُ أحد لتدخُّل تعسُّفي في حياته الخاصة أو في شؤون أسرته أو مسكنه أو مراسلاته، ولا لحملات تمسُّ شرفه وسمعته. ولكلِّ شخص حقٌّ في أن يحميه القانونُ من مثل ذلك التدخُّل أو تلك الحملات.",
+            "mt": "Nimeni nu poate fi supus unei intervenţii arbitrare în viaţa sa privată, în treburile familiei sale, în locuinţa sa sau în corespondenţa sa, nici unei campanii care să-i atingă onoarea şi reputaţia, dar fiecare are dreptul să fie protejat de lege împotriva unei astfel de intervenţii sau a unor astfel de campanii.",
+            "ref": "Nimeni nu va fi supus la imixtiuni arbitrare în viaţa sa personală, în familia sa, în domiciliul lui sau în corespondenţa sa, nici la atingeri aduse onoarei şi reputaţiei sale. Orice persoană are dreptul la protecţia legii împotriva unor asemenea imixtiuni sau atingeri.",
+            "COMET": 0.9670703411102295
+        },
+        {
+            "src": "المادة 13",
+            "mt": "Articolul 13",
+            "ref": "Articolul 13",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. لكلِّ فرد حقٌّ في حرِّية التنقُّل وفي اختيار محلِّ إقامته داخل حدود الدولة.",
+            "mt": "1. Orice persoană are dreptul la libertatea de circulație și la alegerea locului de locuință în interiorul frontierei statului.",
+            "ref": "1. Orice persoană are dreptul de a circula în mod liber şi de a-şi alege reşedinţa în interiorul graniţelor unui stat.",
+            "COMET": 0.9968554973602295
+        },
+        {
+            "src": "2. لكلِّ فرد حقٌّ في مغادرة أيِّ بلد، بما في ذلك بلده، وفي العودة إلى بلده.",
+            "mt": "2. Orice persoană are dreptul de a părăsi orice țară, inclusiv țara sa, și de a se întoarce în țara sa.",
+            "ref": "2. Orice persoană are dreptul de a părăsi orice ţară, inclusiv a sa, şi de reveni în ţara sa.",
+            "COMET": 0.9997851848602295
+        },
+        {
+            "src": "المادة 14",
+            "mt": "Articolul 14",
+            "ref": "Articolul 14",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. لكلِّ فرد حقُّ التماس ملجأ في بلدان أخرى والتمتُّع به خلاصًا من الاضطهاد.",
+            "mt": "1. Orice persoană are dreptul de a solicita şi de a se bucura de un refugiu în alte ţări şi de a se bucura de o salvare împotriva persecuţiei.",
+            "ref": "1. În caz de persecuţie, orice persoană are dreptul de a căuta azil şi de a beneficia de azil în alte ţări.",
+            "COMET": 0.8463554382324219,
+            "errors": [
+                {
+                    "text": "bucura",
+                    "confidence": 0.378173828125,
+                    "severity": "major",
+                    "start": 99,
+                    "end": 106
+                },
+                {
+                    "text": "o salvare",
+                    "confidence": 0.39599609375,
+                    "severity": "major",
+                    "start": 109,
+                    "end": 119
+                }
+            ]
+        },
+        {
+            "src": "2. لا يمكن التذرُّعُ بهذا الحقِّ إذا كانت هناك ملاحقةٌ ناشئةٌ بالفعل عن جريمة غير سياسية أو عن أعمال تناقض مقاصدَ الأمم المتحدة ومبادئها.",
+            "mt": "Acest drept nu poate fi invocat în cazul în care există deja o urmărire pentru o crimă non-politică sau pentru acte contrare scopurilor și principiilor ONU.",
+            "ref": "2. Acest drept nu poate fi invocat în caz de urmărire ce rezultă în mod real dintr-o crimă de drept comun sau din acţiuni contrare scopurilor şi principiilor Organizaţiei Naţiunilor Unite.",
+            "COMET": 0.9567945003509521,
+            "errors": [
+                {
+                    "text": "cri",
+                    "confidence": 0.40185546875,
+                    "severity": "minor",
+                    "start": 80,
+                    "end": 84
+                },
+                {
+                    "text": "non-politic",
+                    "confidence": 0.4091796875,
+                    "severity": "minor",
+                    "start": 86,
+                    "end": 98
+                }
+            ]
+        },
+        {
+            "src": "المادة 15",
+            "mt": "Articolul 15",
+            "ref": "Articolul 15",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. لكل فرد حق التمتع بجنسية ما.",
+            "mt": "1. Orice persoană are dreptul la o cetățenie.",
+            "ref": "1. Orice persoană are dreptul la o cetăţenie.",
+            "COMET": 0.9914844036102295
+        },
+        {
+            "src": "2. لا يجوز، تعسُّفًا، حرمانُ أيِّ شخص من جنسيته ولا من حقِّه في تغيير جنسيته.",
+            "mt": "2. Nimeni nu poate fi privat arbitrar de cetăţenia sa şi de dreptul de a-şi schimba cetăţenia.",
+            "ref": "2. Nimeni nu poate fi lipsit în mod arbitrar de cetăţenia sa sau de dreptul de a-şi schimba cetăţenia.",
+            "COMET": 0.9973437786102295
+        },
+        {
+            "src": "المادة 16",
+            "mt": "Articolul 16",
+            "ref": "Articolul 16",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. للرجل والمرأة، متى أدركا سنَّ البلوغ، حقُّ التزوُّج وتأسيس أسرة، دون أيِّ قيد بسبب العِرق أو الجنسية أو الدِّين. وهما متساويان في الحقوق لدى التزوُّج وخلال قيام الزواج ولدى انحلاله.",
+            "mt": "1. Bărbatul şi femeia, după ce au atins vârsta de maturitate, au dreptul de a se căsători şi de a avea o familie, fără restricţii în temeiul rasei, al naţionalităţii sau al religiei.",
+            "ref": "1. Cu începere de la împlinirea vîrstei legale, bărbătul şi femeia, fără nici o restricţie în ce priveşte rasa, naţionalitatea sau religia, au dreptul de a se căsători şi de a întemeia o familie. Ei au drepturi egale la contractarea căsătoriei, în decursul căsătoriei şi la desfacerea ei.",
+            "COMET": 0.9690234661102295
+        },
+        {
+            "src": "2. ا يُعقَد الزواجُ إلاَّ برضا الطرفين المزمع زواجهما رضاءً كاملً لا إكراهَ فيه.",
+            "mt": "2. căsătoria poate fi încheiată numai la satisfacţia părţilor care sunt însărcinate, în plină satisfacţie şi fără forţă.",
+            "ref": "2. Căsătoria nu poate fi încheiată decît cu consimţămîntul liber şi deplin al viiitorilor soţi.",
+            "COMET": 0.5392265319824219,
+            "errors": [
+                {
+                    "text": "a",
+                    "confidence": 0.391845703125,
+                    "severity": "major",
+                    "start": 11,
+                    "end": 12
+                },
+                {
+                    "text": "la satisfacţia părţilor care sunt însărcinate, în plină satisfacţie şi fără forţă",
+                    "confidence": 0.51025390625,
+                    "severity": "major",
+                    "start": 37,
+                    "end": 119
+                }
+            ]
+        },
+        {
+            "src": "3.  الأسرةُ هي الخليةُ الطبيعيةُ والأساسيةُ في المجتمع، ولها حقُّ التمتُّع بحماية المجتمع والدولة.",
+            "mt": "Familia este celula naturală și esențială a societății și are dreptul de a beneficia de protecția societății și a statului.",
+            "ref": "3. Familia constituie elementul natural şi fundamental al societăţii şi are dreptul la ocrotire din partea societăţii şi a statului.",
+            "COMET": 0.9826843738555908,
+            "errors": [
+                {
+                    "text": "celula",
+                    "confidence": 0.399169921875,
+                    "severity": "minor",
+                    "start": 12,
+                    "end": 19
+                }
+            ]
+        },
+        {
+            "src": "المادة 17",
+            "mt": "Articolul 17",
+            "ref": "Articolul 17",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. لكلِّ فرد حقٌّ في التملُّك، بمفرده أو بالاشتراك مع غيره.",
+            "mt": "1. Orice persoană are dreptul de a deţine, în mod independent sau în comun cu alţii.",
+            "ref": "1. Orice persoană are dreptul la proprietate, atît singură, cît şi în asociaţie cu alţii.",
+            "COMET": 0.9778015613555908,
+            "errors": [
+                {
+                    "text": "deţine",
+                    "confidence": 0.377685546875,
+                    "severity": "minor",
+                    "start": 34,
+                    "end": 41
+                }
+            ]
+        },
+        {
+            "src": "2. لا يجوز تجريدُ أحدٍ من مُلكه تعسُّفًا.",
+            "mt": "2. Nimeni nu poate fi depus de proprietatea sa arbitrar.",
+            "ref": "2. Nimeni nu poate fi lipsit în mod arbitrar de proprietatea sa.",
+            "COMET": 0.857141375541687,
+            "errors": [
+                {
+                    "text": "depus de",
+                    "confidence": 0.4384765625,
+                    "severity": "major",
+                    "start": 21,
+                    "end": 30
+                },
+                {
+                    "text": "r",
+                    "confidence": 0.36181640625,
+                    "severity": "minor",
+                    "start": 54,
+                    "end": 55
+                }
+            ]
+        },
+        {
+            "src": "المادة 18",
+            "mt": "Articolul 18",
+            "ref": "Articolul 18",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لكلِّ شخص حقٌّ في حرِّية الفكر والوجدان والدِّين، ويشمل هذا الحقُّ حرِّيته في تغيير دينه أو معتقده، وحرِّيته في إظهار دينه أو معتقده بالتعبُّد وإقامة الشعائر والممارسة والتعليم، بمفرده أو مع جماعة، وأمام الملأ أو على حدة.",
+            "mt": "Toată lumea are dreptul la libertatea de gândire, de a găsi și de a avea o religie, care include libertatea de a-și schimba religia sau credința și libertatea de a-și exprima religia sau credința prin cult, practicare, cult și învățare, individual sau în grup, public sau privat.",
+            "ref": "Orice om are dreptul la libertatea gîndirii, de conştiintă şi religie; acest drept include libertatea de a-şi schimba religia sau convingerea, precum şi libertatea de a-şi manifesta religia sau convingerea, singur sau împreună cu alţii, atît în mod public, cît şi privat, prin învăţătură, practici religioase, cult şi îndeplinirea riturilor.",
+            "COMET": 0.6431757807731628,
+            "errors": [
+                {
+                    "text": "de a găsi și de",
+                    "confidence": 0.484375,
+                    "severity": "major",
+                    "start": 49,
+                    "end": 65
+                },
+                {
+                    "text": "avea o religi",
+                    "confidence": 0.49169921875,
+                    "severity": "major",
+                    "start": 67,
+                    "end": 81
+                },
+                {
+                    "text": "cult, practicare, cult și învățare",
+                    "confidence": 0.52685546875,
+                    "severity": "major",
+                    "start": 200,
+                    "end": 235
+                }
+            ]
+        },
+        {
+            "src": "المادة 19",
+            "mt": "Articolul 19",
+            "ref": "Articolul 19",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لكلِّ شخص حقُّ التمتُّع بحرِّية الرأي والتعبير، ويشمل هذا الحقُّ حرِّيته في اعتناق الآراء دون مضايقة، وفي التماس الأنباء والأفكار وتلقِّيها ونقلها إلى الآخرين، بأيَّة وسيلة ودونما اعتبار للحدود.",
+            "mt": "Toată lumea are dreptul la libertatea de opinie și de exprimare, care include libertatea de a accepta opiniile fără a fi supărată și de a solicita știri și idei, de a le primi și de a le transmite altora, în orice fel și fără a respecta limitele.",
+            "ref": "Orice om are dreptul la libertatea opiniilor şi exprimării; acest drept include libertatea de a avea opinii fără fără imixtiune din afară,precum şi libertatea de a căuta, de a primi şi de a răspîndi informaţii şi idei prin orice mijloace si independent de frontierele de stat.",
+            "COMET": 0.61279296875,
+            "errors": [
+                {
+                    "text": "accepta opiniile fără a fi",
+                    "confidence": 0.4794921875,
+                    "severity": "major",
+                    "start": 93,
+                    "end": 120
+                },
+                {
+                    "text": "părată",
+                    "confidence": 0.4912109375,
+                    "severity": "major",
+                    "start": 123,
+                    "end": 129
+                },
+                {
+                    "text": "știri",
+                    "confidence": 0.3896484375,
+                    "severity": "major",
+                    "start": 146,
+                    "end": 152
+                },
+                {
+                    "text": "fel",
+                    "confidence": 0.37744140625,
+                    "severity": "major",
+                    "start": 213,
+                    "end": 217
+                },
+                {
+                    "text": "fără a respecta limitele",
+                    "confidence": 0.5087890625,
+                    "severity": "major",
+                    "start": 220,
+                    "end": 245
+                }
+            ]
+        },
+        {
+            "src": "المادة 20",
+            "mt": "Articolul 20",
+            "ref": "Articolul 20",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. لكلِّ شخص حقٌّ في حرِّية الاشتراك في الاجتماعات والجمعيات السلمية.",
+            "mt": "1. Toată lumea are dreptul la libertatea de a participa la adunări și asociații paşnice.",
+            "ref": "1. Orice persoană are dreptul la libertatea de întrunire şi de asociere paşnică.",
+            "COMET": 0.9978320598602295
+        },
+        {
+            "src": "2.  لا يجوز إرغامُ أحدٍ على الانتماء إلى جمعية ما.",
+            "mt": "2. Nimeni nu poate fi obligat să aparţină unei asociaţii.",
+            "ref": "2. Nimeni nu poate fi silit să făcă parte dintr-o asociaţie.",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "المادة 21",
+            "mt": "Articolul 21",
+            "ref": "Articolul 21",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1.  لكلِّ شخص حقُّ المشاركة في إدارة الشؤون العامة لبلده، إمَّا مباشرةً وإمَّا بواسطة ممثِّلين يُختارون في حرِّية.",
+            "mt": "1. Orice persoană are dreptul să participe la administrarea afacerilor publice ale țării sale, fie direct, fie prin reprezentanți aleși în mod liber.",
+            "ref": "1. Orice persoană are dreptul de a lua parte la conducerea treburilor publice ale ţării sale, fie direct, fie prin reprezentanţi liber aleşi.",
+            "COMET": 0.9949023723602295
+        },
+        {
+            "src": "2. لكلِّ شخص، بالتساوي مع الآخرين، حقُّ تقلُّد الوظائف العامَّة في بلده.",
+            "mt": "2. Orice persoană, în mod egal cu ceilalţi, are dreptul să exercite funcţii publice în ţara sa.",
+            "ref": "2. Orice persoană are dreptul de acces egal la funcţiile publice din ţăra sa.",
+            "COMET": 0.9953906536102295
+        },
+        {
+            "src": "3. إرادةُ الشعب هي مناطُ سلطة الحكم، ويجب أن تتجلىَّ هذه الإرادة من خلال انتخابات نزيهة تجرى دوريًّا بالاقتراع العام وعلى قدم المساواة بين الناخبين وبالتصويت السرِّي أو بإجراء مكافئ من حيث ضمان حرِّية التصويت.",
+            "mt": "3. Voia poporului este o manifestare a puterii de guvernare, care trebuie să se manifeste prin alegeri corecte, care să se desfășoare periodic prin vot general, la egalitate între alegători, prin vot în secret sau prin intermediul unei proceduri echivalente în ceea ce privește asigurarea libertății de vot.",
+            "ref": "3. Voinţa poporului trebuie să constituie baza puterii de stat; această voinţă trebuie să fie exprimată prin alegeri nefalsificate, care să aibă loc în mod periodic prin sufragiu universal, egal şi exprimat prin vot secret sau urmînd o procedură echivalentă care să asigure libertatea votului.",
+            "COMET": 0.9182312488555908,
+            "errors": [
+                {
+                    "text": "corect",
+                    "confidence": 0.3896484375,
+                    "severity": "minor",
+                    "start": 102,
+                    "end": 109
+                }
+            ]
+        },
+        {
+            "src": "المادة 22",
+            "mt": "Articolul 22",
+            "ref": "Articolul 22",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لكلِّ شخص، بوصفه عضوًا في المجتمع، حقٌّ في الضمان الاجتماعي، ومن حقِّه أن تُوفَّر له، من خلال المجهود القومي والتعاون الدولي، وبما يتَّفق مع هيكل كلِّ دولة ومواردها، الحقوقُ الاقتصاديةُ والاجتماعيةُ والثقافيةُ التي لا غنى عنها لكرامته ولتنامي شخصيته في حرِّية.",
+            "mt": "Fiecare persoană, ca membru al societății, are dreptul la securitate socială și are dreptul să fie asigurată, prin eforturi naționale și cooperare internațională, în concordanță cu structura și resursele fiecărui stat, drepturile economice, sociale și culturale indispensabile demnității sale și dezvoltării personalității sale în libertate.",
+            "ref": "Orice persoană, în calitatea sa de membru al societăţii, are dreptul la securitatea socială; ea este îndreptăţită ca prin efortul national şi colaborarea internaţională, ţinîndu-se seama de organizarea şi resursele fiecărei ţări, să obţină realizarea drepturilor economice, sociale şi culturale indispensabile pentru demnitatea sa şi libera dezvoltare a personalităţii sale.",
+            "COMET": 0.9030507802963257,
+            "errors": [
+                {
+                    "text": "fie asigurată",
+                    "confidence": 0.41259765625,
+                    "severity": "major",
+                    "start": 94,
+                    "end": 108
+                }
+            ]
+        },
+        {
+            "src": "المادة 23",
+            "mt": "Articolul 23",
+            "ref": "Articolul 23",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. لكلِّ شخص حقُّ العمل، وفي حرِّية اختيار عمله، وفي شروط عمل عادلة ومُرضية، وفي الحماية من البطالة.",
+            "mt": "1. Orice persoană are dreptul la muncă, la libertatea de a alege munca, la condiții de muncă corecte și satisfăcătoare și la protecția împotriva șomajului.",
+            "ref": "1. Orice persoană are dreptul la muncă, la libera alegere a muncii sale, la condiţii echitabile şi satisfăcătoare de muncă, precum şi la ocrotirea împotriva şomajului.",
+            "COMET": 0.9953906536102295
+        },
+        {
+            "src": "2. لجميع الأفراد، دون أيِّ تمييز، الحقُّ في أجٍر متساوٍ على العمل المتساوي.",
+            "mt": "2. Toți indivizii, fără discriminare, au dreptul la salariu egal pentru un loc de muncă egal.",
+            "ref": "2. Toţi oamenii, fară nici o discriminare, au dreptul la salariu egal pentru muncă egală.",
+            "COMET": 0.9983203411102295
+        },
+        {
+            "src": "3.  لكلِّ فرد يعمل حقٌّ في مكافأة عادلة ومُرضية تكفل له ولأسرته عيشةً لائقةً بالكرامة البشرية، وتُستكمَل، عند الاقتضاء، بوسائل أخرى للحماية الاجتماعية.",
+            "mt": "Fiecare persoană are dreptul la o răsplată corectă și satisfăcătoare, care să asigure lui și familiei sale o viață decentă și demnită și care să fie, dacă este necesar, completată cu alte mijloace de protecție socială.",
+            "ref": "3. Orice om care munceşte are dreptul la o retribuire echitabilă şi satisfăcătoare care să-i asigure atît lui, cît şi familiei sale, o existenţă conformă cu demnitatea umană şi completată, la nevoie, prin alte mijloace de protecţie socială.",
+            "COMET": 0.9651172161102295
+        },
+        {
+            "src": "4. لكلِّ شخص حقُّ إنشاء النقابات مع آخرين والانضمام إليها من أجل حماية مصالحه.",
+            "mt": "4. Toată lumea are dreptul să creeze sindicate împreună cu alţii şi să se alăture acestora pentru a-şi proteja interesele.",
+            "ref": "4. Orice persoană are dreptul de a întemeia sindicate şi de a se afilia la sindicate pentru apărarea intereselelor sale .",
+            "COMET": 0.9944140911102295
+        },
+        {
+            "src": "المادة 24",
+            "mt": "Articolul 24",
+            "ref": "Articolul 24",
+            "COMET": 0.9953906536102295
+        },
+        {
+            "src": "لكلِّ شخص حقٌّ في الراحة وأوقات الفراغ، وخصوصًا في تحديد معقول لساعات العمل وفي إجازات دورية مأجورة.",
+            "mt": "Toată lumea are dreptul la odihnă și la timp liber, în special la o perioadă rezonabilă de timp de lucru și la concediu periodic plătit.",
+            "ref": "Orice persoană are dreptul la odihnă şi recreaţie, inclusiv la o limitare rezonabilă a zilei de muncă şi la concedii periodice plătite.",
+            "COMET": 0.9621655941009521,
+            "errors": [
+                {
+                    "text": "perioadă",
+                    "confidence": 0.418701171875,
+                    "severity": "minor",
+                    "start": 67,
+                    "end": 76
+                },
+                {
+                    "text": "de timp de lucru",
+                    "confidence": 0.40185546875,
+                    "severity": "minor",
+                    "start": 87,
+                    "end": 104
+                }
+            ]
+        },
+        {
+            "src": "المادة 25",
+            "mt": "Articolul 25",
+            "ref": "Articolul 25",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. لكلِّ شخص حقٌّ في مستوى معيشة يكفي لضمان الصحة والرفاهة له ولأسرته، وخاصَّةً على صعيد المأكل والملبس والمسكن والعناية الطبية وصعيد الخدمات الاجتماعية الضرورية، وله الحقُّ في ما يأمن به الغوائل في حالات البطالة أو المرض أو العجز أو الترمُّل أو الشيخوخة أو غير ذلك من الظروف الخارجة عن إرادته والتي تفقده أسباب عيشه.",
+            "mt": "1. Orice persoană are dreptul la un nivel de viaţă suficient pentru a-şi asigura sănătatea şi bunăstarea, în special în ceea ce priveşte mâncarea, îmbrăcămintea, locuinţa, îngrijirea medicală şi serviciile sociale necesare, şi are dreptul la ceea ce cred cei care trăiesc în caz de şomaj, boală, handicap, orfanie, îmbătrânire sau alte circumstanţe nevoluntare, care îi vor cauza pierderea vieţii.",
+            "ref": "1. Orice om are dreptul la un nivel de trai care să-i asigure sănătatea şi bunăstarea lui şi familiei sale, cuprinzînd hrana, îmbrăcămintea, locuinţa, îngrijirea medicală, precum şi serviciile sociale necesare; el are dreptul la asigurare în caz de şomaj, boală, invaliditate, văduvie, bătrîneţe sau în celelalte cazuri de pierdere a mijloacelor de subzistenţă, în urma unor împrejurări independente de voinţa sa.",
+            "COMET": 0.50048828125,
+            "errors": [
+                {
+                    "text": "la ceea ce cred cei care trăiesc în",
+                    "confidence": 0.469970703125,
+                    "severity": "critical",
+                    "start": 238,
+                    "end": 274
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.3427734375,
+                    "severity": "critical",
+                    "start": 278,
+                    "end": 281
+                },
+                {
+                    "text": "nevoluntare",
+                    "confidence": 0.392578125,
+                    "severity": "major",
+                    "start": 348,
+                    "end": 360
+                },
+                {
+                    "text": "îi vor cauza pierderea vieţii",
+                    "confidence": 0.3837890625,
+                    "severity": "major",
+                    "start": 366,
+                    "end": 396
+                }
+            ]
+        },
+        {
+            "src": "2.للأمومة والطفولة حقٌّ في رعاية ومساعدة خاصَّتين. ولجميع الأطفال حقُّ التمتُّع بذات الحماية الاجتماعية سواء وُلِدوا في إطار الزواج أو خارج هذا الإطار.",
+            "mt": "2.Mărsă și copil au dreptul la îngrijire și asistență privată; toți copiii au dreptul la aceeași protecție socială, fie că s-au născut în cadrul căsătoriei, fie că nu s-au născut în cadrul acestei protecții.",
+            "ref": "2. Mama şi copilul au dreptul la ajutor şi ocrotire deosebite. Toţi copiii, fie că sînt născuţi în cadrul căsătorii sau în afara acesteia, se bucură aceeaşi protecţie socială.",
+            "COMET": 0.62890625,
+            "errors": [
+                {
+                    "text": "2.Mărsă și copil",
+                    "confidence": 0.4736328125,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 16
+                },
+                {
+                    "text": "asistență privat",
+                    "confidence": 0.41943359375,
+                    "severity": "major",
+                    "start": 43,
+                    "end": 60
+                },
+                {
+                    "text": "că nu s",
+                    "confidence": 0.46630859375,
+                    "severity": "major",
+                    "start": 160,
+                    "end": 168
+                },
+                {
+                    "text": "au născut",
+                    "confidence": 0.49169921875,
+                    "severity": "major",
+                    "start": 169,
+                    "end": 178
+                },
+                {
+                    "text": "cadrul acestei protecți",
+                    "confidence": 0.478759765625,
+                    "severity": "major",
+                    "start": 181,
+                    "end": 205
+                }
+            ]
+        },
+        {
+            "src": "المادة 26",
+            "mt": "Articolul 26",
+            "ref": "Articolul 26",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. كلِّ شخص حقٌّ في التعليم. ويجب أن يُوفَّر التعليمُ مجَّانًا، على الأقل في مرحلتيه الابتدائية والأساسية. ويكون التعليمُ الابتدائيُّ إلزاميًّا. ويكون التعليمُ الفنِّي والمهني متاحًا للعموم. ويكون التعليمُ العالي مُتاحًا للجميع تبعًا لكفاءتهم.",
+            "mt": "1.Toată lumea are dreptul la educație.Educația trebuie să fie gratuită, cel puțin în etapele sale elementare și elementare.Educația elementară este obligatorie.Educația artistică și profesională este accesibilă publicului.Educația superioară este accesibilă tuturor, în funcție de competența lor.",
+            "ref": "1. Orice persoana are dreptul la învăţătură. Invăţămîntul trebuie să fie gratuit, cel puţin în ceea ce priveşte invăţămîntul elementar şi general. Invăţămîntul elementar trebuie să fie obligatoriu. Invăţămîntul tehnic şi profesional trebuie să fie la îndemîna tuturor, iar învăţămîntul superior trebuie să fie de asemenea egal, accesibil tuturora, pe bază de merit.",
+            "COMET": 0.62744140625,
+            "errors": [
+                {
+                    "text": "etapele sale elementar",
+                    "confidence": 0.4306640625,
+                    "severity": "major",
+                    "start": 84,
+                    "end": 107
+                },
+                {
+                    "text": "și elementare",
+                    "confidence": 0.457763671875,
+                    "severity": "major",
+                    "start": 108,
+                    "end": 122
+                },
+                {
+                    "text": "Ed",
+                    "confidence": 0.36279296875,
+                    "severity": "minor",
+                    "start": 160,
+                    "end": 162
+                },
+                {
+                    "text": "artistic",
+                    "confidence": 0.481689453125,
+                    "severity": "major",
+                    "start": 168,
+                    "end": 177
+                },
+                {
+                    "text": "și profesională este",
+                    "confidence": 0.4052734375,
+                    "severity": "major",
+                    "start": 178,
+                    "end": 199
+                },
+                {
+                    "text": "publicului",
+                    "confidence": 0.4580078125,
+                    "severity": "major",
+                    "start": 210,
+                    "end": 221
+                }
+            ]
+        },
+        {
+            "src": "2. يجب أن يستهدف التعليمُ التنميةَ الكاملةَ لشخصية الإنسان وتعزيز احترام حقوق الإنسان والحريات الأساسية. كما يجب أن يعزِّز التفاهمَ والتسامحَ والصداقةَ بين جميع الأمم وجميع الفئات العنصرية أو الدينية، وأن يؤيِّد الأنشطةَ التي تضطلع بها الأممُ المتحدةُ لحفظ السلام.",
+            "mt": "2.Educația trebuie să vizeze dezvoltarea deplină a personalității umane și să promoveze respectarea drepturilor omului și a libertăților fundamentale; să promoveze înțelegerea, toleranța și prietenia între toate națiunile și între toate grupurile rasiste sau religioase și să sprijine activitățile de menținere a păcii ale Națiunilor Unite.",
+            "ref": "2. Învăţămîntul trebuie să urmărească dezvoltarea deplină a personalităţii umane şi întărirea respectului faţă de drepturile omului şi libertăţile fundamentale. El trebuie să promoveze înţelegerea, toleranţa, prietenia între toate popoarele şi toate grupurile rasiale sau religioase, precum şi dezvoltarea activităţii Organizaţiei Naţiunilor Unite pentru menţirenea păcii.",
+            "COMET": 0.9568054676055908,
+            "errors": [
+                {
+                    "text": "Ed",
+                    "confidence": 0.406982421875,
+                    "severity": "minor",
+                    "start": 2,
+                    "end": 4
+                }
+            ]
+        },
+        {
+            "src": "3. للآباء، على سبيل الأولوية، حقُّ اختيار نوع التعليم الذي يُعطى لأولادهم.",
+            "mt": "Parintii au, in primul rand, dreptul de a alege ce fel de educatie trebuie sa-si dea copiilor.",
+            "ref": "3. Părinţii au dreptul de prioritate în alegerea felului de învăţămînt pentru copiii lor minori.",
+            "COMET": 0.9768359661102295
+        },
+        {
+            "src": "المادة 27",
+            "mt": "Articolul 27",
+            "ref": "Articolul 27",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. لكلِّ شخص حقُّ المشاركة الحرَّة في حياة المجتمع الثقافية، وفي الاستمتاع بالفنون، والإسهام في التقدُّم العلمي وفي الفوائد التي تنجم عنه.",
+            "mt": "1. Toată lumea are dreptul la participarea liberă la viața societății culturale, la bucuria de arte și la contribuția la progresul științific și la beneficiile care rezultă din aceasta.",
+            "ref": "1. Orice persoană are dreptul de a lua parte în mod liber la viaţa culturală a colectivităţii, de a se bucura de arte şi de a participa la progresul ştiinţific şi la binefacerile lui.",
+            "COMET": 0.9611999988555908,
+            "errors": [
+                {
+                    "text": "bucuria de arte",
+                    "confidence": 0.41357421875,
+                    "severity": "minor",
+                    "start": 83,
+                    "end": 99
+                }
+            ]
+        },
+        {
+            "src": "2. لكلِّ شخص حقٌّ في حماية المصالح المعنوية والمادية المترتِّبة على أيِّ إنتاج علمي أو أدبي أو فنِّي من صنعه .",
+            "mt": "2. Toată lumea are dreptul la protecția intereselor morale și materiale care aparțin oricărei lucrări științifice, literare sau artistice ale sale.",
+            "ref": "2. Fiecare om are dreptul la ocrotirea intereselor morale şi materiale care decurg din orice lucrare ştiinţifică, literară sau artistică al cărei autor este.",
+            "COMET": 0.9743835926055908,
+            "errors": [
+                {
+                    "text": "ale",
+                    "confidence": 0.41064453125,
+                    "severity": "minor",
+                    "start": 137,
+                    "end": 141
+                }
+            ]
+        },
+        {
+            "src": "المادة 28",
+            "mt": "Articolul 28",
+            "ref": "Articolul 28",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لكل فرد الحق في نظام اجتماعي ودولي يمكن أن تتحقق فيه الحقوق والحريات المنصوص عليها في هذا الإعلان بالكامل.",
+            "mt": "Fiecare persoană are dreptul la un sistem social și internațional în care să se realizeze în întregime drepturile și libertățile prevăzute în prezenta Declarație.",
+            "ref": "Orice persoană are dreptul la o orînduir socială şi internaţională în care drepturile şi libertăţile expuse în prezenta Declaraţie pot fi pe deplin înfăptuite.",
+            "COMET": 0.9963672161102295
+        },
+        {
+            "src": "المادة 29",
+            "mt": "Articolul 29",
+            "ref": "Articolul 29",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. على كلِّ فرد واجباتٌ إزاء الجماعة، التي فيها وحدها يمكن أن تنمو شخصيته النمو الحر الكامل.",
+            "mt": "Fiecare persoană are obligaţii faţă de comunitate, în care numai personalitatea sa poate dezvolta o dezvoltare liberă deplină.",
+            "ref": "1. Orice persoană are îndatoriri fată de colectivitate, deoarece numai în cadrul acesteia este posibilă dezvoltarea liberă şi deplină a personalităţii sale.",
+            "COMET": 0.8757070302963257,
+            "errors": [
+                {
+                    "text": "în care numai personalitatea sa poate dezvolta o dezvoltare liber",
+                    "confidence": 0.447509765625,
+                    "severity": "major",
+                    "start": 50,
+                    "end": 116
+                }
+            ]
+        },
+        {
+            "src": "2. لا يُخضع أيُّ فرد، في ممارسة حقوقه وحرِّياته، إلاَّ للقيود التي يقرِّرها القانونُ مستهدفًا منها، حصرًا، ضمانَ الاعتراف الواجب بحقوق وحرِّيات الآخرين واحترامها، والوفاءَ بالعادل من مقتضيات الفضيلة والنظام العام ورفاه الجميع في مجتمع ديمقراطي.",
+            "mt": "2. În exercitarea drepturilor şi libertăţilor sale, nicio persoană nu este supusă restricţiilor stabilite de lege, în special pentru a asigura respectarea şi respectarea drepturilor şi libertăţilor altora, a respectării în mod echitabil a cerinţelor de virtute, a ordinii publice şi a bunăstării tuturor în societatea democratică.",
+            "ref": "2. In exercitarea drepturilor şi libertăţilor sale, fiecare om nu este supus decît numai îngrădirilor stabilite prin lege, exclusiv în scopul de a asigura cuvenita recunoaştere şi respectare a drepturilor şi libertaţilor altora şi ca să fie satisfăcute justele cerinţe ale moralei, ordinii publice şi bunăstării generale într-o societate democratică.",
+            "COMET": 0.6025390625,
+            "errors": [
+                {
+                    "text": "nu",
+                    "confidence": 0.40478515625,
+                    "severity": "major",
+                    "start": 66,
+                    "end": 69
+                },
+                {
+                    "text": "respectarea şi respectarea",
+                    "confidence": 0.475830078125,
+                    "severity": "critical",
+                    "start": 142,
+                    "end": 169
+                },
+                {
+                    "text": "a",
+                    "confidence": 0.3486328125,
+                    "severity": "major",
+                    "start": 205,
+                    "end": 207
+                },
+                {
+                    "text": "ării",
+                    "confidence": 0.34716796875,
+                    "severity": "major",
+                    "start": 215,
+                    "end": 219
+                },
+                {
+                    "text": "ch",
+                    "confidence": 0.35498046875,
+                    "severity": "major",
+                    "start": 228,
+                    "end": 230
+                },
+                {
+                    "text": "virtute",
+                    "confidence": 0.383544921875,
+                    "severity": "major",
+                    "start": 252,
+                    "end": 260
+                }
+            ]
+        },
+        {
+            "src": "3.  لا يجوز في أيِّ حال أن تُمارَس هذه الحقوقُ على نحو يناقض مقاصدَ الأمم المتحدة ومبادئها.",
+            "mt": "În niciun caz, aceste drepturi nu pot fi exercitată în mod contrar scopurilor şi principiilor Naţiunilor Unite.",
+            "ref": "3. Aceste drepturi şi libertăţi nu vor putea fi în nici un caz exercitate contrar scopurilor şi principiilor Organizaţiei Naţiunilor Unite.",
+            "COMET": 0.9846374988555908,
+            "errors": [
+                {
+                    "text": "ată",
+                    "confidence": 0.447998046875,
+                    "severity": "minor",
+                    "start": 48,
+                    "end": 51
+                }
+            ]
+        },
+        {
+            "src": "المادة 30",
+            "mt": "Articolul 30",
+            "ref": "Articolul 30",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "ليس في هذا الإعلان أيُّ نصٍّ يجوز تأويله على نحو يفيد انطواءه على تخويل أيَّة دولة أو جماعة، أو أيِّ فرد، أيَّ حقٍّ في القيام بأيِّ نشاط أو بأيِّ فعل يهدف إلى هدم أيٍّ من الحقوق والحرِّيات المنصوص عليها فيه.",
+            "mt": "În această Declaraţie nu se află niciun text care să fie în mod util autorizat să acorde oricărui stat, grup sau individ niciun drept de a efectua orice activitate sau orice act care să distrugă oricare dintre drepturile şi libertăţile prevăzute în ea.",
+            "ref": "Nici o dispoziţie a prezentei Declaraţii nu poate fi interpretată ca implicînd pentru vreun stat, grupare sau persoană dreptul de a se deda la vreo activitate sau de a săvîrşi vreun act îndreptat spre desfiinţarea unor drepturi sau libertăţi enunţate în prezenta Declaraţie.",
+            "COMET": 0.7584101557731628,
+            "errors": [
+                {
+                    "text": "text care să fie",
+                    "confidence": 0.42919921875,
+                    "severity": "major",
+                    "start": 39,
+                    "end": 56
+                },
+                {
+                    "text": "mod util autorizat să acord",
+                    "confidence": 0.443115234375,
+                    "severity": "major",
+                    "start": 59,
+                    "end": 87
+                },
+                {
+                    "text": "niciun",
+                    "confidence": 0.387939453125,
+                    "severity": "major",
+                    "start": 120,
+                    "end": 127
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2302 @@
+{
+    "/content/drive/MyDrive/ArRo/XCOMET_XL_Error_Analysis/ar-ro/translate/GEMINI/drepturile_copilului/gemini.txt": [
+        {
+            "src": "الجزء الأول",
+            "mt": "Partea întâi",
+            "ref": "PARTEA I",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "المادة 1",
+            "mt": "Articolul 1",
+            "ref": "ARTICOLUL 1",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لأغراض هذه الاتفاقية، يعنى الطفل آل إنسان لم يتجاوز الثامنة عشرة، ما لم يبلغ سن الرشد قبل ذلك بموجب القانون المنطبق عليه.",
+            "mt": "În sensul prezentei convenții, prin „copil” se înțelege orice ființă umană cu vârsta sub optsprezece ani, cu excepția cazului în care, potrivit legii aplicabile, acesta își atinge majoratul înainte de această vârstă.",
+            "ref": "În sensul prezentei convenţii, prin copil se înţelege orice fiinţă umană sub vârsta de 18 ani, exceptând cazurile în care legea aplicabilă copilului stabileşte limita majoratului sub această vârstă.",
+            "COMET": 0.9758594036102295
+        },
+        {
+            "src": "المادة 2",
+            "mt": "Articolul 2",
+            "ref": "ARTICOLUL 2",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تحترم الدول الأطراف الحقوق الموضحة في هذه الاتفاقية وتضمنها لكل طفل يخضع لولايتها دون أي نوع من أنواع التمييز، بغض النظر عن عنصر الطفل أو والديه أو الوصي القانوني عليه أو لونهم أو جنسهم أو لغتهم أو دينهم أو رأيهم السياسي أو غيره أو أصلهم القومي أو الإثني أو الاجتماعي، أو ثروتهم، أو عجزهم، أو مولدهم، أو أي وضع آخر.",
+            "mt": "Statele părți respectă și garantează drepturile prevăzute în prezenta convenție pentru fiecare copil aflat sub jurisdicția lor, fără niciun fel de discriminare, indiferent de rasă, culoarea pielii, sex, limbă, religie, opinie politică sau altă opinie, origine națională sau etnică, situație socială, avere, dizabilitate, naștere sau orice altă situație a copilului sau a părinților sau a tutorelui său legal.",
+            "ref": "1. Statele părţi se angajează să respecte şi să garanteze drepturile stabilite în prezenta convenţie tuturor copiilor din jurisdicţia lor, indiferent de rasă, culoare, sex, limbă, religie, opinie politică sau altă opinie, de naţionalitate, apartenenţa etnică sau originea socială, de situaţia materială, incapacitatea fizică, de statutul la naştere sau de statutul dobândit al copilului ori al părinţilor sau al reprezentanţilor legali ai acestuia.",
+            "COMET": 0.8654859066009521,
+            "errors": [
+                {
+                    "text": "na",
+                    "confidence": 0.370849609375,
+                    "severity": "minor",
+                    "start": 320,
+                    "end": 323
+                },
+                {
+                    "text": "re",
+                    "confidence": 0.365478515625,
+                    "severity": "minor",
+                    "start": 326,
+                    "end": 328
+                }
+            ]
+        },
+        {
+            "src": "2. تتخذ الدول الأطراف جميع التدابير المناسبة لتكفل للطفل الحماية من جميع أشكال التمييز أو العقاب القائمة على أساس مرآز والدي الطفل أو الأوصياء القانونيين عليه أو أعضاء الأسرة، أو أنشطتهم أو آرائهم المعبر عنها أو معتقداتهم.",
+            "mt": "Statele părți iau toate măsurile adecvate pentru a garanta copilului protecție împotriva tuturor formelor de discriminare sau de pedepsire bazate pe statutul social al părinților copilului sau al tutorelui său legal sau al membrilor familiei sale, sau pe activitățile sau opiniile lor exprimate sau convingerile lor.",
+            "ref": "2. Statele părţi vor lua toate măsurile de protejare a copilului împotriva oricărei forme de discriminare sau de sancţionare pe considerente ţinând de situaţia juridică, activităţile, opiniile declarate sau convingerile părinţilor, ale reprezentanţilor săi legali sau ale membrilor familiei sale.",
+            "COMET": 0.9270312786102295
+        },
+        {
+            "src": "المادة 3",
+            "mt": "Articolul 3",
+            "ref": "ARTICOLUL 3",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. في جميع الإجراءات التي تتعلق بالأطفال، سواء قامت بها مؤسسات الرعاية الاجتماعية العامة أو الخاصة، أو المحاآم أو السلطات الإدارية أو الهيئات التشريعية، يولي الاعتبار الأول لمصالح الطفل الفضلى.",
+            "mt": "În toate procedurile care privesc copiii, indiferent dacă sunt efectuate de instituțiile publice sau private de asistență socială, de avocați, de autoritățile administrative sau de organele legislative, interesul superior al copilului este prioritar.",
+            "ref": "1. În toate acţiunile care privesc copiii, întreprinse de instituţiile de asistenţă socială publice sau private, de instanţele judecătoreşti, autorităţile administrative sau de organele legislative, interesele copilului vor prevala.",
+            "COMET": 0.9143140316009521,
+            "errors": [
+                {
+                    "text": "a",
+                    "confidence": 0.384033203125,
+                    "severity": "minor",
+                    "start": 133,
+                    "end": 135
+                },
+                {
+                    "text": "superior",
+                    "confidence": 0.421875,
+                    "severity": "minor",
+                    "start": 212,
+                    "end": 221
+                }
+            ]
+        },
+        {
+            "src": "2. تتعهد الدول الأطراف بأن تضمن للطفل الحماية والرعاية اللازمتين لرفاهه، مراعية حقوق وواجبات والديه أو أوصيائه أو غيرهم من الأفراد المسؤولين قانونا عنه، وتتخذ، تحقيقا لهذا الغرض، جميع التدابير التشريعية والإدارية الملائمة.",
+            "mt": "Statele părți se angajează să asigure copilului protecția și îngrijirea necesare bunăstării sale, ținând seama de drepturile și obligațiile părinților săi sau ale tutorilor săi sau ale altor persoane legal responsabile de acesta, și vor lua, în acest scop, toate măsurile legislative și administrative adecvate.",
+            "ref": "2. Statele părţi se obligă să asigure copilului protecţia şi îngrijirea necesare în vederea asigurării bunăstării sale, ţinând seama de drepturile şi obligaţiile părinţilor săi, ale reprezentanţilor săi legali sau ale altor persoane cărora acesta le-a fost încredinţat în mod legal, şi în acest scop vor lua toate măsurile legislative şi administrative corespunzătoare.",
+            "COMET": 0.9719531536102295
+        },
+        {
+            "src": "3. تكفل الدول الأطراف أن تتقيد المؤسسات والإدارات والمرافق المسؤولة عن رعاية أو حماية الأطفال بالمعايير التي وضعتها السلطات المختصة، ولا سيما في مجالي السلامة والصحة وفى عدد موظفيها وصلاحيتهم للعمل، وآذلك من ناحية آفاءة الإشراف.",
+            "mt": "Statele părți garantează că instituțiile, administrațiile și facilitățile responsabile de îngrijirea sau protecția copiilor respectă standardele stabilite de autoritățile competente, în special în domeniul siguranței și sănătății, al numărului de angajați și al calificării acestora, precum și în ceea ce privește supravegherea adecvată.",
+            "ref": "3. Statele părţi vor veghea ca instituţiile, serviciile şi aşezămintele care răspund de protecţia şi îngrijirea copiilor să respecte standardele stabilite de autorităţile competente, în special cele referitoare la securitate şi sănătate, la numărul şi calificarea personalului din aceste instituţii, precum şi la asigurarea unei supravegheri competente.",
+            "COMET": 0.9172546863555908,
+            "errors": [
+                {
+                    "text": "facil",
+                    "confidence": 0.405029296875,
+                    "severity": "minor",
+                    "start": 60,
+                    "end": 66
+                }
+            ]
+        },
+        {
+            "src": "المادة 4",
+            "mt": "Articolul 4",
+            "ref": "ARTICOLUL 4",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تتخذ الدول الأطراف آل التدابير التشريعية والإدارية وغيرها من التدابير الملائمة لإعمال الحقوق المعترف بها في هذه الاتفاقية. وفيما يتعلق بالحقوق الاقتصادية والاجتماعية والثقافية، تتخذ الدول الأطراف هذه التدابير إلى أقصى حدود مواردها المتاحة، وحيثما يلزم، في إطار التعاون الدولي.",
+            "mt": "Statele părți adoptă măsuri legislative, administrative și alte măsuri adecvate pentru exercitarea drepturilor recunoscute în prezenta convenție.  În ceea ce privește drepturile economice, sociale și culturale, statele părți adoptă aceste măsuri până la limita maximă a resurselor disponibile și, acolo unde este necesar, în cadrul cooperării internaționale.",
+            "ref": "Statele părţi se angajează să ia toate măsurile legislative, administrative şi de orice altă natură necesare în vederea punerii în aplicare a drepturilor recunoscute în prezenta convenţie. În cazul drepturilor economice, sociale şi culturale statele părţi se obligă să adopte aceste măsuri, fără a precupeţi resursele de care dispun şi, dacă este cazul, în cadrul cooperării internaţionale.",
+            "COMET": 0.9592578411102295
+        },
+        {
+            "src": "المادة 5",
+            "mt": "Articolul 5",
+            "ref": "ARTICOLUL 5",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تحترم الدول الأطراف مسؤوليات وحقوق وواجبات الوالدين أو، عند الاقتضاء، أعضاء الأسرة الموسعة أو الجماعة حسبما ينص عليه العرف المحلي، أو الأوصياء أو غيرهم من الأشخاص المسؤولين قانونا عن الطفل، في أن يوفروا بطريقة تتفق مع قدرات الطفل المتطورة، التوجيه والإرشاد الملائمين عند مارسة الطفل الحقوق المعترف بها في هذه الاتفاقية.",
+            "mt": "Statele părți respectă responsabilitățile, drepturile și obligațiile părinților sau, după caz, ale membrilor familiei extinse sau ai comunității, conform obiceiului local, sau ale tutorilor sau ale altor persoane legal responsabile de copil, de a oferi, într-o manieră adaptată capacităților evolutive ale copilului, îndrumarea și sfaturile adecvate în exercitarea drepturilor recunoscute în prezenta convenție.",
+            "ref": "Statele părţi vor respecta responsabilităţile, drepturile şi îndatoririle ce revin părinţilor naturali ai copilului sau, după caz şi conform tradiţiei locale, membrilor familiei lărgite sau comunităţii, tutorilor sau altor persoane care au, prin lege, copii în îngrijire, de a asigura, de o manieră corespunzătoare capacităţilor în continuă dezvoltare ale copilului, îndrumarea şi orientarea necesare în exercitarea de către copil a drepturilor recunoscute în prezenta convenţie.",
+            "COMET": 0.8904101848602295
+        },
+        {
+            "src": "المادة 6",
+            "mt": "Articolul 6",
+            "ref": "ARTICOLUL 6",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تعترف الدول الأطراف بأن لكل طفل حقا أصيلا في الحياة.",
+            "mt": "Statele părți recunosc că fiecare copil are un drept inerent la viață.",
+            "ref": "1. Statele părţi recunosc dreptul la viaţă al fiecărui copil.",
+            "COMET": 0.9880554676055908,
+            "errors": [
+                {
+                    "text": "eren",
+                    "confidence": 0.333984375,
+                    "severity": "minor",
+                    "start": 55,
+                    "end": 59
+                }
+            ]
+        },
+        {
+            "src": "2. تكفل الدول الأطراف إلى أقصى حد ممكن بقاء الطفل ونموه.",
+            "mt": "Statele părți se angajează să asigure, în cea mai mare măsură posibilă, supraviețuirea și dezvoltarea copilului.",
+            "ref": "2. Statele părţi vor face tot ce le stă în putinţă pentru a asigura supravieţuirea şi dezvoltarea copilului.",
+            "COMET": 0.9953906536102295
+        },
+        {
+            "src": "المادة 7",
+            "mt": "Articolul 7",
+            "ref": "ARTICOLUL 7",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. يسجل الطفل بعد ولادته فورا ويكون له الحق منذ ولادته في اسم والحق في اآتساب جنسية، ويكون له قدر الإمكان، الحق في معرفة والديه وتلقى رعايتهما.",
+            "mt": "Copilul este înregistrat imediat după naștere și are dreptul, din momentul nașterii, la un nume și la dobândirea cetățeniei; pe cât posibil, are dreptul să-și cunoască părinții și să beneficieze de îngrijirea lor.",
+            "ref": "1. Copilul se înregistrează imediat după naşterea sa şi are, prin naştere, dreptul la un nume, dreptul de a dobândi o cetăţenie şi, în măsura posibiliului, dreptul de a-şi cunoaşte părinţii şi de a fi îngrijit de aceştia.",
+            "COMET": 0.9670703411102295
+        },
+        {
+            "src": "2. تكفل الدول الأطراف إعمال هذه الحقوق وفقا لقانونها الوطني والتزاماتها بموجب الصكوك الدولية المتصلة بهذا الميدان، ولاسيما حيثما يعتبر الطفل عديم الجنسية فيال عدم القيام بذلك.",
+            "mt": "2. Statele părți garantează respectarea acestor drepturi în conformitate cu legislația națională și obligațiile lor în temeiul instrumentelor internaționale relevante în acest domeniu, în special acolo unde copilul este considerat apatrid, neîndeplinirea acestor obligații fiind considerată inacceptabilă.",
+            "ref": "2. Statele părţi vor veghea ca aplicarea acestor drepturi să respecte legislaţia lor naţională şi obligaţiile pe care acestea şi le-au asumat în temeiul instrumentelor internaţionale aplicabile în materie, în special în cazul în care nerespectarea acestora ar avea ca efect declararea copilului ca apatrid.",
+            "COMET": 0.8028984069824219,
+            "errors": [
+                {
+                    "text": "considerat",
+                    "confidence": 0.340087890625,
+                    "severity": "major",
+                    "start": 278,
+                    "end": 289
+                },
+                {
+                    "text": "inacceptabil",
+                    "confidence": 0.3583984375,
+                    "severity": "major",
+                    "start": 290,
+                    "end": 303
+                }
+            ]
+        },
+        {
+            "src": "المادة 8",
+            "mt": "Articolul 8",
+            "ref": "ARTICOLUL 8",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تتعهد الدول الأطراف باحترام حق الطفل في الحفاظ على هويته بما في ذلك جنسيته، واسمه، وصلاته العائلية، على النحو الذي يقره القانون، وذلك دون تدخل غير شرعي.",
+            "mt": "Statele părți se angajează să respecte dreptul copilului de a-și păstra identitatea, inclusiv cetățenia, numele și legăturile familiale, conform legii, fără intervenție ilegală.",
+            "ref": "1. Statele părţi se obligă să respecte dreptul copilului de a-şi păstra identitatea, inclusiv cetăţenia, numele şi relaţiile familiale, astfel cum sunt recunoscute de lege, fără nici o imixtiune ilegală.",
+            "COMET": 0.9909961223602295
+        },
+        {
+            "src": "2. إذا حرم أي طفل بطريقة غير شرعية من بعض أو آل عناصر هويته، تقدم الدول الأطراف المساعدة والحماية المناسبتين من أجل الإسراع بإعادة إثبات هويته.",
+            "mt": "2. Dacă un copil este privat ilegal de unul sau mai mulți dintre elementele sale de identitate, statele părți oferă asistență și protecție adecvată pentru a facilita restabilirea rapidă a identității sale.",
+            "ref": "2. În cazul în care un copil este lipsit în mod ilegal de toate sau de o parte din elementele constitutive ale identităţii sale, statele părţi vor asigura asistenţa şi protecţia corespunzătoare pentru ca identitatea acestuia să fie restabilită cât mai repede posibil.",
+            "COMET": 0.9797656536102295
+        },
+        {
+            "src": "المادة 9",
+            "mt": "Articolul 9",
+            "ref": "ARTICOLUL 9",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تضمن الدول الأطراف عدم فصل الطفل عن والديه على آره منهما، إلا عندما تقرر السلطات المختصة، رهنا بإجراء إعادة نظر قضائية، وفقا للقوانين والإجراءات المعمول بها، أن هذا الفصل ضروري لصون مصالح الطفل الفضلى. وقد يلزم مثل هذا القرار في حالة معينة مثل حالة إساءة الوالدين معاملة الطفل أو إهمالهما له، أو عندما يعيش الوالدان منفصلين ويتعين اتخاذ قرار بشأن محل إقامة الطفل.",
+            "mt": "1. Statele părți garantează că un copil nu va fi separat de părinții săi împotriva voinței acestora, cu excepția cazului în care autoritățile competente decid, sub rezerva unui recurs judiciar, în conformitate cu legile și procedurile aplicabile, că această separare este necesară pentru a proteja interesul superior al copilului. O astfel de decizie poate fi necesară în anumite situații, cum ar fi abuzul sau neglijența părinților față de copil, sau atunci când părinții trăiesc separați și trebuie luată o decizie cu privire la locul de reședință al copilului.",
+            "ref": "1. Statele părţi vor veghea ca nici un copil să nu fie separat de părinţii săi împotriva voinţei acestora, excepând situaţia în care autorităţile competente decid, sub rezerva revizuirii judiciare şi cu respectarea legilor şi a procedurilor aplicabile, că această separare este în interesul suprem al copilului. O astfel de decizie poate deveni necesară în cazuri particulare cum ar fi, de exemplu, în cazul copiilor maltrataţi sau neglijaţi de părinţi sau în cazul în care părinţii trăiesc separat şi se impune luarea unei hotărâri cu privire la locul de reşedinţă a copilului.",
+            "COMET": 0.9162781238555908,
+            "errors": [
+                {
+                    "text": "recurs",
+                    "confidence": 0.35546875,
+                    "severity": "minor",
+                    "start": 176,
+                    "end": 183
+                }
+            ]
+        },
+        {
+            "src": "2. في أية دعاوى تقام عملا بالفقرة 1 من هذه المادة، تتاح لجميع الأطراف المعنية الفرصة للاشتراك في الدعوى والإفصاح عن وجهات نظرها.",
+            "mt": "În orice acțiune intentată în temeiul alineatului (1) al prezentului articol, tuturor părților interesate li se oferă posibilitatea de a interveni în proces și de a-și prezenta punctele de vedere.",
+            "ref": "2. În toate cazurile prevăzute la paragraful 1 din prezentul articol toate părţile interesate trebuie să aibă posibilitatea de a participa la dezbateri şi de a-şi face cunoscute punctele de vedere.",
+            "COMET": 0.9792664051055908,
+            "errors": [
+                {
+                    "text": "line",
+                    "confidence": 0.3857421875,
+                    "severity": "minor",
+                    "start": 39,
+                    "end": 43
+                }
+            ]
+        },
+        {
+            "src": "3. تحترم الدول الأطراف حق الطفل المنفصل عن والديه أو عن أحدهما في الاحتفاظ بصورة منتظمة بعلاقات شخصية واتصالات مباشرة بكلا والديه، إلا إذا تعارض ذلك مع مصالح الطفل الفضلى.",
+            "mt": "Statele părți respectă dreptul copilului separat de părinții săi sau de unul dintre părinți de a menține în mod regulat relații personale și contacte directe cu ambii părinți, cu excepția cazului în care acest lucru este contrar interesului superior al copilului.",
+            "ref": "3. Statele părţi vor respecta dreptul copilului care a fost separat de ambii părinţi sau de unul dintre ei de a întreţine relaţii personale şi contacte directe cu cei doi părinţi ai săi, în mod regulat, exceptând cazul în care acest lucru contravine interesului suprem al copilului.",
+            "COMET": 0.9826953411102295
+        },
+        {
+            "src": "المادة 10",
+            "mt": "Articolul 10",
+            "ref": "ARTICOLUL 10",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. وفقا للالتزام الواقع على الدول الأطراف بموجب الفقرة 1 من المادة 9، تنظر الدول الأطراف في الطلبات التي يقدمها الطفل أو والداه لدخول دولة طرف أو مغادرتها بقصد جمع شمل الأسرة، بطريقة إيجابية وإنسانية وسريعة. وتكفل الدول الأطراف آذلك ألاتترتب على تقديم طلب من هذا القبيل نتائج ضارة على مقدمي الطلب وعلى أفراد أسرهم.",
+            "mt": "Conform obligației care revine statelor părți în temeiul alineatului (1) al articolului 9, statele părți examinează cererile prezentate de copil sau de părinții săi pentru intrarea într-un stat parte sau pentru părăsirea acestuia în scopul reuniunii familiale, într-o manieră pozitivă, umană și rapidă. Statele părți garantează că prezentarea unei astfel de cereri nu va avea consecințe negative pentru solicitanți și pentru membrii familiilor lor.",
+            "ref": "1. În conformitate cu obligaţia ce revine statelor părţi potrivit art. 9 paragraful 1, orice cerere depusă de un copil sau de părinţii acestuia, în vederea intrării într-un stat parte sau a părăsirii acestuia în scopul reîntregirii familiei, va fi examinată de statele părţi cu bunăvoinţă, umanism şi cu operativitate. Statele părţi vor veghea, de asemenea, ca depunerea unei astfel de cereri să nu antreneze consecinţe nefaste asupra solicitanţilor şi membrilor familiei acestora.",
+            "COMET": 0.9050586223602295
+        },
+        {
+            "src": "2. للطفل الذي يقيم والداه في دولتين مختلفتين الحق في الاحتفاظ بصورة منتظمة بعلاقات شخصية واتصالات مباشرة بكلا والديه، إلا في ظروف استثنائية. وتحقيقا لهذه الغاية ووفقا لالتزام الدول الأطراف بموجب الفقرة 2 من المادة 9، تحترم الدول الأطراف حق الطفل ووالديه في مغادرة أي بلد، بما في ذلك بلدهم هم، وفى دخول بلدهم. ولا يخضع الحق في مغادرة أي بلد إلا للقيود التي ينص عليها القانون والتي تكون ضرورية لحماية الأمن الوطني، أو النظام العام، أو الصحة العامة، أو الآداب العامة أو حقوق الآخرين وحرياتهم وتكون متفقة مع الحقوق الأخرى المعترف بها في هذه الاتفاقية.",
+            "mt": "2. Copilul ale cărui părinți locuiesc în două state diferite are dreptul de a menține relații personale regulate și contacte directe cu ambii părinți, cu excepția unor circumstanțe excepționale.  În vederea realizării acestui drept și în conformitate cu obligațiile statelor părți în temeiul alineatului (2) al articolului 9, statele părți respectă dreptul copilului și al părinților săi de a părăsi orice stat, inclusiv propriul stat, și de a intra în propriul stat. Dreptul de a părăsi orice stat este supus numai restricțiilor prevăzute de lege, care sunt necesare pentru protejarea securității naționale, a ordinii publice, a sănătății publice, a moralității publice sau a drepturilor și libertăților altora și care sunt compatibile cu celelalte drepturi recunoscute în prezenta convenție.",
+            "ref": "2. Copilul ai cărui părinţi îşi au reşedinţa în state diferite va avea dreptul de a întreţine, în afara unor situaţii excepţionale, relaţii personale şi contacte directe, în mod regulat, cu ambii săi părinţi. În acest scop şi în conformitate cu obligaţia care revine statelor părţi în temeiul art. 9 paragraful 1, statele părţi vor respecta dreptul copilului şi al părinţilor săi de a părăsi orice ţară, inclusiv propria lor ţară, şi de a reveni în propria lor ţară. Dreptul de a părăsi orice ţară nu poate fi îngrădit decât de restricţiile prevăzute în mod expres de lege şi care sunt necesare pentru protejarea siguranţei naţionale, a ordinii publice, a sănătăţii publice sau a bunelor moravuri ori a drepturilor şi libertăţilor altora şi care sunt compatibile cu celelalte drepturi recunoscute în prezenta convenţie.",
+            "COMET": 0.9001758098602295
+        },
+        {
+            "src": "المادة 11",
+            "mt": "Articolul 11",
+            "ref": "ARTICOLUL 11",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تتخذ الدول الأطراف تدابير لمكافحة نقل الأطفال إلى الخارج وعدم عودتهم بصورة غير مشروعة.",
+            "mt": "Statele părți iau măsuri pentru combaterea transferului ilegal de copii în străinătate și a nereturnării lor.",
+            "ref": "1. Statele părţi vor lua măsuri pentru a combate acţiunile ilegale de transferare şi de împiedicare a reîntoarcerii copiilor în, respectiv din, străinătate.",
+            "COMET": 0.9782898426055908,
+            "errors": [
+                {
+                    "text": "ne",
+                    "confidence": 0.422607421875,
+                    "severity": "minor",
+                    "start": 91,
+                    "end": 94
+                }
+            ]
+        },
+        {
+            "src": "2. وتحقيقا لهذا الغرض، تشجع الدول الأطراف عقد اتفاقات ثنائية أو متعددة الأطراف أو الانضمام إلى اتفاقات قائمة.",
+            "mt": "2. În vederea realizării acestui obiectiv, statele părți sunt încurajate să încheie acorduri bilaterale sau multilaterale sau să adere la acorduri existente.",
+            "ref": "2. În acest scop statele părţi vor promova încheierea de acorduri bilaterale şi multilaterale sau aderarea la acordurile existente.",
+            "COMET": 0.9997851848602295
+        },
+        {
+            "src": "المادة 12",
+            "mt": "Articolul 12",
+            "ref": "ARTICOLUL 12",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تكفل الدول الأطراف في هذه الاتفاقية للطفل القادر على تكوين آرائه الخاصة حق التعبير عن تلك الآراء بحرية في جميع المسائل التي تمس الطفل، وتولى آراء الطفل الاعتبار الواجب وفقا لسن الطفل ونضجه.",
+            "mt": "Statele participante la prezenta convenție garantează copilului capabil să-și formeze propriile opinii dreptul de a-și exprima liber aceste opinii în toate chestiunile care îl privesc, acordând opiniei copilului importanța cuvenită, ținând cont de vârsta și maturitatea acestuia.",
+            "ref": "1. Statele părţi vor garanta copilului capabil de discernământ dreptul de a-şi exprima liber opinia asupra oricărei probleme care îl priveşte, opiniile copilului urmând să fie luate în considerare ţinându-se seama de vârsta sa şi de gradul său de maturitate.",
+            "COMET": 0.9363086223602295
+        },
+        {
+            "src": "2. ولهذا الغرض، تتاح للطفل، بوجه خاص، فرصة الاستماع إليه في أي إجراءات قضائية وإدارية تمس الطفل، إما مباشرة، أو من خلال ممثل أو هيئة ملائمة، بطريقة تتفق مع القواعد الإجرائية للقانون الوطني.",
+            "mt": "2. În acest scop, copilului i se oferă, în mod special, posibilitatea de a fi ascultat în orice proceduri judiciare și administrative care îl afectează, fie direct, fie printr-un reprezentant sau o autoritate adecvată, într-o manieră conformă cu regulile procedurale ale dreptului național.",
+            "ref": "2. În acest scop copilului i se va da, în special, posibilitatea de a fi ascultat în orice procedură judiciară sau administrativă care îl priveşte, fie direct, fie printr-un reprezentant sau un organism competent, în conformitate cu regulile de procedură din legislaţia naţională.",
+            "COMET": 0.9817187786102295
+        },
+        {
+            "src": "المادة 13",
+            "mt": "Articolul 13",
+            "ref": "ARTICOLUL 13",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. يكون للطفل الحق في حرية التعبير، ويشمل هذا الحق حرية طلب جميع أنواع المعلومات والأفكار وتلقيها وإذاعتها، دون أي اعتبار للحدود، سواء بالقول أو الكتابة أو الطباعة، أو الفن، أو بأية وسيلة أخرى يختارها الطفل.",
+            "mt": "1. Copilul are dreptul la libertatea de exprimare, iar acest drept include libertatea de a căuta, a primi și a difuza orice fel de informații și idei, fără nicio restricție, fie oral, în scris, prin tipar, prin artă sau prin orice alt mijloc ales de copil.",
+            "ref": "1. Copilul are dreptul la libertatea de exprimare; acest drept cuprinde libertatea de a căuta, de a primi şi de a difuza informaţii şi idei de orice natură, indiferent de frontiere, sub formă orală, scrisă, tipărită sau artistică ori prin orice alte mijloace, la alegerea copilului.",
+            "COMET": 0.9675586223602295
+        },
+        {
+            "src": "2. يجوز إخضاع ممارسة هذا الحق لبعض القيود، بشرط أن ينص القانون عليها وأن تكون لازمة لتأمين ما يلي:",
+            "mt": "2. Exercitarea acestui drept poate fi supusă unor restricții, cu condiția ca acestea să fie prevăzute de lege și să fie necesare pentru a asigura următoarele:",
+            "ref": "2. Exercitarea acestui drept poate face subiectul restricţiilor, dar numai al acelor restricţii expres prevăzute de lege şi absolut necesare pentru:",
+            "COMET": 0.9953906536102295
+        },
+        {
+            "src": "(أ) احترام حقوق الغير أو سمعتهم، أو،",
+            "mt": "(a) respectarea drepturilor sau reputației altora, sau,",
+            "ref": "a) respectarea drepturilor sau a reputaţiei altora; sau",
+            "COMET": 0.9787781238555908,
+            "errors": [
+                {
+                    "text": "sau,",
+                    "confidence": 0.43408203125,
+                    "severity": "minor",
+                    "start": 50,
+                    "end": 55
+                }
+            ]
+        },
+        {
+            "src": "(ب) حماية الأمن الوطني أو النظام العام، أو الصحة العامة أو الآداب العامة.",
+            "mt": "(b) Protecția securității naționale sau a ordinii publice, a sănătății publice sau a bunelor moravuri.",
+            "ref": "b) protejarea securităţii naţionale, a ordinii publice, a sănătăţii publice şi a bunelor moravuri.",
+            "COMET": 0.9543530941009521,
+            "errors": [
+                {
+                    "text": ") Pro",
+                    "confidence": 0.427734375,
+                    "severity": "minor",
+                    "start": 2,
+                    "end": 7
+                },
+                {
+                    "text": "sau",
+                    "confidence": 0.43115234375,
+                    "severity": "minor",
+                    "start": 35,
+                    "end": 39
+                }
+            ]
+        },
+        {
+            "src": "المادة 14",
+            "mt": "Articolul 14",
+            "ref": "ARTICOLUL 14",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تحترم الدول الأطراف حق الطفل في حرية الفكر والوجدان والدين.",
+            "mt": "Statele părți respectă dreptul copilului la libertatea de gândire, conștiință și religie.",
+            "ref": "1. Statele părţi vor respecta dreptul copilului la libertatea de gândire, de conştiinţă şi religie.",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "2. تحترم الدول الأطراف حقوق وواجبات الوالدين وآذلك، تبعا للحالة، الأوصياء القانونيين عليه، في توجيه الطفل في ممارسة حقه بطريقة تنسجم مع قدرات الطفل المتطورة.",
+            "mt": "Statele părți respectă drepturile și obligațiile părinților și, după caz, ale tutorilor legali, în îndrumarea copilului în exercitarea drepturilor sale, într-un mod compatibil cu capacitățile sale în dezvoltare.",
+            "ref": "2. Statele părţi vor respecta drepturile şi obligaţiile părinţilor sau, după caz, ale reprezentanţilor legali ai copilului de a-l îndruma în exercitarea dreptului sus-menţionat, de o manieră care să corespundă capacităţilor în formare ale acestuia.",
+            "COMET": 0.9206616878509521,
+            "errors": [
+                {
+                    "text": "respectă",
+                    "confidence": 0.38427734375,
+                    "severity": "minor",
+                    "start": 13,
+                    "end": 22
+                },
+                {
+                    "text": "în dezvoltare",
+                    "confidence": 0.388916015625,
+                    "severity": "minor",
+                    "start": 196,
+                    "end": 210
+                }
+            ]
+        },
+        {
+            "src": "3. لا يجوز أن يخضع الإجهار بالدين أو المعتقدات إلا للقيود التي ينص عليها القانون واللازمة لحماية السلامة العامة أو النظام أو الصحة أو الآداب العامة أو الحقوق والحريات الأساسية للآخرين.",
+            "mt": "3. Manifestarea religiei sau a convingerilor nu poate fi supusă decât restricțiilor prevăzute de lege și necesare pentru protejarea ordinii publice, a sănătății publice, a moralei publice sau a drepturilor și libertăților fundamentale ale altora.",
+            "ref": "3. Libertatea de a-şi manifesta propriile convingeri religioase sau alte convingeri nu poate fi îngrădită decât de restricţiile prevăzute în mod expres de lege şi care sunt necesare pentru protecţia securităţii publice, a ordinii publice, a sănătăţii publice şi a bunelor moravuri sau a libertăţilor şi drepturilor fundamentale ale altora.",
+            "COMET": 0.9582812786102295
+        },
+        {
+            "src": "المادة 15",
+            "mt": "Articolul 15",
+            "ref": "ARTICOLUL 15",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تعترف الدول الأطراف بحقوق الطفل في حرية تكوين الجمعيات وفى حرية الاجتماع السلمي.",
+            "mt": "Statele părți recunosc dreptul copilului la libertatea de asociere și la libertatea de reuniune pașnică.",
+            "ref": "1. Statele părţi recunosc drepturile copilului la libertatea de asociere şi la libertatea de întrunire paşnică.",
+            "COMET": 0.9983203411102295
+        },
+        {
+            "src": "2. لا يجوز تقييد ممارسة هذه الحقوق بأية قيود غير القيود المفروضة طبقا للقانون والتي تقتضيها الضرورة في مجتمع ديمقراطي لصيانة الأمن الوطني أو السلامة العامة أو النظام العام، أو لحماية الصحة العامة أو الآداب العامة أو لحماية حقوق الغير وحرياتهم.",
+            "mt": "2. Nu este permisă restricționarea exercitării acestor drepturi prin nicio limitare altele decât cele impuse de lege și care sunt necesare într-o societate democratică pentru protejarea securității naționale sau a ordinii publice, sau pentru protejarea sănătății publice sau a moralității publice, sau pentru protejarea drepturilor și libertăților altora.",
+            "ref": "2. Exercitarea acestor drepturi nu poate fi îngrădită decât de restricţiile prevăzute în mod expres de lege şi care sunt necesare într-o societate democratică, în interesul securităţii naţionale, al siguranţei sau ordinii publice ori pentru a proteja sănătatea publică sau bunele moravuri ori pentru a proteja drepturile şi libertăţile altora.",
+            "COMET": 0.9602234363555908,
+            "errors": [
+                {
+                    "text": "limitare altele",
+                    "confidence": 0.43798828125,
+                    "severity": "minor",
+                    "start": 74,
+                    "end": 90
+                }
+            ]
+        },
+        {
+            "src": "المادة 16",
+            "mt": "Articolul 16",
+            "ref": "ARTICOLUL 16",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. لا يجوز أن يجرى أي تعرض تعسفي أو غير قانوني للطفل في حياته الخاصة أو أسرته أو منزله أو مراسلاته، ولا أي مساس غير قانوني بشرفه أو سمعته.",
+            "mt": "1. Nu este permis niciun fel de atingere arbitrară sau ilegală asupra copilului în viața sa privată, în familie, în locuința sa sau în corespondența sa, nici o atingere ilegală a onoarei sau a reputației sale.",
+            "ref": "1. Nici un copil nu va fi supus unei imixtiuni arbitrare sau ilegale în viaţa sa privată, în familia sa, în domiciliul său ori în corespondenţa sa, precum şi nici unui fel de atac ilegal la onoarea şi reputaţia sa.",
+            "COMET": 0.9548523426055908,
+            "errors": [
+                {
+                    "text": "atinge",
+                    "confidence": 0.4169921875,
+                    "severity": "minor",
+                    "start": 31,
+                    "end": 38
+                }
+            ]
+        },
+        {
+            "src": "2. للطفل حق في أن يحميه القانون من مثل هذا التعرض أو المساس.",
+            "mt": "2. Copilul are dreptul de a fi protejat de lege împotriva unor astfel de expuneri sau atingere.",
+            "ref": "2. Copilul are dreptul la protecţia garantată de lege împotriva unor astfel de imixtiuni sau atacuri.",
+            "COMET": 0.9690015316009521,
+            "errors": [
+                {
+                    "text": "expuneri",
+                    "confidence": 0.44921875,
+                    "severity": "minor",
+                    "start": 72,
+                    "end": 81
+                },
+                {
+                    "text": "atingere",
+                    "confidence": 0.43798828125,
+                    "severity": "minor",
+                    "start": 85,
+                    "end": 94
+                }
+            ]
+        },
+        {
+            "src": "المادة 17",
+            "mt": "Articolul 17",
+            "ref": "ARTICOLUL 17",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تعترف الدول الأطراف بالوظيفة الهامة التي تؤديها وسائط الإعلام وتضمن إمكانية حصول الطفل على المعلومات والمواد من شتى المصادر الوطنية والدولية، وبخاصة تلك التي تستهدف تعزيز رفاهيته الاجتماعية والروحية والمعنوية وصحته الجسدية والعقلية، وتحقيقا لهذه الغاية، تقوم الدول الأطراف بما يلي:",
+            "mt": "Statele părți recunosc rolul important pe care îl joacă mass-media și garantează accesul copilului la informații și materiale din diverse surse naționale și internaționale, în special cele care vizează promovarea bunăstării sale sociale, spirituale, morale, precum și a sănătății sale fizice și mentale.  În acest scop, statele părți întreprind următoarele:",
+            "ref": "Statele părţi vor recunoaşte importanţa funcţiei îndeplinite de mijloacele de informare în masă şi vor asigura accesul copilului la informaţie şi materiale provenind din surse naţionale şi internaţionale, în special cele care urmăresc promovarea bunăstării sale sociale, spirituale şi morale şi a sănătăţii sale fizice şi morale. În acest scop statele părţi:",
+            "COMET": 0.9636523723602295
+        },
+        {
+            "src": "(أ) تشجيع وسائط الإعلام على نشر المعلومات والمواد ذات المنفعة الاجتماعية والثقافية ، للطفل ووفقا لروح المادة 29",
+            "mt": "(a) Încurajarea mass-media să difuzeze informații și materiale de utilitate socială și culturală pentru copii, în spiritul articolului 29.",
+            "ref": "a) vor încuraja difuzarea, prin mijloacele de informare în masă, de informaţii şi materiale de interes social şi educativ pentru copil şi care sunt în conformitate cu art. 29;",
+            "COMET": 0.9455531239509583,
+            "errors": [
+                {
+                    "text": "a",
+                    "confidence": 0.3701171875,
+                    "severity": "minor",
+                    "start": 1,
+                    "end": 2
+                },
+                {
+                    "text": "În",
+                    "confidence": 0.35498046875,
+                    "severity": "minor",
+                    "start": 3,
+                    "end": 6
+                },
+                {
+                    "text": "jarea mass-",
+                    "confidence": 0.36865234375,
+                    "severity": "minor",
+                    "start": 10,
+                    "end": 21
+                }
+            ]
+        },
+        {
+            "src": "(ب) تشجيع التعاون الدولي في إنتاج وتبادل ونشر هذه المعلومات والمواد من شتى المصادر الثقافية والوطنية والدولية،",
+            "mt": "(b) Încurajarea cooperării internaționale în producerea, schimbul și diseminarea acestor informații și materiale din diverse surse culturale, naționale și internaționale.",
+            "ref": "b) vor încuraja cooperarea internaţională în producerea, schimbul şi difuzarea de astfel de informaţii şi materiale provenind din surse culturale, naţionale şi internaţionale;",
+            "COMET": 0.9665601253509521,
+            "errors": [
+                {
+                    "text": "În",
+                    "confidence": 0.375244140625,
+                    "severity": "minor",
+                    "start": 3,
+                    "end": 6
+                },
+                {
+                    "text": "seminar",
+                    "confidence": 0.40869140625,
+                    "severity": "minor",
+                    "start": 71,
+                    "end": 78
+                }
+            ]
+        },
+        {
+            "src": "(ج) تشجيع إنتاج آتب الأطفال ونشرها،",
+            "mt": "(c) Încurajarea producției și difuzării cărților pentru copii.",
+            "ref": "c) vor încuraja producerea şi difuzarea de cărţi pentru copii;",
+            "COMET": 0.9949023723602295
+        },
+        {
+            "src": "(د) تشجيع وسائط الإعلام على إيلاء عناية خاصة للاحتياجات اللغوية للطفل الذي ينتمي إلى مجموعة من مجموعات الأقليات أو إلى السكان الأصليين،",
+            "mt": "(d) Încurajarea mass-mediei să acorde o atenție deosebită nevoilor lingvistice ale copilului care aparține unui grup minoritar sau populației indigene.",
+            "ref": "d) vor încuraja mijloacele de informare în masă să ţină seama, în mod deosebit, de nevoile lingvistice ale copiilor autohtoni sau ale celor care aparţin unui grup minoritar;",
+            "COMET": 0.9323695302009583,
+            "errors": [
+                {
+                    "text": "În",
+                    "confidence": 0.400146484375,
+                    "severity": "minor",
+                    "start": 3,
+                    "end": 6
+                },
+                {
+                    "text": "rea",
+                    "confidence": 0.3662109375,
+                    "severity": "minor",
+                    "start": 12,
+                    "end": 15
+                },
+                {
+                    "text": "-",
+                    "confidence": 0.41015625,
+                    "severity": "minor",
+                    "start": 20,
+                    "end": 21
+                }
+            ]
+        },
+        {
+            "src": "(ه) تشجيع وضع مبادئ توجيهية ملائمة لوقاية الطفل من المعلومات والمواد التي تضر بصالحه، مع وضع أحكام المادتين 13 و 18 في الاعتبار.",
+            "mt": "Încurajarea elaborării de principii directoare adecvate pentru protejarea copilului de informațiile și materialele dăunătoare interesului său, ținând cont de dispozițiile articolelor 13 și 18.",
+            "ref": "e) vor favoriza elaborarea unor principii călăuzitoare adecvate, destinate protejării copilului împotriva informaţiilor şi materialelor care dăunează bunăstării sale, având în vedere prevederile art. 13 şi 18.",
+            "COMET": 0.8859390616416931,
+            "errors": [
+                {
+                    "text": "Încura",
+                    "confidence": 0.3388671875,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 6
+                },
+                {
+                    "text": "rea",
+                    "confidence": 0.341552734375,
+                    "severity": "major",
+                    "start": 8,
+                    "end": 11
+                },
+                {
+                    "text": "interes",
+                    "confidence": 0.37890625,
+                    "severity": "minor",
+                    "start": 125,
+                    "end": 133
+                }
+            ]
+        },
+        {
+            "src": "المادة 18",
+            "mt": "Articolul 18",
+            "ref": "ARTICOLUL 18",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تبذل الدول الأطراف قصارى جهدها لضمان الاعتراف بالمبدأ القائل إن آلا الوالدين يتحملان مسؤوليات مشترآة عن تربية الطفل ونموه. وتقع علي عاتق الوالدين أو الأوصياء القانونيين، حسب الحالة، المسؤولية الأولي عن تربية الطفل ونموه. وتكون مصالح الطفل الفضلى موضع اهتمامهم الأساسي.",
+            "mt": "Statele părți depun toate eforturile pentru a garanta recunoașterea principiului potrivit căruia ambii părinți își asumă responsabilități comune pentru educația și dezvoltarea copilului. Părinții sau tutorii legali, după caz, poartă responsabilitatea principală pentru educația și dezvoltarea copilului.  Interesul superior al copilului constituie preocuparea lor primordială.",
+            "ref": "1. Statele părţi vor depune eforturi pentru asigurarea recunoaşterii principiului potrivit căruia ambii părinţi au responsabilităţi comune pentru creşterea şi dezvoltarea copilului. Părinţii sau, după caz, reprezentanţii săi legali sunt principalii responsabili de creşterea şi dezvoltarea copilului. Aceştia trebuie să acţioneze, în primul rând, în interesul suprem al copilului.",
+            "COMET": 0.9607226848602295
+        },
+        {
+            "src": "2. في سبيل ضمان وتعزيز الحقوق المبينة في هذه الاتفاقية، على الدول الأطراف في هذه الاتفاقية أن تقدم المساعدة الملائمة للوالدين وللأوصياء القانونيين في الاضطلاع بمسئوليات تربية الطفل وعليها أن تكفل تطوير مؤسسات ومرافق وخدمات رعاية الأطفال.",
+            "mt": "2. Pentru a garanta și a promova drepturile prevăzute în prezenta convenție, statele părți la această convenție trebuie să ofere asistență adecvată părinților și tutorilor legali în îndeplinirea responsabilităților lor de creștere a copilului și să asigure dezvoltarea instituțiilor, facilităților și serviciilor de îngrijire a copiilor.",
+            "ref": "2. Pentru garantarea şi promovarea drepturilor enunţate în prezenta convenţie statele părţi vor acorda ajutor corespunzător părinţilor şi reprezentanţilor legali ai copilului în exercitarea responsabilităţii care le revine în legătură cu creşterea copilului şi vor asigura crearea instituţiilor, aşezămintelor şi serviciilor de îngrijire a copiilor.",
+            "COMET": 0.9685351848602295
+        },
+        {
+            "src": "3. تتخذ الدول الأطراف آل التدابير الملائمة لتضمن لأطفال الوالدين العاملين حق لانتفاع بخدمات ومرافق رعاية الطفل التي هم مؤهلون لها.",
+            "mt": "Statele părți adoptă măsurile adecvate pentru a asigura copiilor părinților care lucrează dreptul de a beneficia de serviciile și facilitățile de îngrijire a copilului pentru care sunt eligibili.",
+            "ref": "3. Statele părţi vor lua toate măsurile corespunzătoare pentru a asigura copiilor ai căror părinţi muncesc dreptul de a beneficia de serviciile şi aşezămintele de îngrijire a copiilor, pentru care ei îndeplinesc condiţiile cerute.",
+            "COMET": 0.9611999988555908,
+            "errors": [
+                {
+                    "text": "părinților",
+                    "confidence": 0.38330078125,
+                    "severity": "minor",
+                    "start": 64,
+                    "end": 75
+                }
+            ]
+        },
+        {
+            "src": "المادة 19",
+            "mt": "Articolul 19",
+            "ref": "ARTICOLUL 19",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تتخذ الدول الأطراف جميع التدابير التشريعية والإدارية والاجتماعية والتعليمية الملائمة لحماية الطفل من آافة أشكال العنف أو الضرر أو الإساءة البدنية أو العقلية والإهمال أو المعاملة المنطوية على إهمال، وإساءة المعاملة أو الاستغلال، بما في ذلك الإساءة الجنسية، وهو في رعاية الوالد (الوالدين) أو الوصي القانوني (الأوصياء القانونيين) عليه، أو أي شخص آخر يتعهد الطفل برعايته.",
+            "mt": "Statele părți iau toate măsurile legislative, administrative, sociale și educaționale adecvate pentru a proteja copilul împotriva tuturor formelor de violență, prejudiciu sau vătămare fizică sau psihică, neglijență sau tratament neglijent, abuz sau exploatare, inclusiv abuz sexual, atunci când se află în grija părintelui (părinților) sau a tutorelui legal (tutorelui legal), sau a oricărei alte persoane care are grijă de copil.",
+            "ref": "1. Statele părţi vor lua toate măsurile legislative, administrative, sociale şi educative corespunzătoare, în vederea protejării copilului împotriva oricăror forme de violenţă, vătămare sau abuz, fizic sau mental, de abandon sau neglijenţă, de rele tratamente sau de exploatare, inclusiv abuz sexual, în timpul cât se află în îngrijirea părinţilor sau a unuia dintre ei, a reprezentantului ori reprezentanţilor legali sau a oricărei persoane căreia i-a fost încredinţat.",
+            "COMET": 0.8205640316009521,
+            "errors": [
+                {
+                    "text": "prejudiciu",
+                    "confidence": 0.390625,
+                    "severity": "minor",
+                    "start": 159,
+                    "end": 170
+                },
+                {
+                    "text": "(tutorelui legal",
+                    "confidence": 0.37060546875,
+                    "severity": "minor",
+                    "start": 357,
+                    "end": 374
+                }
+            ]
+        },
+        {
+            "src": "2. ينبغي أن تشمل هذه التدابير الوقائية، حسب الاقتضاء، إجراءات فعالة لوضع برامج اجتماعية لتوفير الدعم اللازم للطفل ولأولئك الذين يتعهدون الطفل برعايتهم، وآذلك للأشكال الأخرى من الوقاية، ولتحديد حالات إساءة معاملة الطفل المذآورة حتى الآن والإبلاغ عنها والإحالة بشأنها والتحقيق فيها ومعالجتها ومتابعتها وآذلك لتدخل القضاء حسب الاقتضاء.",
+            "mt": "Aceste măsuri preventive ar trebui să includă, după caz, măsuri eficiente pentru implementarea de programe sociale menite să ofere sprijinul necesar copilului și celor care îi asigură îngrijirea, precum și alte forme de prevenție, pentru identificarea, raportarea, sesizarea, investigarea, gestionarea și monitorizarea cazurilor de maltratare a copilului menționate până acum, precum și intervenția judiciară, după caz.",
+            "ref": "2. Aceste măsuri de protecţie vor cuprinde, după caz, proceduri eficiente pentru stabilirea de programe sociale care să asigure sprijinul necesar copilului şi celor cărora le-a fost încredinţat, precum şi pentru instituirea altor forme de prevenire şi pentru identificarea, denunţarea, acţionarea în instanţă, anchetarea, tratarea şi urmărirea cazurilor de rele tratamente aplicate copilului, descrise mai sus, şi, dacă este necesar, a procedurilor de implicare judiciară.",
+            "COMET": 0.8679273128509521,
+            "errors": [
+                {
+                    "text": "men",
+                    "confidence": 0.36328125,
+                    "severity": "minor",
+                    "start": 354,
+                    "end": 358
+                },
+                {
+                    "text": "până acum",
+                    "confidence": 0.357421875,
+                    "severity": "minor",
+                    "start": 365,
+                    "end": 375
+                }
+            ]
+        },
+        {
+            "src": "المادة 20",
+            "mt": "Articolul 20",
+            "ref": "ARTICOLUL 20",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. للطفل المحروم بصفة مؤقتة أو دائمة من بيئته العائلية أو الذي لا يسمح له، حفاظا على مصالحة الفصلي، بالبقاء في تلك البيئة، الحق في حماية ومساعدة خاصتين توفرهما الدولة.",
+            "mt": "1. Copilul privat temporar sau definitiv de mediul său familial, sau căruia, pentru menținerea păcii familiale, nu i se permite să rămână în acel mediu, are dreptul la o protecție și asistență speciale asigurate de stat.",
+            "ref": "1. Copilul care este, temporar ori permanent, lipsit de mediul său familial sau care, pentru protejarea intereselor sale, nu poate fi lăsat în acest mediu are dreptul la protecţie şi asistenţă speciale din partea statului.",
+            "COMET": 0.9597461223602295
+        },
+        {
+            "src": "2. تضمن الدول الأطراف، وفقا لقوانينها الوطنية، رعاية بديلة لمثل هذا الطفل.",
+            "mt": "Statele părți, în conformitate cu legislația lor națională, asigură o plasament alternativ pentru un astfel de copil.",
+            "ref": "2. Statele părţi, în conformitate cu legislaţia lor naţională, vor asigura protecţie alternativă pentru un astfel de copil.",
+            "COMET": 0.9201406240463257,
+            "errors": [
+                {
+                    "text": "asigură o plasament alternativ",
+                    "confidence": 0.4658203125,
+                    "severity": "major",
+                    "start": 59,
+                    "end": 90
+                }
+            ]
+        },
+        {
+            "src": "3. يمكن أن تشمل هذه الرعاية، في جملة أمور، الحضانة، أو الكفالة الواردة في القانون الإسلامي، أو التبني، أو، عند الضرورة، الإقامة في مؤسسات مناسبة لرعاية الأطفال. وعند النظر في الحلول، ينبغي إيلاء الاعتبار الواجب لاستصواب الاستمرارية في تربية الطفل ولخلفية الطفل الإثنية والدينية والثقافية واللغوية.",
+            "mt": "3. Această îngrijire poate include, printre altele, plasamentul în plasament familial, sau tutela prevăzută de legea islamică, adopția sau, dacă este necesar, cazarea în instituții adecvate de îngrijire a copiilor. Atunci când se iau în considerare soluțiile, trebuie acordată atenția cuvenită menținerii continuității în educația copilului și contextului etnic, religios, cultural și lingvistic al copilului.",
+            "ref": "3. Această protecţie poate include, mai ales, plasamentul familial, likafalah din dreptul islamic, adopţia sau, în caz de necesitate, plasarea în instituţii corespunzătoare de îngrijire a copiilor. În alegerea uneia dintre aceste soluţii este necesar să se ţină seama în mod corespunzător de necesitatea unei anumite continuităţi în educarea copilului, precum şi de originea sa etnică, religioasă, culturală şi lingvistică.",
+            "COMET": 0.7423515319824219,
+            "errors": [
+                {
+                    "text": "plasamentul în plasament familial",
+                    "confidence": 0.412353515625,
+                    "severity": "major",
+                    "start": 51,
+                    "end": 85
+                },
+                {
+                    "text": "sau tutela",
+                    "confidence": 0.328125,
+                    "severity": "major",
+                    "start": 86,
+                    "end": 97
+                }
+            ]
+        },
+        {
+            "src": "المادة 21",
+            "mt": "Articolul 21",
+            "ref": "ARTICOLUL 21",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تضمن الدول التي تقر و/أو تجيز نظام التبني إيلاء مصالح الطفل الفضلى الاعتبار الأول والقيام بما يلي:",
+            "mt": "Statele care recunosc și/sau autorizează sistemul de adopție trebuie să acorde prioritate interesului superior al copilului și să ia următoarele măsuri:",
+            "ref": "Statele părţi care recunosc şi/sau autorizează adopţia vor veghea ca interesele supreme ale copilului să primeze şi:",
+            "COMET": 0.9660937786102295
+        },
+        {
+            "src": "(أ) تضمن ألا تصرح بتبني الطفل إلا السلطات المختصة التي تحدد، وفقا للقوانين والإجراءات المعمول بها وعلى أساس آل المعلومات ذات الصلة الموثوق بها، أن التبني جائز نظرا لحالة الطفل فيما يتعلق بالوالدين والأقارب والأوصياء القانونيين وأن الأشخاص المعنيين، عند الاقتضاء، قد أعطوا عن علم موافقتهم على التبني على أساس حصولهم على ما قد يلزم من المشورة،",
+            "mt": "(a) Se garantează că numai autoritățile competente vor putea declara adopția, acestea stabilind, în conformitate cu legile și procedurile în vigoare și pe baza tuturor informațiilor relevante și credibile, că adopția este posibilă având în vedere situația copilului în raport cu părinții, rudele și tutorii legali, și că persoanele implicate, după caz, și-au dat consimțământul informat la adopție, pe baza consilierii necesare.",
+            "ref": "a) vor veghea ca adopţia unui copil să fie autorizată numai de autorităţile competente care verifică, în conformitate cu legea şi cu procedurile aplicabile, precum şi pe baza tuturor informaţiilor pertinente şi credibile, că adopţia se poate realiza luând în considerare statutul copilului în raport cu părinţii, cu rudele şi cu reprezentanţii săi legali şi, dacă este cazul, că persoanele interesate şi-au dat consimţământul cu privire la adopţie în cunoştinţă de cauză în urma unei consilieri corespunzătoare;",
+            "COMET": 0.9016406536102295
+        },
+        {
+            "src": "(ب) تعترف بأن التبني في بلد آخر يمكن اعتباره وسيلة بديلة لرعاية الطفل، إذا تعذرت إقامة الطفل لدي أسرة حاضنة أو متبنية، أو إذا تعذرت العناية به بأي طريقة ملائمة في وطنه،",
+            "mt": "(b) Recunoaște că adopția într-o altă țară poate fi considerată o modalitate alternativă de îngrijire a copilului, dacă plasarea copilului într-o familie de plasament sau adoptivă este imposibilă, sau dacă îngrijirea lui într-un mod adecvat în țara sa de origine este imposibilă.",
+            "ref": "b) recunosc că adopţia în străinătate poate fi considerată ca un mijloc alternativ de asigurare a îngrijirii necesare copilului, dacă acesta, în ţara de origine, nu poate fi încredinţat spre plasament familial sau spre adopţie ori nu poate fi îngrijit în mod corespunzător;",
+            "COMET": 0.9406812191009521,
+            "errors": [
+                {
+                    "text": "Recu",
+                    "confidence": 0.405517578125,
+                    "severity": "minor",
+                    "start": 3,
+                    "end": 8
+                },
+                {
+                    "text": "ște",
+                    "confidence": 0.382080078125,
+                    "severity": "minor",
+                    "start": 11,
+                    "end": 14
+                }
+            ]
+        },
+        {
+            "src": "(ج) تضمن، بالنسبة للتبني في بلد آخر، أن يستفيد الطفل من ضمانات ومعايير تعادل تلك القائمة فيما يتعلق بالتبني الوطني،",
+            "mt": "(c) Asigură, în cazul adopției internaționale, că copilul beneficiază de garanții și standarde echivalente cu cele existente în ceea ce privește adopția națională.",
+            "ref": "c) vor asigura că, în cazul adopţiei în străinătate, copilul beneficiază de garanţiile şi standardele echivalente celor existente în cazul adopţiei naţionale;",
+            "COMET": 0.9548523426055908,
+            "errors": [
+                {
+                    "text": "c) Asigură",
+                    "confidence": 0.3955078125,
+                    "severity": "minor",
+                    "start": 1,
+                    "end": 11
+                }
+            ]
+        },
+        {
+            "src": "(د) تتخذ جميع التدابير المناسبة آي تضمن، بالنسبة للتبني في بلد آخر، أن عملية التبني لا تعود على أولئك المشارآين فيها بكسب مالي غير مشروع،",
+            "mt": "(d) Se iau toate măsurile adecvate, adică se asigură, în cazul adopției într-o altă țară, că procesul de adopție nu generează câștiguri financiare ilicite pentru cei implicați.",
+            "ref": "d) vor lua toate măsurile corespunzătoare pentru a se asigura că, în cazul adopţiei în străinătate, plasamentul copilului nu conduce la obţinerea de câştiguri materiale necuvenite pentru persoanele implicate;",
+            "COMET": 0.9714648723602295
+        },
+        {
+            "src": "(ه) تعزز، عند الاقتضاء، أهداف هذه المادة بعقد ترتيبات أو اتفاقات ثنائية أو متعددة الأطراف، وتسعى، في هذا الإطار، إلى ضمان أن يكون تبنى الطفل في بلد آخر من خلال السلطات أو الهيئات المختصة.",
+            "mt": "(Ea) consolidează, după caz, obiectivele acestui articol prin încheierea de aranjamente sau acorduri bilaterale sau multilaterale și urmărește, în acest cadru, să garanteze că adopția unui copil într-o altă țară se face prin intermediul autorităților sau organismelor competente.",
+            "ref": "e) promovează obiectivele prezentului articol, încheind aranjamente sau acorduri bilaterale ori multilaterale, după caz, şi se străduiesc, în acest cadru, să asigure ca plasarea copiilor în străinătate să fie efectuată de autorităţile sau organele competente.",
+            "COMET": 0.9231030941009521,
+            "errors": [
+                {
+                    "text": "(Ea) consolid",
+                    "confidence": 0.390869140625,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 13
+                },
+                {
+                    "text": "dop",
+                    "confidence": 0.35302734375,
+                    "severity": "minor",
+                    "start": 177,
+                    "end": 180
+                }
+            ]
+        },
+        {
+            "src": "المادة 22",
+            "mt": "Articolul 22",
+            "ref": "ARTICOLUL 22",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تتخذ الدول الأطراف في هذه الاتفاقية التدابير الملائمة لتكفل للطفل الذي يسعى للحصول على مرآز لاجئ، أو الذي يعتبر لاجئا وفقا للقوانين والإجراءات الدولية أو المحلية المعمول بها، سواء صحبه أو لم يصحبه والداه أو أي شخص آخر، تلقى الحماية والمساعدة الإنسانية المناسبتين في التمتع بالحقوق المنطبقة الموضحة في هذه الاتفاقية وفى غيرها من الصكوك الدولية الإنسانية أو المتعلقة بحقوق الإنسان التي تكون الدول المذآورة أطرافا فيها.",
+            "mt": "Statele părți la prezenta convenție iau măsurile adecvate pentru a garanta copilului care solicită azil sau care este considerat refugiat conform legislației și procedurilor internaționale sau naționale aplicabile, indiferent dacă este însoțit sau nu de părinți sau de altă persoană, primirea protecției și a asistenței umanitare adecvate pentru a se bucura de drepturile aplicabile prevăzute în prezenta convenție și în alte instrumente internaționale umanitare sau referitoare la drepturile omului la care statele menționate sunt parte.",
+            "ref": "1. Statele părţi vor lua măsurile necesare pentru ca un copil care caută să obţină statutul de refugiat sau care este considerat refugiat în conformitate cu reglementările şi procedurile internaţionale şi naţionale aplicabile, fie că este singur sau însoţit de mamă ori de tată sau de orice altă persoană, să beneficieze de protecţia şi asistenţa umanitară corespunzătoare, pentru a se putea bucura de drepturile recunoscute de prezenta convenţie şi de celelalte instrumente internaţionale privind drepturile omului sau ajutorul umanitar la care respectivele state sunt părţi.",
+            "COMET": 0.8967578411102295
+        },
+        {
+            "src": "2. ولهذا الغرض، توفر الدول الأطراف، حسب ما تراه مناسبا، التعاون في أي جهود تبذلها الأمم المتحدة وغيرها من المنظمات الحكومية الدولية المختصة أو المنظمات غير الحكومية المتعاونة مع الأمم المتحدة، لحماية طفل آهذا ومساعدته، وللبحث عن والدي طفل لاجئ لا يصحبه أحد أو عن أي أفراد آخرين من أسرته، من أجل الحصول على المعلومات اللازمة لجمع شمل أسرته، وفى الحالات التي يتعذر فيها العثور على الوالدين أو الأفراد الآخرين لأسرته، يمنح الطفل ذات الحماية الممنوحة لأي طفل آخر محروم بصفة دائمة أو مؤقته من بيئته العائلية لأي سبب، آما هو موضح في هذه الاتفاقية.",
+            "mt": "2. În acest scop, statele părți oferă, după cum consideră oportun, cooperare la orice eforturi depuse de Națiunile Unite și de alte organizații interguvernamentale competente sau organizații neguvernamentale care cooperează cu Națiunile Unite, pentru a proteja și a ajuta acest copil, precum și pentru a căuta părinții unui copil refugiat neînsoțit sau alți membri ai familiei sale, în vederea obținerii informațiilor necesare reunirii familiei; în cazurile în care nu se pot găsi părinții sau alți membri ai familiei sale, copilul beneficiază de aceeași protecție acordată oricărui alt copil privat definitiv sau temporar de mediul său familial din orice motiv, astfel cum este prevăzut în prezenta convenție.",
+            "ref": "2. În acest scop statele părţi vor contribui, după cum consideră necesar, la toate eforturile întreprinse de O.N.U. şi de alte organizaţii guvernamentale sau neguvernamentale competente cooperând cu O.N.U., pentru a proteja şi ajuta copiii care se găsesc într-o astfel de situaţie şi pentru a găsi părinţii sau alţi membri ai familiei oricărui copil refugiat, în vederea obţinerii informaţiilor necesare pentru reîntregirea familiei sale. În cazul în care părinţii sau alţi membri ai familiei nu pot fi găsiţi, copilului i se va acorda aceeaşi protecţie ca oricărui alt copil care este temporar sau total lipsit de mediul său familial, indiferent de motiv, în conformitate cu principiile enunţate în prezenta convenţie.",
+            "COMET": 0.8537890911102295
+        },
+        {
+            "src": "المادة 23",
+            "mt": "Articolul 23",
+            "ref": "ARTICOLUL 23",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تعترف الدول الأطراف بوجوب تمتع الطفل المعوق عقليا أو جسديا بحياة آاملة وآريمة، في ظروف تكفل له آرامته وتعزز اعتماده على النفس وتيسر مشارآته الفعلية في المجتمع.",
+            "mt": "Statele părți recunosc faptul că un copil cu handicap mintal sau fizic trebuie să aibă o viață deplină și fericită, în condiții care să îi asigure confortul, să îi promoveze independența și să îi faciliteze participarea efectivă la societate.",
+            "ref": "1. Statele părţi recunosc că pentru copiii handicapaţi fizic şi mental trebuie să se asigure o viaţă împlinită şi decentă, în condiţii care să le garanteze demnitatea, să le favorizeze autonomia şi să le faciliteze participarea activă la viaţa comunităţii.",
+            "COMET": 0.9773242473602295
+        },
+        {
+            "src": "2. تعترف الدول الأطراف بحق الطفل المعوق في التمتع برعاية خاصة وتشجع وتكف طفل المؤهل لذلك وللمسؤولين عن رعايته، رهنا بتوفر الموارد، تقديم المساعدة التي يقدم عنها طلب، والتي تتلاءم مع حالة الطفل وظروف والديه أو غيرهما ممن يرعونه.",
+            "mt": "Statele părți recunosc dreptul copilului cu handicap de a beneficia de o îngrijire specială și încurajează și sprijină copilul calificat în acest sens și pe cei responsabili cu îngrijirea lui, în funcție de disponibilitatea resurselor, să primească asistența solicitată, adaptată la situația copilului și la condițiile părinților săi sau ale altor persoane care îl îngrijesc.",
+            "ref": "2. Statele părţi recunosc dreptul copiilor handicapaţi de a beneficia de îngrijiri speciale şi încurajează şi asigură, în măsura resurselor disponibile, la cerere, copiilor handicapaţi care îndeplinesc condiţiile prevăzute şi celor care îi au în îngrijire, un ajutor adaptat situaţiei copilului şi situaţiei părinţilor sau a celor cărora le este încredinţat.",
+            "COMET": 0.9372851848602295
+        },
+        {
+            "src": "3. إدراآا للاحتياجات الخاصة للطفل المعوق، توفر المساعدة المقدمة وفقا للفقرة 2 من هذه المادة مجانا آلما أمكن ذلك، مع مراعاة الموارد المالية للوالدين أو غيرهما ممن يقومون برعاية الطفل، وينبغي أن تهدف إلى ضمان إمكانية حصول الطفل المعوق فعلا على التعليم والتدريب، وخدمات الرعاية الصحية، وخدمات إعادة التأهيل، والإعداد لممارسة عمل، والفرص الترفيهية وتلقيه ذلك بصورة تؤدى إلى تحقيق الاندماج الاجتماعي للطفل ونموه الفردي، بما في ذلك نموه الثقافي والروحي، على أآمل وجه ممكن.",
+            "mt": "3. Ținând cont de nevoile speciale ale copilului cu dizabilități, asistența oferită conform alineatului 2 al prezentului articol se oferă gratuit, ori de câte ori este posibil, ținând cont de resursele financiare ale părinților sau ale altor persoane care au grijă de copil. Aceasta ar trebui să vizeze asigurarea accesului efectiv al copilului cu dizabilități la educație și formare profesională, servicii medicale, servicii de reabilitare, pregătire pentru muncă, activități recreative, toate acestea oferite într-un mod care să conducă la integrarea socială și dezvoltarea individuală a copilului, inclusiv dezvoltarea sa culturală și spirituală, în cea mai mare măsură posibil.",
+            "ref": "3. Recunoscând nevoile speciale ale copiilor handicapaţi, ajutorul acordat conform paragrafului 2 al prezentului articol va fi gratuit ori de câte ori acest lucru este posibil, ţinând seama de resursele financiare ale părinţilor sau ale celor care îi au în îngrijire, şi va fi destinat asigurării accesului efectiv al copiilor handicapaţi la educaţie, formare profesională, servicii medicale, recuperare, pregătire în vederea ocupării unui loc de muncă, activităţi recreative, de o manieră care să asigure deplina integrare socială şi dezvoltare individuală a copiilor, inclusiv dezvoltarea lor culturală şi spirituală.",
+            "COMET": 0.9206836223602295
+        },
+        {
+            "src": "4. على الدول الأطراف أن تشجع، بروح التعاون الدولي، تبادل المعلومات المناسبة في ميدان الرعاية الصحية الوقائية والعلاج الطبي والنفسي والوظيفي للأطفال المعوقين، بما في ذلك نشر المعلومات المتعلقة بمناهج إعادة التأهيل والخدمات المهنية وإمكانية الوصول إليها، وذلك بغية تمكين الدول الأطراف من تحسين قدراتها ومهاراتها وتوسيع خبرتها في هذه المجالات. وتراعى بصفة خاصة، في هذا الصدد، احتياجات البلدان النامية.",
+            "mt": "Statele părți trebuie să încurajeze, în spiritul cooperării internaționale, schimbul de informații relevante în domeniul îngrijirii medicale preventive, a tratamentului medical, psihologic și funcțional al copiilor cu dizabilități, inclusiv diseminarea informațiilor privind programele de reabilitare, serviciile profesionale și accesul la acestea, în vederea sprijinirii statelor părți în îmbunătățirea capacităților, competențelor și extinderea expertizei lor în aceste domenii. În această privință, se vor lua în considerare în mod special nevoile țărilor în curs de dezvoltare.",
+            "ref": "4. În spiritul cooperării internaţionale, statele părţi vor favoriza schimbul de informaţii relevante în domeniul medicinei preventive şi al tratamentului medical, psihologic şi funcţional al copiilor handicapaţi, inclusiv prin difuzarea şi accesul la informaţii referitoare la metodele de recuperare, educare şi formare profesională, în scopul de a permite statelor părţi să îşi perfecţioneze capacităţile şi competenţele şi să îşi extindă experienţa în aceste domenii. În această privinţă se va ţine seama, în mod deosebit, de nevoile ţărilor în curs de dezvoltare.",
+            "COMET": 0.8708789348602295
+        },
+        {
+            "src": "المادة 24",
+            "mt": "Articolul 24",
+            "ref": "ARTICOLUL 24",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تعترف الدول الأطراف بحق الطفل في التمتع بأعلى مستوى صحي يمكن بلوغه وبحقه في مرافق علاج الأمراض وإعادة التأهيل الصحي. وتبذل الدول الأطراف قصارى جهدها لتضمن ألا يحرم أي طفل من حقه في الحصول على خدمات الرعاية الصحية هذه.",
+            "mt": "Statele părți recunosc dreptul copilului de a beneficia de cel mai înalt nivel posibil de sănătate și dreptul său la facilități de tratament și reabilitare medicală. Statele părți depun toate eforturile pentru a se asigura că niciun copil nu este lipsit de dreptul său de a beneficia de aceste servicii de asistență medicală.",
+            "ref": "1. Statele părţi recunosc dreptul copilului de a se bucura de cea mai bună stare de sănătate posibilă şi de a beneficia de serviciile medicale şi de recuperare. Ele vor depune eforturi pentru a garanta că nici un copil nu este lipsit de dreptul de a avea acces la aceste servicii.",
+            "COMET": 0.9753711223602295
+        },
+        {
+            "src": "2. تتابع الدول الأطراف إعمال هذا الحق آاملا وتتخذ، بوجه خاص، التدابير المناسبة من أجل:",
+            "mt": "Statele părți urmăresc punerea în aplicare a acestui drept și iau, în special, măsurile adecvate pentru:",
+            "ref": "2. Statele părţi vor depune eforturi pentru a asigura aplicarea efectivă a acestui drept şi, în mod deosebit, vor lua măsurile corespunzătoare pentru:",
+            "COMET": 0.9802429676055908,
+            "errors": [
+                {
+                    "text": "urmă",
+                    "confidence": 0.404052734375,
+                    "severity": "minor",
+                    "start": 13,
+                    "end": 18
+                }
+            ]
+        },
+        {
+            "src": "(أ) خفض وفيات الرضع والأطفال،",
+            "mt": "(a) Reducerea mortalității infantile și a copiilor mici",
+            "ref": "a) reducerea mortalităţii infantile şi a celei în rândul copiilor;",
+            "COMET": 0.9680249691009521,
+            "errors": [
+                {
+                    "text": "a) Re",
+                    "confidence": 0.4169921875,
+                    "severity": "minor",
+                    "start": 1,
+                    "end": 6
+                },
+                {
+                    "text": "a copiilor mici",
+                    "confidence": 0.398193359375,
+                    "severity": "minor",
+                    "start": 39,
+                    "end": 55
+                }
+            ]
+        },
+        {
+            "src": "(ب) آفالة توفير المساعدة الطبية والرعاية الصحية اللازمتين لجميع الأطفال مع التشديد على تطوير الرعاية الصحية الأولية،",
+            "mt": "(b) Asigurarea asistenței medicale și a îngrijirilor de sănătate necesare tuturor copiilor, cu accent pe dezvoltarea asistenței medicale primare.",
+            "ref": "b) asigurarea asistenţei medicale şi a măsurilor de ocrotire a sănătăţii pentru toţi copiii, cu accent pe dezvoltarea măsurilor primare de ocrotire a sănătăţii;",
+            "COMET": 0.9797656536102295
+        },
+        {
+            "src": "(ج) مكافحة الأمراض وسوء التغذية حتى في إطار الرعاية الصحية الأولية، عن طريق أمور منها تطبيق التكنولوجيا المتاحة بسهولة وعن طريق توفير الأغذية المغذية الكافية ومياه الشرب النقية، آخذة في اعتبارها أخطار تلوث البيئة ومخاطره،",
+            "mt": "(c) Combaterea bolilor și a malnutriției, chiar și în cadrul asistenței medicale primare, prin intermediul unor măsuri precum aplicarea tehnologiilor ușor accesibile și asigurarea unor alimente nutritive suficiente și a apei potabile curate, ținând cont de riscurile și pericolele poluării mediului.",
+            "ref": "c) combaterea maladiilor şi a malnutriţiei, inclusiv în cadrul măsurilor primare de ocrotire a sănătăţii, recurgând, printre altele, la tehnologii accesibile şi la aprovizionarea cu alimente nutritive şi cu apă potabilă, luând în considerare pericolele şi riscurile de poluare a mediului natural;",
+            "COMET": 0.8977015614509583,
+            "errors": [
+                {
+                    "text": "Combaterea bol",
+                    "confidence": 0.381103515625,
+                    "severity": "minor",
+                    "start": 3,
+                    "end": 18
+                },
+                {
+                    "text": "cura",
+                    "confidence": 0.376953125,
+                    "severity": "minor",
+                    "start": 233,
+                    "end": 238
+                },
+                {
+                    "text": "riscuri",
+                    "confidence": 0.3349609375,
+                    "severity": "minor",
+                    "start": 256,
+                    "end": 264
+                }
+            ]
+        },
+        {
+            "src": "(د) آفالة الرعاية الصحية المناسبة للأمهات قبل الولاة وبعدها،",
+            "mt": "(d) Lipsa de asistență medicală adecvată pentru mame înainte și după naștere.",
+            "ref": "d) asigurarea ocrotirii sănătăţii mamelor în perioada pre- şi postnatală;",
+            "COMET": 0.9421570301055908,
+            "errors": [
+                {
+                    "text": "Lips",
+                    "confidence": 0.31201171875,
+                    "severity": "minor",
+                    "start": 3,
+                    "end": 8
+                }
+            ]
+        },
+        {
+            "src": "(ه) آفالة تزويد جميع قطاعات المجتمع، ولا سيما الوالدين والطفل، بالمعلومات الأساسية المتعلقة بصحة الطفل وتغذيته، ومزايا الرضاعة الطبيعية، ومبادئ حفظ الصحة والإصحاح البيئي، والوقاية من الحوادث، وحصول هذه القطاعات على تعليم في هذه المجالات ومساعدتها في الاستفادة من هذه المعلومات،",
+            "mt": "(A) furnizarea tuturor sectoarelor societății, în special părinților și copiilor, cu informații esențiale privind sănătatea și nutriția copilului, beneficiile alăptării, principiile igienei și sănătății mediului, prevenirea accidentelor, precum și educarea acestor sectoare în aceste domenii și asistarea lor în utilizarea acestor informații.",
+            "ref": "e) asigurarea că toate segmentele societăţii, în mod deosebit părinţii şi copiii, sunt informate, au acces la educaţie şi sunt sprijinite în folosirea cunoştinţelor de bază despre sănătatea şi alimentaţia copilului, despre avantajele alăptării, ale igienei şi salubrităţii mediului înconjurător şi ale prevenirii accidentelor;",
+            "COMET": 0.7970390319824219,
+            "errors": [
+                {
+                    "text": "(A) furnizarea",
+                    "confidence": 0.4560546875,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 14
+                },
+                {
+                    "text": "sec",
+                    "confidence": 0.32958984375,
+                    "severity": "major",
+                    "start": 264,
+                    "end": 268
+                }
+            ]
+        },
+        {
+            "src": "(و) تطوير الرعاية الصحية الوقائية والإرشاد المقدم للوالدين، والتعليم والخدمات المتعلقة بتنظيم الأسرة.",
+            "mt": "Dezvoltarea asistenței medicale preventive și a consilierii oferite părinților, precum și a educației și serviciilor legate de planificarea familială.",
+            "ref": "f) crearea serviciilor de medicină preventivă, de îndrumare a părinţilor şi de planificare familială, şi asigurarea educaţiei în aceste domenii.",
+            "COMET": 0.9700000286102295
+        },
+        {
+            "src": "3. تتخذ الدول الأطراف جميع التدابير الفعالة والملائمة بغية إلغاء الممارسات التقليدية التي تضر بصحة الأطفال.",
+            "mt": "Statele părți iau toate măsurile eficiente și adecvate pentru a elimina practicile tradiționale dăunătoare sănătății copiilor.",
+            "ref": "3. Statele părţi vor lua toate măsurile eficiente corespunzătoare, în vederea abolirii practicilor tradiţionale dăunătoare sănătăţii copiilor.",
+            "COMET": 0.9851367473602295
+        },
+        {
+            "src": "4. تتعهد الدول الأطراف بتعزيز وتشجيع التعاون الدولي من أجل التوصل بشكل تدريجي إلى الإعمال الكامل للحق المعترف به في هذه المادة. وتراعى بصفة خاصة احتياجات البلدان النامية في هذا الصدد.",
+            "mt": "Statele părți se angajează să consolideze și să încurajeze cooperarea internațională pentru realizarea progresivă a exercitării depline a dreptului recunoscut în prezenta prevedere. Se vor lua în considerare în mod special nevoile țărilor în curs de dezvoltare în această privință.",
+            "ref": "4. Statele părţi se angajează să favorizeze şi să încurajeze cooperarea internaţională în vederea asigurării, în mod progresiv, a deplinei înfăptuiri a dreptului recunoscut în prezentul articol. În această privinţă se va ţine seama, în mod deosebit, de nevoile ţărilor în curs de dezvoltare.",
+            "COMET": 0.9660828113555908,
+            "errors": [
+                {
+                    "text": "solid",
+                    "confidence": 0.40869140625,
+                    "severity": "minor",
+                    "start": 33,
+                    "end": 38
+                }
+            ]
+        },
+        {
+            "src": "المادة 25",
+            "mt": "Articolul 25",
+            "ref": "ARTICOLUL 25",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تعترف الدول الأطراف بحق الطفل الذي تودعه السلطات المختصة لأغرض الرعاية أو الحماية أو علاج صحته البدنية أو العقلية في مراجعة دورية للعلاج المقدم للطفل ولجميع الظروف الأخرى ذات الصلة بإيداعه.",
+            "mt": "Statele părți recunosc dreptul copilului plasat de autoritățile competente în scopul îngrijirii, protecției sau tratamentului sănătății sale fizice sau mintale, la o examinare periodică a tratamentului aplicat copilului și a tuturor celorlalte circumstanțe legate de plasament.",
+            "ref": "Statele părţi recunosc dreptul copilului care a fost plasat de către autoritatea competentă pentru a primi îngrijiri, la protejarea sau tratarea afecţiunilor sale fizice ori mentale, dreptul la verificarea periodică a tratamentului respectiv şi a oricăror alte aspecte legate de plasarea sa.",
+            "COMET": 0.9509570598602295
+        },
+        {
+            "src": "المادة 26",
+            "mt": "Articolul 26",
+            "ref": "ARTICOLUL 26",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تعترف الدول الأطراف لكل طفل بالحق في الانتفاع من الضمان الاجتماعي، بما في ذلك التأمين الاجتماعي، وتتخذ التدابير اللازمة لتحقيق الإعمال الكامل لهذا الحق وفقا لقانونها الوطني.",
+            "mt": "Statele părți recunosc fiecărui copil dreptul de a beneficia de securitate socială, inclusiv de asigurări sociale, și iau măsurile necesare pentru a asigura exercitarea deplină a acestui drept, în conformitate cu legislația lor națională.",
+            "ref": "1. Statele părţi recunosc dreptul oricărui copil de a beneficia de asistenţă socială, inclusiv de asigurări sociale, şi vor lua măsuri pentru asigurarea exercitării depline a acestui drept în conformitate cu legislaţia lor naţională.",
+            "COMET": 0.9905078411102295
+        },
+        {
+            "src": "2. ينبغي منح الإعانات، عند الاقتضاء، مع مراعاة موارد وظروف الطفل والأشخاص المسؤولين عن إعالة الطفل، فضلا عن أي اعتبار آخر ذي صلة بطلب يقدم من جانب الطفل أو نيابة عنه للحصول على إعانات.",
+            "mt": "Alocațiile trebuie acordate, atunci când este cazul, ținând cont de resursele și situația copilului și a persoanelor responsabile de întreținerea acestuia, precum și de orice alt element relevant pentru o cerere depusă de către copil sau în numele acestuia pentru obținerea de alocații.",
+            "ref": "2. La acordarea indemnizaţiilor prevăzute de lege se va ţine seama, când este cazul, de resursele şi situaţia copilului şi ale persoanelor responsabile de întreţinerea sa, precum şi de orice alte împrejurări care au legătură cu cererea de acordare a indemnizaţiilor, înaintată de copil sau în numele său.",
+            "COMET": 0.9729297161102295
+        },
+        {
+            "src": "المادة 27",
+            "mt": "Articolul 27",
+            "ref": "ARTICOLUL 27",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تعترف الدول الأطراف بحق آل طفل في مستوى معيشي ملائم لنموه البدني والعقلي والروحي والمعنوي والاجتماعي.",
+            "mt": "Statele părți recunosc dreptul copilului la un nivel de trai adecvat dezvoltării sale fizice, mentale, spirituale, morale și sociale.",
+            "ref": "1. Statele părţi recunosc dreptul oricărui copil de a beneficia de un nivel de trai care să permită dezvoltarea sa fizică, mentală, spirituală, morală şi socială.",
+            "COMET": 0.9929492473602295
+        },
+        {
+            "src": "2. يتحمل الوالدان أو أحدهما أو الأشخاص الآخرون المسؤولون عن الطفل، المسؤولية الأساسية عن القيام، في حدود إمكانياتهم المالية وقدراتهم، بتأمين ظروف المعيشة اللازمة لنمو الطفل.",
+            "mt": "Părinții sau unul dintre ei, ori alte persoane responsabile de copil, au responsabilitatea principală de a asigura, în limita posibilităților lor financiare și a capacităților lor, condițiile de viață necesare dezvoltării copilului.",
+            "ref": "2. Părinţilor şi oricărei alte persoane care au în grijă un copil le revine în primul rând responsabilitatea de a asigura, în limita posibilităţilor şi a mijloacelor lor financiare, condiţiile de viaţă necesare în vederea dezvoltării copilului.",
+            "COMET": 0.9831836223602295
+        },
+        {
+            "src": "3. تتخذ الدول الأطراف، وفقا لظروفها الوطنية وفى حدود إمكانياتها، التدابير الملائمة من أجل مساعدة الوالدين وغيرهما من الأشخاص المسؤولين عن الطفل، علي إعمال هذا الحق وتقدم عند الضرورة المساعدة المادية وبرامج الدعم، ولا سيما فيما يتعلق بالتغذية والكساء والإسكان.",
+            "mt": "Statele părți, în conformitate cu circumstanțele lor naționale și în limita posibilităților lor, iau măsuri adecvate pentru a ajuta părinții și alte persoane responsabile de copil să exercite acest drept și oferă, atunci când este necesar, asistență materială și programe de sprijin, în special în ceea ce privește alimentația, îmbrăcămintea și locuința.",
+            "ref": "3. Statele părţi vor adopta măsurile corespunzătoare, ţinând seama de condiţiile naţionale şi în limita mijloacelor lor, pentru a ajuta părinţii şi alte persoane care au în grijă un copil să valorifice acest drept şi vor oferi în caz de nevoie asistenţă materială şi programe de sprijin destinate, în principal, satisfacerii nevoilor de hrană, îmbrăcăminte şi locuinţă.",
+            "COMET": 0.9670703411102295
+        },
+        {
+            "src": "4. تتخذ الدول الأطراف آل التدابير المناسبة لكفالة تحصيل نفقة الطفل من الوالدين أو من الأشخاص الآخرين المسؤولين ماليا عن الطفل، سواء داخل الدولة الطرف أو في الخارج. وبوجه خاص، عندما يعيش الشخص المسؤول ماليا عن الطفل في دولة أخرى غير الدولة التي يعيش فيها الطفل، تشجع الدول الأطراف الانضمام إلى اتفاقات دولية أو إبرام اتفاقات من هذا القبيل، وآذلك اتخاذ ترتيبات أخرى مناسبة.",
+            "mt": "Statele părți adoptă măsurile adecvate pentru a garanta plata pensiei alimentare de către părinți sau de către alte persoane responsabile financiar pentru copil, atât în interiorul statului parte, cât și în străinătate. În special, atunci când persoana responsabilă financiar pentru copil locuiește într-un alt stat decât cel în care locuiește copilul, statele părți sunt încurajate să adere la acorduri internaționale sau să încheie astfel de acorduri, precum și să adopte alte aranjamente adecvate.",
+            "ref": "4. Statele părţi vor lua toate măsurile adecvate pentru recuperarea pensiei alimentare pentru copil de la părinţii săi sau de la alte persoane care răspund din punct de vedere financiar pentru acesta, atât pe teritoriul statului parte, cât şi în străinătate. Astfel, în situaţia în care persoana care răspunde din punct de vedere financiar pentru copil nu locuieşte în statul în care locuieşte copilul, statele părţi vor încuraja aderarea la acorduri internaţionale sau încheierea de asemenea acorduri, precum şi adoptarea oricăror alte înţelegeri corespunzătoare.",
+            "COMET": 0.8689038753509521,
+            "errors": [
+                {
+                    "text": "plata",
+                    "confidence": 0.32861328125,
+                    "severity": "minor",
+                    "start": 55,
+                    "end": 61
+                },
+                {
+                    "text": "alimentare de către",
+                    "confidence": 0.34423828125,
+                    "severity": "minor",
+                    "start": 69,
+                    "end": 89
+                }
+            ]
+        },
+        {
+            "src": "المادة 28",
+            "mt": "Articolul 28",
+            "ref": "ARTICOLUL 28",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تعترف الدول الأطراف بحق الطفل في التعليم، وتحقيقا للإعمال الكامل لهذا الحق تدريجيا وعلى أساس تكافؤ الفرص، تقوم بوجه خاص بما يلي:",
+            "mt": "Statele părți recunosc dreptul copilului la educație și, pentru realizarea deplină a acestui drept, treptat și pe bază de egalitate de șanse, vor întreprinde în mod special următoarele:",
+            "ref": "1. Statele părţi recunosc dreptul copilului la educaţie şi, în vederea asigurării exercitării acestui drept în mod progresiv şi pe baza egalităţii de şanse, în special, statele membre vor avea obligaţia:",
+            "COMET": 0.9973437786102295
+        },
+        {
+            "src": "(أ) جعل التعليم الابتدائي إلزاميا ومتاحا مجانا للجميع،",
+            "mt": "(a) A făcut învățământul primar obligatoriu și gratuit pentru toți.",
+            "ref": "a) de a asigura învăţământul primar obligatoriu şi gratuit pentru toţi;",
+            "COMET": 0.930871844291687,
+            "errors": [
+                {
+                    "text": "a",
+                    "confidence": 0.3759765625,
+                    "severity": "minor",
+                    "start": 1,
+                    "end": 2
+                },
+                {
+                    "text": "A făcut",
+                    "confidence": 0.3798828125,
+                    "severity": "major",
+                    "start": 3,
+                    "end": 11
+                }
+            ]
+        },
+        {
+            "src": "(ب) تشجيع تطوير شتى أشكال التعليم الثانوي، سواء العام أو المهني، وتوفيرها وإتاحتها لجميع الأطفال، واتخاذ التدابير المناسبة مثل إدخال مجانية التعليم وتقديم المساعدة المالية عند الحاجة إليها،",
+            "mt": "(b) Încurajarea dezvoltării tuturor formelor de învățământ secundar, atât general cât și profesional, asigurarea accesului la acestea pentru toți copiii și adoptarea măsurilor adecvate, cum ar fi introducerea gratuității învățământului și acordarea de asistență financiară atunci când este necesar.",
+            "ref": "b) de a încuraja crearea diferitelor forme de învăţământ secundar, atât general, cât şi profesional şi de a le pune la dispoziţia tuturor copiilor şi de a permite accesul tuturor copiilor la acestea, de a lua măsuri corespunzătoare, cum ar fi instituirea gratuităţii învăţământului şi acordarea unui ajutor financiar în caz de nevoie;",
+            "COMET": 0.9758594036102295
+        },
+        {
+            "src": "(ج) جعل التعليم العالي، بشتى الوسائل المناسبة، متاحا للجميع على أساس القدرات،",
+            "mt": "(c) A făcut învățământul superior accesibil tuturor, prin toate mijloacele adecvate, pe baza capacităților.",
+            "ref": "c) de a asigura tuturor accesul la învăţământul superior, în funcţie de capacitatea fiecăruia, prin toate mijloacele adecvate;",
+            "COMET": 0.8727773427963257,
+            "errors": [
+                {
+                    "text": "c) A făcut",
+                    "confidence": 0.4970703125,
+                    "severity": "major",
+                    "start": 1,
+                    "end": 11
+                }
+            ]
+        },
+        {
+            "src": "(د) جعل المعلومات والمبادئ الإرشادية التربوية والمهنية متوفرة لجميع الأطفال وفى متناولهم،",
+            "mt": "(d) A pus la dispoziția tuturor copiilor informațiile și principiile directoare educaționale și profesionale.",
+            "ref": "d) de a pune la dispoziţie copiilor şi de a permite accesul acestora la informarea şi orientarea şcolară şi profesională;",
+            "COMET": 0.6768125295639038,
+            "errors": [
+                {
+                    "text": "d) A pus",
+                    "confidence": 0.46826171875,
+                    "severity": "major",
+                    "start": 1,
+                    "end": 9
+                },
+                {
+                    "text": "copiilor",
+                    "confidence": 0.36083984375,
+                    "severity": "major",
+                    "start": 31,
+                    "end": 40
+                },
+                {
+                    "text": "principi",
+                    "confidence": 0.422119140625,
+                    "severity": "major",
+                    "start": 56,
+                    "end": 65
+                },
+                {
+                    "text": "directoare",
+                    "confidence": 0.395751953125,
+                    "severity": "major",
+                    "start": 68,
+                    "end": 79
+                }
+            ]
+        },
+        {
+            "src": "(ه) اتخاذ تدابير لتشجيع الحضور المنتظم في المدارس والتقليل من معدلات ترك الدراسة.",
+            "mt": "(A) Luarea de măsuri pentru a încuraja prezența regulată la școală și pentru a reduce rata abandonului școlar.",
+            "ref": "e) de a lua măsuri pentru încurajarea frecventării cu regularitate a şcolii şi pentru reducerea ratei abandonului şcolar.",
+            "COMET": 0.9778015613555908,
+            "errors": [
+                {
+                    "text": "(A) Luarea",
+                    "confidence": 0.386474609375,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 10
+                }
+            ]
+        },
+        {
+            "src": "2. تتخذ الدول الأطراف آافة التدابير المناسبة لضمان إدارة النظام في المدارس على نحو يتمشى مع آرامة الطفل الإنسانية ويتوافق مع هذه الاتفاقية.",
+            "mt": "Statele părți adoptă toate măsurile adecvate pentru a garanta administrarea sistemului școlar într-un mod compatibil cu demnitatea copilului și conform cu această convenție.",
+            "ref": "2. Statele părţi vor lua toate măsurile corespunzătoare pentru a asigura aplicarea măsurilor de disciplină şcolară într-un mod compatibil cu demnitatea copilului ca fiinţă umană şi în conformitate cu prezenta convenţie.",
+            "COMET": 0.9690234661102295
+        },
+        {
+            "src": "3. تقوم الدول الأطراف في هذه الاتفاقية بتعزيز وتشجيع التعاون الدولي في الأمور المتعلقة بالتعليم، وبخاصة بهدف الإسهام في القضاء على الجهل والأمية في جميع أنحاء العالم وتيسير الوصول إلى المعرفة العلمية والتقنية وإلى وسائل التعليم الحديثة. وتراعى بصفة خاصة احتياجات البلدان النامية في هذا الصدد.",
+            "mt": "Statele părți la această convenție promovează și încurajează cooperarea internațională în chestiuni legate de educație, în special în vederea contribuției la eliminarea ignoranței și analfabetismului la nivel mondial și a facilitării accesului la cunoștințele științifice și tehnice și la mijloacele moderne de învățământ.  În acest sens, se acordă o atenție deosebită nevoilor țărilor în curs de dezvoltare.",
+            "ref": "3. Statele părţi vor promova şi vor încuraja cooperarea internaţională în domeniul educaţiei, mai ales în scopul de a contribui la eliminarea ignoranţei şi a analfabetismului în lume şi de a facilita accesul la cunoştinţe ştiinţifice şi tehnice şi la metode de învăţământ moderne. În această privinţă se va ţine seama, în special, de nevoile ţărilor în curs de dezvoltare.",
+            "COMET": 0.9558398723602295
+        },
+        {
+            "src": "المادة 29",
+            "mt": "Articolul 29",
+            "ref": "ARTICOLUL 29",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. توافق الدول الأطراف على أن يكون تعليم الطفل موجها نحو:",
+            "mt": "Statele părți convin că educația copilului trebuie orientată către:",
+            "ref": "1. Statele părţi sunt de acord că educaţia copilului trebuie să urmărească:",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "(أ) تنمية شخصية الطفل ومواهبه وقدراته العقلية والبدنية إلى أقصى إمكاناتها،",
+            "mt": "Dezvoltarea personalității copilului, a talentelor și capacităților sale intelectuale și fizice la maximum de potențial.",
+            "ref": "a) dezvoltarea plenară a personalităţii, a vocaţiilor şi a aptitudinilor mentale şi fizice ale copilului;",
+            "COMET": 0.9011195302009583,
+            "errors": [
+                {
+                    "text": "a",
+                    "confidence": 0.404296875,
+                    "severity": "minor",
+                    "start": 10,
+                    "end": 11
+                },
+                {
+                    "text": "maximum de poten",
+                    "confidence": 0.3916015625,
+                    "severity": "minor",
+                    "start": 98,
+                    "end": 115
+                },
+                {
+                    "text": "al",
+                    "confidence": 0.389404296875,
+                    "severity": "minor",
+                    "start": 117,
+                    "end": 119
+                }
+            ]
+        },
+        {
+            "src": "(ب) تنمية احترام حقوق الإنسان والحريات الأساسية والمبادئ المكرسة في ميثاق الأمم المتحدة،",
+            "mt": "(b) Dezvoltarea respectului pentru drepturile omului și libertățile fundamentale și principiile consacrate în Carta Națiunilor Unite.",
+            "ref": "b) cultivarea respectului pentru drepturile omului şi libertăţile fundamentale, precum şi pentru principiile consacrate în Carta Naţiunilor Unite;",
+            "COMET": 0.9880664348602295
+        },
+        {
+            "src": "(ج) تنمية احترام ذوى الطفل وهويته الثقافية ولغته وقيمة الخاصة، والقيم الوطنية للبلد الذي يعيش فيه الطفل والبلد الذي نشأ فيه في الأصل والحضارات المختلفة عن حضارته،",
+            "mt": "(c) Dezvoltarea respectului pentru cei apropiați copilului, identitatea sa culturală, limba sa și valorile sale proprii, precum și valorile naționale ale țării în care copilul locuiește și a țării de origine, și ale diferitelor culturi față de cultura sa.",
+            "ref": "c) educarea copilului în spiritul respectului faţă de părinţii săi, faţă de limba sa, de identitatea şi valorile sale culturale, faţă de valorile naţionale ale ţării în care acesta locuieşte, ale ţării de origine, precum şi faţă de civilizaţii diferite de a sa;",
+            "COMET": 0.6543515920639038,
+            "errors": [
+                {
+                    "text": ") Dezvoltarea",
+                    "confidence": 0.39306640625,
+                    "severity": "major",
+                    "start": 2,
+                    "end": 15
+                },
+                {
+                    "text": "pentru cei apropiați copilului",
+                    "confidence": 0.427978515625,
+                    "severity": "major",
+                    "start": 27,
+                    "end": 58
+                },
+                {
+                    "text": "ale",
+                    "confidence": 0.41259765625,
+                    "severity": "major",
+                    "start": 211,
+                    "end": 215
+                },
+                {
+                    "text": "lor culturi față de cultura sa",
+                    "confidence": 0.4609375,
+                    "severity": "major",
+                    "start": 224,
+                    "end": 254
+                }
+            ]
+        },
+        {
+            "src": "(د) إعداد الطفل لحياة تستشعر المسؤولية في مجتمع حر، بروح من التفاهم والسلم والتسامح والمساواة بين الجنسين والصداقة بين جميع الشعوب والجماعات الإثنية والوطنية والدينية والأشخاص الذين ينتمون إلى السكان الأصليين،",
+            "mt": "(d) Pregătirea copilului pentru o viață conștientă de responsabilitate într-o societate liberă, într-un spirit de înțelegere, pace, toleranță, egalitate între sexe și prietenie între toate popoarele, grupurile etnice, naționale, religioase și persoanele aparținând populațiilor indigene.",
+            "ref": "d) pregătirea copilului să îşi asume responsabilităţile vieţii într-o societate liberă, într-un spirit de înţelegere, de pace, de toleranţă, de egalitate între sexe şi prietenie între toate popoarele şi grupurile etnice, naţionale şi religioase şi cu persoanele de origine autohtonă;",
+            "COMET": 0.9172328114509583,
+            "errors": [
+                {
+                    "text": "ști",
+                    "confidence": 0.3505859375,
+                    "severity": "minor",
+                    "start": 43,
+                    "end": 46
+                },
+                {
+                    "text": "tă de",
+                    "confidence": 0.38525390625,
+                    "severity": "minor",
+                    "start": 48,
+                    "end": 53
+                },
+                {
+                    "text": "responsabilitate",
+                    "confidence": 0.346923828125,
+                    "severity": "minor",
+                    "start": 54,
+                    "end": 70
+                }
+            ]
+        },
+        {
+            "src": "(ه) تنمية احترام البيئة الطبيعية.",
+            "mt": "Dezvoltarea respectului pentru mediul natural.",
+            "ref": "e) educarea copilului în spiritul respectului faţă de mediul natural.",
+            "COMET": 0.9695007801055908,
+            "errors": [
+                {
+                    "text": "Dezvoltarea",
+                    "confidence": 0.35107421875,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 11
+                }
+            ]
+        },
+        {
+            "src": "2. ليس في نص هذه المادة أو المادة 28 ما يفسر على أنه تدخل في حرية الأفراد والهيئات في إنشاء المؤسسات التعليمية وإدارتها، رهنا على الدوام بمراعاة المبادئ المنصوص عليها في الفقرة 1 من هذه المادة وباشتراط مطابقة التعليم الذي توفره هذه المؤسسات للمعايير الدنيا التي قد تضعها الدولة.",
+            "mt": "2. Nimic din textul acestei articole sau al articolului 28 nu poate fi interpretat ca o ingerință în libertatea indivizilor și a entităților de a înființa și de a gestiona instituții de învățământ, sub rezerva respectării constante a principiilor prevăzute la punctul 1 al acestei articole și cu condiția ca educația oferită de aceste instituții să respecte standardele minime care pot fi stabilite de stat.",
+            "ref": "2. Nici o dispoziţie din prezentul articol sau din art. 28 nu va fi interpretată de o manieră care să aducă atingere libertăţii persoanelor fizice sau juridice de a crea şi conduce instituţii de învăţământ, cu condiţia ca principiile enunţate în paragraful 1 al prezentului articol să fie respectate şi ca educaţia dată în aceste instituţii să respecte normele minimale prescrise de stat.",
+            "COMET": 0.9216382503509521,
+            "errors": [
+                {
+                    "text": "articole",
+                    "confidence": 0.388427734375,
+                    "severity": "minor",
+                    "start": 27,
+                    "end": 36
+                },
+                {
+                    "text": "pot",
+                    "confidence": 0.408203125,
+                    "severity": "minor",
+                    "start": 381,
+                    "end": 385
+                }
+            ]
+        },
+        {
+            "src": "المادة 30",
+            "mt": "Articolul 30",
+            "ref": "ARTICOLUL 30",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "في الدول التي توجد فيها أقليات إثنية أو دينية أو لغوية أو أشخاص من السكان الأصليين، لا يجوز حرمان الطفل المنتمى لتلك الأقليات أو لأولئك السكان من الحق في أن يتمتع، مع بقية أفراد المجموعة، بثقافته، أو الاجهار بدينه وممارسة شعائره، أو استعمال لغته.",
+            "mt": "În statele în care există minorități etnice, religioase, lingvistice sau persoane aparținând populației indigene, nu este permis să fie privat copilul aparținând acestor minorități sau acestei populații de dreptul de a se bucura, împreună cu ceilalți membri ai grupului, de cultura sa, de a-și profesa religia și de a-și practica ritualurile, sau de a-și folosi limba.",
+            "ref": "În statele în care există minorităţi etnice, religioase sau lingvistice ori persoane de origine autohtonă copilul aparţinând unei astfel de minorităţi sau având origine autohtonă nu va fi privat de dreptul la viaţă culturală proprie, de dreptul de a-şi declara apartenenţa religioasă şi de a-şi practica propria religie, precum şi dreptul de a folosi limba proprie în comun cu alţi membri ai grupului său.",
+            "COMET": 0.9338562488555908,
+            "errors": [
+                {
+                    "text": "profes",
+                    "confidence": 0.39453125,
+                    "severity": "minor",
+                    "start": 293,
+                    "end": 300
+                }
+            ]
+        },
+        {
+            "src": "المادة 31",
+            "mt": "Articolul 31",
+            "ref": "ARTICOLUL 31",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تعترف الدول الأطراف بحق الطفل في الراحة ووقت الفراغ، ومزاولة الألعاب وأنشطة الاستجمام المناسبة لسنه والمشارآة بحرية في الحياة الثقافية وفى الفنون.",
+            "mt": "Statele părți recunosc dreptul copilului la odihnă și timp liber, la joacă și activități recreative adecvate vârstei sale, precum și la participarea liberă la viața culturală și artistică.",
+            "ref": "1. Statele părţi recunosc copilului dreptul la odihnă şi la vacanţă, dreptul de a practica activităţi recreative proprii vârstei sale, de a participa liber la viaţa culturală şi artistică.",
+            "COMET": 0.9846484661102295
+        },
+        {
+            "src": "2. تحترم الدول الأطراف وتعزز حق الطفل في المشارآة الكاملة في الحياة الثقافية والفنية وتشجع على توفير فرص ملائمة ومتساوية للنشاط الثقافي والفني والاستجمامي وأنشطة أوقات الفراغ.",
+            "mt": "Statele părți respectă și promovează dreptul copilului la participarea deplină la viața culturală și artistică și încurajează crearea de oportunități adecvate și egale pentru activități culturale, artistice, recreative și de petrecere a timpului liber.",
+            "ref": "2. Statele părţi respectă şi promovează dreptul copilului de a participa pe deplin la viaţa culturală şi artistică şi încurajează punerea la dispoziţie acestuia a mijloacelor adecvate de petrecere a timpului liber şi de desfăşurare a activităţilor recreative, artistice şi culturale, în condiţii de egalitate.",
+            "COMET": 0.9670703411102295
+        },
+        {
+            "src": "المادة 32",
+            "mt": "Articolul 32",
+            "ref": "ARTICOLUL 32",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تعترف الدول الأطراف بحق الطفل في حمايته من الاستغلال الاقتصادي ومن أداء أي عمل يرجح أن يكون خطيرا أو أن يمثل إعاقة لتعليم الطفل، أو أن يكون ضارا بصحة الطفل أو بنموه البدني، أو العقلي، أو الروحي، أو المعنوي، أو الاجتماعي.",
+            "mt": "Statele părți recunosc dreptul copilului la protecție împotriva exploatării economice și a oricărei munci care ar putea fi periculoasă sau care ar putea împiedica educația copilului, sau care ar putea fi dăunătoare sănătății sale fizice, mentale, spirituale, morale sau sociale.",
+            "ref": "1. Statele părţi recunosc dreptul copilului de a fi protejat împotriva exploatării economice şi de a nu fi constrâns la vreo muncă ce comportă vreun risc potenţial sau care este susceptibilă să îi compromită educaţia ori să îi dăuneze sănătăţii sau dezvoltării sale fizice, mentale, spirituale, morale ori sociale.",
+            "COMET": 0.9670703411102295
+        },
+        {
+            "src": "2. تتخذ الدول الأطراف التدابير التشريعية والإدارية والاجتماعية والتربوية التي تكفل تنفيذ هذه المادة. ولهذا الغرض، ومع مراعاة أحكام الصكوك الدولية الأخرى ذات الصلة، تقوم الدول الأطراف بوجه خاص بما يلي:",
+            "mt": "2. Statele părți adoptă măsuri legislative, administrative, sociale și educaționale care să garanteze punerea în aplicare a prezentei articole. În acest scop, și ținând seama de dispozițiile altor instrumente internaționale relevante, statele părți vor întreprinde în special următoarele:",
+            "ref": "2. Statele părţi vor lua măsuri legislative, administrative, sociale şi educative pentru a asigura aplicarea prezentului articol. În acest scop şi ţinând seama de dispoziţiile aplicabile ale celorlalte instrumente internaţionale, statele părţi se obligă, în special:",
+            "COMET": 0.9558289051055908,
+            "errors": [
+                {
+                    "text": "prezentei articole",
+                    "confidence": 0.41455078125,
+                    "severity": "minor",
+                    "start": 123,
+                    "end": 142
+                }
+            ]
+        },
+        {
+            "src": "(أ) تحديد عمر أدنى أو أعمار دنيا للالتحاق بعمل،",
+            "mt": "(a) Stabilirea unei vârste minime sau a unor vârste minime pentru angajare.",
+            "ref": "a) să fixeze o vârstă minimă sau vârste minime de angajare;",
+            "COMET": 0.9196742177009583,
+            "errors": [
+                {
+                    "text": "a",
+                    "confidence": 0.38916015625,
+                    "severity": "minor",
+                    "start": 1,
+                    "end": 2
+                },
+                {
+                    "text": "Stabilirea",
+                    "confidence": 0.353515625,
+                    "severity": "minor",
+                    "start": 3,
+                    "end": 14
+                },
+                {
+                    "text": "a unor vârste minime",
+                    "confidence": 0.3681640625,
+                    "severity": "minor",
+                    "start": 37,
+                    "end": 58
+                }
+            ]
+        },
+        {
+            "src": "(ب) وضع نظام مناسب لساعات العمل وظروفه،",
+            "mt": "(b) Stabilirea unui sistem adecvat pentru orele de lucru și condițiile acestora.",
+            "ref": "b) să adopte o reglementare cu privire la orele şi la condiţiile de muncă;",
+            "COMET": 0.9426343441009521,
+            "errors": [
+                {
+                    "text": "irea",
+                    "confidence": 0.369384765625,
+                    "severity": "minor",
+                    "start": 10,
+                    "end": 14
+                },
+                {
+                    "text": "sistem",
+                    "confidence": 0.3896484375,
+                    "severity": "minor",
+                    "start": 19,
+                    "end": 26
+                }
+            ]
+        },
+        {
+            "src": "(ج) فرض عقوبات أو جزاءات أخرى مناسبة لضمان بغية إنفاذ هذه المادة بفعالية.",
+            "mt": "(c) Impunerea de sancțiuni sau alte pedepse adecvate pentru a asigura aplicarea eficientă a acestui articol.",
+            "ref": "c) să prevadă pedepse sau alte sancţiuni corespunzătoare, pentru a asigura aplicarea întocmai a prezentului articol.",
+            "COMET": 0.9426453113555908,
+            "errors": [
+                {
+                    "text": "c) Impunerea",
+                    "confidence": 0.382568359375,
+                    "severity": "minor",
+                    "start": 1,
+                    "end": 13
+                }
+            ]
+        },
+        {
+            "src": "المادة 33",
+            "mt": "Articolul 33",
+            "ref": "ARTICOLUL 33",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تتخذ الدول الأطراف جميع التدابير المناسبة، بما في ذلك التدابير التشريعية والإدارية والاجتماعية والتربوية، لوقاية الأطفال من الاستخدام غير المشروع للمواد المخدرة والمواد المؤثرة على العقل، وحسبما تحددت في المعاهدات الدولية ذات الصلة، ولمنع استخدام الأطفال في إنتاج مثل هذه المواد بطريقة غير مشروعة والاتجار بها",
+            "mt": "Statele părți iau toate măsurile adecvate, inclusiv măsuri legislative, administrative, sociale și educaționale, pentru a proteja copiii de utilizarea ilicită a drogurilor și a substanțelor psihotrope, conform prevederilor tratatelor internaționale relevante, și pentru a preveni utilizarea copiilor în producția și traficul ilicit al acestor substanțe.",
+            "ref": "Statele părţi vor lua măsuri corespunzătoare, inclusiv măsuri legislative, administrative, sociale şi educaţionale, pentru a proteja copiii contra folosirii ilicite de stupefiante şi substanţe psihotrope, aşa cum sunt acestea definite de convenţiile internaţionale în materie şi pentru a preveni folosirea copiilor în scopul producerii şi al traficului ilicit de astfel de substanţe.",
+            "COMET": 0.9641406536102295
+        },
+        {
+            "src": "المادة 34",
+            "mt": "Articolul 34",
+            "ref": "ARTICOLUL 34",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تتعهد الدول الأطراف بحماية الطفل من جميع أشكال الاستغلال الجنسي والانتهاك الجنسي. ولهذه الأغراض تتخذ الدول الأطراف، بوجه خاص، جميع التدابير الملائمة الوطنية والثنائية والمتعددة الأطراف لمنع:",
+            "mt": "Statele părți se angajează să protejeze copilul împotriva tuturor formelor de exploatare sexuală și abuz sexual. În aceste scopuri, statele părți adoptă, în mod special, toate măsurile naționale, bilaterale și multilaterale adecvate pentru a preveni:",
+            "ref": "Statele părţi se angajează să protejeze copilul contra oricărei forme de exploatare sexuală şi de violenţă sexuală. În acest scop statele vor lua, în special, toate măsurile corespunzătoare pe plan naţional, bilateral şi multilateral, pentru a împiedica:",
+            "COMET": 0.9787890911102295
+        },
+        {
+            "src": "(أ) حمل أو إآراه الطفل على تعاطى أي نشاط جنسي غير مشروع،",
+            "mt": "(a) A determinat sau a determinat copilul să participe la orice activitate sexuală ilegală.",
+            "ref": "a) incitarea sau constrângerea copiilor să se dedea la activităţi sexuale ilegale;",
+            "COMET": 0.7252616882324219,
+            "errors": [
+                {
+                    "text": "a) A determinat sau a determinat copilul",
+                    "confidence": 0.44091796875,
+                    "severity": "major",
+                    "start": 1,
+                    "end": 41
+                },
+                {
+                    "text": "orice",
+                    "confidence": 0.41748046875,
+                    "severity": "major",
+                    "start": 57,
+                    "end": 63
+                }
+            ]
+        },
+        {
+            "src": "(ب) الاستخدام الاستغلالي للأطفال في الدعارة أو غيرها من الممارسات الجنسية غير المشروعة،",
+            "mt": "(b) Exploatarea sexuală a copiilor în prostituție sau în alte practici sexuale ilegale,",
+            "ref": "b) exploatarea copiilor în scopul prostituţiei sau al altor practici sexuale ilegale;",
+            "COMET": 0.9655945301055908,
+            "errors": [
+                {
+                    "text": "sexual",
+                    "confidence": 0.40087890625,
+                    "severity": "minor",
+                    "start": 15,
+                    "end": 22
+                }
+            ]
+        },
+        {
+            "src": "(ج) الاستخدام الاستغلالي للأطفال في العروض والمواد الداعرة.",
+            "mt": "(c) Exploatarea sexuală a copiilor în spectacole și materiale pornografice.",
+            "ref": "c) exploatarea copiilor în scopul producţiei de spectacole sau de materiale cu caracter pornografic.",
+            "COMET": 0.9509460926055908,
+            "errors": [
+                {
+                    "text": "sexual",
+                    "confidence": 0.416015625,
+                    "severity": "minor",
+                    "start": 15,
+                    "end": 22
+                }
+            ]
+        },
+        {
+            "src": "المادة 35",
+            "mt": "Articolul 35",
+            "ref": "ARTICOLUL 35",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تتخذ الدول الأطراف جميع التدابير الملائمة الوطنية والثنائية والمتعددة الأطراف لمنع اختطاف الأطفال أو بيعهم أو الاتجار بهم لأي غرض من الأغراض أو بأي شكل من الأشكال.",
+            "mt": "Statele părți iau toate măsurile naționale, bilaterale și multilaterale adecvate pentru a preveni răpirea, vânzarea sau traficul de copii în orice scop sau sub orice formă.",
+            "ref": "Statele părţi vor lua toate măsurile necesare, pe plan naţional, bilateral şi multilateral, pentru a preveni răpirea, vânzarea şi traficul de copii în orice scop şi sub orice formă.",
+            "COMET": 0.9914844036102295
+        },
+        {
+            "src": "المادة 36",
+            "mt": "Articolul 36",
+            "ref": "ARTICOLUL 36",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تحمي الدول الأطراف الطفل من سائر أشكال الاستغلال الضارة بأي جانب من جوانب رفاة الطفل.",
+            "mt": "Statele participante protejează copilul împotriva tuturor formelor de exploatare dăunătoare oricărui aspect al bunăstării copilului.",
+            "ref": "Statele părţi vor proteja copilul contra oricărei forme de exploatare dăunătoare oricărui aspect al bunăstării sale.",
+            "COMET": 0.9700000286102295
+        },
+        {
+            "src": "المادة 37",
+            "mt": "Articolul 37",
+            "ref": "ARTICOLUL 37",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تكفل الدول الأطراف:",
+            "mt": "Părțile contractante se angajează:",
+            "ref": "Statele părţi vor veghea ca:",
+            "COMET": 0.9362866878509521,
+            "errors": [
+                {
+                    "text": "contract",
+                    "confidence": 0.40380859375,
+                    "severity": "minor",
+                    "start": 7,
+                    "end": 16
+                },
+                {
+                    "text": "angaj",
+                    "confidence": 0.377685546875,
+                    "severity": "minor",
+                    "start": 23,
+                    "end": 29
+                }
+            ]
+        },
+        {
+            "src": "(أ) ألا يعرض أي طفل للتعذيب أو لغيره من ضروب المعاملة أو العقوبة القاسية أو اللاإنسانية أو المهينة. ولا تفرض عقوبة الإعدام أو السجن مدي الحياة بسبب جرائم يرتكبها أشخاص تقل أعمارهم عن ثماني عشرة سنة دون وجود إمكانية للإفراج عنهم،",
+            "mt": "(a) Niciun copil să nu fie supus torturii sau altor forme de tratament sau pedeapsă crudă, inumană sau degradantă. Pedeapsa cu moartea sau închisoarea pe viață nu se aplică pentru infracțiuni comise de persoane cu vârsta sub optsprezece ani, fără posibilitatea eliberării.",
+            "ref": "a) nici un copil să nu fie supus la tortură, la pedepse sau la tratamente crude, inumane sau degradante. Pedeapsa capitală sau închisoarea pe viaţă fără posibilitatea de a fi eliberat nu va fi pronunţată pentru infracţiunile comise de persoane sub vârsta de 18 ani;",
+            "COMET": 0.8430359363555908,
+            "errors": [
+                {
+                    "text": "opt",
+                    "confidence": 0.34228515625,
+                    "severity": "minor",
+                    "start": 224,
+                    "end": 228
+                }
+            ]
+        },
+        {
+            "src": "(ب) ألا يحرم أي طفل من حريته بصورة غير قانونية أو تعسفية. ويجب أن يجرى اعتقال الطفل أو احتجازه أو سجنه وفقا للقانون ولا يجوز ممارسته إلا آملجأ أخير ولأقصر فترة زمنية مناسبة،",
+            "mt": "(b) Niciun copil să nu fie lipsit de libertate în mod ilegal sau arbitrar.  Arestare, detenția sau încarcerarea unui copil trebuie să se facă în conformitate cu legea și să fie utilizate doar ca ultimă instanță și pentru cea mai scurtă perioadă rezonabilă de timp.",
+            "ref": "b) nici un copil să nu fie privat de libertate în mod ilegal sau arbitrar. Arestarea, deţinerea sau întemniţarea unui copil trebuie să fie conformă cu legea şi nu va fi decât o măsură extremă şi cât mai scurtă posibil;",
+            "COMET": 0.9431335926055908,
+            "errors": [
+                {
+                    "text": "Arestare",
+                    "confidence": 0.40087890625,
+                    "severity": "minor",
+                    "start": 75,
+                    "end": 84
+                }
+            ]
+        },
+        {
+            "src": "(ج) يعامل آل طفل محروم من حريته بإنسانية واحترام للكرامة المتأصلة في الإنسان، وبطريقة تراعى احتياجات الأشخاص الذين بلغوا سنه. وبوجه خاص، يفصل آل طفل محروم من حريته عن البالغين، ما لم يعتبر أن مصلحة الطفل تقتضي خلاف ذلك، ويكون له الحق في البقاء على اتصال مع أسرته عن طريق المراسلات والزيارات، إلا في الظروف الاستثنائية،",
+            "mt": "(c) Copiii privați de libertate sunt tratați cu umanitate și cu respect pentru demnitatea inerentă a persoanei umane, într-un mod care ține seama de nevoile persoanelor de vârsta lor. În mod special, copiii privați de libertate sunt separați de adulți, cu excepția cazului în care se consideră că interesul superior al copilului impune altfel, și au dreptul de a menține legătura cu familia lor prin corespondență și vizite, cu excepția unor circumstanțe excepționale.",
+            "ref": "c) orice copil privat de libertate să fie tratat cu omenie şi cu respectul cuvenit demnităţii umane şi de o manieră care să ţină seama de nevoile persoanelor de vârsta sa. Astfel, orice copil privat de libertate va fi separat de adulţi, cu excepţia cazurilor în care se apreciază ca fiind în interesul major al copilului să nu se procedeze astfel, şi va avea dreptul de a menţine contactul cu familia sa prin corespondenţă şi vizite, în afara unor cazuri excepţionale;",
+            "COMET": 0.9162890911102295
+        },
+        {
+            "src": "(د) يكون لكل طفل محروم من حريته الحق في الحصول بسرعة على مساعدة قانونية وغيرها من المساعدة المناسبة، فضلا عن الحق في الطعن في شرعية حرمانه من الحرية أمام محكمة أو سلطة مختصة مستقلة ومحايدة أخرى، وفى أن يجرى البت بسرعة في أي إجراء من هذا القبيل.",
+            "mt": "(d) Orice copil privat de libertate are dreptul de a primi rapid asistență juridică și altă asistență adecvată, precum și dreptul de a contesta legalitatea privare de libertate în fața unei instanțe sau alte autorități competente, independente și imparțiale, și ca orice astfel de procedură să fie soluționată rapid.",
+            "ref": "d) copiii privaţi de libertate să aibă dreptul de a avea acces rapid la asistenţă juridică sau la orice altă asistenţă corespunzătoare, precum şi dreptul de a contesta legalitatea privării lor de libertate, în faţa unui tribunal sau a unei alte autorităţi competente, independente şi imparţiale, şi dreptul la judecarea în procedură de urgenţă a cazului respectiv.",
+            "COMET": 0.8615249991416931,
+            "errors": [
+                {
+                    "text": "legalitatea privare de",
+                    "confidence": 0.379150390625,
+                    "severity": "major",
+                    "start": 143,
+                    "end": 166
+                },
+                {
+                    "text": "procedur",
+                    "confidence": 0.3759765625,
+                    "severity": "minor",
+                    "start": 280,
+                    "end": 289
+                },
+                {
+                    "text": "solu",
+                    "confidence": 0.378662109375,
+                    "severity": "minor",
+                    "start": 297,
+                    "end": 302
+                }
+            ]
+        },
+        {
+            "src": "المادة 38",
+            "mt": "Articolul 38",
+            "ref": "ARTICOLUL 38",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تتعهد الدول الأطراف بأن تحترم قواعد القانون الإنساني الدولي المنطبقة عليها في المنازعات المسلحة وذات الصلة بالطفل وأن تضمن احترام هذه القواعد.",
+            "mt": "Statele părți se angajează să respecte normele dreptului internațional umanitar aplicabile în conflictele armate și relevante pentru copil și să asigure respectarea acestor norme.",
+            "ref": "1. Statele părţi se angajează să respecte şi să asigure respectarea regulilor dreptului umanitar internaţional aplicabile în caz de conflict armat şi menite să garanteze protecţia copilului.",
+            "COMET": 0.9734070301055908,
+            "errors": [
+                {
+                    "text": "relevante pentru copil",
+                    "confidence": 0.411865234375,
+                    "severity": "minor",
+                    "start": 115,
+                    "end": 138
+                }
+            ]
+        },
+        {
+            "src": "2. تتخذ الدول الأطراف جميع التدابير الممكنة عمليا لكي تضمن ألا يشترك الأشخاص الذين لم يبلغ سنهم خمس عشرة سنة اشتراآا مباشرا في الحرب.",
+            "mt": "Statele părți iau toate măsurile practice posibile pentru a asigura că persoanele sub cincisprezece ani nu participă direct la ostilități.",
+            "ref": "2. Statele părţi vor lua toate măsurile posibile pentru a garanta ca persoanele care nu au împlinit vârsta de 15 ani să nu participe direct la ostilităţi.",
+            "COMET": 0.9265320301055908,
+            "errors": [
+                {
+                    "text": "practice",
+                    "confidence": 0.42333984375,
+                    "severity": "minor",
+                    "start": 32,
+                    "end": 41
+                }
+            ]
+        },
+        {
+            "src": "3. تمتنع الدول الأطراف عن تجنيد أي شخص لم تبلغ سنه خمس عشرة سنة في قواتها المسلحة. وعند التجنيد من بين الأشخاص الذين بلغت سنهم خمس عشرة سنة ولكنها لم تبلغ ثماني عشرة سنة، يجب على الدول الأطراف أن تسعي لإعطاء الأولوية لمن هم أآبر سنا.",
+            "mt": "3. Statele părți se abțin de la recrutarea oricărei persoane sub vârsta de cincisprezece ani în forțele lor armate. În cazul recrutării de persoane cu vârsta de cincisprezece ani, dar sub optsprezece ani, statele părți trebuie să acorde prioritate celor mai în vârstă.",
+            "ref": "3. Statele părţi se vor abţine de a înrola în forţele lor armate persoane care nu au împlinit vârsta de 15 ani. Atunci când încorporează persoane mai mari de 15 ani, dar mai mici de 18 ani, statele părţi se vor strădui să înroleze, cu prioritate, pe cei mai în vârstă.",
+            "COMET": 0.836145281791687,
+            "errors": [
+                {
+                    "text": "cinci",
+                    "confidence": 0.35595703125,
+                    "severity": "minor",
+                    "start": 160,
+                    "end": 166
+                },
+                {
+                    "text": "sub optsprezece ani",
+                    "confidence": 0.371337890625,
+                    "severity": "major",
+                    "start": 183,
+                    "end": 203
+                }
+            ]
+        },
+        {
+            "src": "4. تتخذ الدول الأطراف، وفقا لالتزاماتها بمقتضى القانون الإنساني الدولي بحماية السكان المدنيين في المنازعات المسلحة، جميع التدابير الممكنة عمليا لكي تضمن حماية ورعاية الأطفال المتأثرين بنزاع مسلح.",
+            "mt": "În conformitate cu obligațiile lor în temeiul dreptului internațional umanitar de a proteja populația civilă în conflictele armate, statele părți iau toate măsurile fezabile pentru a asigura protecția și îngrijirea copiilor afectați de un conflict armat.",
+            "ref": "4. Conform obligaţiei care le revine în virtutea dreptului umanitar internaţional de a proteja populaţia civilă în caz de conflict armat, statele părţi vor lua toate măsurile fezabile, astfel încât copiii afectaţi de conflictul armat să beneficieze de protecţie şi de îngrijire.",
+            "COMET": 0.9729297161102295
+        },
+        {
+            "src": "المادة 39",
+            "mt": "Articolul 39",
+            "ref": "ARTICOLUL 39",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تتخذ الدول الأطراف آل التدابير المناسبة لتشجيع التأهيل البدني والنفسي وإعادة الاندماج الاجتماعي للطفل الذي يقع ضحية أي شكل من أشكال الإهمال أو الاستغلال أو الإساءة، أو التعذيب أو أي شكل آخر من أشكال المعاملة أو العقوبة القاسية أو اللاإنسانية أو المهينة، أو المنازعات المسلحة. ويجرى هذا التأهيل وإعادة الاندماج هذه في بيئة تعزز صحة الطفل، واحترامه لذاته، وآرامته.",
+            "mt": "Statele părți adoptă măsurile adecvate pentru a încuraja reabilitarea fizică și psihică și reintegrarea socială a copilului care este victima oricărei forme de neglijare, exploatare sau abuz, sau tortură sau orice altă formă de tratament sau pedeapsă crud, inuman sau degradant, sau a conflictelor armate. Această reabilitare și reintegrare se realizează într-un mediu care promovează sănătatea copilului, respectul de sine și bunăstarea sa.",
+            "ref": "Statele părţi vor lua toate măsurile corespunzătoare pentru a facilita recuperarea fizică şi psihologică şi reintegrarea socială a copiilor, victime ale unei forme de neglijenţă, exploatare sau abuz, de tortură sau pedeapsă ori tratamente crude, inumane sau degradante ori victime ale unui conflict armat. Această readaptare şi această reintegrare se vor desfăşura în condiţii care favorizează sănătatea, respectul de sine şi demnitatea copilului.",
+            "COMET": 0.7970718741416931,
+            "errors": [
+                {
+                    "text": "sau pedeap",
+                    "confidence": 0.361572265625,
+                    "severity": "minor",
+                    "start": 237,
+                    "end": 248
+                },
+                {
+                    "text": "ă crud",
+                    "confidence": 0.377197265625,
+                    "severity": "minor",
+                    "start": 249,
+                    "end": 255
+                },
+                {
+                    "text": "nt",
+                    "confidence": 0.371337890625,
+                    "severity": "major",
+                    "start": 275,
+                    "end": 277
+                }
+            ]
+        },
+        {
+            "src": "المادة 40",
+            "mt": "Articolul 40",
+            "ref": "ARTICOLUL 40",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "المادة 41",
+            "mt": "Articolul 41",
+            "ref": "ARTICOLUL 41",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "ليس في هذه الاتفاقية ما يمس أي أحكام تكون أسرع إفضاء إلى إعمال حقوق الطفل والتي قد ترد في:",
+            "mt": "Nimic din această convenție nu afectează dispozițiile care ar conduce mai rapid la exercitarea drepturilor copilului și care ar putea fi prevăzute în:",
+            "ref": "Nici o dispoziţie din prezenta convenţie nu aduce atingere prevederilor mai favorabile pentru realizarea acestor drepturi ale copilului care pot figura:",
+            "COMET": 0.8991773128509521,
+            "errors": [
+                {
+                    "text": "rapid",
+                    "confidence": 0.39501953125,
+                    "severity": "minor",
+                    "start": 73,
+                    "end": 79
+                },
+                {
+                    "text": "în",
+                    "confidence": 0.390380859375,
+                    "severity": "minor",
+                    "start": 146,
+                    "end": 149
+                }
+            ]
+        },
+        {
+            "src": "(أ) قانون دولة طرف، أو،",
+            "mt": "(a) Legea unui stat parte, sau,",
+            "ref": "a) în legislaţia unui stat parte; sau",
+            "COMET": 0.9377515316009521,
+            "errors": [
+                {
+                    "text": "(a) Legea unui stat parte",
+                    "confidence": 0.39501953125,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 25
+                },
+                {
+                    "text": "sau,",
+                    "confidence": 0.41552734375,
+                    "severity": "minor",
+                    "start": 26,
+                    "end": 31
+                }
+            ]
+        },
+        {
+            "src": "(ب) القانون الدولي الساري على تلك الدولة.",
+            "mt": "(b) dreptul internațional aplicabil acelei state.",
+            "ref": "b) în dreptul internaţional în vigoare pentru statul respectiv.",
+            "COMET": 0.9714429378509521,
+            "errors": [
+                {
+                    "text": "(b) dreptul",
+                    "confidence": 0.4208984375,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 11
+                },
+                {
+                    "text": "aplicabil acele",
+                    "confidence": 0.4189453125,
+                    "severity": "minor",
+                    "start": 25,
+                    "end": 41
+                }
+            ]
+        },
+        {
+            "src": "الجزء الثاني",
+            "mt": "Partea a doua",
+            "ref": "PARTEA a II-a",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "المادة 42",
+            "mt": "Articolul 42",
+            "ref": "ARTICOLUL 42",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تتعهد الدول الأطراف بأن تنشر مبادئ الاتفاقية وأحكامها على نطاق واسع بالوسائل الملائمة والفعالة، بين الكبار والأطفال على السواء.",
+            "mt": "Părțile contractante se angajează să disemineze pe scară largă principiile și prevederile convenției, prin mijloace adecvate și eficiente, atât pentru adulți, cât și pentru copii.",
+            "ref": "Statele părţi se angajează să facă larg cunoscute atât adulţilor, cât şi copiilor principiile şi dispoziţiile prezentei convenţii, prin mijloace active şi adecvate.",
+            "COMET": 0.9797656536102295
+        },
+        {
+            "src": "المادة 43",
+            "mt": "Articolul 43",
+            "ref": "ARTICOLUL 43",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تنشأ لغرض دراسة التقدم الذي أحرزته الدول الأطراف في استيفاء تنفيذ الالتزامات التي تعهدت بها في هذه الاتفاقية لجنة معنية بحقوق الطفل تضطلع بالوظائف المنصوص عليها فيما يلي.",
+            "mt": "În scopul examinării progreselor înregistrate de statele părți în îndeplinirea obligațiilor asumate în prezenta convenție, se înființează un comitet pentru drepturile copilului, care își va îndeplini funcțiile prevăzute mai jos.",
+            "ref": "1. În vederea examinării progreselor înregistrate de statele părţi în executarea obligaţiilor pe care şi le-au asumat în virtutea prezentei convenţii, se instituie un comitet al drepturilor copilului, ale cărui atribuţii sunt descrise mai jos.",
+            "COMET": 0.9465625286102295
+        },
+        {
+            "src": "2. تتألف اللجنة من عشرة خبراء من ذوى المكانة الخلقية الرفيعة والكفاءة المعترف بها في الميدان الذي تغطيه هذه الاتفاقية. وتنتخب الدول الأطراف أعضاء اللجنة من بين رعاياها ويعمل هؤلاء الأعضاء بصفتهم الشخصية، ويولى الاعتبار للتوزيع الجغرافي العادل وآذلك للنظم القانونية الرئيسية.",
+            "mt": "2. Comisia este compusă din zece experți cu înaltă moralitate și competență recunoscută în domeniul acoperit de prezenta convenție. Statele părți aleg membrii comisiei dintre cetățenii lor, iar aceștia își exercită mandatul în nume personal. Se va ține seama de o distribuție geografică echitabilă și de principalele sisteme juridice.",
+            "ref": "2. Comitetul se compune din 10 experţi de o înaltă ţinută morală şi care posedă o competenţă recunoscută în domeniul reglementat de prezenta convenţie. Membrii Comitetului sunt aleşi de statele părţi din rândul cetăţenilor lor şi acţionează în nume propriu, ţinându-se seama de necesitatea asigurării unei repartiţii geografice echitabile şi a reprezentării principalelor sisteme juridice.",
+            "COMET": 0.9338562488555908,
+            "errors": [
+                {
+                    "text": "personal",
+                    "confidence": 0.37548828125,
+                    "severity": "minor",
+                    "start": 231,
+                    "end": 240
+                }
+            ]
+        },
+        {
+            "src": "3. ينتخب أعضاء اللجنة بالاقتراع السري من قائمة أشخاص ترشحهم الدول الأطراف، ولكل دولة طرف أن ترشح شخصا واحدا من بين رعاياها.",
+            "mt": "Membrii comisiei sunt aleși prin vot secret dintr-o listă de persoane desemnate de statele părți, fiecare stat parte având dreptul să desemneze o singură persoană dintre cetățenii săi.",
+            "ref": "3. Membrii Comitetului sunt aleşi prin vot secret de pe o listă de persoane desemnate de statele părţi. Fiecare stat parte poate desemna un candidat dintre cetăţenii săi.",
+            "COMET": 0.9831836223602295
+        },
+        {
+            "src": "4. يجرى الانتخاب الأول لعضوية اللجنة بعد ستة أشهر على الأآثر من تاريخ بدء نفاذ هذه الاتفاقية وبعد ذلك مرة آل سنتين. ويوجه الأمين العام للأمم المتحدة قبل أربعة أشهر على الأقل من تاريخ آل انتخاب رسالة إلى الدول الأطراف يدعوها فيها إلى تقديم ترشيحاتها في غضون شهرين. ثم يعد الأمين العام قائمة مرتبة ترتيبا ألفبائيا بجميع الأشخاص المرشحين على هذا النحو مبينا الدول الأطراف التي رشحتهم، ويبلغها إلى الدول الأطراف في هذه الاتفاقية.",
+            "mt": "4. Prima alegere a membrilor comisiei are loc după cel mult șase luni de la data intrării în vigoare a prezentului acord și, ulterior, o dată la doi ani. Cu cel puțin patru luni înainte de data alegerilor, secretarul general al Organizației Națiunilor Unite adresează statelor părți o scrisoare prin care le invită să prezinte candidaturile în termen de două luni. Apoi, secretarul general întocmește o listă alfabetică a tuturor candidaților astfel desemnați, indicând statele părți care i-au propus, și o comunică statelor părți la prezentul acord.",
+            "ref": "4. Primele alegeri vor avea loc în termen de 6 luni de la data intrării în vigoare a prezentei convenţii, iar ulterior, la fiecare 2 ani. Cu minimum 4 luni înaintea datei fiecărei alegeri secretarul general al Organizaţiei Naţiunilor Unite va invita în scris statele părţi să propună candidaţii lor într-un termen de două luni. Secretarul general va întocmi apoi o listă alfabetică a candidaţilor astfel desemnaţi, indicând statele părţi care i-au desemnat, şi o va comunica statelor părţi la convenţie.",
+            "COMET": 0.8454883098602295
+        },
+        {
+            "src": "5. تجرى الانتخابات في اجتماعات للدول الأطراف يدعو الأمين العام إلي عقدها في مقر الأمم المتحدة. وفى هذه الاجتماعات، التي يشكل حضور ثلثي الدول الأطراف فيها نصابا قانونيا لها، يكون الأشخاص المنتخبون لعضوية اللجنة هم الذين يحصلون على أآبر عدد من الأصوات وعلى الأغلبية المطلقة لأصوات ممثلي الدول الأطراف الحاضرين المصوتين.",
+            "mt": "Alegerile se desfășoară în cadrul unor reuniuni ale statelor părți, convocate de secretarul general la sediul Organizației Națiunilor Unite. În cadrul acestor reuniuni, la care prezența a două treimi din statele părți constituie cvorumul legal, persoanele alese ca membri ai comisiei sunt cele care obțin cel mai mare număr de voturi și majoritatea absolută a voturilor reprezentanților statelor părți prezenți și votanți.",
+            "ref": "5. Alegerile vor avea loc la reuniunile statelor părţi, convocate de secretarul general, la sediul Organizaţiei Naţiunilor Unite. La aceste reuniuni, la care cvorumul se întruneşte cu două treimi din numărul statelor părţi, candidaţii aleşi în Comitet sunt cei care obţin cel mai mare număr de voturi şi majoritatea absolută a voturilor reprezentanţilor statelor părţi prezente şi votante.",
+            "COMET": 0.9221484661102295
+        },
+        {
+            "src": "6. ينتخب أعضاء اللجنة لمدة أربع سنوات. ويجوز إعادة انتخابهم إذا جرى ترشيحهم من جديد. غير أن مدة ولاية خمسة من الأعضاء المنتخبين في الانتخاب الأول تنقضي بانقضاء سنتين، وبعد الانتخاب الأول مباشرة يقوم رئيس الاجتماع باختيار أسماء هؤلاء الأعضاء الخمسة بالقرعة.",
+            "mt": "Membrii comisiei sunt aleși pentru o perioadă de patru ani. Reelegerea lor este posibilă dacă sunt candidați din nou. Cu toate acestea, mandatul a cinci membri aleși în prima alegere expiră după doi ani; imediat după prima alegere, președintele întrunirii va selecta numele acestor cinci membri prin tragere la sorți.",
+            "ref": "6. Membrii Comitetului se aleg pentru un mandat de 4 ani. Ei pot fi realeşi la o nouă prezentare a candidaturii lor. Mandatul a 5 membri desemnaţi la primele alegeri va înceta după 2 ani. Numele celor 5 membri vor fi trase la sorţi de către preşedintele reuniunii, imediat după prima alegere.",
+            "COMET": 0.9226257801055908,
+            "errors": [
+                {
+                    "text": "candida",
+                    "confidence": 0.39208984375,
+                    "severity": "minor",
+                    "start": 98,
+                    "end": 106
+                }
+            ]
+        },
+        {
+            "src": "7. إذا توفى أحد أعضاء اللجنة أو استقال أو أعلن لأي سبب آخر أنه غير قادر على تأدية مهام اللجنة، تعين الدولة الطرف التي قامت بترشيح العضو خبيرا آخر من بين رعاياها ليكمل المدة المتبقية من الولاية، رهنا بموافقة اللجنة.",
+            "mt": "7. Dacă un membru al comitetului decedează, demisionează sau declară, din orice alt motiv, că nu este în măsură să-și îndeplinească sarcinile, statul parte care a desemnat membrul respectiv va numi un alt expert dintre cetățenii săi pentru a-i completa mandatul rămas, sub rezerva aprobării comitetului.",
+            "ref": "7. În caz de deces sau de demisie a unui membru al Comitetului sau dacă, pentru orice alt motiv, un membru declară că nu îşi mai poate exercita funcţiile sale în cadrul Comitetului, statul parte care a prezentat candidatura membrului respectiv numeşte un alt expert dintre cetăţenii săi pentru a ocupa postul vacant până la expirarea mandatului respectiv, sub rezerva aprobării de către Comitet.",
+            "COMET": 0.9148023128509521,
+            "errors": [
+                {
+                    "text": "rămas",
+                    "confidence": 0.35205078125,
+                    "severity": "minor",
+                    "start": 261,
+                    "end": 267
+                },
+                {
+                    "text": "comitet",
+                    "confidence": 0.40966796875,
+                    "severity": "minor",
+                    "start": 290,
+                    "end": 298
+                }
+            ]
+        },
+        {
+            "src": "8. تضع اللجنة نظامها الداخلي.",
+            "mt": "Comitetul își adoptă regulamentul intern.",
+            "ref": "8. Comitetul aprobă regulamentul său de ordine interioară.",
+            "COMET": 0.9783008098602295
+        },
+        {
+            "src": "9. تنتخب اللجنة أعضاء مكتبها لفترة سنتين.",
+            "mt": "Comitetul își alege membrii biroului pentru un mandat de doi ani.",
+            "ref": "9. Comitetul alege biroul său pentru o perioadă de 2 ani.",
+            "COMET": 0.9963672161102295
+        },
+        {
+            "src": "10 . تعقد اجتماعات اللجنة عادة في مقر الأمم المتحدة أو في أي آان مناسب آخر تحدده اللجنة. وتجتمع اللجنة عادة مرة في السنة وتحدد مدة اجتماعات اللجنة، ويعاد النظر فيها، إذا اقتضى الأمر، في اجتماع للدول الأطراف في هذه الاتفاقية، رهنا بموافقة الجمعية العامة.",
+            "mt": "Întrunirile comisiei se țin, de obicei, la sediul Organizației Națiunilor Unite sau în orice alt loc convenabil stabilit de comisie. Comisia se întrunește, de obicei, o dată pe an și își stabilește durata ședințelor, care pot fi revizuite, dacă este necesar, într-o reuniune a statelor părți la această convenție, sub rezerva aprobării Adunării Generale.",
+            "ref": "10. Adunările Comitetului se ţin, în mod normal, la sediul Organizaţiei Naţiunilor Unite sau în orice alt loc corespunzător stabilit de Comitet. Comitetul se reuneşte, de regulă, în fiecare an. Durata sesiunilor sale se stabileşte şi, dacă este cazul, se modifică de către reuniunea statelor părţi la prezenta convenţie, sub rezerva aprobării de către adunarea generală.",
+            "COMET": 0.7434155941009521,
+            "errors": [
+                {
+                    "text": "abil",
+                    "confidence": 0.3349609375,
+                    "severity": "minor",
+                    "start": 107,
+                    "end": 111
+                },
+                {
+                    "text": "comisi",
+                    "confidence": 0.350830078125,
+                    "severity": "minor",
+                    "start": 123,
+                    "end": 130
+                }
+            ]
+        },
+        {
+            "src": "11 . يوفر الأمين العام للأمم المتحدة ما يلزم من موظفين ومرافق لاضطلاع اللجنة بصورة فعالة بوظائفها بموجب هذه الاتفاقية.",
+            "mt": "Secretarul General al Organizației Națiunilor Unite pune la dispoziție personalul și facilitățile necesare pentru ca comisia să își îndeplinească în mod eficient funcțiile în temeiul prezentului acord.",
+            "ref": "11. Secretarul general al Organizaţiei Naţiunilor Unite pune la dispoziţie Comitetului personalul şi dotările necesare acestuia pentru a-şi îndeplini eficient funcţiile încredinţate conform prezentei convenţii.",
+            "COMET": 0.9739062786102295
+        },
+        {
+            "src": "12 . يحصل أعضاء اللجنة المنشأة بموجب هذه الاتفاقية، بموافقة الجمعية العامة، على مكافآت من موارد الأمم المتحدة، وفقا لما قد تقرره الجمعية العامة من شروط وأحكام.",
+            "mt": "Membrii comisiei înființate în temeiul prezentului acord vor primi, cu aprobarea Adunării Generale, indemnizații din resursele Națiunilor Unite, în conformitate cu condițiile și clauzele care vor fi stabilite de Adunarea Generală.",
+            "ref": "12. Membrii Comitetului creat în virtutea prezentei convenţii primesc, cu aprobarea adunării generale, indemnizaţii din resursele Organizaţiei Naţiunilor Unite, în condiţiile şi modalităţile fixate de adunarea generală.",
+            "COMET": 0.9612109661102295
+        },
+        {
+            "src": "المادة 44",
+            "mt": "Articolul 44",
+            "ref": "ARTICOLUL 44",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تتعهد الدول الأطراف بأن تقدم إلى اللجنة، عن طريق الأمين العام للأمم المتحدة، تقارير عن التدابير التي اعتمدتها لإنفاذ الحقوق المعترف بها في هذه الاتفاقية وعن التقدم المحرز في التمتع بتلك الحقوق:",
+            "mt": "Statele părți se angajează să prezinte Comitetului, prin intermediul Secretarului General al Organizației Națiunilor Unite, rapoarte privind măsurile adoptate pentru punerea în aplicare a drepturilor recunoscute în prezenta convenție și privind progresele înregistrate în exercitarea acestor drepturi.",
+            "ref": "1. Statele părţi se angajează să supună Comitetului, prin intermediul secretarului general al Organizaţiei Naţiunilor Unite, rapoarte privitoare la măsurile pe care le adoptă pentru punerea în vigoare a drepturilor recunoscute în prezenta convenţie şi la progresele realizate în exercitarea acestor drepturi:",
+            "COMET": 0.9739062786102295
+        },
+        {
+            "src": "(أ) في غضون سنتين من بدء نفاذ هذه الاتفاقية بالنسبة للدولة الطرف المعنية،",
+            "mt": "(a) În termen de doi ani de la intrarea în vigoare a prezentului acord pentru statul parte în cauză,",
+            "ref": "a) în termen de 2 ani începând de la data intrării în vigoare a prezentei convenţii pentru statele părţi interesate;",
+            "COMET": 0.9978320598602295
+        },
+        {
+            "src": "(ب) وبعد ذلك مرة آل خمس سنوات.",
+            "mt": "(b) Și după aceea, o dată la cinci ani.",
+            "ref": "b) în continuare, la fiecare 5 ani.",
+            "COMET": 0.9978320598602295
+        },
+        {
+            "src": "2. توضح التقارير المعدة بموجب هذه المادة العوامل والصعاب التي تؤثر على درجة الوفاء بالالتزامات المتعهد بها بموجب هذه الاتفاقية إن وجدت مثل هذه العوامل والصعاب. ويجب أن تشتمل التقارير أيضا على معلومات آافية توفر للجنة فهما شاملا لتنفيذ الاتفاقية في البلد المعنى.",
+            "mt": "Rapoartele elaborate în conformitate cu prezenta clauză vor prezenta factorii și dificultățile care afectează gradul de îndeplinire a angajamentelor asumate în temeiul prezentei convenții, dacă există astfel de factori și dificultăți.  Rapoartele trebuie să includă, de asemenea, informații relevante care să ofere Comisiei o înțelegere completă a implementării convenției în țara respectivă.",
+            "ref": "2. Rapoartele întocmite conform prezentului articol trebuie, dacă este cazul, să arate cauzele sau dificultăţile care împiedică statele părţi să se achite pe deplin de obligaţiile prevăzute în prezenta convenţie. Ele trebuie, de asemenea, să cuprindă informaţii suficiente pentru a da Comitetului o idee exactă asupra aplicării convenţiei în ţara respectivă.",
+            "COMET": 0.9553515911102295
+        },
+        {
+            "src": "3. لا حاجة بدولة طرف قدمت تقريرا أوليا شاملا إلي اللجنة أن تكرر، في ما تقدمه من تقارير لاحقة وفقا للفقرة 1 (ب) من هذه المادة، المعلومات الأساسية التي سبق لها تقديمها.",
+            "mt": "Nu este necesar ca o stat parte care a prezentat Comitetului un raport inițial exhaustiv să repete, în rapoartele ulterioare prezentate în conformitate cu alineatul 1 (b) al prezentului articol, informațiile fundamentale deja furnizate.",
+            "ref": "3. Statele părţi care au prezentat Comitetului un raport iniţial nu vor repeta în rapoartele pe care le prezintă ulterior conform prezentului articol, paragraful 1 alin. (b), informaţiile de bază pe care le-au comunicat anterior.",
+            "COMET": 0.9270093441009521,
+            "errors": [
+                {
+                    "text": "stat parte",
+                    "confidence": 0.4150390625,
+                    "severity": "minor",
+                    "start": 20,
+                    "end": 31
+                },
+                {
+                    "text": "exhaustiv",
+                    "confidence": 0.40869140625,
+                    "severity": "minor",
+                    "start": 78,
+                    "end": 88
+                }
+            ]
+        },
+        {
+            "src": "4. يجوز للجنة أن تطلب من الدول الأطراف معلومات إضافية ذات صلة بتنفيذ الاتفاقية.",
+            "mt": "Comitetul poate solicita statelor părți informații suplimentare relevante pentru implementarea convenției.",
+            "ref": "4. Comitetul poate cere statelor părţi toate informaţiile complementare referitoare la aplicarea convenţiei.",
+            "COMET": 0.9880664348602295
+        },
+        {
+            "src": "5. تقدم اللجنة إلى الجمعية العامة آل سنتين، عن طريق المجلس الاقتصادي والاجتماعي، تقارير عن أنشطتها.",
+            "mt": "Comisia prezintă Adunării Generale, la fiecare doi ani, prin intermediul Consiliului Economic și Social, rapoarte privind activitățile sale.",
+            "ref": "5. Comitetul înaintează la fiecare 2 ani adunării generale, prin intermediul Consiliului Economic şi Social, un raport de activitate.",
+            "COMET": 0.9866015911102295
+        },
+        {
+            "src": "6. تتيح الدول الأطراف تقاريرها على نطاق واسع للجمهور في بلدانها.",
+            "mt": "Statele părți pun rapoartele lor la dispoziția publicului larg din țările lor.",
+            "ref": "6. Statele părţi asigură difuzarea pe scară largă a propriilor rapoarte pe teritoriul lor.",
+            "COMET": 0.9934375286102295
+        },
+        {
+            "src": "المادة 45",
+            "mt": "Articolul 45",
+            "ref": "ARTICOLUL 45",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "لدعم تنفيذ الاتفاقية علي نحو فعال وتشجيع التعاون الدولي في الميدان الذي تغطيه الاتفاقية:",
+            "mt": "Pentru a sprijini punerea în aplicare eficientă a convenției și pentru a încuraja cooperarea internațională în domeniul acoperit de convenție:",
+            "ref": "Pentru a promova aplicarea efectivă a convenţiei şi a încuraja cooperarea internaţională în domeniul vizat de convenţie:",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "(أ) يكون من حق الوآالات المتخصصة ومنظمة الأمم المتحدة للطفولة وغيرها من أجهزة الأمم المتحدة أن تكون ممثلة لدى النظر في تنفيذ ما يدخل في نطاق ولايتها من أحكام هذه الاتفاقية. وللجنة أن تدعو الوآالات المتخصصة ومنظمة الأمم المتحدة للطفولة والهيئات المختصة الأخرى، حسبما تراه ملائما، لتقديم مشورة خبرائها بشأن تنفيذ الاتفاقية في المجالات التي تدخل في نطاق ولاية آل منها. وللجنة أن تدعو الوآالات المتخصصة ومنظمة الأمم المتحدة للطفولة وغيرها من أجهزة الأمم المتحدة لتقديم تقارير عن تنفيذ الاتفاقية في المجالات التي تدخل في نطاق أنشطتها،",
+            "mt": "(a) Organizațiile specializate și Organizația Națiunilor Unite pentru Copii, precum și alte organisme ale Națiunilor Unite, au dreptul să fie reprezentate în examinarea punerii în aplicare a dispozițiilor prezentei convenții care intră în sfera lor de competență. Comitetul poate invita organizațiile specializate și Organizația Națiunilor Unite pentru Copii, precum și alte organisme competente, după cum consideră oportun, să ofere consultanța experților săi cu privire la punerea în aplicare a convenției în domeniile care intră în sfera de competență a acestora. Comitetul poate invita organizațiile specializate și Organizația Națiunilor Unite pentru Copii, precum și alte organisme ale Națiunilor Unite, să prezinte rapoarte privind punerea în aplicare a convenției în domeniile care intră în sfera activităților lor.",
+            "ref": "a) Instituţiile specializate, Fondul Naţiunilor Unite pentru Copii şi alte organe ale Naţiunilor Unite au dreptul de a fi reprezentate la analizarea modului de aplicare a acelor dispoziţii din prezenta convenţie, care ţin de mandatul lor. Comitetul poate invita instituţiile specializate, Fondul Naţiunilor Unite pentru Copii şi orice alte organisme competente pe care le va considera corespunzătoare să dea avize specializate asupra aplicării convenţiei în domeniile care ţin de mandatele lor respective. Comitetul poate invita instituţiile specializate, Fondul Naţiunilor Unite pentru Copii şi alte organe ale Naţiunilor Unite să îi prezinte rapoarte asupra aplicării convenţiei în sectoarele care ţin de domeniul lor de activitate.",
+            "COMET": 0.9177539348602295
+        },
+        {
+            "src": "(ب) تحيل اللجنة، حسبما تراه ملائما، إلى الوآالات المتخصصة ومنظمة الأمم المتحدة للطفولة والهيئات المختصة الأخرى أية تقارير من الدول الأطراف تتضمن طلبا للمشورة أو المساعدة التقنيتين، أو تشير إلى حاجتها لمثل هذه المشورة أو المساعدة، مصحوبة بملاحظات اللجنة واقتراحاتها بصدد هذه الطلبات أو الإشارات، إن وجدت مثل هذه الملاحظات والاقتراحات،",
+            "mt": "(b) Comitetul transmite, după cum consideră oportun, agențiilor specializate și Organizației Națiunilor Unite pentru Copii și altor organisme competente, orice raport de la statele părți care conține o solicitare de consiliere sau asistență tehnică, sau care indică nevoia de o astfel de consiliere sau asistență, însoțit de observațiile și propunerile comitetului cu privire la aceste solicitări sau indicații, dacă există astfel de observații și propuneri.",
+            "ref": "b) Comitetul transmite, dacă consideră necesar, instituţiilor specializate, Fondului Naţiunilor Unite pentru Copii şi altor organisme competente orice raport al statelor părţi, care conţine o cerere sau care specifică necesitatea asigurării de consultanţă ori asistenţă tehnică, însoţit, dacă este cazul, de observaţiile şi sugestiile Comitetului referitoare la cererea sau specificaţia respectivă.",
+            "COMET": 0.9255554676055908,
+            "errors": [
+                {
+                    "text": "com",
+                    "confidence": 0.406005859375,
+                    "severity": "minor",
+                    "start": 352,
+                    "end": 356
+                }
+            ]
+        },
+        {
+            "src": "(ج) يجوز للجنة أن توصي بأن تطلب الجمعية العامة إلى الأمين العام إجراء دراسات بالنيابة عنها عن قضايا محددة تتصل بحقوق الطفل،",
+            "mt": "(c) Comisia poate recomanda ca Adunarea Generală să solicite Secretarului General să efectueze studii în numele său cu privire la chestiuni specifice legate de drepturile copilului.",
+            "ref": "c) Comitetul poate recomanda adunării generale să ceară secretarului general să dispună efectuarea, în numele Comitetului, a unor studii asupra problemelor specifice care afectează drepturile copilului.",
+            "COMET": 0.9783008098602295
+        },
+        {
+            "src": "(د) يجوز للجنة أن تقدم اقتراحات وتوصيات عامة تستند إلى معلومات تلقتها عملا 45 من هذه الاتفاقية. وتحال مثل هذه الاقتراحات والتوصيات العامة إلى ، بالمادتين 44 أية دولة طرف معنية، وتبلغ للجمعية العامة مصحوبة بتعليقات الدول الأطراف. إن وجدت.",
+            "mt": "(d) Comitetul poate prezenta propuneri și recomandări generale bazate pe informațiile primite în conformitate cu articolul 45 din prezenta convenție.  Aceste propuneri și recomandări generale vor fi transmise oricărui stat parte interesat, în conformitate cu articolele 44 și se vor comunica Adunării Generale, însoțite de observațiile statelor părți, dacă există.",
+            "ref": "d) Comitetul poate face sugestii şi recomandări de ordin general, pe baza informaţiilor primite în conformitate cu art. 44 şi 45. Aceste sugestii şi recomandări de ordin general se vor transmite tuturor statelor părţi interesate şi se vor supune atenţiei adunării generale, însoţite, dacă este cazul, de observaţiile statelor părţi.",
+            "COMET": 0.8293203115463257,
+            "errors": [
+                {
+                    "text": "articolele 44",
+                    "confidence": 0.3837890625,
+                    "severity": "major",
+                    "start": 258,
+                    "end": 272
+                }
+            ]
+        },
+        {
+            "src": "الجزء الثالث",
+            "mt": "Partea a treia",
+            "ref": "PARTEA a III-a",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "المادة 46",
+            "mt": "Articolul 46",
+            "ref": "ARTICOLUL 46",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "يفتح باب التوقيع على هذه الاتفاقية لجميع الدول.",
+            "mt": "Semnarea acestei convenții este deschisă tuturor statelor.",
+            "ref": "Prezenta convenţie este deschisă spre semnare tuturor statelor.",
+            "COMET": 0.9968554973602295
+        },
+        {
+            "src": "المادة 47",
+            "mt": "Articolul 47",
+            "ref": "ARTICOLUL 47",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تخضع هذه الاتفاقية للتصديق. وتودع صكوك التصديق لدى الأمين العام للأمم المتحدة.",
+            "mt": "Această convenție este supusă ratificării. Instrumentele de ratificare se depun pe lângă Secretarul General al Organizației Națiunilor Unite.",
+            "ref": "Prezenta convenţie face subiectul ratificării. Instrumentele de ratificare vor fi înaintate secretarului general al Organizaţiei Naţiunilor Unite.",
+            "COMET": 0.9929492473602295
+        },
+        {
+            "src": "المادة 48",
+            "mt": "Articolul 48",
+            "ref": "ARTICOLUL 48",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "يظل باب الانضمام إلى هذه الاتفاقية مفتوحا لجميع الدول. وتودع صكوك الانضمام لدى الأمين العام للأمم المتحدة.",
+            "mt": "Uşa aderării la această convenție rămâne deschisă tuturor statelor. Instrumentele de aderare se depun pe lângă Secretarul General al Organizației Națiunilor Unite.",
+            "ref": "Prezenta convenţie va rămâne deschisă aderării oricărui stat. Instrumentele de aderare vor fi înaintate secretarului general al Organizaţiei Naţiunilor Unite.",
+            "COMET": 0.9900195598602295
+        },
+        {
+            "src": "المادة 49",
+            "mt": "Articolul 49",
+            "ref": "ARTICOLUL 49",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. يبدأ نفاذ هذه الاتفاقية في اليوم الثلاثين الذي يلي تاريخ إيداع صك التصديق أو الانضمام العشرين لدي الأمين العام الأمم المتحدة.",
+            "mt": "Prevederile acestei convenții intră în vigoare în cea de-a 30-a zi de la data depunerii celui de-al 20-lea instrument de ratificare sau de aderare la Secretarul General al Națiunilor Unite.",
+            "ref": "1. Prezenta convenţie va intra în vigoare în a treizecea zi de la depunerea la secretarul general al Organizaţiei Naţiunilor Unite a celui de-al douăzecilea instrument de ratificare sau de aderare.",
+            "COMET": 0.9592578411102295
+        },
+        {
+            "src": "2. الدول التي تصدق علي هذه الاتفاقية أو تنضم إليها بعد إيداع صك التصديق أو الانضمام العشرين، يبدأ نفاذ الاتفاقية إزاءها في اليوم الثلاثين الذي يلي تاريخ إيداع هذه الدولة صك تصديقها أو انضمامها.",
+            "mt": "2. Pentru statele care ratifică această convenție sau care se alătură acesteia după depunerea celui de-al douăzecilea instrument de ratificare sau de aderare, convenția intră în vigoare în ziua a treizeci de după data depunerii instrumentului de ratificare sau de aderare al statului respectiv.",
+            "ref": "2. Pentru fiecare stat care va ratifica prezenta convenţie sau care va adera la aceasta după depunerea celui de-al douăzecilea instrument de ratificare sau de aderare convenţia va intra în vigoare în a treizecea zi de la depunerea de către statul respectiv a intrumentului său de ratificare sau de aderare.",
+            "COMET": 0.9577929973602295
+        },
+        {
+            "src": "المادة 50",
+            "mt": "Articolul 50",
+            "ref": "ARTICOLUL 50",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. يجوز لأي دولة طرف أن تقترح إدخال تعديل وأن تقدمه إلى الأمين العام للأمم المتحدة. ويقوم الأمين العام عندئذ بإبلاغ الدول الأطراف بالتعديل المقترح مع طلب بإخطاره بما إذا آانت هذه الدول تحبذ عقد مؤتمر للدول الأطراف للنظر في الاقتراحات والتصويت عليها. وفى حالة تأييد ثلث الدول الأطراف على الأقل، في غضون أربعة أشهر من تاريخ هذا التبليغ، عقد هذا المؤتمر، يدعو الأمين العام إلى عقده تحت رعاية الأمم المتحدة. ويقدم أي تعديل تعتمده أغلبية من الدول الأطراف الحاضرة والمصوتة في المؤتمر إلى الجمعية العامة لإقراره.",
+            "mt": "1. Orice stat parte poate propune un amendament și să îl prezinte Secretarului General al Organizației Națiunilor Unite. Secretarul General va informa apoi statele parte cu privire la amendamentul propus, solicitând notificarea sa cu privire la preferința acestor state de a convoca o conferință a statelor parte pentru a examina propunerile și a vota asupra acestora. În cazul în care cel puțin o treime dintre statele parte își exprimă acordul în termen de patru luni de la data acestei notificări, pentru convocarea acestei conferințe, Secretarul General o convoacă sub egida Organizației Națiunilor Unite. Orice amendament adoptat de majoritatea statelor parte prezente și votante la conferință este prezentat Adunării Generale pentru aprobare.",
+            "ref": "1. Orice stat parte poate să propună un amendament şi să depună textul acestuia la secretarul general al Organizaţiei Naţiunilor Unite. Secretarul general va comunica propunerea de amendament statelor părţi, cerându-le să îi facă cunoscut dacă sunt în favoarea convocării unei conferinţe a statelor părţi, în vederea examinării propunerii şi a supunerii ei la vot. Dacă în termen de 4 luni de la această comunicare cel puţin o treime din numărul statelor părţi se pronunţă în favoarea convocării unei asemenea conferinţe, secretarul general convoacă conferinţa sub auspiciile Organizaţiei Naţiunilor Unite. Orice amendament adoptat de majoritatea statelor părţi prezente şi votante la conferinţă este supus spre aprobare adunării generale.",
+            "COMET": 0.8445117473602295
+        },
+        {
+            "src": "2. يبدأ نفاذ أي تعديل يتم اعتماده وفقا للفقرة 1 من هذه المادة عندما تقره الجمعية العامة للأمم المتحدة وتقبله الدول الأطراف في هذه الاتفاقية بأغلبية الثلثين.",
+            "mt": "2. Orice modificare adoptată în conformitate cu paragraful 1 al acestui articol intră în vigoare atunci când este aprobată de Adunarea Generală a Organizației Națiunilor Unite și acceptată de statele părți la această convenție cu o majoritate de două treimi.",
+            "ref": "2. Orice amendament adoptat conform dispoziţiilor paragrafului 1 al prezentului articol va intra în vigoare după aprobarea sa de către Adunarea Generală a Organizaţiei Naţiunilor Unite şi după acceptarea sa cu o majoritate de două treimi din numărul statelor părţi.",
+            "COMET": 0.9807422161102295
+        },
+        {
+            "src": "3. تكون التعديلات، عند بدء نفاذها، ملزمة للدول الأطراف التي قبلتها وتبقى الدول الأطراف الأخرى ملزمة بأحكام هذه الاتفاقية وبأية تعديلات سابقة تكون قد قبلتها.",
+            "mt": "Modificările, de la data intrării lor în vigoare, vor fi obligatorii pentru statele părți care le-au acceptat, iar celelalte state părți rămân obligate de dispozițiile prezentei convenții și de orice modificări anterioare pe care le-au acceptat.",
+            "ref": "3. La intrarea sa în vigoare amendamentul are forţă obligatorie pentru statele părţi care l-au acceptat, celelalte state rămânând legate de dispoziţiile din prezenta convenţie şi de toate amendamentele anterioare acceptate de ele.",
+            "COMET": 0.9607226848602295
+        },
+        {
+            "src": "المادة 51",
+            "mt": "Articolul 51",
+            "ref": "ARTICOLUL 51",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. يتلقى الأمين للأمم المتحدة نص التحفظات التي تبديها الدول وقت التصديق أو الانضمام، ويقوم بتعميمها على جميع الدول.",
+            "mt": "Secretarul General al Națiunilor Unite primește textul rezervelor formulate de state în momentul ratificării sau aderării și le distribuie tuturor statelor.",
+            "ref": "1. Secretarul general al Organizaţiei Naţiunilor Unite va primi şi va comunica tuturor statelor textul rezervelor formulate de state la data ratificării sau aderării.",
+            "COMET": 0.9783008098602295
+        },
+        {
+            "src": "2. لا يجوز إبداء أي تحفظ يكون منافيا لهدف هذه الاتفاقية وغرضها.",
+            "mt": "2. Nu este permisă nicio obiecție care contravine scopului și obiectului acestui acord.",
+            "ref": "2. Rezervele incompatibile cu obiectul şi scopul prezentei convenţii nu sunt admise.",
+            "COMET": 0.9944140911102295
+        },
+        {
+            "src": "3. يجوز سحب التحفظات في أي وقت بتوجيه إشعار بهذا المعنى إلى الأمين العام للأمم المتحدة، الذي يقوم عندئذ بإبلاغ جميع الدول به. ويصبح هذا الإشعار نافذ المفعول اعتبارا من تاريخ تلقيه من قبل الأمين العام.",
+            "mt": "3. Rezervațiile pot fi retrase în orice moment, printr-o notificare în acest sens adresată Secretarului General al Organizației Națiunilor Unite, care va informa apoi toate statele. Această notificare produce efecte de la data primirii sale de către Secretarul General.",
+            "ref": "3. Rezervele pot fi retrase în orice moment printr-o notificare în acest sens adresată secretarului general al Organizaţiei Naţiunilor Unite, care va informa, în consecinţă, toate statele părţi la convenţie. Notificarea va produce efecte de la data la care este primită de secretarul general.",
+            "COMET": 0.9651062488555908,
+            "errors": [
+                {
+                    "text": "Rezerva",
+                    "confidence": 0.4365234375,
+                    "severity": "minor",
+                    "start": 2,
+                    "end": 10
+                }
+            ]
+        },
+        {
+            "src": "المادة 52",
+            "mt": "Articolul 52",
+            "ref": "ARTICOLUL 52",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "يجوز لأي دولة طرف أن تنسحب من هذه الاتفاقية بإشعار خطى ترسله إلى الأمين العام للأمم المتحدة. ويصبح الانسحاب نافذا بعد مرور سنة على تاريخ تسلم الأمين العام هذا الإشعار.",
+            "mt": "Orice stat parte poate denunța prezenta convenție printr-o notificare scrisă adresată Secretarului General al Organizației Națiunilor Unite. Denunțarea produce efecte după expirarea unui termen de un an de la data primirii notificării de către Secretarului General.",
+            "ref": "Orice stat poate denunţa prezenta convenţie printr-o notificare scrisă adresată secretarului general al Organizaţiei Naţiunilor Unite. Denunţarea produce efecte la un an de la data la care notificarea a fost primită de secretarul general.",
+            "COMET": 0.9856250286102295
+        },
+        {
+            "src": "المادة 53",
+            "mt": "Articolul 53",
+            "ref": "ARTICOLUL 53",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "يعين الأمين العام للأمم المتحدة وديعا لهذه الاتفاقية.",
+            "mt": "Secretarul General al Națiunilor Unite desemnează depozitarul pentru această convenție.",
+            "ref": "Secretarul general al Organizaţiei Naţiunilor Unite este desemnat ca depozitar al prezentei convenţii.",
+            "COMET": 0.9499695301055908,
+            "errors": [
+                {
+                    "text": "desemnează depozitarul pentru",
+                    "confidence": 0.3818359375,
+                    "severity": "minor",
+                    "start": 38,
+                    "end": 68
+                }
+            ]
+        },
+        {
+            "src": "المادة 54",
+            "mt": "Articolul 54",
+            "ref": "ARTICOLUL 54",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "يودع أصل هذه الاتفاقية التي تتساوى في الحجية نصوصها بالأسبانية والإنجليزية والروسية والصينية والعربية والفرنسية، لدى الأمين العام للأمم المتحدة. وإثباتا لذلك، قام المفوضون الموقعون أدناه، المخولون حسب الأصول من جانب حكوماتهم، بالتوقيع على هذه الاتفاقية",
+            "mt": "Originalul acestei convenții, ale cărei texte în spaniolă, engleză, rusă, chineză, arabă și franceză au aceeași valabilitate juridică, se depune la Secretarul General al Națiunilor Unite.  Ca dovadă a celor menționate, comisionarii subsemnați, împuterniciți în mod corespunzător de guvernele lor, au semnat această convenție.",
+            "ref": "Originalul prezentei convenţii, ale cărei texte în limbile arabă, chineză, engleză, franceză, rusă şi spaniolă sunt autentice în egală măsură, va fi depus la secretarul general al Organizaţiei Naţiunilor Unite. Drept care plenipotenţiarii subsemnaţi, împuterniciţi în mod corespunzător de guvernele lor respective, au semnat prezenta convenţie.",
+            "COMET": 0.8757507801055908,
+            "errors": [
+                {
+                    "text": "comision",
+                    "confidence": 0.392578125,
+                    "severity": "minor",
+                    "start": 218,
+                    "end": 227
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2273 @@
+{
+    "/content/drive/MyDrive/ArRo/XCOMET_XL_Error_Analysis/ar-ro/translate/OPENNMT_GEMINI/ksaembassyrou/OPEN_NMT.txt": [
+        {
+            "src": "استقبل صاحب السمو الأمير فيصل بن فرحان بن عبدالله وزير الخارجية، في ديوان الوزارة بالرياض اليوم الاثنين، معالي نائب رئيس الوزراء وزير خارجية جمهورية مولدوفا السيد ميخاي بوبشوي. وجرى خلال الاستقبال استعراض العلاقات الثنائية بين البلدين، وسبل تعزيزها في مختلف المجالات، ومناقشةالمستجدات الاقليمية والدولية والجهود المبذولة بشأنها عقب ذلك جرى التوقيع على الاتفاقية العامة للتعاون بين حكومتي البلدين، والتي تهدف إلى تعزيز التنسيق الثنائي في المواضيع ذات الاهتمام المشترك. حضر اللقاء سفير خادم الحرمين الشريفين لدى جمهورية رومانيا غير المقيم لدى جمهورية مالدوفا الدكتور محمد خياط.",
+            "mt": "Înălțimea Sa, prințul Faisal bin Farhan, l-a primit luni pe ministrul adjunct de externe al Republicii Moldova, Michai Popchoi, și în timpul primirii revizuirii relațiilor bilaterale dintre cele două țări, modalitățile de a promova și discuta noutățile regionale și internaționale, după semnarea de către ambasadorul României la Convenția privind cooperarea bilaterală, Mehmet Cuprinzător.",
+            "ref": "Alteța Sa, Prințul Faisal bin Farhan bin Abdullah, Ministrul de Externe, l-a primit luni, la sediul Ministerului din Riyadh, pe Excelența Sa, Viceprim-ministrul și Ministrul Afacerilor Externe al Republicii Moldova, domnul Mihai Popșoi. În cadrul întrevederii, au fost trecute în revistă relațiile bilaterale dintre cele două țări și mijloacele de consolidare a acestora în diverse domenii, fiind discutate evoluțiile regionale și internaționale și eforturile depuse în acest sens. Întâlnirea a fost urmată de semnarea Acordului general de cooperare între cele două guverne, care vizează consolidarea coordonării bilaterale pe teme de interes comun. La reuniune a participat și Ambasadorul Custodelui celor Două Sfinte Moschei în România, nerezident în Republica Moldova, Dr. Mohammed Khayat.",
+            "COMET": 0.1931597888469696
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط مأدبة عشاء على شرف وزير الدولة للشؤون الخارجية والمغتربين الفلسطيني الدكتورة/ فارسين أوهانيس أغابيكيان، الذي أقامته السفارة الفلسطينية لمعاليها خلال زيارتها الرسمية إلى دولة رومانيا.",
+            "mt": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, a participat la un dineu în onoarea secretarului de stat pentru afaceri externe şi a expatriaţilor palestinieni, dr.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a participat la un dineu oferit de Ambasada Palestinei în onoarea ministrului de stat pentru afaceri externe și expatriați al Palestinei, dr. Varsen Ohannes Aghabekian, care se află în vizită oficială în România.",
+            "COMET": 0.1999804675579071
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط المدير التنفيذي لشركة (Communicate,Connect, Compete globally) للأبحاث والإعلام  في مقر السفارة، السيد/ رادو مجدين، وجرى خلال اللقاء الحديث عن التطور الذي تمر به المملكة، وإمكانية التعاون في مجال الإعلام",
+            "mt": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdalney, a primit croitorul directorului executiv al Communicate,Connect, Compate globally la sediul Ambasadei României, domnul Radu Magdalena, în cursul întâlnirii moderne privind evoluția regatului și posibilitatea cooperării în mass-media.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, l-a primit la sediul Ambasadei, pe directorul executiv al companiei de cercetare și mass-media - Communicate. Connect. Compete globally, domnul Radu Magdin, și au discutat despre dezvoltarea prin care trece Regatul și posibilitatea de colaborare în domeniul mass-media.",
+            "COMET": 0.05078253149986267,
+            "errors": [
+                {
+                    "text": "<s> Ambasadorul Slujitor al României, dr. Mohammed bin Abdalney, a primit croitorul directorului executiv al Communicate,Connect, Compate globally la sediul Ambasadei României, domnul Radu Magdalena, în cursul întâlnirii moderne privind evoluția regatului și",
+                    "confidence": 0.712890625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 254
+                },
+                {
+                    "text": "co",
+                    "confidence": 0.411865234375,
+                    "severity": "critical",
+                    "start": 268,
+                    "end": 271
+                }
+            ]
+        },
+        {
+            "src": "شارك السفير في اجتماع سفراء منظمة التعاون الإسلامي مع وزير الدولة للشؤون الخارجية الرومانية لبحث آخر التطورات في فلسطين ولبنان.",
+            "mt": "Ambasadorul a participat la întâlnirea ambasadorilor Organizației pentru Cooperare Islamică cu ministrul Afacerilor Externe român pentru a discuta ultimele evoluții din Palestina și Liban.",
+            "ref": "Ambasadorul a participat la întâlnirea ambasadorilor Organizației Cooperării Islamice cu Secretarul de stat din cadrul Ministerului Afacerilor Externe pentru a discuta ultimele evoluții din Palestina și Liban.",
+            "COMET": 0.9226367473602295
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبد الغني خياط في مقر السفارة، سفراء دول الجامعة العربية ومنظمة التعاون الإسلامي المعتمدين لدى رومانيا لمناقشة آخر التطورات في فلسطين ولبنان",
+            "mt": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, croitor la sediul ambasadei, a primit ambasadorii țărilor Ligii Arabe și Organizației pentru Cooperare Islamică acreditate în România pentru a discuta ultimele evoluții din Palestina și Liban.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, i-a primit la sediul Ambasadei, pe ambasadorii țărilor Ligii Arabe și ai Organizației Cooperării Islamice, acreditați în România, pentru a discuta despre ultimele evoluții din Palestina și Liban.",
+            "COMET": 0.1058349609375,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, croitor la sediul ambasadei, a primit",
+                    "confidence": 0.705078125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 101
+                },
+                {
+                    "text": "lor",
+                    "confidence": 0.443115234375,
+                    "severity": "critical",
+                    "start": 118,
+                    "end": 121
+                },
+                {
+                    "text": "i Arabe",
+                    "confidence": 0.56005859375,
+                    "severity": "critical",
+                    "start": 126,
+                    "end": 133
+                },
+                {
+                    "text": "a",
+                    "confidence": 0.442138671875,
+                    "severity": "critical",
+                    "start": 204,
+                    "end": 206
+                },
+                {
+                    "text": "Palestina",
+                    "confidence": 0.445068359375,
+                    "severity": "critical",
+                    "start": 236,
+                    "end": 246
+                }
+            ]
+        },
+        {
+            "src": "شارك سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبد الغني خياط في المؤتمر الدولي السنوي: المنتدى العاشر بعنوان \"التكامل والترابط في منطقة الشرق الأوسط في ضوء التحولات السياسية والأمنية والاقتصادية\" الذي أقامه معهد الشرق الأوسط السياسي والاقتصادي في رومانيا وحضره سياسيين ومسؤولين ورؤساء بعثات وممثلو مراكز الفكر والسلك الدبلوماسي (الدولي والوطني) ووسائل الإعلام، وتم طرح عدد من المواضيع الهامة والمستجدات على الساحة السياسية والاقتصادية.",
+            "mt": "Ambasadorul României, dr. Mohammed bin Abdul Ghani, a participat la cea de-a 10-a Conferință Internațională, intitulată „Integrarea și interconectarea Orientului Mijlociu în lumina transformărilor politice, de securitate și economice”, organizată de Institutul pentru Orientul Mijlociu politic și economic din România, prezenți politicieni, oficiali, șefi de misiuni, reprezentanți ai think tank-urilor și ai serviciilor diplomatice (internaționale, mass-media și economice).",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammad bin Abdul Ghani Khayyat a participat la Conferința internațională anuală, al X-lea Forum, intitulată „Integrarea și interconectarea în regiunea Orientului Mijlociu în lumina transformărilor politice, de securitate și economice”, organizat de Institutul Politic și Economic alOrientului Mijlociu din România. Au fost prezent politicieni, oficiali, șefi de misiuni, reprezentanți ai grupurilor de reflecție, ai corpului diplomatic (internațional și național) și mass-media.",
+            "COMET": 0.1685791015625,
+            "errors": [
+                {
+                    "text": "Ambasadorul României, dr. Mohammed bin Abdul Ghani, a participat la cea de",
+                    "confidence": 0.67236328125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 74
+                },
+                {
+                    "text": "a 10-",
+                    "confidence": 0.479248046875,
+                    "severity": "critical",
+                    "start": 75,
+                    "end": 80
+                },
+                {
+                    "text": "in",
+                    "confidence": 0.462890625,
+                    "severity": "critical",
+                    "start": 108,
+                    "end": 111
+                },
+                {
+                    "text": "Orient",
+                    "confidence": 0.33203125,
+                    "severity": "critical",
+                    "start": 267,
+                    "end": 274
+                },
+                {
+                    "text": "lociu politic",
+                    "confidence": 0.379150390625,
+                    "severity": "critical",
+                    "start": 280,
+                    "end": 293
+                },
+                {
+                    "text": "România, prezenți",
+                    "confidence": 0.5361328125,
+                    "severity": "critical",
+                    "start": 309,
+                    "end": 327
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.4267578125,
+                    "severity": "critical",
+                    "start": 348,
+                    "end": 349
+                },
+                {
+                    "text": "serviciilor diplomatice (internaționale, mass",
+                    "confidence": 0.435302734375,
+                    "severity": "critical",
+                    "start": 408,
+                    "end": 454
+                },
+                {
+                    "text": "media și economice).",
+                    "confidence": 0.46435546875,
+                    "severity": "critical",
+                    "start": 455,
+                    "end": 475
+                }
+            ]
+        },
+        {
+            "src": "شارك في اللقاء سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط، ومجموعة من سفراء الدول العربية في الاجتماع مع معالي وزيرة الخارجية الرومانية السيدة/ لوميناتا أودوبيسكو لمناقشة تطورات الأوضاع في فلسطين ولبنان، وقد تم خلال اللقاء طرح أفضل السبل لدعم الجهود الدبلوماسية الرامية إلى تجنب التصعيد والتوصل إلى حل سلمي للأزمة الحالية ووقف الحرب، والمساعدات المقدمة لفلسطين ولبنان.",
+            "mt": "Ambasadorul României, dr. Mohammed bin Abdul Ghani, croitorul și un grup de ambasadori ai statelor arabe la întâlnirea cu ministrul afacerilor externe, doamna Lüminatta Odobescu, pentru a discuta despre evoluțiile din Palestina și Liban, a prezentat în cadrul întâlnirii cele mai bune modalități de a susține eforturile diplomatice pentru a evita escaladarea crizei și a opri războiul și ajutorul acordat palestinienilor.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat și un grup de ambasadori ai țărilor arabe și islamice, au participat la întâlnirea cu Excelența Sa, ministrul afacerilor externe al României, Doamna Luminița Odobescu, pentru a discuta despre evoluția situației din Palestina și Liban. În cadrul întrevederii au fost abordate cele mai bune modalități de a sprijini eforturile diplomatice în vederea evitării escaladării, ajungerii la o soluție pașnică la criza curentă și oprirea războiului, dar și asistența oferită Palestinei și Libanului.",
+            "COMET": 0.09454345703125,
+            "errors": [
+                {
+                    "text": "Ambasadorul României, dr. Mohammed bin Abdul Ghani, croitorul și un grup de ambasadori ai statelor arabe la întâlnirea cu ministrul afacerilor externe, doamna Lüminatta Odobescu, pentru a",
+                    "confidence": 0.67626953125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 187
+                },
+                {
+                    "text": "din Palestina",
+                    "confidence": 0.4345703125,
+                    "severity": "critical",
+                    "start": 213,
+                    "end": 227
+                },
+                {
+                    "text": "Li",
+                    "confidence": 0.435546875,
+                    "severity": "critical",
+                    "start": 230,
+                    "end": 233
+                },
+                {
+                    "text": ", a prezentat în",
+                    "confidence": 0.51318359375,
+                    "severity": "critical",
+                    "start": 236,
+                    "end": 252
+                }
+            ]
+        },
+        {
+            "src": "أقام سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط حفل غداء على شرف سفير خادم الحرمين الشريفين لدى أوكرانيا محمد سليمان الجبرين وبعض الزملاء المنتهية فترة عملهم في السفارة السعودية لدى أوكرانيا، متمنياً لسعادته والزملاء التوفيق والسداد في مهامهم الجديدة.",
+            "mt": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, a organizat un prânz în onoarea ambasadorului slujitorilor onorabili din Ucraina, Mohammad Suleiman Giberina și a unor colegi care și-au încheiat stagiul la Ambasada Arabiei Saudite din Ucraina, dorindu-și fericirea, colegii și rambursarea noilor misiuni.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a organizat o masă festivă în onoarea Ambasadorului Custodelui celor Două Sfinte Moschei în Ucraina, Mohammed Sulayman Algabrin și a unui număr de colegi care și-au încheiat misiunea în Ambasada Saudită în Ucraina, urându-le Excelenței Sale și colegilor mult succes și noroc în noile lor misiuni.",
+            "COMET": 0.21976730227470398
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط عرض للفيلم الوثائقي \"ليلى والذئاب\" الذي يعرض بعض الحقائق عن القضية الفلسطينية.",
+            "mt": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, a participat la prezentarea documentarului \"Leyla și Lupii\", care prezintă câteva fapte despre cauza palestiniană.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a luat parte la vizionarea filmului documentar „ Leyla și Lupii”, care prezintă unele fapte despre cauza palestiniană.",
+            "COMET": 0.20281347632408142,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, a",
+                    "confidence": 0.67529296875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 65
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.456298828125,
+                    "severity": "critical",
+                    "start": 150,
+                    "end": 151
+                }
+            ]
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى رومانيا الدكتور محمد بن عبدالغني خياط، في مقر السفارة معالي السيد فيكتور بونتا رئيس وزراء رومانيا سابقاً والمستشار الاقتصادي الفخري لرئيس الوزراء. والسيد/ فلورين سباتارو وزير الاقتصاد السابق والمستشار الاقتصادي لرئيس الوزراء، والسيد/ فيوريل هيربنشوك مستشار مجلس الغرف التجارية الرومانية، وجرى خاال اللقاء بحث الموضوعات ذات الاهتمام المشترك، وسبل تطوير العلاقات الثنائية بين البلدين في مجال الاقتصاد والتجارة والاستثمار.",
+            "mt": "Ambasadorul Slujitor al României l-a primit pe Dr. Mohammed bin Abdul Ghani croitor, la sediul Ambasadei României, Victor Ponta, fost prim-ministru al României, consilier economic emerit al prim-ministrului României.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a primit la sediul Ambasadei vizitele Excelențelor Sale, domnul Victor Ponta, fost prim-ministru și consilier economic onorific al prim-ministrului, domnul Florin Spătaru, fostul ministru al economiei și consilier economic al prim-ministrului, domnul Viorel Hrebenciuc, consilier în cadrul Camerei de Comerț a României. În cadrul întâlnirii au fost discutate subiecte de interes comun și modalități de dezvoltare a relațiilor bilaterale în domeniile economic, comercial și investițional.",
+            "COMET": 0.1959063708782196
+        },
+        {
+            "src": "قام سفير خادم الحرمين الشريفين لدى رومانيا د.محمد بن عبدالغني خياط بزيارة مجاملة لمعالي وزير الدفاع الوطني الروماني السيد/ أنخيل تيلفار في مكتبه بالوزارة، وجرى خلال اللقاء بحث الموضوعات ذات الاهتمام المشترك، وسبل تدعيم العلاقات الثنائية.",
+            "mt": "Ambasadorul Slujitor al României, dr. Mehmet bin Abdulni, croitor, a efectuat o vizită în biroul ministrului român al Apărării, Angel Telvar, în cadrul întâlnirii, în cadrul căreia au fost discutate subiecte de interes comun şi modalităţi de consolidare a relaţiilor bilaterale.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a efectuat o vizită de curtoazie Excelenței Sale, Ministrul Apărării Naționale, domnul Angel Tîlvăr, la sediul Ministerului. În cadrul întrevederii au fost discutate subiecte de interes comun și modalități de consolidare a relațiilor bilaterale.",
+            "COMET": 0.0675048828125,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al României, dr. Mehmet bin Abdulni, croitor, a efectuat",
+                    "confidence": 0.77099609375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 77
+                },
+                {
+                    "text": "vizit",
+                    "confidence": 0.50146484375,
+                    "severity": "critical",
+                    "start": 79,
+                    "end": 85
+                },
+                {
+                    "text": "în biroul",
+                    "confidence": 0.54345703125,
+                    "severity": "critical",
+                    "start": 86,
+                    "end": 96
+                },
+                {
+                    "text": "român",
+                    "confidence": 0.448974609375,
+                    "severity": "critical",
+                    "start": 108,
+                    "end": 114
+                },
+                {
+                    "text": "Angel Telvar, în cadrul",
+                    "confidence": 0.4873046875,
+                    "severity": "critical",
+                    "start": 127,
+                    "end": 151
+                },
+                {
+                    "text": "rii,",
+                    "confidence": 0.4443359375,
+                    "severity": "critical",
+                    "start": 159,
+                    "end": 163
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.425048828125,
+                    "severity": "critical",
+                    "start": 252,
+                    "end": 253
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.55908203125,
+                    "severity": "critical",
+                    "start": 276,
+                    "end": 277
+                }
+            ]
+        },
+        {
+            "src": "شارك سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبد الغني خياط في لقاء مع سفراء دول الجامعة العربية و سفراء دول منظمة التعاون الإسلامي مع الاعلام الروماني في مقر سفارة الجمهورية اللبنانية في بوخارست، لبث رسالة سلام وتضامن مع لبنان وفلسطين مشتركة.",
+            "mt": "Ambasadorul României, dr. Mohammed bin Abdul Ghani, a participat la o întâlnire cu ambasadorii țărilor Ligii Arabe și ambasadorii țărilor Organizației Cooperării Islamice cu presa română, la sediul Ambasadei Republicii Libaneze la București, pentru a transmite un mesaj de pace și solidaritate cu Libanul și Palestina.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a participat la o reuniune cu ambasadori ai țărilor din Liga Arabă și din Organizația Cooperării Islamice, în prezența presei din România, la sediul Ambasadei Republicii Libaneze, pentru a transmite un mesaj comun de pace și solidaritate cu Liban și Palestina.",
+            "COMET": 0.3617236316204071
+        },
+        {
+            "src": "استضاف سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبد الغني خياط بمقر السفارة، الاجتماع التنسيقي لسفراء الدول العربية وبعض سفراء دول منظمة التعاون الإسلامي المعتمدين لدى رومانيا، لمناقشة آخر التطورات في غزة.",
+            "mt": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, croitor la sediul ambasadei, a găzduit reuniunea coordonată a ambasadorilor statelor arabe și a ambasadorilor Organizației pentru Cooperare Islamică acreditați în România, pentru a discuta ultimele evoluții din Gaza.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România Dr. Mohammed bin Abdulghani Khayat, a găzduit la sediul Ambasadei, întâlnirea de coordonare  a ambasadorilor țărilor arabe și a unor ambasadori ai țărilor Organizației Cooperării Islamice,  acreditați în România, pentru a discuta ultimele evoluții din Gaza.",
+            "COMET": 0.1273193359375,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, croitor la sediul ambasadei",
+                    "confidence": 0.71630859375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 91
+                },
+                {
+                    "text": "lor",
+                    "confidence": 0.5556640625,
+                    "severity": "critical",
+                    "start": 145,
+                    "end": 148
+                },
+                {
+                    "text": "a",
+                    "confidence": 0.438720703125,
+                    "severity": "critical",
+                    "start": 242,
+                    "end": 244
+                }
+            ]
+        },
+        {
+            "src": "شارك سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد عبدالغني خياط في إحدى جلسات مؤتمر الدبلوماسية الرياضية،الذي أقامه مجلس الشيوخ الروماني، وحضره مسؤولين سياسيين ورياضيين رومانيين وسفيري ألمانيا والإرجواي لدى رومانيا، وتناول المؤتمر ثااثة محاور : - رومانيا على خريطة الدبلوماسية الرياضية، -الرياضة كأداة دبلوماسية، - الرياضة كعلامة تجارية دولية.",
+            "mt": "Ambasadorul Slujitor al României dr. Mehmet Abdalney a participat la o sesiune a Conferinței Internaționale a Diplomației Sportive organizată de Senatul României, la care au participat oficiali politici, sportivi români, ambasadori ai Germaniei și Uruguay în România, la conferința având la dispoziție trei axe: România pe harta diplomației sportive, sportul ca instrument diplomatic, ca marcă internațională.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a participat la una dintre sesiunile conferinței “Diplomația Sportivă”, organizată de Senatul României, la care au luat parte oficiali, politicieni, sportivi români și ambasadorii Germaniei și statului Uruguay în România. Conferința s-a concentrat pe trei teme principale: \"România pe harta diplomației sportive\", \"Sportul ca instrument diplomatic\" și \"Sportul ca brand de ţară\".",
+            "COMET": 0.2807910144329071
+        },
+        {
+            "src": "زار سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط معالي وزير الزراعة والتنمية الريفية الروماني السيد/ فاورين يونوتس باربو، وجرى خلال اللقاء نقاش أهم ما نتج عن زيارة معاليه للمملكة مؤخرا، كما تم الاتفاق على تحديد جدول زيارات لوفد من رجال الأعمال والخبراء الفنيين السعوديين إلى عدة مزارع في رومانيا خلال الفترة المقبلة.أقامت سفارة المملكة لدى رومانيا  حفل استقبال بمناسبة اليوم الوطني الـ 94،وكان في استقبال الضيوف، سفير خادم الحرمين الشريفين لدى رومانيا د.محمد عبدالغني خياط وأركان السفارةوقد ألقى سعادة السفير كلمة رحب فيها بالحضور، موضحاً أن هذه الذكرى غالية على المواطنين ،وتعكس مسيرة المملكة منذ عهد المؤسس الملك عبدالعزيز  آل سعود - رحمه الله - إلى يومنا الحاضر بقيادة الملك سلمان بن عبدالعزيز آل سعود وولي العهد محمد بن سلمان-حفظهما الله - مشيراً إلى الخطة الطموحة 2030 التي أطلقها سمو ولي العهد- حفظه الله- والتي تهدف إلى تنويع اقتصاد المملكة وزيادة التنمية الاجتماعية وتمكين النساء والشباب، كما أشار السفير إلى دور المملكة المهم في تعزيز السلام والاستقرار وتعزيز التعاون بين البلدين.",
+            "mt": "Ambasadorul Salman al Arabiei Saudite, Mohammed bin Abdal Ghani, a salutat recent participarea ministrului Agriculturii şi Dezvoltării Rurale, Faroenois Barbo, şi a salutat în cadrul reuniunii cele mai importante rezultate ale vizitei recente a ambasadorului României.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a efectuat o vizită Excelenței Sale, Ministrul Agriculturii și Dezvoltării Rurale al României, Dl. Florin-Ionuț Barbu, în cadrul întrevederii discutându-se rezultatele vizitei recente efectuate de către Ministru în Regat. Totodată, a fost agreat, ca în perioada următoare, să fie definitivat un program de vizite pentru o delegație de oameni de afaceri și experți tehnici saudiți la mai multe ferme din România.",
+            "COMET": 0.1926562488079071
+        },
+        {
+            "src": "أقامت سفارة المملكة لدى رومانيا  حفل استقبال بمناسبة اليوم الوطني الـ 94،وكان في استقبال الضيوف، سفير خادم الحرمين الشريفين لدى رومانيا د.محمد عبدالغني خياط وأركان السفارة.وقد ألقى سعادة السفير كلمة رحب فيها بالحضور، موضحاً أن هذه الذكرى غالية على المواطنين ، وتعكس مسيرة المملكة منذ عهد المؤسس الملك عبدالعزيز  آل سعود - رحمه الله - إلى يومنا الحاضر بقيادة الملك سلمان بن عبدالعزيز آل سعود وولي العهد محمد بن سلمان-حفظهما الله - مشيراً إلى الخطة الطموحة 2030 التي أطلقها سمو ولي العهد- حفظه الله- والتي تهدف إلى تنويع اقتصاد المملكةوزيادة التنمية الاجتماعية وتمكين النساء والشباب، كما أشار السفير إلى دور المملكة المهم في تعزيز السلام والاستقرار وتعزيز التعاون بين البلدين. وقد حضر الحفل وزير الدفاع الروماني، نائب رئيس مجلس الشيوخ الروماني، وزير الدولة للسياسة الدولية والاستراتيجيا ت الدبلوماسية، مستشار الدولة في مستشارية رئيس الوزراء، رئيس الوزراء السابق فيكتور بونتا ، رئيس الوزراء السابق ادريان نا ستاسي، وزير الدولة بوزارة الزراعة والتنمية الريفية الرومانية، وزيري دولة بوزارة الاقتصاد الرومانية، مستشار الدولة لدى رئيس الوزراء للشؤون الاقتصادية، وسياسيين رومانيين، وسفراء الدول المعتمدين لدى رومانيا ، ومفتي رومانيا، وعدد من أئمة المساجد، وأساتذة الجامعات، وعدد من الإعلاميين والصحفيين ورجال الأعمال، وبعض ممثلي الجاليات العربية في رومانيا، وعدد من المواطني السعوديين المقيمين والزائرين لرومانيا، وعدد من وسائل الاعلام المحلية.",
+            "mt": "Ministrul român al afacerilor, ministrul român al afacerilor externe, Mohammed al-Zaud al-Jaud, a vorbit cu ministrul român al afacerilor externe, ministrul român al afacerilor externe, ministrul român al afacerilor externe și ministrul adjunct al apărării, Abdal Ghazi, cu ocazia vizitei sale.",
+            "ref": "Ambasada Regatului Arabiei Saudite în România a organizat o recepție cu ocazia celei de-a 94-a Zile Naționale, invitații fiind întâmpinați de către Ambasadorul Custodelui celor Două Sfinte Moschei în România, dr. Mohammed bin Abdulghani Khayat, și personalul Ambasadei. Excelența Sa Ambasadorul, a ținut un discurs în care a salutat invitații, precizând că această aniversare este dragă cetățenilor saudiți deoarece reflectă parcursul Regatului de la epoca fondatorului său, Regele Abdulaziz Al Saud, până în zilele noastre, sub conducerea Regelui Salman bin Abdulaziz Al Saud și a Prințului Moștenitor Mohammed bin Salman. Ambasadorul a făcut referire la ambițiosul plan “Vision 2030”, lansat de Alteța Sa Regală, Prințul Moștenitor, care vizează diversificarea economiei Regatului, sporirea dezvoltării sociale și împuternicirea femeilor și a tinerilor, subliniind, de asemenea, rolul important al Regatului în promovarea păcii și a stabilității și în consolidarea cooperării dintre Regat și România. La recepție au fost prezenți ministrul român al Apărării, vicepreședintele Senatului României,secretarul de stat pentru afaceri globale și strategii diplomatice,consilierul de stat în Cancelaria Primului Ministru,fostul premier Adrian Năstase,fostul premier Victor Ponta,secretarul de stat în Ministerul Agriculturii și Dezvoltării Rurale , doi secretari de stat la Ministerul Economiei, consilierul de stat al prim-ministrului pentru afaceri economice, politicieni români, ambasadori ai țărilor acreditate în România, Muftiul Cultului Musulman din România, mai mulți imami, profesori universitari, o serie de reprezentanți mass-media și jurnaliști, oameni de afaceri, câțiva reprezentanți ai comunităților arabe din România și un număr de cetățeni saudiți rezidenți sau în vizită în România.",
+            "COMET": 0.1822192370891571
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى بوخارست د. محمد عبد الغني خياط معالي رئيس الديوان العام للمحاسبة والوفد المرافق له للمشاركة في الاجتماع ال (21) للجنة السياسات والشؤون المالية والإدارية بمنظمة ( الإنتوساي).",
+            "mt": "Ambasadorul slujitorilor onorabili de la București l-a primit pe dr. Mohammed Abdel Ghani, croitorul șef al Diwanului General pentru Contabilitate și Delegația care îi permite să participe la cea de-a 21-a reuniune a Comitetului pentru Politici, Finanțe și Management al Organizației Interese.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în  București, dr. Mohammed Abdul Ghani Khayyat, l-a primit pe Excelența Sa, Președintele Curții  Generale de Conturi și delegația însoțitoare, pentru participarea la cea de-a 21-a  reuniune a comitetului de politici financiare și administrative a organizației (INTOSAI).",
+            "COMET": 0.2575366199016571
+        },
+        {
+            "src": "نائب رئيس الوزراء وزير الخارجية لجمهورية مولدوفا السيد/ سيهاي بوبشوى يستقبل سفير خادم الحرمين الشريفين لدى رومانيا سفير غير مقيم لدى مولدوفا د. محمد بن عبدالغني خياط، وجرى خلال اللقاء بحث سبل تدعيم العلاقات الثنائية بين البلدين في مختلف المجالات، كما تم تبادل وجات النظر حول دعم تعزيز الفرص المتاحة للتعاون التجاري والاقتصادي والاستثماري بين البلدين.",
+            "mt": "Prim-ministrul adjunct al Ministerului Afacerilor Externe al Republicii Moldova, domnul Sihae Popchoi, îl primește pe ambasadorul celor două santinele din România, ambasadorul nerezidențial al Republicii Moldova, dr. Mohammed bin Abdul Ghani, croitor, și a discutat despre modalitățile de consolidare a relațiilor bilaterale între cele două țări în diferite domenii.",
+            "ref": "Viceprim-ministrul, Ministrul Afacerilor Externe al Republicii Moldova, domnul Mihai Popșoi l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în România, ambasador nerezident în Republica Moldova, Dr. Mohammed bin Abdulghani Khayat. În cadrul întrevederii au fost discutate modalități de consolidare a relațiilor bilaterale în diverse domenii, având loc și un schimb de opinii privind sporirea oportunităților existente de cooperare comercială, economică și investiții între cele două țări.",
+            "COMET": 0.2704760730266571
+        },
+        {
+            "src": "قام سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط، بزيارة لمعالي وزير البحث والابتكار والرقمنة السيد/ بوقدان قوريا إيفان، بمقر وزارة البحث والابتكار والرقمنة الرومانية، وجرى خلال اللقاء بحث تعزيز العلاقات الثنائية بين البلدين وسبل تطويرها.",
+            "mt": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, a efectuat o vizită la Ministerul Cercetării, Inovării și Digitalizării, domnul Baqman Surya Ivan, la sediul Ministerului Cercetării, Inovării și Digitalizării Române, în cadrul reuniunii au fost discutate consolidarea relațiilor bilaterale dintre cele două țări și dezvoltarea lor.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, l-a vizitat pe Excelența Sa, Ministrul Cercetării, Inovării și Digitalizării, domnul Bogdan Gruia Ivan, la sediul Ministerului. În cadrul întâlnirii, a fost discutată consolidarea relațiilor bilaterale și modalități de dezvoltare a acestora.",
+            "COMET": 0.13330078125,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, a efectuat o vizită la Ministerul Cercetării, Inovării și Digitalizării, domnul Baqman Surya Ivan, la sediul Ministerului Cercetării, In",
+                    "confidence": 0.568359375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 200
+                },
+                {
+                    "text": "ării",
+                    "confidence": 0.489501953125,
+                    "severity": "critical",
+                    "start": 202,
+                    "end": 206
+                },
+                {
+                    "text": "Digitalizării Române,",
+                    "confidence": 0.4443359375,
+                    "severity": "critical",
+                    "start": 209,
+                    "end": 231
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.4384765625,
+                    "severity": "critical",
+                    "start": 303,
+                    "end": 304
+                }
+            ]
+        },
+        {
+            "src": "زار معالي وزير النقل والخدمات اللوجستية المهندس/ صالح بن ناصر الجاسر، مطار هنري كواندا الدولي في بوخارست، وطيران تاروم (TAROM)، ورافقه معالي وزير الدولة لشؤون الاتحاد الأوربي والعلاقات الدولية بوزارة النقل والبنية التحتية السيد/ كونستانتين بوندوك، والتقى معاليه خلال الزيارة بالمدير العام للمطار وعدد من السؤولين، واطلع على كافة الخدمات الشاملة التي يقدمها المطار ومناقشة عدد من الموضوعات ذات الاهتمام المشترك.",
+            "mt": "Ministrul Transporturilor și Logistică, Saleh Bin Nasser Al-Jasser, a vizitat Aeroportul Internațional Henri Coanda din București, Aeroportul Tarom și a fost însoțit de ministrul de stat al Uniunii Europene, de relațiile internaționale ale Ministerului Transporturilor și Infrastructurii, Konstantin Pondock, și s-a întâlnit cu șefii săi în timpul vizitei cu directorul general și cu mai mulți oficiali de la aeroport și să discute despre serviciile comune.",
+            "ref": "Excelența Sa, Ministrul Transporturilor și Serviciilor Logistice, Ing. Saleh bin Nasser Al-Jasser, a întreprins o vizită la Aeroportul Internațional Henri Coandă din București și compania aeriană TAROM, fiind însoțit de Excelența Sa, Secretarul de Stat pentru Afaceri Europene și Relații Internaționale din cadrul Ministerului Transporturilor și Infrastructurii, Domnul Constantin Bunduc. În cadrul vizitei, Excelența Sa s-a întâlnit cu directorul general al aeroportului și cu o serie de oficiali, trecând în revistă toate serviciile complete oferite de aeroport, pe lângă abordarea mai multor subiecte de interes comun.",
+            "COMET": 0.22513964772224426,
+            "errors": [
+                {
+                    "text": "Ministrul Transporturilor și Logistică, Saleh Bin Nasser Al-Jasser, a vizitat Aeroportul Internațional Henri Coanda din București, Aeroportul Tarom și a fost însoțit de ministrul de stat al Uniunii Europene, de relațiile internaționale ale Ministerului Transporturilor",
+                    "confidence": 0.494384765625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 268
+                }
+            ]
+        },
+        {
+            "src": "التقى معالي وزير النقل والخدمات اللوجستية المهندس/ صالح بن ناصر الجاسر، بمعالي وزير النقل والبنية التحتية السيد/ سورين ميهاي غريندينو، ومعالي الوزير البحث والابتكار والرقمنة السيد/ بوقدان قوريا إيفان، وعدد من المسؤولين. وجرى خلال اللقاء بحث سبل تعزيز التعاون بين البلدين، ومناقشة عدد من الموضوعات ذات الاهتمام المشترك وتوقيع مذكرة التفاهم بشأن التعاون في مجال الخدمات اللوجستية. وقد حضر اللقاء سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط.",
+            "mt": "Ministrul Transporturilor și Logistică, Saleh Ben Nasser Al-Jasser, s-a întâlnit cu ministrul Transporturilor și Infrastructurii, Surien Mihae Greendino, ministrul Cercetării, Inovării și Digitalizării, domnul Bojan Gori Ivan, și un număr de oficiali au discutat despre modalitățile de promovare a cooperării dintre cele două țări și au discutat o serie de teme de interes comun, semnarea Memorandu-seiului privind cooperarea în domeniul Logistic.",
+            "ref": "Excelența Sa, Ministrul Transporturilor și Serviciilor Logistice, Ing. Saleh bin Nasser Al-Jasser, s-a întâlnit cu Excelențele Lor, Ministrul Transporturilor și Infrastructurii, Domnul Sorin-Mihai Grindeanu, și Ministrul Cercetării, Inovării și Digitalizării, Domnul Bogdan-Gruia Ivan, alături de mai mulți oficiali. În cadrul reuniunii, au fost discutate modalități de consolidare a cooperării dintre cele două țări, o serie de subiecte de interes comun, având loc semnarea unui Memorandum de Înțelegere privind cooperarea în domeniul serviciilor logistice. La întâlnire, a fost prezent și Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat.",
+            "COMET": 0.06573486328125,
+            "errors": [
+                {
+                    "text": "Ministrul Transporturilor și Logistică, Saleh Ben Nasser Al-Jasser, s-a întâlnit cu ministrul Transporturilor",
+                    "confidence": 0.56494140625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 109
+                },
+                {
+                    "text": "Infra",
+                    "confidence": 0.399169921875,
+                    "severity": "critical",
+                    "start": 112,
+                    "end": 118
+                },
+                {
+                    "text": "urii, Surien Mihae Greendino, ministrul Cercet",
+                    "confidence": 0.529296875,
+                    "severity": "critical",
+                    "start": 124,
+                    "end": 170
+                },
+                {
+                    "text": ", In",
+                    "confidence": 0.4638671875,
+                    "severity": "critical",
+                    "start": 174,
+                    "end": 178
+                },
+                {
+                    "text": "ării",
+                    "confidence": 0.484375,
+                    "severity": "critical",
+                    "start": 180,
+                    "end": 184
+                },
+                {
+                    "text": "izării, domnul Bojan Gori Ivan, și un număr de oficiali au discutat",
+                    "confidence": 0.5224609375,
+                    "severity": "critical",
+                    "start": 195,
+                    "end": 262
+                },
+                {
+                    "text": "promovare",
+                    "confidence": 0.388671875,
+                    "severity": "critical",
+                    "start": 285,
+                    "end": 295
+                },
+                {
+                    "text": "co",
+                    "confidence": 0.423583984375,
+                    "severity": "critical",
+                    "start": 297,
+                    "end": 300
+                },
+                {
+                    "text": "cele",
+                    "confidence": 0.54150390625,
+                    "severity": "critical",
+                    "start": 315,
+                    "end": 320
+                },
+                {
+                    "text": "și au discutat o",
+                    "confidence": 0.457763671875,
+                    "severity": "critical",
+                    "start": 330,
+                    "end": 347
+                },
+                {
+                    "text": "de teme de",
+                    "confidence": 0.42333984375,
+                    "severity": "critical",
+                    "start": 353,
+                    "end": 364
+                }
+            ]
+        },
+        {
+            "src": "حضر معالي وزير النقل والخدمات اللوجستية المهندس/ صالح بن ناصر الجاسر، حفل العشاء الذي أقامته سفارة المملكة العربية السعودية في بوخارست، على شرف معاليه، بمقر السفارة. وقد حضر الحفل معالي وزير النقل والبنية التحتية سورين ميهاي غريندينو، وعدد من وزراء الدولة وشخصيات سياسية رومانية.",
+            "mt": "Ministrul Transporturilor și Logistică, Saleh Ben Nasser Al-Jasser, a participat la ceremonia de cină organizată de Ambasada Arabiei Saudite la București, în onoarea Excelenței Sale, la sediul Ambasadei României.",
+            "ref": "Excelența Sa, Ministrul Transporturilor și Serviciilor Logistice, Ing. Saleh bin Nasser Al-Jasser a luat parte la dineul oferit în onoarea Sa de către Ambasada Regatului Arabiei Saudite în București, la sediul acesteia. Au participat Ministrul Transporturilor și Infrastructurii, Domnul Sorin-Mihai Grindeanu, precum și un număr de secretari de stat și personalități politice din România.",
+            "COMET": 0.4166552722454071
+        },
+        {
+            "src": "وصل معالي المهندس/ صالح بن ناصر الجاسر، وزير النقل والخدمات اللوجستية الى رومانيا في زيارة رسمية، يلتقي خلالها نظيره وعدد من المسؤولين في الحكومة الرومانية، وقد كان في استقبال معاليه معالي وزير الدولة بوزارة النقل والبنية التحتية السيد/ أدريان فوجيس، وسفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط.",
+            "mt": "Ministrul transporturilor și logisticii, Saleh Bin Nasser Al-Jasser, a sosit în România într-o vizită oficială, în timpul căreia se întâlnea cu omologul său și cu mai mulți oficiali din guvernul României, și a fost întâmpinat de ministrul adjunct al Transporturilor și Infrastructurii, Adrian Fujis, ambasador al slujitorilor onorabili din România d.",
+            "ref": "Excelența Sa ing. Saleh bin Nasser Al-Jasser, Ministrul Transporturilor și Serviciilor Logistice, a sosit în România într-o vizită oficială, în cadrul căreia se va întâlni cu omologul său și cu un număr de oficiali din cadrul Guvernului României. A fost întâmpinat de către Excelența Sa, secretar de stat la Ministerul Transporturilor și Infrastructurii, domnul Adrian Foghiș, și Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat.",
+            "COMET": 0.052276611328125,
+            "errors": [
+                {
+                    "text": "Ministrul transporturilor și logisticii, Saleh Bin Nasser Al-Jasser, a sosit în România",
+                    "confidence": 0.62109375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 87
+                },
+                {
+                    "text": "-o vizită",
+                    "confidence": 0.4814453125,
+                    "severity": "critical",
+                    "start": 92,
+                    "end": 101
+                },
+                {
+                    "text": "ă, în timpul căreia se întâlnea",
+                    "confidence": 0.5302734375,
+                    "severity": "critical",
+                    "start": 109,
+                    "end": 140
+                },
+                {
+                    "text": "om",
+                    "confidence": 0.4306640625,
+                    "severity": "critical",
+                    "start": 143,
+                    "end": 146
+                },
+                {
+                    "text": "ul",
+                    "confidence": 0.441162109375,
+                    "severity": "critical",
+                    "start": 150,
+                    "end": 152
+                }
+            ]
+        },
+        {
+            "src": "قام سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، بزيارة لوزير الدولة بوزارة النقل والبنية التحتية الرومانية السيد/ كونستانتين بوندوك، في مكتبه بالوزارة، وجرى خلال اللقاء بحث الموضوعات ذات الاهتمام المشترك وسبل تدعيم العلاقات الثنائية بين المملكة ورومانيا.",
+            "mt": "Ambasadorul Slujitor al României dr. Mohammed bin Abdul Ghani a efectuat o vizită la Ministerul Transporturilor și Infrastructurii Române, în biroul Ministerului Transporturilor și Infrastructurii Române (Konstantin Pondock), în cadrul întâlnirii, în cadrul căreia au fost discutate subiecte de interes comun și modalități de promovare a relațiilor bilaterale dintre Regatul și România.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a întreprins o vizită la cabinetul secretarului de stat în Ministerul Transporturilor și Infrastructurii din România, domnul Constantin Bunduc, în cadrul întâlnirii fiind discutate subiecte de interes comun și modalități de consolidare a relațiilor bilaterale dintre Regat și România.",
+            "COMET": 0.1400146484375,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al României dr. Mohammed bin Abdul Ghani a",
+                    "confidence": 0.55908203125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 63
+                },
+                {
+                    "text": "Ministerul Transporturilor și Infrastructuri",
+                    "confidence": 0.397705078125,
+                    "severity": "critical",
+                    "start": 84,
+                    "end": 129
+                },
+                {
+                    "text": "Române, în biroul Ministerului Transporturilor și",
+                    "confidence": 0.479736328125,
+                    "severity": "critical",
+                    "start": 130,
+                    "end": 180
+                },
+                {
+                    "text": "uri",
+                    "confidence": 0.3125,
+                    "severity": "critical",
+                    "start": 192,
+                    "end": 195
+                },
+                {
+                    "text": "Române (Konstantin Pondock),",
+                    "confidence": 0.44580078125,
+                    "severity": "critical",
+                    "start": 196,
+                    "end": 225
+                },
+                {
+                    "text": "cadrul",
+                    "confidence": 0.466796875,
+                    "severity": "critical",
+                    "start": 228,
+                    "end": 235
+                },
+                {
+                    "text": "rii",
+                    "confidence": 0.349365234375,
+                    "severity": "critical",
+                    "start": 243,
+                    "end": 246
+                },
+                {
+                    "text": "cadrul căreia",
+                    "confidence": 0.35888671875,
+                    "severity": "critical",
+                    "start": 250,
+                    "end": 264
+                },
+                {
+                    "text": "atul și",
+                    "confidence": 0.47021484375,
+                    "severity": "critical",
+                    "start": 370,
+                    "end": 377
+                }
+            ]
+        },
+        {
+            "src": "اجرى سفير خادم الحرمين الشريفين لدى #رومانيا د.محمد بن عبدالغني خياط، لقاء اذاعي مع هيئة الاذاعة والتلفزيون الروماني \"راديو رومانيا\" بمناسبة مشاركة المملكة بجناح في معرض الكتاب #بوخارست Bookfest2024. وقد اوضح السفير ان هذه تعد اول مشاركة للسفارة في المعرض، واننا فخورين جداً ان الجناح استعرض التنوع الثقافي الذي تزخر به المملكة، حيث شكلت المشاركة فرصه للشعب الروماني الصديق للتعرف على الثقافة والتاريخ السعودي، ومعرفة المواقع التراثية السعودية المسجلة في اليونيسكو. وفي نهاية اللقاء قدم السفير الشكر لوزيرة الثقافة التي زارت الجناح السعودي، ولوزارة الثقافة الرومانية القائمة على المعرض، مثمناً الجهود التي يقومون بها.",
+            "mt": "Ambasadorul României la Ambasada României la Dr. Mohammed bin Abdul Ghani a organizat o întâlnire radio-telefonică cu Radio România cu ocazia participării Regatului Arabiei Saudite la expoziţia #Buharest Bookfest2024.Ambasadoarea a explicat că aceasta este prima participare la expoziţie, iar ambasadorul saudit i-a oferit ministrului său ocazia de a vizita diversitatea culturală.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a realizat un interviu radio cu Societatea Română de Radiodifuziune, „Radio România”, cu ocazia participării Regatului cu un stand în cadrul Salonului de carte București Bookfest 2024. Ambasadorul a explicat că aceasta este prima participare a ambasadei la târgul de carte și suntem foarte mândri că aceasta a pus în valoare diversitatea culturală abundentă a #Regatului, întrucât acțiunea a reprezentat o oportunitate pentru poporul român prieten de a cunoaște cultura și istoria saudite dar și siturile saudite înregistrate în patrimoniul UNESCO. La finalul interviului, ambasadorul a prezentat mulțumirile sale doamnei Ministru al Culturii care a vizitat standul saudit, dar și Ministerului Culturii din România pentru sprijinul acordat în organizarea expoziției, lăudând eforturile pe care aceștia le depun.",
+            "COMET": 0.1985766589641571
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، حفل كبار الشخصيات بمناسبة افتتاح الموسم الجديد للفن المعاصر في المتحف الوطني الروماني. وقد حضر الافتتاح عدد من السفراء المعتمدين في بوخارست والمثقفين والفنانين والاعلاميين الرومانيين.",
+            "mt": "Ambasadorul Slujitor al #Romania D. Mohammed bin Abdul Ghani a participat la ceremonia de deschidere a noului sezon de artă contemporană la Muzeul Național Roman.Deschiderea a avut loc la București, artiști și jurnaliști români.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed bin Abdulghani Khayat, a participat la recepția marilor personalități cu ocazia deschiderii noului sezon de artă contemporană la Muzeul Național al României. La deschidere au fost prezenți o serie de ambasadori acreditați la București, intelectuali români, artiști și reprezentanți mass-media.",
+            "COMET": 0.2404925525188446
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط، حجاج برنامج ضيوف خادم الحرمين الشريفين للحج لعام 1445هـ، قبل مغادرتهم للمملكة لأداء مناسك الحج، وقد تحدث السفير عن الجهود التي تقوم بها المملكة لخدمة ضيوف الرحمن من حجاج ومعتمرين على مدار العام، ليتمكنوا من أداء المناسك بكل يسر وطمئنيه. متمنياً لهم حجاً مبروراً وسعياً مشكوراً.",
+            "mt": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, a întâmpinat croitorul din programul de oaspeți ai slujitorilor cinstiți ai pelerinajului din 1445, înainte de a părăsi regatul pentru a-i asigura pe oaspeții noștri că doresc să facă pelerinaj și să-i liniștească.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, i-a primit pe pelerinii Programului de Oaspeți al Custodelui celor două Sfinte Moschei pentru anul 1445H, înainte de plecarea acestora în Regat pentru a efectua ritualurile de Hajj. Ambasadorul a vorbit despre eforturile pe care Regatul le face pentru a fi în serviciul pelerinilor care efectuează Hajjul și Umrah pe tot parcursul anului, pentru ca aceștia să poată îndeplini ritualurile cu ușurință și liniște.",
+            "COMET": 0.1894519031047821
+        },
+        {
+            "src": "ستقبل سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط،وزير الثقافة في جمهورية #مولدوفا السيد سيرجيو برودان (مولدوفا ضيف الشرف في المعرض)، بمقر جناح المملكة المٌشارك في معرض الكتاب2024 في بوخارست.وقدم السفير لمعاليه شرحاً موجزاً عن ما تزخر به المملكة من تنوع ثقافي وتاريخي، وعن المواقع الأثرية والتاريخية في المملكة والمسجلة في اليونسكو، موضحاً له ما تمر به المملكة من تطور وازدهار مستمر ونظره مستقبليه واعده في ظل رؤية المملكة 2030 استقبل سفير خادم الحرمين الشريفين لدى رومانيا وزير الثقافة الرومانية السيدة رالوكا توركان، بمقر جناح المملكة المٌشارك في معرض الكتاب2024 في بوخارست. وقد شرح السفير لمعالي الوزيرة ما تزخر به المملكة من اثار وتراث وتنوع ثقافي كبير يواكبه تطور حضاري وفكري وعلمي وهو ما تتميز به المملكة، وأوضح السفير للوزيره التطور والنهضة في ظل رؤية 2030 شاركت سفارة المملكة في #بوخارست في معرض الكتاب في بوخارست Bookfest2024، من خلال إقامة جناح يستعرض التنوع الثقافي والتاريخي الذي تزخر به المملكة. وقد زار الجناح وزير الثقافة الرومانية، وعدد من المسؤولين الرومانيين، وأساتذة جامعات، ومفكرين، وإعلاميين، وكُتاب، قد ابدا الجميع اعجابهم بالمعروضات والثقافة السعودية والنهضة التي وصلت لها المملكة في مختلف المجالات.",
+            "mt": "Ambasadorul României la Bucureşti, dr. Mohammed bin Abdul Ghani, a fost întâmpinat de ministrul Culturii din Republica Moldova, Sergio Prudence, invitat la Expozitia Culturală, cu ocazia căreia s-a prezentat la expoziția culturală şi istorică a Regatului 2024.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România a primit vizita ministrului Culturii al Republicii #Moldova, Domnul Sergiu Prodan (Republica #Moldova fiind invitat de onoare la Salon), la standul Regatului participant la Salonul de Carte 2024 de la București. Ambasadorul i-a oferit Excelenței Sale o scurtă explicație a diversității culturale și istorice a Regatului și a siturilor arheologice și istorice din Regat înregistrate în Patrimoniul UNESCO, prezentând totodată dezvoltarea continuă și prosperitatea prin care trece Regatul și perspectivele sale promițătoare de viitor în lumina Viziunii 2030. Ambasadorul Custodelui celor Două Sfinte Moschei în #România a primit vizita ministrului Culturii din #România, Doamna Raluca Turcan, la standul Regatului participant la Salonul de Carte 2024 de la București. Ambasadorul a prezentat Excelenței Sale, Doamna Ministru, bogăția obiectelor arheologice, patrimoniul și diversitatea culturală, alături de dezvoltarea culturală, intelectuală și științifică, care deosebesc Regatul. Ambasadorul a explicat Excelenței Sale mișcarea de dezvoltare și renaștere în cadrul Viziunii 2030 a Regatului. Ambasada Regatului la #București a participat la Salonul de Carte #Bookfest 2024 la București, prin organizarea unui stand care prezintă bogăția diversității culturale și istorice a Regatului. Ministrul Culturii al #României, o serie de oficiali români, profesori universitari, intelectuali, reprezentanți mass-media și scriitori au vizitat pavilionul, exprimându-și admirația pentru exponate, cultura saudită și mișcarea de renaștere pe care Regatul a cunoscut-o în diverse domenii.",
+            "COMET": 0.1823107898235321
+        },
+        {
+            "src": "شارك سفير خادم الحرمين الشريفين لدى #رومانيا د. محمدبن عبدالغني خياط، مؤتمر الجامعات \" التعليم العالي في #رومانيا على خريطة التعليم العالمية\" المٌنظم من قبل مجموعة DC الإعلامية. وقد القى السفير كلمة أوضح فيها أهمية التعاون الثنائي على الصعيد الأكاديمي، موجزاً عن التطور العلمي في المملكة والتطور العلمي في المملكة ، ومثنياً على البيئة التعلمية الاكاديمية في رومانيا، وشجع السفير الأصدقاء الرومانيين ابراز تقدمهم بشكل اكبر والاعلان عنه وتسويقه، وكذلك حرصه على ان يكون هناك طلبه سعوديين يدرسون في رومانيا والعكس، موضحاً ان هناك منح تقدم لطلبة #رومانيا.",
+            "mt": "Ambasadorii slujitorilor onorabili ai #Romania Dr. Mohammed bin Abdul Ghani a participat la Conferința Universitară #România pe harta educației globale\" organizată de Grupul Media DC.Ambasadoarea a exprimat un cuvânt clar în legătură cu importanța cooperării bilaterale la nivel academic, un rezumat al dezvoltării științifice în Regatul Arabiei Saudite și dezvoltarea științifică a Regatului Arabiei Saudite, precum și a ambasadorilor din România.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a participat la Conferința Universităților - Învățământul superior din România, pe harta mondială a educației, organizată de DC Media Group. Ambasadorul a ținut un discurs în care a explicat importanța cooperării bilaterale la nivel academic, vorbind pe scurt despre dezvoltarea științifică din Regat și lăudând mediul educațional și academic din România. Ambasadorul i-a încurajat pe prietenii români să evidențieze mai mult progresele, să le facă publice și să le comercializeze, și a menționat preocuparea sa de a avea studenți saudiți care să studieze în România, dar și invers, adăugând că există burse oferite studenților români.",
+            "COMET": 0.13877108693122864,
+            "errors": [
+                {
+                    "text": "<s> Ambasadorii slujitorilor onorabili ai #Romania Dr. Mohammed bin Abdul Ghani a participat la Conferința Universitară #România pe harta educației globale\" organizată de Grupul Media DC.Ambasadoarea a exprimat un cuvânt clar în legătură cu importanța cooperării bilaterale la",
+                    "confidence": 0.677734375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 272
+                }
+            ]
+        },
+        {
+            "src": "دشن سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، بمقر السفارة في #بوخارست ، وبالتنسيق مع الملحقية الدينية في سراييفو ، برنامج هدية #خادم_الحرمين_الشريفين للتمور والمصاحف الشريفة، وقد تم تسليم مايعادل (٥ طن). من التمور والمصاحف لرؤساء المراكز الإسلامية والثقافية وائمة المساجد في #رومانيا",
+            "mt": "Ambasadorul Slujitor al moscheilor #Romania d. Mohammed bin Abdul Ghani a inaugurat croitorul, la sediul Ambasadei din Bucureşti, şi în coordonare cu anexa religioasă din Sarajevo, un program de dar #Cadou_Serviciul de informaţii şi duhovniceşti a fost livrat (5 tone).",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed bin Abdulghani Khayat, a inaugurat la sediul ambasadei din București, în coordonare cu biroul atașatului religios din Sarajevo, Programul de Cadouri al Custodelui celor Două Sfinte Moschei de distribuire a Coranului Sfânt și a curmalelor. A fost oferit echivalentul a (5 tone) de curmale și Cărți Sfinte șefilor centrelor islamice și culturale și imamilor din #România.",
+            "COMET": 0.1948535144329071
+        },
+        {
+            "src": "سفير خادم الحرمين الشريفين د. محمد بن عبد الغني خياط، ومجموعة سفراء الدول العربية والإسلامية يقيمون حفل إفطار مشترك، بحضور معالي وزيرة الخارجية الرومانية السيدة لوميناتا اودوبيسكو، ورئيس وزراء #رومانيا الأسبق والمستشار الحالي لرئيس الوزراء الروماني السيد فيكتور بونتا، ومستشار الدولة لرئيس الوزراء، ووزير الدولة للأديان، ووزير الدولة للشؤون الثقافية لرئيس الوزراء ووزير الدولة للزراعة، ووكيل وزارة الاتصالات ومفتي رومانيا، وممثل  البطريرك، وعدد من رؤساء وائمة المراكز الإسلامية في #بوخارست.  وكون المملكة رئيس الدورة الحالية لمنظمة التعاون الإسلامي، القى السفير كلمة رحب فيها بالضيوف الكرام، والقت عميدة السلك الدبلوماسي في #رومانيا سفيرة لبنان كلمة بهذه المناسبة. بعد ذلك القت معالي الوزيرة كلمه عبرت فيها عن تمنياتها للشعوب العربية والإسلامية وللعالم أجمع مزيداً من التقدم والرخاء وان يعم السلام على العالم.",
+            "mt": "Ambasadorul Mohammed bin Abdul Ghani, un grup de ambasadori arabi și musulmani organizează un mic dejun comun, în prezența Excelenței ministrului român al Afacerilor Externe, a ministrului Afacerilor Externe, a ministrului Afacerilor Externe, a secretarului de Stat pentru Afaceri Culturale, a reprezentantului României și a Secretarului de Stat pentru Cooperare Islamică.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei, dr. Mohammed bin Abdulghani Khayat și grupul ambasadorilor țărilor arabe și islamice au organizat o cină comună de Iftar, la care a participat și Excelența Sa Ministrul Afacerilor Externe al #României, doamna Luminița Odobescu, fostul prim-ministru al României și actualul consilier al prim-ministrului #României, domnul Victor Ponta, Consilierul de stat al prim ministrului, Secretarul de stat pentru Culte, Secretarul de stat pentru Afaceri Culturale și Secretarul de stat pentru Agricultură, Subsecretarul de stat al Ministerului Comunicațiilor, Muftiul #României, reprezentantul Patriarhului și un număr de șefi și imami ai centrelor islamice din București. Întrucât Regatul este Președintele actualei sesiuni a Organizației Cooperării Islamice, Ambasadorul a ținut un discurs în care a salutat distinșii oaspeți, iar Decanul  grupului ambasadorilor arabi în România, Ambasadoarea Libanului, a avut la rândul său o intervenție cu această ocazie. După aceea, Excelența Sa Ministrul de Externe, a ținut un discurs în care a exprimat angajamentul țării sale de a respecta toate religiile, diversitatea și toleranța religioasă.",
+            "COMET": 0.1845385730266571
+        },
+        {
+            "src": "استقبلت وزيرة خارجية #رومانيا السيدة لوميناتا اودوبيسكو ,بمقر وزارة الخارجية الرومانية. سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط, وجرى خلال اللقاء بحث تعزيز العلاقات الثنائية بين البلدين وسبل تطويرها.",
+            "mt": "Ministrul roman de externe a primit-o pe doamna Luminata Odobescu la sediul Ministerului Afacerilor Externe.Ambasadorul celor două santinele onorabile ale #Romania d. Mohammed bin Abdalgheni a efectuat, în cadrul întâlnirii, cercetări privind consolidarea legăturilor bilaterale dintre cele două ţări şi dezvoltarea lor.",
+            "ref": "Ministrul Afacerilor Externe al României, doamna Luminița Odobescu, a primit la sediul Ministerului, vizita Ambasadorului Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat. În cadrul întâlnirii, au fost discutate aspecte legate de consolidarea relațiilor bilaterale și modalitățile de dezvoltare a acestora.",
+            "COMET": 0.20389941334724426,
+            "errors": [
+                {
+                    "text": "Ministrul roman de externe a primit-o pe doamna Luminata Odobescu la sediul Ministerului Afacerilor Externe.Ambasadorul celor două santinele onorabile ale #Romania d. Mohammed bin Abdalgheni a efectuat, în cadrul întâlnirii, cercetări privind consolidarea leg",
+                    "confidence": 0.6630859375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 259
+                }
+            ]
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط حفل الإفطار الذي أقامه فضيلة مفتي #رومانيا الشيخ يوسف مراد، بحضور عدد من سفراء الدول الإسلامية ورؤساء الجالية المسلمة في رومانيا وقد ألقى السفير كلمة هنئ فيها الحضور بمناسبة حلول شهر رمضان المبارك داعيًا المولى عز وجل ان يتقبل الصيام والقيام وصالح الأعمال.",
+            "mt": "Ambasadorul Slujitor al lui Romania Dr. Mohammed bin Abdul Ghani a participat la micul dejun organizat de Fah Mufti #Romania Yousef Murad, în prezenţa mai multor ambasadori ai Statului Islamic şi a şefilor comunităţii musulmane din România.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, a participat la cina de Iftar organizată de Excelența Sa, Muftiul României, Șeicul Iusuf Murat, în prezența mai multor oficiali români și ambasadori ai țărilor arabe și islamice, precum și ai șefilor comunității musulmane din România. Ambasadorul a ținut un discurs în care i-a felicitat pe participanți cu ocazia venirii lunii binecuvântate a Ramadanului, rugându-se lui Allah Atotputernicul să accepte postul, rugăciunile și faptele bune.",
+            "COMET": 0.2040545642375946
+        },
+        {
+            "src": "التقى سفير خادم الحرمين الشريفين لدى #رومانيا ، د. محمد بن عبدالغني خياط ، بعض رؤساء المراكز الإسلامية وأئمة المساجد في #بوخارست، بمناسبة قرب شهر رمضان المبارك، للاطلاع على أنشطتهم خلال الشهر الكريم. وقد تم في ختام اللقاء توزيع هدية خادم الحرمين الشريفين من التمور.",
+            "mt": "Ambasadorul Slujitor al #Romania, dr. Mohammed bin Abdul Ghani, croitorul, a întâlnit câțiva șefi ai centrelor islamice și ai moscheilor din București, cu ocazia lunii sfinte a Ramadanului, pentru a-și vedea activitățile în timpul lunii pline.",
+            "ref": "Ambasadorului Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed bin Abdulghani Khayat, a avut o întrevedere cu câțiva șefi ai centrelor islamice și imami ai moscheilor din București cu ocazia apropierii lunii binecuvântate a Ramadanului, pentru a le cunoaște activitățile din luna sfântă. La finalul întâlnirii, au fost oferite curmale, drept cadou de la Custodele celor Două Sfinte Moschei.",
+            "COMET": 0.2587573230266571
+        },
+        {
+            "src": "حضر معالي نائب وزير الخارجية المهندس #وليد_الخريجي @W_Elkhereiji ،حفل العشاء الذي اقامته السفارة في #بوخارست ،على شرف معاليه ،بمقر السفارة.وقد حضر الحفل وزير خارجية رومانيا الأسبق ،ورئيس لجنة السياسة الخارجية في مجلس الشيوخ الروماني ، وسكرتير الدولة للشؤون الأوروبية بوزارة خارجية #رومانيا ،ومستشار رئيس وزراء #رومانيا للشؤون الدبلوماسية والأمنية ،والمدير العام للإدارة الدولية بوزارة خارجية #رومانيا،وسفير خادم الحرمين الشريفين لدى اوكرانيا ،ومدير ادارة الشرق الاوسط وافريقيا بوزارة خارجية #رومانيا.",
+            "mt": "Ministrul adjunct de externe, #Walid-khrigiji, a participat la ceremonia de cină a Ambasadei României la Bucureşti, în onoarea colaboratorilor săi, la sediul Ambasadei României, la Ministerul Afacerilor Externe al României, la Ministerul Afacerilor Externe al României, la Ministerul Afacerilor Externe al Afacerilor Externe, la Ministerul Afacerilor Externe al României.",
+            "ref": "Excelența Sa Viceministrul Afacerilor Externe, ing. Waleed Al Khuraiji, a luat parte la dineul pe care Ambasada l-a organizat în onoarea Sa, la sediul acesteia din București. La recepție a fost prezent și fostul ministru al Afacerilor Externe al României, Președintele Comisiei pentru Politică Externă din Senatul României, Consilierul Primului Ministru al României pentru Afaceri Diplomatice și de Securitate, Secretarul de Stat pentru Afaceri Europene în cadrul Ministerului Afacerilor Externe al României, Directorul General al Direcției Globale din cadrul Ministerului Afacerilor Externe al României, Directorul Direcției Orientul Mijlociu și Africa din cadrul  Ministerului Afacerilor Externe al României, și Ambasadorul Custodelui celor Două Sfinte Moschei în Ucraina.",
+            "COMET": 0.1850878894329071
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبد الغني خياط، بمقر السفارة في بوخارست، ضيوف برنامج خادم الحرمين الشريفين للعمرة لعام 1445هـ، تحدث السفير خلال اللقاء مع الضيوف موضحاً ان المملكة بتوجيهات القيادة –حفظها الله-، تقوم على خدمة الحجاج والمعتمرين لكي يتمكنوا من أداء مناسكهم بكل يسر وسهوله. وان وزارة الشؤون الإسلامية والدعوة والإرشاد في هذا العام تستضيف عدد 20 معتمراً، وتمنى للمعتمرين القبول والتوفيق في هذه الرحلة. فيما عبر الضيوف عن شكرهم وامتناهم لقيادة المملكة –حفظها الله-، على الجهود المبذولة لخدمة الإسلام والمسلمين، وكذلك جهود السفارة ومسئوليها على التنسيق لهذه الإستضافة.",
+            "mt": "Ambasadorii slujitorilor onorabili ai României, dr. Mohammed bin Abdul Ghani, croitor al Ambasadei României la Bucureşti, au întâmpinat oaspeţi ai programului „Slujitorii Templierilor” din 1445, în timpul întâlnirii cu oaspeţii şi în speranţa că Regatul va organiza şi va susţine eforturile de a-i servi pe pelerini şi pe cei care practică în mod deschis şi prin intermediul ministerului lor.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, i-a primit la sediul ambasadei pe oaspeții Programului Custodelui celor Două Sfinte Moschei pentru Umrah, aferent anului 1445 Hijri. În cadrul întâlnirii, Ambasadorul a discutat cu aceștia, explicând faptul că Regatul, sub îndrumarea conducerii, se află în slujba celor care îndeplinesc cele două pelerinaje - Hajj și Umrah, pentru a-și putea desfășura ritualurile în deplină ușurință. Ambasadorul a adăugat că în acest an, Ministerul pentru Afaceri Islamice, Daawa și Îndrumare, găzduiește un număr de 20 de pelerini pentru efectuarea Umrah, și le-a urat pelerinilor împăcare și primirea tuturor rugăciunilor în această călătorie. La rândul lor, oaspeții și-au exprimat mulțumirea și recunoștința față de conducerea Regatului, pentru eforturile depuse în slujba islamului și a musulmanilor, precum și pentru eforturile ambasadei și ale oficialilor săi pentru coordonarea în organizarea acestei călătorii.",
+            "COMET": 0.1819750964641571
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د.محمد بن عبدالغني خياط، الحفل الذي أقامه فخامة رئيس #رومانيا السيد كلاوس يوهانيس، بمناسبة يوم توحيد الإمارات الرومانية.",
+            "mt": "Ambasadorul slujitorilor onorabili la #Romania Dr. Mohammed bin Abdul Ghani a participat la ceremonia organizată de Excelenţa Sa, preşedintele României, domnul Klaus Iohannis, cu ocazia Zilei Unificării Emiratelor Arabe Unite.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a participat la ceremonia organizată de Excelența Sa, Președintele României, Domnul Klaus Iohannis, cu ocazia Zilei Unirii Principatelor Române.",
+            "COMET": 0.2939746081829071
+        },
+        {
+            "src": "استقبل المستشار الفخري لرئيس وزراء #رومانيا رئيس الوزراء الاسبق السيد/ فيكتور بونتا، في مكتبه، سفير خادم الحرمين الشريفين لدى #رومانيا د.محمد بن عبدالغني خياط،وجرى خلال اللقاء استعراض العلاقات الثنائية بين البلدين وسبل تعزيزها.",
+            "mt": "Cancelarul emerit al premierului roman, Victor Ponta, l-a primit în biroul său pe ambasador al slujitorilor onorabili ai #Romania d. Muhammad bin Abdulbalni croitor, în timpul întâlnirii a avut loc revizuirea relațiilor bilaterale și modalitățile de promovare a acestora.",
+            "ref": "Consilierul Onorific al Prim-ministrului #României și fost Prim-ministru, domnul Victor Ponta, a primit vizita Ambasadorului Custodelui celor Două Sfinte Moschei în #România, dr. Mohammed bin Abdulghani Khayat, iar în cadrul întrevederii au trecut în revistă relațiile bilaterale și modalități de consolidare a acestora.",
+            "COMET": 0.07855224609375,
+            "errors": [
+                {
+                    "text": "Cancelarul emerit al premierului roman, Victor Ponta",
+                    "confidence": 0.5078125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 52
+                },
+                {
+                    "text": "ambasador al slujitorilor onorabili ai #Romania d. Muhammad bin Abdulbalni croitor,",
+                    "confidence": 0.67578125,
+                    "severity": "critical",
+                    "start": 81,
+                    "end": 165
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.619140625,
+                    "severity": "critical",
+                    "start": 229,
+                    "end": 230
+                }
+            ]
+        },
+        {
+            "src": "التقى سعادة القائم بالأعمال بالإنابة الاستاذ/ عبدالله بن حسين الشريف، رئيس قسم المعاهدات الثنائية في إدارة القانون الدولي بوزارة خارجية #مولدوفا السيد/ فيكتور مارتن، وجرى خلال اللقاء تعزيز العلاقات في مجال الاتفاقيات الثنائية بين البلدين.",
+            "mt": "Excelența însărcinatului cu afaceri l-a întâlnit pe profesorul Abdallah bin Hussein-Sharif, șeful Secțiunii bilaterale a Departamentului de Drept Internațional al Ministerului de Externe #Moldova, domnul Victor Martin, și a consolidat relațiile bilaterale în domeniul convențiilor bilaterale dintre cele două țări.",
+            "ref": "Excelența Sa, Însărcinatul cu afaceri ad interim, dl. Abdullah bin Hussein Alsharif, îl întâlnește pe șeful Secţiei Tratate Bilaterale din cadrul Direcţiei Drept Internaţional, Ministerul Afacerilor Externe și Integrării Europene al Republicii Moldova, domnul Victor Martin. În cadrul întrevederii, au fost consolidate relaţiile în domeniul acordurilor bilaterale dintre cele două ţări.",
+            "COMET": 0.374755859375,
+            "errors": [
+                {
+                    "text": "Excelența însărcinatului cu afaceri l",
+                    "confidence": 0.38916015625,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 37
+                },
+                {
+                    "text": "a",
+                    "confidence": 0.40869140625,
+                    "severity": "major",
+                    "start": 38,
+                    "end": 39
+                },
+                {
+                    "text": "t pe profesorul Abdallah bin Hussein-Sharif,",
+                    "confidence": 0.405517578125,
+                    "severity": "major",
+                    "start": 47,
+                    "end": 91
+                },
+                {
+                    "text": "Secțiunii bilateral",
+                    "confidence": 0.4111328125,
+                    "severity": "major",
+                    "start": 97,
+                    "end": 117
+                },
+                {
+                    "text": "a Departamentului",
+                    "confidence": 0.358642578125,
+                    "severity": "major",
+                    "start": 118,
+                    "end": 136
+                },
+                {
+                    "text": "Drept",
+                    "confidence": 0.336669921875,
+                    "severity": "major",
+                    "start": 139,
+                    "end": 145
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.391845703125,
+                    "severity": "major",
+                    "start": 175,
+                    "end": 178
+                },
+                {
+                    "text": "e #Moldova",
+                    "confidence": 0.3515625,
+                    "severity": "major",
+                    "start": 185,
+                    "end": 195
+                },
+                {
+                    "text": "ven",
+                    "confidence": 0.337890625,
+                    "severity": "major",
+                    "start": 271,
+                    "end": 274
+                }
+            ]
+        },
+        {
+            "src": "التقى سعادة القائم بالأعمال بالانابة الأستاذ/ عبدالله بن حسين الشريف، رئيس قسم اسيا وافريقيا والشرق الاوسط والمحيط الهادئ في إدارة التعاون الدولي بوزارة خارجية #مولدوفا السيد/إميل جاكوتا، وجرى خلال اللقاء بحث اوجه التعاون الثنائي بين البلدين.",
+            "mt": "Excelența Sa s-a întâlnit cu profesorul Abdullah bin Hussein Sharif, șeful departamentului Asia, Africa, Orientul Mijlociu și Pacific al Departamentului de Cooperare al Ministerului Internațional de Externe, Muldova, Emile Jacota, și a discutat despre cooperarea bilaterală dintre cele două țări.",
+            "ref": "Excelența Sa, Însărcinatul cu afaceri ad interim, dl. Abdullah bin Hussein Alsharif, îl întâlnește pe șeful Secției Asia, Africa, Orientul Mijlociu și Pacific al Direcției Cooperare Bilaterală din cadrul Ministerului Afacerilor Externe și Integrării Europene al Republicii Moldova domnul Emil Jacotă. În cadrul întâlnirii, s-au discutat aspecte ale cooperării bilaterale.",
+            "COMET": 0.306396484375,
+            "errors": [
+                {
+                    "text": "profesorul Abdullah",
+                    "confidence": 0.418212890625,
+                    "severity": "major",
+                    "start": 28,
+                    "end": 48
+                },
+                {
+                    "text": "Sharif",
+                    "confidence": 0.391357421875,
+                    "severity": "major",
+                    "start": 60,
+                    "end": 67
+                },
+                {
+                    "text": "departament",
+                    "confidence": 0.349853515625,
+                    "severity": "major",
+                    "start": 74,
+                    "end": 86
+                },
+                {
+                    "text": "ciu",
+                    "confidence": 0.368896484375,
+                    "severity": "major",
+                    "start": 119,
+                    "end": 122
+                },
+                {
+                    "text": "Departamentului de Cooperare al Ministerului Internațional de Externe, Muldova, Emile Ja",
+                    "confidence": 0.39404296875,
+                    "severity": "major",
+                    "start": 136,
+                    "end": 225
+                },
+                {
+                    "text": "ta",
+                    "confidence": 0.411376953125,
+                    "severity": "major",
+                    "start": 227,
+                    "end": 229
+                }
+            ]
+        },
+        {
+            "src": "وزير الدولة بوزارة الخارجية الرومانية السيد/تريان هريستا،يستقبل سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، و مجموعة سفراء الدول العربية والاسلامية، وتم خلال الاجتماع مناقشة الأوضاع في #غزة.",
+            "mt": "Ministrul de stat al Ministerului Afacerilor Externe, domnul Taryan Heresta, îl primeşte pe ambasadorul celor două salvări la #Romania D. Mohammed bin Abdul Ghani croitor, şi la grupul ambasadorilor statelor arabe şi musulmane.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a participat la reuniunea cu secretarul de stat al Ministerului Afacerilor Externe al României, domnul Traian Hristea, cu ambasadorii țărilor arabe și islamice, iar în cadrul întrevederii a fost discutată situația din Fâșia #Gaza.",
+            "COMET": 0.21010467410087585
+        },
+        {
+            "src": "ستقبل معالي وزير الاقتصاد وريادة الاعمال والسياحة السيد/شتيفان رادو، في مقر وزارة الاقتصاد،سفير خادم الحرمين الشريفين لدى #رومانيا د.محمد بن عبدالغني خياط، وجرى خلال اللقاء مناقشة الموضوعات المشتركة وبحث سبل تطوير العلاقات الثنائية بين البلدين في مجال الاقتصاد والاعمال والسياحة",
+            "mt": "Ministrul Economiei, Antreprenoriatului și Turismului, Stefan Radu, va fi prezent la sediul Ministerului Economiei, ambasador al slujitorilor onorabili ai #Romania, dr. Mohammed bin Abdulbalni, croitor al cărui subiect comun a fost discutat și discutat despre dezvoltarea relațiilor bilaterale în economie, afaceri și turism.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, s-a întâlnit cu Excelența Sa, Ministrul economiei, antreprenoriatului și turismului, Domnul Ștefan-Radu Oprea. În cadrul întrevederii, au fost discutate subiecte comune  și modalități de dezvoltare a relațiilor bilaterale în domeniul economiei, afacerilor și turismului.",
+            "COMET": 0.1922747790813446
+        },
+        {
+            "src": "سفارة المملكة لدى #رومانيا تستقبل سفراء الدول الأعضاء بمنظمة التعاون الإسلامي، بمقر السفارة في بوخارست، وقد ترأس سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبد الغني خياط، الاجتماع الخاص بمناقشة أخر التطورات في قطاع #غزة، كون المملكة ترأس المجلس التنفيذي للمنظمة لهذا العام",
+            "mt": "Ambasada Regatului României salută ambasadorii statelor membre ale Organizației de Cooperare Islamică (OCI), la sediul Ambasadei României la București, și l-a prezidat pe ambasadorul celor doi slujitori onorabili ai României, dr. Mohammed bin Abdul Ghani, coautorul întâlnirii privind ultimele evoluții din sectorul #Gaza, fiind președintele Consiliului executiv al organizației din acest an.",
+            "ref": "Ambasada Regatului în România îi primește la sediul acesteia din București pe ambasadorii statelor membre ale Organizației Cooperării Islamice. Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, a prezidat o reuniune specială în care au fost discutate cele mai recente evoluții din Fâșia Gaza, având în vedere că Regatul prezidează Consiliul Executiv al organizației în acest an.",
+            "COMET": 0.08941650390625,
+            "errors": [
+                {
+                    "text": "Ambasada Regatului României salută",
+                    "confidence": 0.587890625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 34
+                },
+                {
+                    "text": "ii",
+                    "confidence": 0.46875,
+                    "severity": "critical",
+                    "start": 44,
+                    "end": 46
+                },
+                {
+                    "text": "lor",
+                    "confidence": 0.387939453125,
+                    "severity": "critical",
+                    "start": 52,
+                    "end": 55
+                },
+                {
+                    "text": "ă",
+                    "confidence": 0.3447265625,
+                    "severity": "critical",
+                    "start": 100,
+                    "end": 101
+                },
+                {
+                    "text": "CI), la sediul",
+                    "confidence": 0.45068359375,
+                    "severity": "critical",
+                    "start": 104,
+                    "end": 118
+                },
+                {
+                    "text": "ei",
+                    "confidence": 0.466552734375,
+                    "severity": "critical",
+                    "start": 126,
+                    "end": 128
+                },
+                {
+                    "text": ", și l",
+                    "confidence": 0.57373046875,
+                    "severity": "critical",
+                    "start": 150,
+                    "end": 156
+                },
+                {
+                    "text": "a prezidat pe ambasadorul celor doi slujitori onorabili ai României, dr. Mohammed bin Abdul Ghani, coautorul întâlnirii privind",
+                    "confidence": 0.576171875,
+                    "severity": "critical",
+                    "start": 157,
+                    "end": 284
+                },
+                {
+                    "text": "#Gaza",
+                    "confidence": 0.37060546875,
+                    "severity": "critical",
+                    "start": 315,
+                    "end": 321
+                }
+            ]
+        },
+        {
+            "src": "رئيس لجنة السياسية الخارجية لمجلس الشيوخ الروماني السيد/ تيتوس كورلتيان، يلتقي سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، ضمن مجموعة سفراء الدول العربية وبعض سفراء الدول الأعضاء في منظمة التعاون الإسلامي. وجرى خلال اللقاء مناقشة تداعيات الحرب على #غزة.",
+            "mt": "Șeful Comisiei politice externe a Senatului, domnul Titus Corltian, se întâlnește cu ambasadorii slujitorilor onorabili ai #Romania D. Mohammed bin Abdul Ghani croitor, în cadrul grupului ambasadorilor statelor arabe și a ambasadorilor statelor membre ale Organizației pentru Cooperare Islamică.",
+            "ref": "Președintele Comisiei pentru politică externă din Senatul României, domnul Titus Corlăţean, l-a primit pe Ambasadorul Custodelui celor două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, alături de grupul de ambasadori ai țărilor arabe și unii ambasadori ai statelor membre ale Organizației Cooperării Islamice. În cadrul întâlnirii au fost discutate repercusiunile războiului asupra Fâșiei #Gaza.",
+            "COMET": 0.22006294131278992
+        },
+        {
+            "src": "شارك سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، في الاجتماع مع وزيرة خارجية #رومانيا السيدة/ لوميناتا اودوبيسكو، ومجموعة السفراء العرب المعتمدين لدى #رومانيا، وجرى خلال اللقاء مناقشة تداعيات الحرب على غزة.",
+            "mt": "Ambasadorul slujitorilor onorabili din România, dr. Mohammed bin Abdul Ghani, a participat la întâlnirea cu ministrul român de externe, doamna Luminata Odobescu, și cu grupul ambasadorilor arabi acreditați la #Romania, care au discutat despre consecințele războiului din Gaza.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat a participat la primirea de către ministrul afacerilor externe, doamna Luminița Odobescu, a Grupului ambasadorilor arabi acreditați în România, iar in cadrul întâlnirii au fost discutate repercusiunile războiului asupra Fâșiei Gaza.",
+            "COMET": 0.15283203125,
+            "errors": [
+                {
+                    "text": "Ambasadorul slujitorilor onorabili din România, dr. Mohammed bin Abdul Ghani, a participat la întâlnirea cu ministrul român de externe, doamna Luminata Odobescu,",
+                    "confidence": 0.6181640625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 161
+                },
+                {
+                    "text": "ul",
+                    "confidence": 0.5146484375,
+                    "severity": "critical",
+                    "start": 172,
+                    "end": 174
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.53564453125,
+                    "severity": "critical",
+                    "start": 193,
+                    "end": 194
+                },
+                {
+                    "text": "la #Romania,",
+                    "confidence": 0.497314453125,
+                    "severity": "critical",
+                    "start": 205,
+                    "end": 218
+                }
+            ]
+        },
+        {
+            "src": "استقبلت وزيرة خارجية #رومانيا السيدة/لوميناتا اودوبيسكو، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، وقد تم خلال اللقاء تسليم رسالة موجهة من سمو وزير الخارجية الامير/فيصل بن فرحان، إلى نظيرته الرومانية، كما جرى بحث أوجه تعزيز العلاقات الثنائية بين البلدين.",
+            "mt": "Ministrul roman de externe a primit-o pe doamna Lominata Odobescu, ambasador al slujitorilor onorabili ai lui Romania D. Mohammed bin Abdul Ghani croitor, iar în cadrul întâlnirii a fost înmânat un mesaj adresat superiorului său, prinț Faisal bin Farhan, colegilor săi, și s-a discutat despre consolidarea relațiilor bilaterale.",
+            "ref": "Ministrul Afacerilor Externe al României, doamna Luminița Odobescu, l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed bin Abdulghani Khayat. În cadrul întrevederii, a fost înmânată o scrisoare din partea Alteței Sale Ministrul Afacerilor Externe al Regatului #Arabiei_Saudite, Prințul Faisal bin Farhan Al Saud, adresată omologului său român, discutandu-se de asemenea și aspecte ale consolidării relațiilor bilaterale.",
+            "COMET": -0.018646240234375,
+            "errors": [
+                {
+                    "text": "<s> Ministrul roman de externe a primit-o pe doamna Lominata Odobescu, ambasador al slujitorilor onorabili ai lui Romania D. Mohammed bin Abdul Ghani croitor, iar în",
+                    "confidence": 0.80712890625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 161
+                },
+                {
+                    "text": "a fost înmânat un mesaj adresat superiorului său, prinț Faisal bin Farhan, colegilor săi,",
+                    "confidence": 0.63671875,
+                    "severity": "critical",
+                    "start": 179,
+                    "end": 269
+                },
+                {
+                    "text": "-",
+                    "confidence": 0.80419921875,
+                    "severity": "critical",
+                    "start": 274,
+                    "end": 275
+                }
+            ]
+        },
+        {
+            "src": "استقبل معالي  وزير النقل والبنية التحتية السيد /ميهاي قرينديانو، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، وتم بحث اوجه تعزيز العلاقات الثنائية بين البلدين في مجال النقل والخدمات اللوجستية.",
+            "mt": "Ministrul Transporturilor și Infrastructurii, Méhay Qrendiano, a fost întâmpinat ca ambasador al slujitorilor onorabili ai #Romania d. Mohammed bin Abdul Ghaniz croitor și a fost discutată consolidarea relațiilor bilaterale dintre cele două țări în domeniul transporturilor și logisticii.",
+            "ref": "Excelența Sa, Ministrul Transporturilor  și Infrastructurii  al României domnul Mihai Grindeanu, l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdulghani Khayat, și au discutat aspecte ale consolidării relațiilor bilaterale în domeniul transporturilor și serviciilor logistice.",
+            "COMET": 0.050252288579940796,
+            "errors": [
+                {
+                    "text": "Ministrul Transporturilor și Infrastructurii, Méhay Qrendiano, a fost întâmpinat ca ambasador al slujitorilor onorabili ai #Romania d. Mohammed bin Abdul Ghaniz croitor",
+                    "confidence": 0.78271484375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 168
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.65380859375,
+                    "severity": "critical",
+                    "start": 222,
+                    "end": 223
+                }
+            ]
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، بمقر السفارة نائب رئيس مركز اليورو اطلسي السيد/ ادريان دوتا، وتم خلال اللقاء بحث واجه التعاون بين البلدين في مجال الأبحاث الدراسات .",
+            "mt": "Ambasadorul Slujitor al lui Romania Dr. Mohammed bin Abdul Ghani a primit croitorul de la sediul ambasadei, vice-preşedintele Centrului Euroatlantic, Adrian Dutta, şi în cadrul întâlnirii au fost analizate cooperarea dintre cele două ţări în domeniul cercetării.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România Dr. Mohammed bin Abdulghani Khayat, l-a primit la sediul ambasadei pe vicepreședintele Centrului Euro-Atlantic, domnul Adrian Duță, în cadrul întâlnirii discutându-se aspecte ale cooperării dintre cele două țări în domeniul studiilor de cercetare.",
+            "COMET": 0.09356689453125,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al lui Romania Dr. Mohammed bin Abdul Ghani a primit croitorul de la sediul ambasadei,",
+                    "confidence": 0.65869140625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 107
+                },
+                {
+                    "text": "-",
+                    "confidence": 0.69873046875,
+                    "severity": "critical",
+                    "start": 112,
+                    "end": 113
+                },
+                {
+                    "text": "le",
+                    "confidence": 0.4169921875,
+                    "severity": "critical",
+                    "start": 123,
+                    "end": 125
+                },
+                {
+                    "text": "tta",
+                    "confidence": 0.28955078125,
+                    "severity": "critical",
+                    "start": 159,
+                    "end": 162
+                },
+                {
+                    "text": "în",
+                    "confidence": 0.498046875,
+                    "severity": "critical",
+                    "start": 166,
+                    "end": 169
+                },
+                {
+                    "text": "te",
+                    "confidence": 0.294189453125,
+                    "severity": "critical",
+                    "start": 203,
+                    "end": 205
+                }
+            ]
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، السيدة/ تارا ماقدالينا، إعلامية من راديو رومانيا، والتي اجرت لقاء إذاعي مع السفير بمناسبة #اليوم_الوطني_السعودي_الـ93، وفي بداية اللقاء أشار السفير ان اليوم الوطني السعودي هو ذكرى جميلة لكل مواطن سعودي يحتفل بها، ونحيي فيه ذكرى توحيد المملكة على يد الملك المؤسس عبد العزيز آل سعود –طيب الله ثراه - ويتم الاحتفال به سنوياً في الداخل والخارج بمشاعر يسودها الفخر والاعتزاز بالهوية السعودية، وقد أجاب السفير على أسئلة المُحاورة في عدة جوانب، وفيما يخص العلاقات الثنائية بين البلدين، تم الإيضاح بانها ايجابيه وفي تطور مستمر، وقد تطرق الحوار إلى ما تزخر به المملكة من تنوع ثقافي وحضاري، وان هناك 6 مواقع تراثية تم إضافتها بقائمة (اليونسكو). ودعا السفير في نهاية اللقاء الأصدقاء في رومانيا لزيارة المملكة والاطلاع على المناطق السياحية وحضور الفعاليات التي تقام، وكذلك معرفة اهم فرص الاستثمار لدينا.",
+            "mt": "Ambasadorul României la România D. Mohammed bin Abdul Ghani, croitorul, doamna Tara Magdalena, a primit veşti de la Radio România, o întâlnire radiofonică cu ambasadorul saudit, care a avut loc cu ocazia celei de-a 93-a aniversări a tranziţiei de la Arabia Saudită.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed bin Abdul Ghani Khayat a primit-o pe doamna Tara Magdalena, jurnalistă la Radio #România cu ocazia celei de a 93-a Zile Naționale Saudite, prilej cu care a realizat un interviu radio cu ambasadorul. La începutul întrevederii, ambasadorul a evidențiat faptul că Ziua Națională a #Arabiei_Saudite este o aniversare frumoasă pentru fiecare cetățean saudit care o sărbătorește, în care comemorăm unificarea Regatului de către regele fondator Abdulaziz Al Saud, fiind sărbătorită anual în țară și în străinătate, cu sentimente marcate de mândrie pentru identitatea #saudită. Ambasadorul a răspuns întrebărilor intervievatoarei din mai multe aspecte. În ceea ce privește relațiile bilaterale dintre cele două țări, a fost specificat că acestea sunt pozitive și în continuă dezvoltare. Dialogul a abordat diversitatea culturii și a civilizației în care abundă Regatul și faptul că există 6 situri care au fost incluse pe lista Patrimoniului UNESCO. La finalul întâlnirii, ambasadorul a invitat prietenii din #România să viziteze Regatul, să vadă zonele turistice și să participe la evenimentele care au loc, precum și să ne cunoască cele mai importante oportunități de investiții.",
+            "COMET": 0.1902911365032196
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، البرفسور/ فاسيلي سيميليانو، رئيس تحرير مجلة جيوبوليتكا، وتم اجراء مقابلة صحفية بمناسبة مرور 20 عام على تأسيس المجلة. وكانت المقابلة تتمحور حول روؤية المملكة 2030 ودور المملكة في الساحة الدولية، والعلاقات الثنائية بين البلدين.وتم الايضاح سعي المملكة من خلال رؤية 2030 للاستفادة من قدراتها السياسية والاقتصادية،وموقعها المتميز جغرافياً باعتباره مركز ربط للقارات الثلاث،وكذلك دور المملكة في دعم جهود السلام،واكد السفير حرص المملكة إلى إقامة علاقات دبلوماسية وودية مع كافة دول العالم. وفيما يخص العلاقات الثنائية بين البلدين. نوه السفير برؤية البلدين الواضحة والمتبادلة لإقامة علاقات مشتركة تخدم مصالحهما والعمل  على توثيق العلاقات، ويمكن للقارئ ملاحظة تقدم مستوى العلاقة بين البلدين خلال السنوات الماضية من خلال الزيارات المشتركة بين مسؤولي البلدين. وفي نهاية المقابلة شكر رئيس تحرير المجلة السفير على اتاحة الفرصة، واوضح السفير التطلع الدائم لتعزيز التعاون بين البلدين في كافة المجالات.",
+            "mt": "Ambasadorul a salutat stabilirea relațiilor diplomatice ale celor două țări, redactorul-șef al revistei buzunare, Mohammed bin Abdul Ghani, croitorul, profesorul Vasili Semiliano, redactorul șef al revistei și al relațiilor bilaterale în Regatul Unit.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed bin Abdul Ghani Khayat, a primit vizita domnului Vasile Simileanu, senior editor la revista Geopolitica, și a fost realizat un interviu de presă cu ocazia împlinirii a 20 de ani de la înființarea revistei. Interviul s-a concentrat pe Viziunea Regatului 2030, rolul Regatului pe scena internațională și relațiile bilaterale dintre cele două țări. A fost specificat faptul că, prin Viziunea 2030, Regatul urmărește valorificarea capacităților sale politice și economice, precum și a locației sale distincte din punct de vedere geografic ca centru de legătură pentru cele trei continente, dar și rolul Regatului în sprijinirea eforturilor de pace. Ambasadorul a subliniat preocuparea sa pentru stabilirea de relații diplomatice de prietenie cu toate statele lumii. În ceea ce privește relațiile bilaterale dintre cele două țări, ambasadorul a menționat că Regatul și #România au o viziune clară și reciprocă de a stabili relații comune care să servească ambelor țări, iar oficialii din Regat și #România lucrează pentru consolidarea acestora. Cititorul poate observa progresul nivelului relației dintre cele două țări în ultimii ani în perspectiva intensificării vizitelor comune între oficialii acestora din ultimul timp, vizite care susțin interesele comune. La finalul interviului, senior editorul revistei i-a mulțumit ambasadorului pentru oportunitatea de a realiza acest interviu, iar ambasadorul a subliniat că aspiră mereu la consolidarea cooperării dintre cele două țări în toate domeniile.",
+            "COMET": 0.1923205554485321
+        },
+        {
+            "src": "استقبل نائب رئيس الوزراء وزير خارجية جمهورية #مولدوفا السيد/نيكو بوبيسكو، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، وجرى خلال اللقاء مناقشة الموضوعات المشتركة وبحث أوجه التعاون بين البلدين.",
+            "mt": "Ministrul adjunct de externe al Republicii Moldova l-a primit pe domnul Nico Popescu, ambasador al slujitorilor onorabili la #Romania D. Mohammed bin Abdul Ghani croitor, iar în cadrul întâlnirii au fost discutate subiecte comune și au fost discutate aspecte ale cooperării dintre cele două țări.",
+            "ref": "Viceprim-ministrul și ministrul Afacerilor Externe al Republicii Moldova, domnul Nicu Popescu, l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în România, dr. Mohammad bin Abdul Ghani Khayyat. În cadrul întâlnirii au fost discutate subiecte comune și aspecte ale cooperării dintre cele două țări.",
+            "COMET": 0.09246826171875,
+            "errors": [
+                {
+                    "text": "Ministrul adjunct de externe",
+                    "confidence": 0.560546875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 28
+                },
+                {
+                    "text": "Moldova l-",
+                    "confidence": 0.41650390625,
+                    "severity": "critical",
+                    "start": 42,
+                    "end": 53
+                },
+                {
+                    "text": "pe domnul Nico Popescu, ambasador al slujitorilor onorabili la #Romania D. Mohammed bin Abdul Ghani croitor",
+                    "confidence": 0.63671875,
+                    "severity": "critical",
+                    "start": 61,
+                    "end": 169
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.404296875,
+                    "severity": "critical",
+                    "start": 221,
+                    "end": 222
+                }
+            ]
+        },
+        {
+            "src": "التقى سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، رئيس رابطة الدبلوماسيين الشباب في جمهورية #مولدوفا السيد/دورين هوتينيانو، وبعض أعضاء الرابطة. وقدم رئيس الرابطة شرح مختصر للسفير عن اعمال الرابطة وكيفية تهيئة الشباب للعمل في السلك الدبلوماسي مستقبلاً. وتمنى السفير لهم التوفيق والنجاح",
+            "mt": "Ambasadorul s-a întâlnit cu #Romania d. Mohammed bin Abdul Ghani croitor, preşedintele Asociaţiei Diplomaţilor Tineri din Republica Moldova, dl. Doreen Hotiniano, şi unii membri ai Ligii au prezentat o scurtă descriere a ambasadorului despre lucrările Ligii şi despre modul în care tinerii sunt pregătiţi să lucreze în cadrul Corpului diplomatic în viitor.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdul Ghani Khayyat, s-a întâlnit cu Președintele Asociației Tinerilor Diplomați din Republica Moldova, dl. Dorin Hotineanu, și câțiva membri ai Asociației. Președintele Asociației a făcut o scurtă introducere Ambasadorului despre activitățile Asociației și modalitatea de pregătire a tinerilor pentru a lucra pe viitor în corpul diplomatic. Ambasadorul le-a urat noroc și succes.",
+            "COMET": 0.0517578125,
+            "errors": [
+                {
+                    "text": "Ambasadorul s-a întâlnit cu #Romania d. Mohammed bin Abdul Ghani croitor, preşedintele",
+                    "confidence": 0.77734375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 86
+                },
+                {
+                    "text": "Moldova",
+                    "confidence": 0.44287109375,
+                    "severity": "critical",
+                    "start": 131,
+                    "end": 139
+                },
+                {
+                    "text": ". Doreen Hotiniano",
+                    "confidence": 0.5146484375,
+                    "severity": "critical",
+                    "start": 143,
+                    "end": 161
+                },
+                {
+                    "text": "ai Ligii au prezentat",
+                    "confidence": 0.48291015625,
+                    "severity": "critical",
+                    "start": 177,
+                    "end": 199
+                },
+                {
+                    "text": "ă descriere a ambasadorului",
+                    "confidence": 0.5966796875,
+                    "severity": "critical",
+                    "start": 207,
+                    "end": 234
+                }
+            ]
+        },
+        {
+            "src": "اقام سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، حفل وداع على شرف السفيرة/ رجاء بن علي الجيهناوي، سفيرة جمهورية #تونس الشقيقة لدى #رومانيا. وقد حضر الحفل عدد من مستشاري رئيس رومانيا وعدد من وزراء الدولة والمسؤولين الحكوميين، واساتذة جامعات ورؤساء مراكز بحث علمي، وعدد من السفراء المعتمدين في رومانيا واعلاميين وصحفيين.",
+            "mt": "Ambasadorii slujitorilor onorabili ai #Romania d. Mohammed bin Abdul Ghani a organizat o ceremonie de adio în onoarea ambasadoarei României, a lui Ben Ali al Janaui, ambasadoare a Republicii surori #Tunis şi a unor jurnalişti autorizaţi în România.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdul Ghani Khayyat, a oferit o recepție de rămas bun în onoarea ambasadoarei Raja Jhinaoui Ben Ali, ambasadoarea Republicii surori a Tunisiei în România. La recepție au fost prezenți un număr de consilieri ai Președintelui României, secretari de stat, oficiali guvernamentali, profesori universitari, președinți ai unor centre de cercetare științifică, precum și mai mulți ambasadori acreditați în România, profesioniști din mass-media și jurnaliști.",
+            "COMET": 0.1902911365032196
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، المحامي والمؤسس لغرفة التجارة والصناعة للتنمية المستدامة الدكتور/ناستي فلادو،و مقدم برامج حوارات الإعلامي الدكتور/هارتمان،جرى خلال اللقاء نقاش تنمية العلاقات الثنائية بين البلدين في مجال التنمية المستدامة",
+            "mt": "Ambasadorul Slujitor al României Dr. Mohammed bin Abdulgai, avocat și fondator al Camerei de Comerț și Industrie pentru Dezvoltare Durabilă, l-a primit pe Dr. Nasty Vlado, prezentator al talk-show-urilor Media Dialog, Dr. Hartman, în cadrul discuției privind dezvoltarea relațiilor bilaterale în domeniul dezvoltării durabile.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed bin Abdul Ghani Khayyat i-a primit pe  avocatul și fondatorul Camerei de Comerț și Industrie pentru Dezvoltare Durabilă, Dr. Nasty Vlădoiu, și prezentatorul TV de talk-show-uri, Dr. Hartmann. În cadrul întrevederii, au discutat despre dezvoltarea relațiilor bilaterale dintre cele două țări în domeniul dezvoltării durabile.",
+            "COMET": 0.1021728515625,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al României Dr. Mohammed bin Abdulgai, avocat",
+                    "confidence": 0.61962890625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 66
+                },
+                {
+                    "text": "tor",
+                    "confidence": 0.429443359375,
+                    "severity": "critical",
+                    "start": 75,
+                    "end": 78
+                },
+                {
+                    "text": "Camerei",
+                    "confidence": 0.408203125,
+                    "severity": "critical",
+                    "start": 81,
+                    "end": 89
+                },
+                {
+                    "text": "Comer",
+                    "confidence": 0.378173828125,
+                    "severity": "critical",
+                    "start": 92,
+                    "end": 98
+                },
+                {
+                    "text": "Industrie",
+                    "confidence": 0.3740234375,
+                    "severity": "critical",
+                    "start": 102,
+                    "end": 112
+                },
+                {
+                    "text": "Dezvoltare Durabilă",
+                    "confidence": 0.3818359375,
+                    "severity": "critical",
+                    "start": 119,
+                    "end": 139
+                },
+                {
+                    "text": "l",
+                    "confidence": 0.317626953125,
+                    "severity": "critical",
+                    "start": 140,
+                    "end": 142
+                },
+                {
+                    "text": "Dr",
+                    "confidence": 0.3173828125,
+                    "severity": "critical",
+                    "start": 154,
+                    "end": 157
+                },
+                {
+                    "text": "sty Vlado, prezentator al talk-show-urilor Media Dialog, Dr. Hart",
+                    "confidence": 0.3671875,
+                    "severity": "critical",
+                    "start": 161,
+                    "end": 226
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.33544921875,
+                    "severity": "major",
+                    "start": 291,
+                    "end": 292
+                }
+            ]
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط ، حفل (الازياء التقليديه الكوريه) بمناسبة الذكرى السنويه الـ ١٥ للشراكة الاستراتيجية ، بالتعاون مع وزارة الثقافة الرومانيه.",
+            "mt": "Ambasadorul Slujitor al #Romania D. Mohammed bin Abdul Ghani a participat la ceremonia de comemorare a celei de-a 15-a aniversări a Parteneriatului Strategic, în colaborare cu Ministerul Culturii din România.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed bin Abdul Ghani Khayyat a participat la petrecerea ținutelor tradiționale coreene cu ocazia aniversării a 15 ani de parteneriat strategic, în colaborare cu Ministerul Culturii din #România.",
+            "COMET": 0.10894775390625,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al #Romania D. Mohammed bin Abdul Ghani a participat la ceremonia de comemorare a",
+                    "confidence": 0.6396484375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 102
+                },
+                {
+                    "text": "i de-a 15-a ani",
+                    "confidence": 0.4755859375,
+                    "severity": "critical",
+                    "start": 107,
+                    "end": 122
+                },
+                {
+                    "text": "Partene",
+                    "confidence": 0.400390625,
+                    "severity": "critical",
+                    "start": 131,
+                    "end": 139
+                },
+                {
+                    "text": "Strategic,",
+                    "confidence": 0.43896484375,
+                    "severity": "critical",
+                    "start": 147,
+                    "end": 158
+                },
+                {
+                    "text": "colaborare",
+                    "confidence": 0.4208984375,
+                    "severity": "critical",
+                    "start": 161,
+                    "end": 172
+                },
+                {
+                    "text": "Ministerul Cul",
+                    "confidence": 0.423828125,
+                    "severity": "critical",
+                    "start": 175,
+                    "end": 190
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.55078125,
+                    "severity": "critical",
+                    "start": 194,
+                    "end": 195
+                }
+            ]
+        },
+        {
+            "src": "استقبلت رئيس لجنة السياسة الخارجية بمجلس النواب الروماني السيدة/ روزاليا بيرو، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، ضمن أعضاء مجلس السفراء العرب المعتمدين لدى #رومانيا. وجرى خلال اللقاء بحث الموضوعات ذات الاهتمام المشترك وسبل تطوير العلاقات الثنائية مع الجانب الروماني.",
+            "mt": "Președintele Comisiei de Politică Externă a Camerei Deputaților Române, Rosalia Peru, l-a primit pe ambasador al slujitorilor onorabili ai #Romania D. Mohammed bin Abdul Ghani croitor, printre membrii Consiliului Ambasadorilor arabi acreditați la România.",
+            "ref": "Președinta Comisiei de politică externă a Camerei Deputaților, doamna Rozalia Biro, l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în România, dr. Mohammad bin Abdul Ghani Khayyat, alături de membrii Consiliului Ambasadorilor Arabi acreditați în România. În cadrul întrevederii s-au discutat aspecte de interes comun și mijloace de dezvoltare a relațiilor bilaterale cu partea română.",
+            "COMET": 0.2454974353313446
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، مؤتمر التعليم العالي في #رومانيا، وقد تحدث السفير خلال المؤتمر بإيجاز عن إمكانية التعاون بين البلدين في المجال الاكاديمي، وشرح اهمية الاستثمار في الموارد البشرية موضحاً نتائج هذا الاستثمار ومشاهدته اليوم في رؤية المملكة ٢٠٣٠.",
+            "mt": "Ambasadorul Slujitor al #Romania Dr. Mohammed bin Abdul Ghani a participat la conferința de învățământ superior din România, iar ambasadorul a vorbit pe scurt despre posibilitatea cooperării dintre cele două țări în domeniul academic și a explicat importanța investițiilor în resurse umane, explicând rezultatele acestei investiții și observându-l astăzi în viziunea Regatului 2012.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed   bin Abdul Ghani Khayyat a participat la conferința „Educația superioară în România” și a vorbit pe scurt despre posibilitățile de cooperare dintre cele două țări în domeniul academic. De asemenea, a explicat importanța investiției în resursele umane, făcând referire la rezultatele și prezența acestei investiții astăzi, în Viziunea 2030 a Regatului.",
+            "COMET": 0.1748046875,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al #Romania Dr. Mohammed bin Abdul Ghani",
+                    "confidence": 0.63525390625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 61
+                },
+                {
+                    "text": "și observându",
+                    "confidence": 0.373046875,
+                    "severity": "major",
+                    "start": 331,
+                    "end": 345
+                },
+                {
+                    "text": "l astăzi în viziunea Regatului 2012.",
+                    "confidence": 0.40869140625,
+                    "severity": "critical",
+                    "start": 346,
+                    "end": 382
+                }
+            ]
+        },
+        {
+            "src": "استقبل وزير خارجية #رومانيا السيد/ بوقدان اوريسكو، سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبد الغني خياط، ضمن أعضاء مجلس السفراء العرب المعتمدين لدى #رومانيا. واكد معالي الوزير التزام #رومانيا الراسخ بتطوير التعاون مع الدول العربية في الشرق الأوسط وشمال افريقيا.",
+            "mt": "Ministrul de externe român l-a primit pe domnul Bhuman Ursko, ambasador al slujitorilor onorabili ai României, dr. Mohammed bin Abdul Ghani, croitor al ambasadorilor arabi acreditați la #Romania, a reiterat angajamentul #Romania ferm de a dezvolta cooperarea cu statele arabe din Orientul Mijlociu și Africa de Nord.",
+            "ref": "Ministrul de externe al României, Domnul Bogdan Aurescu l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed   bin Abdul Ghani Khayyat în cadrul Consiliului Ambasadorilor Arabi acreditați în România. Excelența Sa Ministrul a confirmat angajamentul ferm al #României față de dezvoltarea cooperării cu statele arabe din Orientul Mijlociu și Africa de Nord.",
+            "COMET": 0.029296875,
+            "errors": [
+                {
+                    "text": "Ministrul de externe român l-a primit pe domnul Bhuman Ursko, ambasador al slujitorilor onorabili ai României, dr. Mohammed bin Abdul Ghani, croitor al ambasadorilor arabi acreditați la #Romania, a reiterat angajamentul #Romania ferm de",
+                    "confidence": 0.68359375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 236
+                },
+                {
+                    "text": "le",
+                    "confidence": 0.62109375,
+                    "severity": "critical",
+                    "start": 267,
+                    "end": 269
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.56005859375,
+                    "severity": "critical",
+                    "start": 274,
+                    "end": 275
+                },
+                {
+                    "text": "Orientul",
+                    "confidence": 0.4990234375,
+                    "severity": "critical",
+                    "start": 279,
+                    "end": 288
+                },
+                {
+                    "text": "lociu",
+                    "confidence": 0.53271484375,
+                    "severity": "critical",
+                    "start": 292,
+                    "end": 297
+                },
+                {
+                    "text": "Africa de",
+                    "confidence": 0.442626953125,
+                    "severity": "critical",
+                    "start": 300,
+                    "end": 310
+                }
+            ]
+        },
+        {
+            "src": "استقبل سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، محرر اول في مجموعة DC الإعلاميه السيد/ بوغدان شيرياك، ورئيس تحرير الصحيفة الالكترونية DEFANSE السيد/ تودور كيرتفيان، وقد أجاب السفير على أسئلة الصحفيين في عدد من الموضوعات الإقليمية والدولية.",
+            "mt": "Ambasadorul slujitorului onorabil al #Romania Dr. Mohammed bin Abdul Ghani a primit un croitor primul editor al DC Media Group, dl. Bogdan Cheriak, editor al ziarului electronic DEFANSE / Todor Kirtvian, care a răspuns întrebărilor jurnaliștilor într-o serie de subiecte regionale și internaționale.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed   bin Abdul Ghani Khayyat l-a primit pe Bogdan Chirieac, senior editor al grupului media DC și Tudor Curtifan, redactor-șef al ziarului online Defense. Ambasadorul a răspuns întrebărilor celor doi jurnaliști care au tratat un număr de teme regionale și internaționale.",
+            "COMET": 0.1064453125,
+            "errors": [
+                {
+                    "text": "slujitorului onorabil al #Romania",
+                    "confidence": 0.6748046875,
+                    "severity": "critical",
+                    "start": 11,
+                    "end": 45
+                },
+                {
+                    "text": "bin",
+                    "confidence": 0.37548828125,
+                    "severity": "critical",
+                    "start": 58,
+                    "end": 62
+                },
+                {
+                    "text": "Ghani a primit un croitor primul editor",
+                    "confidence": 0.50146484375,
+                    "severity": "critical",
+                    "start": 68,
+                    "end": 108
+                },
+                {
+                    "text": "DC",
+                    "confidence": 0.31787109375,
+                    "severity": "critical",
+                    "start": 111,
+                    "end": 114
+                },
+                {
+                    "text": "dl.",
+                    "confidence": 0.370361328125,
+                    "severity": "major",
+                    "start": 127,
+                    "end": 131
+                },
+                {
+                    "text": "Cheriak",
+                    "confidence": 0.4150390625,
+                    "severity": "major",
+                    "start": 138,
+                    "end": 146
+                },
+                {
+                    "text": "electronic DEFANSE / Todor Kirtvian",
+                    "confidence": 0.412353515625,
+                    "severity": "major",
+                    "start": 166,
+                    "end": 202
+                },
+                {
+                    "text": "-",
+                    "confidence": 0.3779296875,
+                    "severity": "major",
+                    "start": 250,
+                    "end": 251
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.4189453125,
+                    "severity": "major",
+                    "start": 297,
+                    "end": 298
+                }
+            ]
+        },
+        {
+            "src": "استقبل مدير عام إدارة المعارض بوزارة خارجية #رومانيا السيد/ فيرديناد ناجي، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، وجرى خلال اللقاء استعراض عدد من الموضوعات الثقافية ومجالات التعاون المشترك للبلدين.",
+            "mt": "Directorul general al departamentului de expoziții din cadrul Ministerului Afacerilor Externe al României, domnul Verdind Nagi, l-a primit pe ambasadorul slujitorilor onorabili ai #Romania D. Mohammed bin Abdul Ghani, care a examinat în timpul întâlnirii o serie de teme culturale și domenii de cooperare comune ale celor două țări.",
+            "ref": "Domnul Ferdinand Nagy, directorul general al Unității Proiecte Expoziții Mondiale din cadrul Ministerului Afacerilor Externe din #România l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed   bin Abdul Ghani Khayyat. În timpul întrevederii, au abordat mai multe subiecte culturale, precum și domenii comune de cooperare între cele două țări.",
+            "COMET": 0.2003173828125,
+            "errors": [
+                {
+                    "text": "departamentului de expoziții",
+                    "confidence": 0.37353515625,
+                    "severity": "major",
+                    "start": 21,
+                    "end": 50
+                },
+                {
+                    "text": "lor",
+                    "confidence": 0.31396484375,
+                    "severity": "critical",
+                    "start": 82,
+                    "end": 85
+                },
+                {
+                    "text": "Verdind Nagi",
+                    "confidence": 0.4052734375,
+                    "severity": "critical",
+                    "start": 113,
+                    "end": 126
+                },
+                {
+                    "text": "ambasador",
+                    "confidence": 0.352783203125,
+                    "severity": "critical",
+                    "start": 141,
+                    "end": 151
+                },
+                {
+                    "text": "slujitorilor onorabili ai #Romania D. Mohammed bin Abdul Ghani",
+                    "confidence": 0.57421875,
+                    "severity": "critical",
+                    "start": 153,
+                    "end": 216
+                },
+                {
+                    "text": "care a examinat",
+                    "confidence": 0.41943359375,
+                    "severity": "critical",
+                    "start": 217,
+                    "end": 233
+                }
+            ]
+        },
+        {
+            "src": "سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط ، يترأس الاجتماع الاستثنائي -افتراضي-، لسفراء دول الاعضاء في منظمة التعاون الاسلامي ، المعتمدين لدى #رومانيا . لبحث الاعتداءات الاسرائلية على المسجد الاقصى.",
+            "mt": "Ambasadorul slujitorului onorabil al #Romania D. Mohammed bin Abdul Ghani, prezidează întâlnirea extraordinară - ipotetică - a ambasadorilor statelor membre ale Organizației pentru Cooperare Islamică, acreditați de #Romania pentru a discuta despre abuzurile familiale asupra moscheii superioare.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammad bin Abdul Ghani Khayyat, prezidează întâlnirea excepțională– virtuală a ambasadorilor statelor membre ale Organizației Cooperării Islamice, acreditate în #România, pentru a discuta despre atacurile israeliene asupra Moscheei Al-Aqsa.",
+            "COMET": 0.050262451171875,
+            "errors": [
+                {
+                    "text": "Ambasadorul slujitorului onorabil al #Romania D. Mohammed bin Abdul Ghani, prezidează întâlnirea extraordinară - ipotetică - a ambasador",
+                    "confidence": 0.61767578125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 136
+                },
+                {
+                    "text": "statelor",
+                    "confidence": 0.5009765625,
+                    "severity": "critical",
+                    "start": 140,
+                    "end": 149
+                },
+                {
+                    "text": "ale",
+                    "confidence": 0.58544921875,
+                    "severity": "critical",
+                    "start": 156,
+                    "end": 160
+                }
+            ]
+        },
+        {
+            "src": "سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، يستقبل بمقر السفارة في #بوخارست ، السيدة الكسندرا بوكورو، مديره ومقدمة أخبار في القناة الإخبارية الرومانية \"Realitatea Plus\"",
+            "mt": "Ambasadorul slujitorilor onorabili de la #Romania Dr. Mohammed bin Abdul Ghani croitor, primește sediul Ambasadei din București, doamna Alexandra Pocoro, directorul și prezentatorul de știri al canalului roman \"Realita Plus\"",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammad bin Abdul Ghani Khayyat, a primit-o la sediul ambasadei din #București pe doamna Alexandra Păcuraru, director și prezentatoare de ştiri în cadrul postului de televiziune din #România „Realitatea Plus”.",
+            "COMET": 0.0280914306640625,
+            "errors": [
+                {
+                    "text": "Ambasadorul slujitorilor onorabili de la #Romania Dr. Mohammed bin Abdul Ghani croitor, primește sediul Ambasadei din București, doamna Alexandra Pocoro, directorul",
+                    "confidence": 0.63330078125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 164
+                },
+                {
+                    "text": "atorul de",
+                    "confidence": 0.3740234375,
+                    "severity": "critical",
+                    "start": 175,
+                    "end": 184
+                },
+                {
+                    "text": "al canalului roman \"Realita",
+                    "confidence": 0.40087890625,
+                    "severity": "critical",
+                    "start": 190,
+                    "end": 218
+                },
+                {
+                    "text": "\"",
+                    "confidence": 0.34326171875,
+                    "severity": "critical",
+                    "start": 223,
+                    "end": 224
+                }
+            ]
+        },
+        {
+            "src": "استقبل معالي وزير البيئة في جمهورية #مولدوفا السيدة/ راديوكا ايوردنوفا، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، وقد تم مناقشة عدد من الموضوعات المشتركة في مجال البيئة والمناخ وطرق تعزيز التعاون بين البلدين.",
+            "mt": "Ministrul mediului din Republica Moldova a primit-o pe doamna Radioka Ayordanova, ambasador al slujitorilor onorabili la #Romania d. Mohammed bin Abdul Ghani, croitor, și au fost discutate mai multe teme comune privind mediul, clima și modalitățile de promovare a cooperării dintre cele două țări.",
+            "ref": "Excelența Sa, Ministrul Mediului al Republicii #Moldova, doamna Rodica Iordanov, l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în #România, dr. Muhammad bin Abdul Ghani Khayyat. Au fost abordate o serie de subiecte comune în domeniul mediului și al climei, precum și modalități de îmbunătățire a cooperării dintre cele două țări.",
+            "COMET": 0.11614990234375,
+            "errors": [
+                {
+                    "text": "doamna Radioka Ayor",
+                    "confidence": 0.38330078125,
+                    "severity": "critical",
+                    "start": 54,
+                    "end": 74
+                },
+                {
+                    "text": "ambasador al slujitorilor onorabili la #Romania d.",
+                    "confidence": 0.62646484375,
+                    "severity": "critical",
+                    "start": 81,
+                    "end": 132
+                },
+                {
+                    "text": "bin",
+                    "confidence": 0.409912109375,
+                    "severity": "critical",
+                    "start": 141,
+                    "end": 145
+                },
+                {
+                    "text": "Ghani, croitor",
+                    "confidence": 0.5234375,
+                    "severity": "critical",
+                    "start": 151,
+                    "end": 166
+                },
+                {
+                    "text": ",",
+                    "confidence": 0.315673828125,
+                    "severity": "critical",
+                    "start": 225,
+                    "end": 226
+                }
+            ]
+        },
+        {
+            "src": "استقبل نائب رئيس البرلمان ورئيس حزب العمل والتضامن في جمهورية #مولدوفا السيد/ بوبيسكو ميهايل، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، وقد تم خلال اللقاء مناقشة تعزيز التعاون بين البلدين في مختلف المجالات.",
+            "mt": "Vicepresedintele Parlamentului si presedintele Partidului Muncii si solidaritatii din Republica Moldova l-au primit pe domnul Popescu Mihael, ambasador al slujitorilor onorabili la #Romania d. Muhammad bin Abdul Ghani, croitor, si in cadrul intalnirii au fost discutate consolidarea cooperarii dintre cele doua tari in diferite domenii.",
+            "ref": "Vicepreședintele Parlamentului și Președintele Partidului Acțiune și Solidaritate din Republica #Moldova, domnul Popșoi Mihail, l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în #România, dr. Muhammad bin Abdul Ghani Khayyat. În cadrul întâlnirii s-a discutat despre consolidarea cooperării dintre cele două țări în diferite domenii.",
+            "COMET": 0.1005859375,
+            "errors": [
+                {
+                    "text": "dului Muncii si solidaritatii din Republica Moldova l-au primit pe domnul Popescu Mihael, ambasador al slujitorilor onorabili la #Romania d. Muhammad bin Abdul Ghani, croitor, si",
+                    "confidence": 0.5791015625,
+                    "severity": "critical",
+                    "start": 52,
+                    "end": 230
+                },
+                {
+                    "text": "in",
+                    "confidence": 0.50341796875,
+                    "severity": "critical",
+                    "start": 240,
+                    "end": 243
+                },
+                {
+                    "text": "te",
+                    "confidence": 0.3056640625,
+                    "severity": "major",
+                    "start": 267,
+                    "end": 269
+                }
+            ]
+        },
+        {
+            "src": "استقبل وزير الدولة بوزارة الخارجية المولدوفية السيد/ بولبوسين روسلان، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، وقد تم مناقشة عدد من الموضوعات المشتركة وبحث أوجه التعاون الثنائي بين البلدين.",
+            "mt": "Ministrul de stat al Ministerului moldovean de Externe l-a primit pe domnul Bolbosen Rosslan, ambasador al slujitorilor onorabili ai #Romania D. Mohammed bin Abdul Ghani croitor, care a abordat o serie de teme comune și a discutat despre cooperarea bilaterală dintre cele două țări.",
+            "ref": "Secretarul de stat al Ministerului Afacerilor Externe al Republicii #Moldova, domnul Bolbocean Ruslan, l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în #România, dr. Mohammed bin Dalgani Khayyat . Au fost discutate o serie de subiecte comune, fiind dezbătute și aspecte ale cooperării bilaterale dintre cele două țări.",
+            "COMET": 0.094970703125,
+            "errors": [
+                {
+                    "text": "moldovean de Externe",
+                    "confidence": 0.319580078125,
+                    "severity": "critical",
+                    "start": 33,
+                    "end": 54
+                },
+                {
+                    "text": "domnul Bolbosen Rosslan, ambasador al slujitorilor onorabili ai #Romania D. Mohammed bin Abdul Ghani croitor",
+                    "confidence": 0.5810546875,
+                    "severity": "critical",
+                    "start": 68,
+                    "end": 177
+                },
+                {
+                    "text": "care a",
+                    "confidence": 0.3349609375,
+                    "severity": "major",
+                    "start": 178,
+                    "end": 185
+                },
+                {
+                    "text": "t o",
+                    "confidence": 0.33984375,
+                    "severity": "major",
+                    "start": 192,
+                    "end": 195
+                }
+            ]
+        },
+        {
+            "src": "استقبل معالي رئيس البرلمان في جمهورية #مولدوفا السيد/ غروسو ايقور، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، وجرى خلال اللقاء مناقشة سبل تدعيم العلاقات الثنائية وكذلك التواصل في مجال الدبلوماسية البرلمانية وسبل تطويرها.",
+            "mt": "Președintele Parlamentului din Republica Moldova l-a primit pe domnul Grosso Ichior, ambasador al slujitorilor onorabili ai #Romania D. Mohammed bin Abdul Ghani, un croitor care a discutat despre modalitățile de consolidare a relațiilor bilaterale, precum și despre comunicarea în domeniul diplomației parlamentare și despre modalitățile de dezvoltare a acestora.",
+            "ref": "Excelența Sa, Președintele Parlamentului Republicii #Moldova, domnul Grosu Igor, l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în #România, dr. Muhammad bin Abdul Ghani Khayyat. În cadrul întâlnirii, au fost discutate modalități de consolidare a relațiilor bilaterale, precum și comunicarea în domeniul diplomației parlamentare și modalități de dezvoltare a acesteia.",
+            "COMET": 0.07781982421875,
+            "errors": [
+                {
+                    "text": "Președintele",
+                    "confidence": 0.43408203125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 12
+                },
+                {
+                    "text": "Moldova l-a primit pe domnul Grosso Ichior, ambasador al slujitorilor onorabili ai #Romania D. Mohammed bin Abdul Ghani, un croitor care a",
+                    "confidence": 0.61962890625,
+                    "severity": "critical",
+                    "start": 40,
+                    "end": 179
+                },
+                {
+                    "text": "t",
+                    "confidence": 0.4140625,
+                    "severity": "critical",
+                    "start": 187,
+                    "end": 188
+                },
+                {
+                    "text": "e,",
+                    "confidence": 0.50927734375,
+                    "severity": "critical",
+                    "start": 246,
+                    "end": 248
+                }
+            ]
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، الافتتاح الرسمي لفعاليات تيمشوارا التي تقام بمناسبة اختيار تيمشوارا كعاصمة للثقافة الاوروبية للعام ٢٠٢٣. وقد حضر الافتتاح، رئيس مجلس الوزراء الروماني ومحافظ مدينة تيمشوارا وعدد من اعضاء البرلمان الروماني والأوروبي، وشخصيات رسمية وثقافية وسفراء لعدد من الدول المعتمدين لدى #رومانيا، وقد حظي السفراء العرب الحاضرين باستقبال من الجالية العربية في تيمشوارا.",
+            "mt": "Ambasadorul slujitorilor onorabili din România D. Mohammed bin Abdalney a participat la deschiderea oficială a evenimentelor de la Timișoara, capitala culturii europene a anului 2013.Premierul Consiliului de Miniștri al României, guvernatorul orașului Timișoara și mai mulți parlamentari români și europeni, figuri oficiale și culturale, ambasadori și ambasadori ai unor state arabe prezente în România.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed bin Abdulghani Khayyat, a participat la deschiderea oficială a evenimentelor din Timișoara care au loc cu ocazia alegerii Timișoarei Capitală Culturală Europeană pentru anul 2023. La ceremonia de deschidere au fost prezenți Prim-ministrul României, primarul orașului Timișoara, mai mulți membri ai Parlamentului României și European, oficiali, personalități culturale, precum și ambasadori ai mai multor țări acreditate în #România. Ambasadorii arabi prezenți s-au bucurat și de primirea comunitații arabe din Timişoara.",
+            "COMET": 0.2130114734172821
+        },
+        {
+            "src": "قام سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط ، بزيارة لمعالي رئيس مجلس الشيوخ الروماني المكلف السيناتور/ الينا قورغيو، وتم خلال اللقاء التباحث في تعزيز العلاقات بين البلدين وسبل تطويرها.",
+            "mt": "Ambasadorul slujitorilor onorabili ai lui Romania Dr. Mohammed bin Abdul Ghani, a efectuat o vizită la sediul Senatului roman, însărcinat cu senatorul / Elena Groggio, și în cadrul întâlnirii au fost discutate consolidarea relațiilor dintre cele două țări și modalitățile de dezvoltare a acestora.",
+            "ref": "Ambasadorul Regatului Arabiei Saudite în #România Excelența Sa dr. Mohammad bin Abdul Ghani Khayyat a efectuat o vizită Excelenței Sale Președintelui interimar al Senatului #României, senatorul Alina Gorghiu. În cadrul întrevederii s-a discutat despre consolidarea relațiilor dintre cele două țări și modalitățile de dezvoltare a acestora.",
+            "COMET": 0.0343017578125,
+            "errors": [
+                {
+                    "text": "Ambasadorul slujitorilor onorabili ai lui Romania Dr. Mohammed bin Abdul Ghani, a efectuat o vizită la sediul Senatului roman, însărcinat cu senatorul / Elena Groggio, și în",
+                    "confidence": 0.7216796875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 173
+                },
+                {
+                    "text": "cele",
+                    "confidence": 0.4482421875,
+                    "severity": "critical",
+                    "start": 240,
+                    "end": 245
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.53466796875,
+                    "severity": "critical",
+                    "start": 271,
+                    "end": 274
+                }
+            ]
+        },
+        {
+            "src": "زار سفير خادم الحرمين الشريفين لدى #رومانيا د.محمد بن عبدالغني خياط، معالي وزيرة التعليم السيدة/ ليفيت ديكا، في مكتبها، وجرى خلال اللقاء مناقشة الموضوعات ذات الاهتمام المشترك وسبل تطوير العلاقات الثنائية في مجال التعليم والبحث العلمي والاكاديمي.",
+            "mt": "Ambasadorul Slujitor al #Romania Dr. Mohammed bin Abdul Ghani a vizitat croitorul ministrului Educației, Levitt Deca, în biroul său, și în cadrul întâlnirii au fost discutate subiecte de interes comun și modalități de dezvoltare a relațiilor bilaterale în domeniul educației, cercetării științifice și academice.",
+            "ref": "Ambasadorul Regatului Arabiei Saudite în #România, Excelența Sa dr. Mohammed bin Abdul Ghani Khayyat, a efectuat o vizită Excelenței Sa Ministrul Educației, doamna Ligia Deca . În cadrul întâlnirii au fost discutate probleme de interes comun și modalități de dezvoltare a relațiilor bilaterale în domeniul educației, cercetării științifice și academice.",
+            "COMET": 0.10919189453125,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al #Romania Dr. Mohammed bin Abdul Ghani a vizitat croitorul ministrului Educa",
+                    "confidence": 0.662109375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 99
+                },
+                {
+                    "text": ", Levitt Deca",
+                    "confidence": 0.58154296875,
+                    "severity": "critical",
+                    "start": 103,
+                    "end": 116
+                },
+                {
+                    "text": "biroul său",
+                    "confidence": 0.41455078125,
+                    "severity": "critical",
+                    "start": 120,
+                    "end": 131
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.578125,
+                    "severity": "critical",
+                    "start": 251,
+                    "end": 252
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.40771484375,
+                    "severity": "critical",
+                    "start": 310,
+                    "end": 311
+                }
+            ]
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، حفل الاستقبال الذي اقامه الرئيس الروماني بمناسبة الاجتماع السنوي التقليدي لاعضاء السلك الدبلوماسي المعتمدين في #بوخارست.",
+            "mt": "Ambasadorul slujitorilor onorabili din România, dr. Mohammed bin Abdul Ghani, a participat la ceremonia de primire a preşedintelui României cu ocazia reuniunii anuale a personalului diplomatic acreditat la Bucureşti.",
+            "ref": "Ambasadorul Custodelui celor Două Sfinte Moschei în #România, Dr. Mohammed Abdulghani Khayat, a participat la recepția oferită de E.S. Klaus Iohannis, Președintele României cu ocazia tradiționalei sale întâlniri anuale cu șefii misiunilor diplomatice acreditați în #România.",
+            "COMET": 0.3156420886516571
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا وغير مقيم في #مولدوفا د. محمد بن عبدالغني خياط، المؤتمر -افتراضي- الذي دعت له فخامة الرئيس/ مايا ساندو، رئيسة جمهورية #مولدوفا، السفراء المعتمدين لدى مولدوفا، وتحدثت فيه عن ما قامت به حكومة البلاد خلال عام.",
+            "mt": "Ambasadorul Slujitor al #Romania si nerezidențiabilului Muldova d. Mohammed bin Abdul Ghani, croitorul Conferinței, Prelicitarea președintelui Maia Sandu, Președintele Republicii Moldova, ambasadorii acreditați la Moldova, a vorbit despre ceea ce a făcut guvernul țării într-un an.",
+            "ref": "Ambasadorul Custodelui celor două Sfinte Moschei în România și în Republica Moldova, cu reședința la București, Dr. Mohammed Abdulghani Khayat, a participat la o reuniune virtuală cu ambasadorii acreditați în #Moldova, convocată de Excelența Sa Președinta Republicii #Moldova, Maia Sandu. În cadrul reuniunii, președinta #Moldovei a vorbit despre acțiunile întreprinse de  guvern în cursul acestui an în care a înfruntat implicațiile războiului din Ucraina și combaterea corupției.",
+            "COMET": 0.1904132068157196
+        },
+        {
+            "src": "شارك سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، الزيارة التي قام بها السفراء العرب لجامعة بوخارست قسم اللغة العربية، بمناسبة #اليوم_العالمي_للغة_العربية. وقد تم خلال الزيارة لقاء الطلبة الرومان الدارسين في الجامعة .",
+            "mt": "Ambasadorul Slujitor al #Romania D. Mohammed bin Abdul Ghani a participat la vizita ambasadorilor arabi la Universitatea din Bucuresti, cu ocazia Zilei mondiale a limbii arabe.",
+            "ref": "Ambasadorul Custodelui Celor două Sfinte Moschei în #România, Dr. Mohammed Abdulghani Khayat, a participat alături de ambasadorii țărilor arabe la  #București, la vizita organizată la Secția de limba arabă a Universității București, cu ocazia Zilei Internaționale a Limbii Arabe, unde s-au întâlnit cu studenții români care învață la universitate.",
+            "COMET": 0.2799365222454071
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، احتفال المعرض  الفني لأساطير مصر بنسخته الـ32، بمقر سفارة مصر في #بوخارست، بمشاركة من الفنان/ يوسف كوجك، الأستاذ في تاريخ الفن، وبحضور عدد من المسؤولين الرومانيين والسفراء المعتمدين في #بوخارست.",
+            "mt": "Ambasadorul Slujitor al României Dr. Mohammed bin Abdul Ghani a participat la ceremonia expoziţiei artistice a miturilor din Egipt, cu ocazia celei de-a 32-a ediţii a Ambasadei Egiptului la Bucureşti, cu participarea artistului/Ios Kojk, profesor în istoria artei, cu numeroşi oficiali români şi ambasadori autorizaţi în Bucureşti.",
+            "ref": "Ambasadorul Custodelui Celor două Sfinte Moschei în #România, Dr. Mohammed Abdulghani Khayat, a participat la a 32-a ediție a  Expoziției artistice \"Legendele Egiptului\" a artistului plastic Yves Koujouk, profesor de istoria artei,organizată la sediul Ambasadei Egiptului din București. La vernisaj au luat parte personalități din #România și ambasadorii acreditați la #București.",
+            "COMET": 0.2546984851360321
+        },
+        {
+            "src": "شارك سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، في الاحتفال بمناسبة اليوم الوطني الروماني، الذي أقامه رئيس رومانيا في القصر الرئاسي، بحضور رئيس الوزراء وأعضاء الحكومة والسفراء المعتمدين في #بوخارست",
+            "mt": "Ambasadorul Slujitor al #Romania Dr. Mohammed bin Abdul Ghani a participat la ceremonia de Ziua Nationala a Romaniei, organizata de presedintele Romaniei la Palatul Prezidenților, in prezenta prim-ministrului, a membrilor Guvernului si a ambasadorilor acreditați la Bucureşti.",
+            "ref": "Ambasadorul Custodelui Celor două Sfinte Moschei în România, Dr. Mohammed Abdulghani M. Khayat, a participat cu ocazia Zilei Naționale a #României, la recepția oferită de Președintele #României la Palatul prezidențial. La recepție au fost prezenți prim-ministru României, membrii guvernului și ambasadorii acreditați la #București.",
+            "COMET": 0.111572265625,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al #Romania Dr. Mohammed bin Abdul Ghani a participat la ceremonia de Ziua Nationala a Romaniei, organizat",
+                    "confidence": 0.634765625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 127
+                },
+                {
+                    "text": "de presedintele Romaniei la Palatul Prezidenților, in",
+                    "confidence": 0.458251953125,
+                    "severity": "critical",
+                    "start": 128,
+                    "end": 182
+                },
+                {
+                    "text": "-",
+                    "confidence": 0.5595703125,
+                    "severity": "critical",
+                    "start": 196,
+                    "end": 197
+                },
+                {
+                    "text": ",",
+                    "confidence": 0.443359375,
+                    "severity": "critical",
+                    "start": 208,
+                    "end": 209
+                },
+                {
+                    "text": "lor",
+                    "confidence": 0.5380859375,
+                    "severity": "critical",
+                    "start": 218,
+                    "end": 221
+                }
+            ]
+        },
+        {
+            "src": "شارك سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، بالاحتفالية الذي أقامها السفراء العرب في بوخارست وبالشراكة مع متحف التاريخ الروماني، بمناسبة #اليوم_العالمي_للغة_العربية. وقد ارتجل السفير كلمة بناء لطلب مدير عام المتحف خلال الاحتفال.",
+            "mt": "Ambasadorii slujitorilor onorabili ai #Romania D. Mohammed bin Abdul Ghani au participat la ceremonia organizata de ambasadorii arabi la Bucuresti si in parteneriat cu Muzeul de Istorie Romana, cu ocazia #Ze_Global_lima_arabe.",
+            "ref": "Ambasadorul Custodelui Celor două Sfinte Moschei în #România, Dr. Mohammed Abdulghani Khayat, a participat la festivitatea organizată de ambasadorii țărilor arabe la #București în parteneriat cu Muzeul Național de Istorie, cu ocazia  Zilei Internaționale a Limbii Arabe, unde a rostit un discurs, la solicitarea Directorului general al muzeului.",
+            "COMET": 0.21376678347587585
+        },
+        {
+            "src": "استقبل وزير الدولة في وزارة الخارجية والاندماج الاوروبي في جمهورية #مولدوفا السيد/فياتشيسلاف دوبيندا،في مكتبه،بمقر خارجية #مولدوفا، سفير خادم الحرمين الشريفين لدى #رومانيا د.محمد بن عبدالغني خياط،وجرى خلال اللقاء مناقشة الموضوعات ذات الاهتمام المشترك وبحث سبل التعاون بين البلدين",
+            "mt": "Ministrul de stat al Ministerului Afacerilor Externe și Integrării Europene din Republica Moldova l-a primit pe domnul Viaceslav Dobinda, în biroul său, la sediul central de externe #Moldova, ambasador al slujitorilor onorabili ai #Romania d.Hr.",
+            "ref": "Ministrul de stat la Ministerul Afacerilor Externe și Integrării Europene al Republicii Moldova, domnul Veaceslav Dobîndă, l-a primit la sediul Ministerului de Externe al Republicii Moldova, pe Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed Abdulghani M. Khayat. În timpul întâlnirii au fost discutate probleme de interes comun și modalități de cooperare între cele două țări.",
+            "COMET": 0.2167041003704071
+        },
+        {
+            "src": "استقبل معالي نائب رئيس الوزراء وزير الخارجية في جمهورية #مولدوفا السيد/ نيكو بوبيسكو، سفير خادم الحرمين الشريفين لدى #رومانيا د.محمد بن عبدالغني خياط ، وقد تم خلال اللقاء طرح عدد من الموضوعات ذات الاهتمام المشترك وبحث اوجه التعاون الثنائي بين البلدين.",
+            "mt": "Prim-ministrul adjunct al ministrului de externe al Republicii Moldova l-a primit pe domnul Nico Popescu, ambasador al slujitorilor onorabili la #Romania D. Mohammed bin Abdulbalgheni croitor, în timpul întâlnirii a fost prezentată o serie de teme de interes comun și a discutat despre cooperarea bilaterală dintre cele două țări.",
+            "ref": "Excelența Sa Viceprim-ministru și Ministrul Afacerilor Externe și Integrării Europene al Republicii Moldova, domnul Nicu Popescu, l-a primit pe Ambasadorul Custodelui celor Două Sfinte Moschei în România, Dr. Mohammed Abdulghani M. Khayat. În timpul întâlnirii au fost ridicate o serie de probleme de interes comun și au fost discutate aspecte ale cooperării bilaterale dintre cele două țări.",
+            "COMET": 0.05322265625,
+            "errors": [
+                {
+                    "text": "Prim-ministrul adjunct al ministrului de externe al Republicii Moldova l-a primit pe domnul Nico Popescu, ambasador al slujitorilor onorabili la #Romania D. Mohammed bin Abdulbalgheni croitor,",
+                    "confidence": 0.65283203125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 192
+                },
+                {
+                    "text": "prezentată o",
+                    "confidence": 0.38037109375,
+                    "severity": "major",
+                    "start": 220,
+                    "end": 233
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.505859375,
+                    "severity": "critical",
+                    "start": 247,
+                    "end": 250
+                },
+                {
+                    "text": "a",
+                    "confidence": 0.31396484375,
+                    "severity": "major",
+                    "start": 267,
+                    "end": 269
+                }
+            ]
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، الدورة الحادية عشر لمنتدى آسبن، بمشاركة معالي الأمين العام للحلف الأطلسي السيد/ ينس ستولتيمبيرغ، ونائب أمين عام الحلف، على هامش اجتماع وزراء خارجية دول الحلف الأطلسي في  #بوخارست.",
+            "mt": "Ambasadorul Slujitor al #Romania Dr. Mohammed bin Abdul Ghani a participat la cea de-a 11-a sesiune a Forumului Aspen, cu participarea secretarului general al NATO, Jens Stoltemberg, și a Secretarului General al NATO, în marja reuniunii miniștrilor de externe din țările NATO la Bucureşti.",
+            "ref": "Ambasadorul Regatului Arabiei Saudite în #România, Dr. Mohammed Abdulghani Khayat, a participat la a unsprezecea sesiune a Forumului Aspen, la care au participat secretarul general al NATO, Jens Stoltenberg și adjunctul său Mircea Geoană. Sesiunea a avut loc în marja reuniunii miniștrilor de externe ai NATO de la #București.",
+            "COMET": 0.2690417468547821
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبد الغني خياط، الجلسة الخاصة للبرلمان بمناسبة الاحتفال باليوم الوطني الروماني، وقد القى رئيس وزراء رومانيا كلمة بهذه المناسبة، وتحدث عن حل الخلافات بين الأحزاب السياسية ومناقشة مستقبل #رومانيا.",
+            "mt": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, a participat la sesiunea specială a Parlamentului cu ocazia celebrării Zilei Naționale a României, prim-ministrul României a rostit un cuvânt cu această ocazie și a vorbit despre rezolvarea disputelor dintre partidele politice și discutarea viitorului #România.",
+            "ref": "Ambasadorul Regatului Arabiei Saudite în România, Dr. Mohammed Abdulghani Khayat, a participat la Ședința Solemnă a Parlamentului cu ocazia Zilei Naționale a României, unde au rostit discursuri Președintele Klaus Werner Iohannis, Premierul și Președinții Senatului și Camerei Deputaților, și s-a discutat despre viitorul României.",
+            "COMET": 0.1302490234375,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al României, dr. Mohammed bin Abdul Ghani, a",
+                    "confidence": 0.68408203125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 65
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.492919921875,
+                    "severity": "critical",
+                    "start": 149,
+                    "end": 150
+                },
+                {
+                    "text": "prim",
+                    "confidence": 0.46630859375,
+                    "severity": "critical",
+                    "start": 162,
+                    "end": 167
+                }
+            ]
+        },
+        {
+            "src": "حضر سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، إطلاق النسخة الاولى من منتدى الحوار والمناقشات وتحليل المخاطر، المُنظم من قبل مركز اليورو اطلسي للحلول والتكيف مع الازمات، بالشراكة مع مجلس الشيوخ الروماني،في مقر البرلمان الروماني، وبمشاركة عدد من المتحدثين والخبراء الاستراتيجيين من مختلف دول العالم، وبحضور المسؤولين في الحكومة الرومانية  وعدد من الفكرين والمحللين.",
+            "mt": "Ambasadorul Slujitor al României dr. Mohammed bin Abdul Ghani a participat la lansarea primei versiuni a forumului de dialog, dezbateri și analiză a riscurilor, organizat de Centrul Euro Atletic pentru soluții și adaptare la crize, în parteneriat cu Senatul României, la sediul Parlamentului României, la participarea mai multor vorbitori și experți strategici din diferite țări ale lumii, cu oficiali guvernamentali și analiști români.",
+            "ref": "Ambasadorul Custodelui celor două Sfinte Moschei  în #România, E.S. Dr. Mohammed Abdulghani Khayat a participat la prima sesiune a Euro-Atlantic Resilience Forum-Black Sea Perspectives, organizat de Centrul Euro-Atlantic pentru Reziliență în colaborare cu Senatul #României, la sediul Parlamentului, la care au participat vorbitori și specialiști în domeniul strategiei din mai multe țări, factori de răspundere din Guvernul #României, oameni de cultură și analiști.",
+            "COMET": 0.10107421875,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al României dr. Mohammed bin Abdul Ghani a participat la lan",
+                    "confidence": 0.736328125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 81
+                },
+                {
+                    "text": "primei",
+                    "confidence": 0.449951171875,
+                    "severity": "critical",
+                    "start": 86,
+                    "end": 93
+                },
+                {
+                    "text": "de dialog, dez",
+                    "confidence": 0.54638671875,
+                    "severity": "critical",
+                    "start": 114,
+                    "end": 129
+                },
+                {
+                    "text": "Atletic",
+                    "confidence": 0.375,
+                    "severity": "critical",
+                    "start": 186,
+                    "end": 194
+                },
+                {
+                    "text": "solu",
+                    "confidence": 0.438720703125,
+                    "severity": "critical",
+                    "start": 201,
+                    "end": 206
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.40625,
+                    "severity": "critical",
+                    "start": 220,
+                    "end": 221
+                },
+                {
+                    "text": "la",
+                    "confidence": 0.485107421875,
+                    "severity": "critical",
+                    "start": 301,
+                    "end": 304
+                },
+                {
+                    "text": "rea",
+                    "confidence": 0.37890625,
+                    "severity": "critical",
+                    "start": 314,
+                    "end": 317
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.67919921875,
+                    "severity": "critical",
+                    "start": 359,
+                    "end": 360
+                },
+                {
+                    "text": "lumii, cu",
+                    "confidence": 0.44091796875,
+                    "severity": "critical",
+                    "start": 382,
+                    "end": 392
+                },
+                {
+                    "text": "anali",
+                    "confidence": 0.38525390625,
+                    "severity": "critical",
+                    "start": 419,
+                    "end": 425
+                }
+            ]
+        },
+        {
+            "src": "قام سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، بزيارة إلى جامعة بوخارست (كلية اللغات)، وكان في استقباله، رئيس قسم اللغة العربية بالجامعة البرفسور/ جيورجي جريقور، وفي بداية اللقاء قدم البرفسور ايجاز عن قسم اللغة العربية ودوره في التعريف بالثقافة العربية داخل المجتمع الروماني. وقد القى السفير كلمة للتعريف بالمملكة والثقافة السعودية لعدد من أساتذة وطلاب قسم اللغة العربية.",
+            "mt": "Ambasadorul Slujitor al #Romania d. Mohammed bin Abdul Ghani a vizitat Universitatea din București (Facultatea de Limbi) și, în primirea sa, șeful catedrei de limbă arabă a universității, profesorul / georgy Grigori, a prezentat la începutul întâlnirii secțiunea de limbă arabă și rolul său în definirea culturii arabe în cadrul societății arabe și a unui număr de profesori de limbă și studenți arabi.",
+            "ref": "Ambasadorul Custodelui celor două Sfinte Moschei  în România, E.S. Dr. Mohammed Abdulghani Khayat a făcut o vizită la Universitatea #București, unde a fost întâmpinat de Șeful Secției de limba arabă a Facultății de limbi și literaturi străine, Prof. Dr. George Grigore, care la începutul întâlnirii a ținut o scurtă prezentare despre Secția de limba arabă și a rolului său în informarea societății românești despre cultura arabă. Ambasadorul a susținut un discurs în care a prezentat Regatul Arabiei Saudite și cultura Saudită pentru profesorii și studenții Secției de limba arabă.",
+            "COMET": 0.0677490234375,
+            "errors": [
+                {
+                    "text": "Ambasadorul Slujitor al #Romania d. Mohammed bin Abdul Ghani a vizitat Universitatea din București (Facultatea de Limbi) și, în primirea sa",
+                    "confidence": 0.60498046875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 139
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.50341796875,
+                    "severity": "critical",
+                    "start": 154,
+                    "end": 155
+                },
+                {
+                    "text": "profesorul / georgy Grigori,",
+                    "confidence": 0.485595703125,
+                    "severity": "critical",
+                    "start": 187,
+                    "end": 216
+                },
+                {
+                    "text": "definirea",
+                    "confidence": 0.43994140625,
+                    "severity": "critical",
+                    "start": 293,
+                    "end": 303
+                }
+            ]
+        },
+        {
+            "src": "صاحب السمو الملكي الأمير محمد بن سلمان بن عبدالعزيز ال سعود، ولي العهد رئيس مجلس الوزراء، يبعث رسالة خطية الى دولة رئيس وزراء رومانيا السيد/ نيكولاي تشوكا، وقد قام سفير خادم الحرمين الشريفين لدى رومانيا د. محمد بن عبدالغني خياط، بتسليم الرسالة الى مستشار رئيس وزراء رومانيا السيد/ يوليان تشيفو، بالنيابة عن دولة رئيس الوزراء الروماني.",
+            "mt": "Alteța Sa Regală, prințul Mohammed bin Salman bin Abdulaziz Al Saud, prințul moștenitor al Consiliului de Miniștri, trimite un mesaj scris statului Prim-Ministru al României, domnul Nicolae Choka, ambasador al slujitorilor onorabili ai României, dr.",
+            "ref": "Alteța Sa Regală Prințul Mohammed bin Salman bin Abdulaziz Al Saud, Prinț Moștenitor și Prim-ministru al Regatului Arabiei Saudite, a trimis un mesaj scris Prim-ministrului #României, domnului Nicolae Ciucă. Excelența Sa Dl. Iulian Chivu, Consilierul Prim-ministrului #României, a primit în numele premierului, scrisoarea de la Excelența Sa Dl. Dr. Mohammed bin Abdulghani Khayat, Ambasadorul Regatului Arabiei Saudite la #București.",
+            "COMET": 0.1966387927532196
+        },
+        {
+            "src": "استقبل رئيس مركز آسبن السيد/ سيرجيو مانيا، في مكتبه، سفير خادم الحرمين الشريفين لدى #رومانيا د.محمد بن عبدالغني خياط، وجرى خلال اللقاء طرح عدد من المواضيع ذات الاهتمام المشترك في مجال الابحاث والاستراتيجيات.",
+            "mt": "Președintele Centrului Aspen, Sergio Manya, l-a primit în biroul său pe ambasadorul slujitorilor onorabili ai #Romania, dr. Mohammed bin Abdul Ghani, croitor și a abordat în cadrul întâlnirii o serie de subiecte de interes comun în domeniul cercetării și strategiilor.",
+            "ref": "Președintele Institutul ASPEN, domnul Sergiu Manea, l-a primit, în biroul său, pe Ambasadorul Regatului Arabiei Saudite la #București, Excelenţa Sa Dl. Dr. Mohammed Abdulghani M. Khayat. În cadrul întâlnirii au fost discutate o serie de subiecte de interes pentru centrele de studii strategice și de cercetare.",
+            "COMET": 0.08282470703125,
+            "errors": [
+                {
+                    "text": "ul",
+                    "confidence": 0.42431640625,
+                    "severity": "critical",
+                    "start": 62,
+                    "end": 64
+                },
+                {
+                    "text": "ambasadorul slujitorilor onorabili ai #Romania, dr. Mohammed bin Abdul Ghani, croitor și",
+                    "confidence": 0.748046875,
+                    "severity": "critical",
+                    "start": 71,
+                    "end": 160
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.431884765625,
+                    "severity": "critical",
+                    "start": 250,
+                    "end": 251
+                }
+            ]
+        },
+        {
+            "src": "استقبل رئيس مركز اليورو أطلسي للحلول والتكيف مع الازمات السيد/اوفيديو ريتشي، في مكتبه، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، وجرى خلال اللقاء مناقشة عدد من الموضوعات ذات الاهتمام المشترك وسبل تطوير التعاون في مجال المراكز الاستراتيجية والبحثية.",
+            "mt": "Președintele Eurocentrului Attical a salutat soluția și adaptarea la crize, domnul Ovidiu Richie, în biroul său, ambasadorul slujitorilor onorabili ai #Romania D. Muhammad bin Abdulbalgheni, și a discutat în cadrul întâlnirii o serie de teme de interes comun și modalități de a dezvolta cooperarea în centrele strategice și de cercetare.",
+            "ref": "Președintele Centrului Euro-Atlantic pentru Reziliență, domnul Ovidiu Alexandru Raețchi, pe Ambasadorul Regatului Arabiei Saudite la #București, Excelența Sa Dl. Dr. Mohammed Abdulghani M. Khayat. Au fost discutate o serie de subiecte de interes pentru centrele de studii strategice si de cercetare și modalități de dezvoltare a cooperării cu acestea",
+            "COMET": -0.01416015625,
+            "errors": [
+                {
+                    "text": "<s> Președintele Eurocentrului Attical a salutat soluția și adaptarea la crize, domnul Ovidiu Richie, în biroul său, ambasadorul slujitorilor onorabili ai #Romania D. Muhammad bin Abdulbalgheni, și a",
+                    "confidence": 0.78369140625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 195
+                },
+                {
+                    "text": "t în",
+                    "confidence": 0.5869140625,
+                    "severity": "critical",
+                    "start": 203,
+                    "end": 207
+                },
+                {
+                    "text": "o",
+                    "confidence": 0.448486328125,
+                    "severity": "critical",
+                    "start": 225,
+                    "end": 227
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.50830078125,
+                    "severity": "critical",
+                    "start": 233,
+                    "end": 236
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.76953125,
+                    "severity": "critical",
+                    "start": 241,
+                    "end": 244
+                },
+                {
+                    "text": "a",
+                    "confidence": 0.52685546875,
+                    "severity": "critical",
+                    "start": 275,
+                    "end": 277
+                },
+                {
+                    "text": "în centrele strategice",
+                    "confidence": 0.64453125,
+                    "severity": "critical",
+                    "start": 297,
+                    "end": 320
+                }
+            ]
+        },
+        {
+            "src": "استقبل رئيس لجنة الثقافة والاعلام في البرلمان الروماني السيناتور/ فيوريل باديا، في مكتبه بالبرلمان الروماني، سفير خادم الحرمين الشريفين لدى #رومانيا د. محمد بن عبدالغني خياط، وجرى خلال اللقاء مناقشة عدد من الموضوعات ذات الاهتمام المشترك وبحث سبل تطوير التعاون المشترك في المجال الاعلامي والثقافي.",
+            "mt": "Președintele Comisiei pentru Cultură și Informare din Parlamentul României l-a întâmpinat pe senatorul Feorell Padilla în biroul Parlamentului României, ambasadorul slujitorilor onorabili ai #Romania d. Mohammed bin Abdulbalni, croitor și a discutat în cadrul întâlnirii o serie de teme de interes comun și a examinat modul de dezvoltare a cooperării comune în domeniul mass-media și cultural.",
+            "ref": "Senatorul Viorel Badea, Președintele Comisiei de Cultură și Media a Senatului #Romania, l-a primit în biroul său din Parlamentul României pe Ambasadorul  în România al Custodelui celor Două Sfinte Moschei, Dr. Mohammed Abdulghani Khayat. n cadrul întâlnirii au fost discutate o serie de probleme de interes comun și modalități de dezvoltare a cooperării în domeniul mass-media și al culturii.",
+            "COMET": -0.00658416748046875,
+            "errors": [
+                {
+                    "text": "<s> Președintele Comisiei pentru Cultură și Informare din Parlamentul României l-a întâmpinat pe senatorul Feorell Padilla în biroul Parlamentului României, ambasadorul slujitorilor onorabili ai #Romania d. Mohammed bin Abdulbalni, croitor și a discutat în",
+                    "confidence": 0.79443359375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 252
+                },
+                {
+                    "text": "o",
+                    "confidence": 0.427001953125,
+                    "severity": "critical",
+                    "start": 270,
+                    "end": 272
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.744140625,
+                    "severity": "critical",
+                    "start": 278,
+                    "end": 281
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.83837890625,
+                    "severity": "critical",
+                    "start": 286,
+                    "end": 289
+                },
+                {
+                    "text": "a examina",
+                    "confidence": 0.5224609375,
+                    "severity": "critical",
+                    "start": 306,
+                    "end": 316
+                }
+            ]
+        },
+        {
+            "src": "حفاظاً على صحة القادمين إلى المملكة يشترط الحصول على الجرعة التنشيطية (الثالثة - المعززة) لمن أمضى 8 أشهر أو أكثر من تلقيه الجرعة الثانية وذلك للدخول إلى مختلف الأنشطة والمناسبات والمنشآت الحكومية والخاصة واستخدام وسائل النقل.",
+            "mt": "Pentru a asigura sănătatea celor care vin în Regatul Unit, este necesară o doză activă (a treia - îmbunătățită) pentru cei care au petrecut 8 luni sau mai mult din a doua doză pentru a intra în diverse activități, evenimente, instalații guvernamentale și private și utilizarea mijloacelor de transport.",
+            "ref": "Din grijă pentru sănătatea cetățenilor care vin în Regatul Arabiei Saudite, este obligatorie obținerea dozei booster de vaccin (atreia doză) pentru persoanele cărora le-a fost administrată doza a 2-a în urmă cu opt luni sau mai mult, pentru a putea participa la diversele activități și evenimente, pentru a intra în instituțiile publice și private sau pentru a putea folosi mijloacele de transport în comun.",
+            "COMET": 0.3798828125,
+            "errors": [
+                {
+                    "text": "Regatul Unit",
+                    "confidence": 0.48583984375,
+                    "severity": "major",
+                    "start": 44,
+                    "end": 57
+                },
+                {
+                    "text": "o doză activă (a treia - îmbunătățită",
+                    "confidence": 0.484375,
+                    "severity": "major",
+                    "start": 72,
+                    "end": 110
+                },
+                {
+                    "text": "au petrecut 8 luni",
+                    "confidence": 0.457275390625,
+                    "severity": "major",
+                    "start": 127,
+                    "end": 146
+                },
+                {
+                    "text": "mai mult din a doua doză pentru",
+                    "confidence": 0.493408203125,
+                    "severity": "major",
+                    "start": 150,
+                    "end": 182
+                },
+                {
+                    "text": "intra în",
+                    "confidence": 0.4208984375,
+                    "severity": "major",
+                    "start": 184,
+                    "end": 193
+                },
+                {
+                    "text": "instalații",
+                    "confidence": 0.445556640625,
+                    "severity": "major",
+                    "start": 225,
+                    "end": 236
+                },
+                {
+                    "text": "utilizarea",
+                    "confidence": 0.40673828125,
+                    "severity": "major",
+                    "start": 265,
+                    "end": 276
+                }
+            ]
+        }
+    ]
+}

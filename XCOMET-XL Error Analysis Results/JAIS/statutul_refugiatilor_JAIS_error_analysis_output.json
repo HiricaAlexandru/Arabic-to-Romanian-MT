@@ -1,0 +1,3651 @@
+{
+    "/content/drive/MyDrive/ArRo/XCOMET_XL_Error_Analysis/ar-ro/translate/JAIS/statutul_refugiatilor/JAIS.txt": [
+        {
+            "src": "ألف- لأغراض هذه الاتفاقية، تنطبق لفظة لاجئ علي:",
+            "mt": "În sensul prezentei convenții, termenulrefugiat” se aplică:",
+            "ref": "A. Pentru scopurile prezentei conventii, termenul de refugiat se va aplica oricarei persoane:",
+            "COMET": 0.863489031791687,
+            "errors": [
+                {
+                    "text": "termenulrefugiat”",
+                    "confidence": 0.4033203125,
+                    "severity": "minor",
+                    "start": 30,
+                    "end": 48
+                },
+                {
+                    "text": "aplică:",
+                    "confidence": 0.384033203125,
+                    "severity": "major",
+                    "start": 51,
+                    "end": 59
+                }
+            ]
+        },
+        {
+            "src": "1. كل شخص اعتبر لاجئا بمقتضى ترتيبات 12 أيار/مايو 1926 و 30 حزيران/يونيه 1928، أو بمقتضى اتفاقيتي 28 تشرين الأول/أكتوبر 1933، و 10 شباط/فبراير 1938 وبروتوكول 14 أيلول/سبتمبر 1939، أو بمقتضى دستور المنظمة الدولية للاجئين.",
+            "mt": "1. Orice persoană care a fost considerată refugiat în conformitate cu acordurile din 12 mai 1926 și 30 iunie 1928 sau cu acordurile din 28 octombrie 1933, 10 februarie 1938 și 14 septembrie 1939 sau în conformitate cu Constituția Organizației Internaționale pentru Refugiați.",
+            "ref": "(1) care a fost considerata refugiat potrivit aranjamentelor din 12 mai 1926 si 30 iunie 1928 sau potrivit conventiilor din 28 octombrie 1933 si din 10 februarie 1938 si protocolului din 14 septembrie 1939 sau ca urmare a aplicarii Constitutiei Organizatiei Internationale pentru Refugiati. Hotaririle de neadmitere ca refugiat luate de Organizatia Internationala pentru Refugiati in timpul mandatului sau nu constituie o piedica pentru acordarea calitatii de refugiat persoanelor care indeplinesc conditiile prevazute de paragraful 2 din prezenta sectiune;",
+            "COMET": 0.8943164348602295
+        },
+        {
+            "src": "ولا يحول ما اتخذته المنظمة الدولية للاجئين أثناء ولايتها من مقررات بعدم الأهلية لصفة اللاجئ دون منح هذه الصفة لمن تتوفر فيهم الشروط المنصوص عليها في الفقرة 2 من هذا الفرع،",
+            "mt": "aceasta nu împiedică IRO să ia alte decizii în timpul mandatului său cu privire la cine este sau nu refugiat,",
+            "ref": "(2) care, in urma unor evenimente survenite inainte de 1 ianuarie 1951 si unor temeri justificate de a fi persecutata datorita rasei, religiei, nationalitatii, apartenentei la un anumit grup social sau opiniilor sale politice, se afla in afara tarii a carei cetatenie o are si care nu poate sau, datorita acestei temeri, nu doreste protectia acestei tari; sau care, neavind nici o cetatenie si gasindu-se in afara tarii in care avea resedinta obisnuita ca urmare a unor astfel de evenimente, nu poate sau, datorita respectivei temeri, nu doreste sa se reintoarca.",
+            "COMET": 0.1862475574016571
+        },
+        {
+            "src": "2. كل شخص يوجد، بنتيجة أحداث وقعت قبل 1 كانون الثاني/يناير 1951، وبسبب خوف له ما يبرره من التعرض للاضطهاد بسبب عرقه أو دينه أو جنسيته أو انتمائه إلي فئة اجتماعية معينة أو آرائه السياسية، خارج بلد جنسيته، ولا يستطيع، أو لا يريد بسبب ذلك الخوف، أن يستظل بحماية ذلك البلد، أو كل شخص لا يملك جنسية ويوجد خارج بلد إقامته المعتادة السابق بنتيجة مثل تلك الأحداث ولا يستطيع، أو لا يريد بسبب ذلك الخوف، أن يعود إلي ذلك البلد.",
+            "mt": "2. Orice persoană care, din cauza evenimentelor care au avut loc înainte de 1 ianuarie 1951 și din cauza unei temeri bine întemeiate de a fi persecutată din motive de rasă, religie sau naționalitate, se află în afara țării sale de cetățenie și nu poate sau nu dorește din cauza acestei temeri să se întoarcă în țara respectivă sau care, după ce nu a avut cetățenie înainte de 1 ianuarie 1951, încă nu poate sau nu dorește din cauza unei astfel de temeri să devină cetățean al unei țări.",
+            "ref": "In cazul unei persoane care are mai multe cetatenii, expresia tara a carei cetatenie o are vizeaza fiecare dintre tarile a carei cetatenie o are. Nu va fi considerata ca lipsita de protectia tarii a carei cetatenie o are orice persoana care, fara un motiv valabil intemeiat pe o teama justificata, nu a solicitat protectia uneia dintre tarile a carei cetatenie o are.",
+            "COMET": 0.1416015625,
+            "errors": [
+                {
+                    "text": "2. Orice persoană care",
+                    "confidence": 0.4833984375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 22
+                },
+                {
+                    "text": "te",
+                    "confidence": 0.39599609375,
+                    "severity": "critical",
+                    "start": 109,
+                    "end": 112
+                },
+                {
+                    "text": "bine",
+                    "confidence": 0.408935546875,
+                    "severity": "critical",
+                    "start": 116,
+                    "end": 121
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.423583984375,
+                    "severity": "critical",
+                    "start": 179,
+                    "end": 180
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.48779296875,
+                    "severity": "critical",
+                    "start": 221,
+                    "end": 222
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.3857421875,
+                    "severity": "critical",
+                    "start": 227,
+                    "end": 230
+                },
+                {
+                    "text": "ă sau care, după ce nu a avut cetățenie înainte de 1 ianuarie 1951, încă nu poate sau nu dorește din cauza unei astfel de temeri să devină cetățean al unei țări.",
+                    "confidence": 0.55322265625,
+                    "severity": "critical",
+                    "start": 325,
+                    "end": 486
+                }
+            ]
+        },
+        {
+            "src": "فإذا كان الشخص يحمل أكثر من جنسية، تعني عبارة \"بلد جنسيته\" كلا من البلدان التي يحمل جنسيتها. ولا يعتبر محروما من حماية بلد جنسيته إذا كان، دون أي سبب مقبول يستند إلي خوف له ما يبرره، لم يطلب الاستظلال بحماية واحد من البلدان التي يحمل جنسيتها.",
+            "mt": "Dacă o persoană deține mai mult de o cetățenie, atunci expresia \"țara cetățeniei sale\" înseamnă ambele țări în care este cetățean. El nu va fi considerat lipsit de protecția țării sale de cetățenie dacă fără un motiv rezonabil și acceptabil bazat pe o teamă bine întemeiată de a face acest lucru, el nu a depus cerere de azil într-una din țările al căror cetățean este.",
+            "ref": "B. (1) Pentru scopurile prezentei conventii, cuvintele evenimente survenite inaintea datei de 1 ianuarie 1951, ce figureaza la art. 1, sectiunea A, vor putea fi intelese in sensul de:",
+            "COMET": 0.10748291015625,
+            "errors": [
+                {
+                    "text": "țara cetățeniei sale",
+                    "confidence": 0.44873046875,
+                    "severity": "critical",
+                    "start": 65,
+                    "end": 85
+                },
+                {
+                    "text": "sale",
+                    "confidence": 0.3818359375,
+                    "severity": "critical",
+                    "start": 179,
+                    "end": 184
+                },
+                {
+                    "text": "rezon",
+                    "confidence": 0.36328125,
+                    "severity": "critical",
+                    "start": 216,
+                    "end": 222
+                },
+                {
+                    "text": "și accepta",
+                    "confidence": 0.373291015625,
+                    "severity": "critical",
+                    "start": 226,
+                    "end": 237
+                },
+                {
+                    "text": "baza",
+                    "confidence": 0.379150390625,
+                    "severity": "critical",
+                    "start": 240,
+                    "end": 245
+                },
+                {
+                    "text": "pe o teamă bine",
+                    "confidence": 0.39990234375,
+                    "severity": "critical",
+                    "start": 246,
+                    "end": 262
+                },
+                {
+                    "text": "temeiată de a face acest lucru",
+                    "confidence": 0.428955078125,
+                    "severity": "critical",
+                    "start": 265,
+                    "end": 295
+                },
+                {
+                    "text": "az",
+                    "confidence": 0.3525390625,
+                    "severity": "critical",
+                    "start": 320,
+                    "end": 323
+                }
+            ]
+        },
+        {
+            "src": "باء- 1. لأغراض هذه الاتفاقية، يجب أن تفهم عبارة \"أحداث وقعت قبل 1 كانون الثاني/يناير 1951\"، الواردة في الفرع \"ألف\" من المادة 1، علي أنها تعني: (أ) إما \"أحداثا وقعت في أوروبا قبل 1 كانون الثاني/يناير 1951\"، أو (ب) \"أحداثا وقعت في أوروبا أو غيرها قبل 1 كانون الثاني/يناير 1951\"، وعلي كل دولة متعاقدة أن تعلن، وهي توقع هذه الاتفاقية أو تصدقها أو تنضم إليها، بأي من هذين المعنيين ستأخذ علي صعيد الالتزامات التي تلقيها عليها هذه الاتفاقية.",
+            "mt": "B.1. În sensul prezentei convenții, expresiaevenimente care au avut loc înainte de 1 ianuarie 1951”, care figurează în secțiunea A a articolului I, înseamnă fie(a) evenimente care au avut loc în Europa înainte de 1 ianuarie 1951”, fie(b) evenimente care au avut loc în Europa sau în altă parte înainte de 1 ianuarie 1951.” Fiecare stat contractant declară, atunci când semnează, ratifică sau aderă la prezenta convenție, în conformitate cu care dintre aceste două semnifica intenționează să își îndeplinească obligațiile.",
+            "ref": "a) evenimente survenite inainte de 1 ianuarie 1951 in Europa, sau",
+            "COMET": 0.389404296875,
+            "errors": [
+                {
+                    "text": "B",
+                    "confidence": 0.36376953125,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 1
+                },
+                {
+                    "text": "expresiaeveni",
+                    "confidence": 0.31005859375,
+                    "severity": "major",
+                    "start": 35,
+                    "end": 49
+                },
+                {
+                    "text": "A",
+                    "confidence": 0.3955078125,
+                    "severity": "major",
+                    "start": 128,
+                    "end": 130
+                },
+                {
+                    "text": "I",
+                    "confidence": 0.36181640625,
+                    "severity": "major",
+                    "start": 144,
+                    "end": 146
+                },
+                {
+                    "text": "fie",
+                    "confidence": 0.328125,
+                    "severity": "major",
+                    "start": 156,
+                    "end": 160
+                },
+                {
+                    "text": "”,",
+                    "confidence": 0.30517578125,
+                    "severity": "major",
+                    "start": 228,
+                    "end": 230
+                },
+                {
+                    "text": "b",
+                    "confidence": 0.330810546875,
+                    "severity": "major",
+                    "start": 235,
+                    "end": 236
+                },
+                {
+                    "text": ".”",
+                    "confidence": 0.3408203125,
+                    "severity": "major",
+                    "start": 320,
+                    "end": 322
+                },
+                {
+                    "text": "semnifica",
+                    "confidence": 0.35205078125,
+                    "severity": "major",
+                    "start": 463,
+                    "end": 473
+                }
+            ]
+        },
+        {
+            "src": "2. لأي دولة متعاقدة اختارت الصيغة (أ)، في أي وقت، أن توسع التزاماتها باختيار الصيغة (ب)، وذلك بإشعار توجهه إلي الأمين العام للأمم المتحدة.",
+            "mt": "2. oricărui stat contractant care a ales opțiunea (a), în orice moment, să își extindă obligațiile prin alegerea opțiunii (b), prin notificarea adresată secretarului general al Organizației Națiunilor Unite.",
+            "ref": "b) evenimente survenite inainte de 1 ianuarie 1951 in Europa sau in alta parte; si fiecare stat contractant va face, in momentul semnarii, ratificarii sau aderarii, o declaratie prin care va preciza sensul pe care intelege sa-l dea acestei expresii din punctul de vedere al obligatiilor asumate de el in virtutea prezentei conventii.",
+            "COMET": 0.2960498034954071
+        },
+        {
+            "src": "جيم- ينقضي انطباق هذه الاتفاقية علي أي شخص ينطبق عليه الفرع \"ألف\" من هذه المادة:",
+            "mt": "G. Aplicarea prezentei convenții oricărei persoane care intră sub incidența paragrafului (a) al prezentului articol încetează atunci când aceasta devine supusă jurisdicției penale a unui stat parte din afara Statelor Unite și nu are nicio legătură sau prezență în Statele Unite, alta decât o astfel de jurisdicție.",
+            "ref": "(2) Orice stat contractant care a adoptat formula a) va putea in orice moment sa-si extinda obligatiile sale adoptind formula b) printr-o notificare adresata secretarului general al Natiunilor Unite.",
+            "COMET": 0.2462298572063446
+        },
+        {
+            "src": "1. إذا استأنف باختياره الاستظلال بحماية بلد جنسيته،",
+            "mt": "1. În cazul în care dorește să reia să fie protejat în conformitate cu legea cetățeniei sale,",
+            "ref": "C. Aceasta conventie va inceta sa fie aplicabila oricarei persoane vizate de dispozitiile sectiunii A mai sus mentionate, in urmatoarele cazuri:",
+            "COMET": 0.32816699147224426,
+            "errors": [
+                {
+                    "text": "1. În cazul în care dorește să reia să fie protejat în conformitate cu legea cetățeniei sale,",
+                    "confidence": 0.432373046875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 93
+                }
+            ]
+        },
+        {
+            "src": "2. إذا استعاد باختياره جنسيته بعد فقدانه لها، أو",
+            "mt": "2. dacă își recapătă cetățenia în mod voluntar după ce a pierdut-o, sau",
+            "ref": "(1) daca a solicitat din nou si in mod voluntar protectia tarii a carei cetatenie o are; sau",
+            "COMET": 0.8654531240463257,
+            "errors": [
+                {
+                    "text": "recapătă cetățenia",
+                    "confidence": 0.3720703125,
+                    "severity": "major",
+                    "start": 11,
+                    "end": 30
+                }
+            ]
+        },
+        {
+            "src": "3. إذا اكتسب جنسية جديدة وأصبح يتمتع بحماية هذه الجنسية الجديدة، أو",
+            "mt": "trei, dacă a dobândit o nouăe s-a bucurat de acestei noi sau",
+            "ref": "(2) daca, dupa ce si-a pierdut cetatenia, a redobindit-o in mod voluntar; sau",
+            "COMET": 0.2992236316204071
+        },
+        {
+            "src": "4. إذا عاد باختياره إلي الإقامة في البلد الذي غادره أو الذي ظل مقيما خارجه خوفا من الاضطهاد، أو",
+            "mt": "4. dacă se întoarce în mod voluntar într-o țară din care a plecat anterior sau de care era străin, după ce a fost în afara unei astfel de țări de teama persecuției din cauza rasei, religiei, naționalității, apartenenței la un anumit grup social sau opinie politică",
+            "ref": "(3) daca a dobindit o noua cetatenie si se bucura de protectia tarii a carei cetatenie a dobindit-o; sau",
+            "COMET": 0.349853515625,
+            "errors": [
+                {
+                    "text": "de care era străin",
+                    "confidence": 0.322509765625,
+                    "severity": "critical",
+                    "start": 78,
+                    "end": 97
+                },
+                {
+                    "text": "ce",
+                    "confidence": 0.305908203125,
+                    "severity": "critical",
+                    "start": 103,
+                    "end": 106
+                },
+                {
+                    "text": "fost",
+                    "confidence": 0.31201171875,
+                    "severity": "critical",
+                    "start": 108,
+                    "end": 113
+                },
+                {
+                    "text": "afara unei astfel",
+                    "confidence": 0.311767578125,
+                    "severity": "critical",
+                    "start": 116,
+                    "end": 134
+                },
+                {
+                    "text": "țări de team",
+                    "confidence": 0.3056640625,
+                    "severity": "critical",
+                    "start": 137,
+                    "end": 150
+                },
+                {
+                    "text": "sau opinie politică",
+                    "confidence": 0.30419921875,
+                    "severity": "critical",
+                    "start": 244,
+                    "end": 264
+                }
+            ]
+        },
+        {
+            "src": "5. إذا أصبح، بسبب زوال الأسباب التي أدت إلي الاعتراف له بصفة اللاجئ، غير قادر علي مواصلة رفض الاستظلال بحماية بلد جنسيته،",
+            "mt": "(5) În cazul în care, din cauza eliminării motivelor care au condus la recunoașterea statutului de refugiat, acesta nu mai poate continua să renunțe la statutul de azil în temeiul protecției țării de cetățenie,",
+            "ref": "(4) daca s-a reintors in mod voluntar pentru a se stabili in tara pe care a parasit-o sau in afara careia a stat de teama de a fi persecutata; sau",
+            "COMET": 0.231689453125,
+            "errors": [
+                {
+                    "text": "care",
+                    "confidence": 0.343505859375,
+                    "severity": "critical",
+                    "start": 15,
+                    "end": 20
+                },
+                {
+                    "text": "elimin",
+                    "confidence": 0.32275390625,
+                    "severity": "critical",
+                    "start": 31,
+                    "end": 38
+                },
+                {
+                    "text": "acesta nu mai poate continua să renunț",
+                    "confidence": 0.384521484375,
+                    "severity": "critical",
+                    "start": 108,
+                    "end": 147
+                },
+                {
+                    "text": "la statutul de azil în temeiul protecției țării de cetățenie,",
+                    "confidence": 0.3916015625,
+                    "severity": "critical",
+                    "start": 148,
+                    "end": 210
+                }
+            ]
+        },
+        {
+            "src": "وذلك علما بأن أحكام هذه الفقرة لا تنطبق علي أي لاجئ ينطبق عليه الفرع ألف (1) من هذه المادة ويستطيع أن يحتج، في رفض طلب الاستظلال بحماية بلد جنسيته، بأسباب قاهرة ناجمة عن اضطهاد سابق.",
+            "mt": "aceasta, cu condiția ca alineatele (2) și (3) să nu se aplice oricărui refugiat care ar fi în conformitate cu alineatul (1) litera (a), ci pentru capacitatea sa de a pretinde, în ceea ce privește o țară a cărei cetățenie o deține, motive care decurg din persecuția bazată pe rasă, religie, naționalitate, apartenență la un anumit grup social sau opinie politică, dacă se află în afara țării respective ca urmare a unei astfel de persecu.",
+            "ref": "(5) daca imprejurarile in urma carora ea a fost recunoscuta ca refugiat au incetat sa existe, ea nu mai poate continua sa refuze protectia tarii a carei cetatenie o are.",
+            "COMET": 0.03485998511314392,
+            "errors": [
+                {
+                    "text": "<s> aceasta, cu condiția ca alineatele (2) și (3) să nu se aplice oricărui refugiat care ar fi în conformitate cu alineatul (1) litera (a), ci pentru capacitatea sa de a pretinde, în ceea ce privește o țară a cărei cetățenie o deține, motive care decurg din persecuția bazată pe rasă, religie, naționalitate, apartenență la un",
+                    "confidence": 0.7353515625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 322
+                },
+                {
+                    "text": "grup social",
+                    "confidence": 0.423828125,
+                    "severity": "critical",
+                    "start": 329,
+                    "end": 341
+                }
+            ]
+        },
+        {
+            "src": "6. إذا كان شخص لا يملك جنسية وأصبح، بسبب زوال الأسباب التي أدت إلي الاعتراف له بصفة اللاجئ، قادرا علي أن يعود إلي بلد إقامته المعتادة السابق،",
+            "mt": "6. În cazul în care o persoană care nu are cetățenie și i s-a acordat statutul de refugiat din motive care au încetat să mai existe, se poate întoarce în fosta sa țară de reședință obișnuită.",
+            "ref": "Se subintelege totusi ca dispozitiile prezentului paragraf nu se vor aplica oricarui refugiat mentionat in paragraful 1 al sectiunii A din prezentul articol, care poate invoca, pentru a refuza protectia tarii a carei cetatenie o are, motive imperioase ce se refera la persecutii anterioare;",
+            "COMET": 0.262939453125,
+            "errors": [
+                {
+                    "text": "a acordat",
+                    "confidence": 0.34130859375,
+                    "severity": "critical",
+                    "start": 60,
+                    "end": 69
+                },
+                {
+                    "text": "din motive care au încetat să mai existe",
+                    "confidence": 0.4140625,
+                    "severity": "critical",
+                    "start": 90,
+                    "end": 131
+                },
+                {
+                    "text": "fost",
+                    "confidence": 0.3193359375,
+                    "severity": "critical",
+                    "start": 153,
+                    "end": 158
+                }
+            ]
+        },
+        {
+            "src": "وذلك علما بأن أحكام هذه الفقرة لا تنطبق علي أي لاجئ ينطبق عليه الفرع ألف (1) من هذه المادة ويستطيع أن يحتج، في رفض العودة إلي بلد إقامته المعتادة السابق، بأسباب قاهرة ناجمة عن اضطهاد سابق.",
+            "mt": "că, cu condiția ca alineatele (2) și (3) să nu se aplice oricărui refugiat care ar fi în conformitate cu alineatul (1) litera (A), ci pentru nestabilirea faptului că a fost persecutat pe motiv de rasă, religie, naționalitate sau apartenență la un anumit grup social.",
+            "ref": "(6) in cazul unei persoane care nu are o cetatenie, daca, nemaiexistind imprejurarile in urma carora a fost recunoscuta ca refugiat, ea este in masura sa se intoarca in tara in care avea resedinta obisnuita. Se subintelege totusi ca dispozitiile prezentului paragraf nu se vor aplica oricarui refugiat mentionat in paragraful 1 al sectiunii A din prezentul articol, care poate invoca, pentru a refuza sa se intoarca in tara in care el avea resedinta obisnuita, motive imperioase ce se refera la persecutii anterioare.",
+            "COMET": 0.1929003894329071
+        },
+        {
+            "src": "دال- لا تنطبق هذه الاتفاقية على الأشخاص الذين يتمتعون حاليا بحماية أو مساعدة من هيئات أو وكالات تابعة للأمم المتحدة غير مفوضية الأمم المتحدة لشؤون اللاجئين.",
+            "mt": "D. Prezenta convenție nu se aplică persoanelor care beneficiază în prezent de protecția sau asistența altor agenții ale Organizației Națiunilor Unite, cu excepția UNHCR.",
+            "ref": "D. Aceasta conventie nu va fi aplicabila persoanelor care beneficiaza in prezent de o protectie sau de o asistenta din partea unui organism sau a unei institutii a Natiunilor Unite, alta decit Inaltul Comisar al Natiunilor Unite pentru Refugiati.",
+            "COMET": 0.9333679676055908,
+            "errors": [
+                {
+                    "text": "Organiza",
+                    "confidence": 0.4140625,
+                    "severity": "minor",
+                    "start": 119,
+                    "end": 128
+                }
+            ]
+        },
+        {
+            "src": "فإذا توقفت هذه الحماية أو المساعدة لأي سبب دون أن يكون مصير هؤلاء الأشخاص قد سوي نهائيا طبقا لما يتصل بالأمر من القرارات التي اعتمدتها الجمعية العامة للأمم المتحدة يصبح هؤلاء الأشخاص، بجراء ذلك، مؤهلين للتمتع بمزايا هذه الاتفاقية.",
+            "mt": "Astfel, dacă această protecție sau asistență, indiferent de motiv, ar înceta să mai fie acordată fără ca soarta finală a acestor persoane să fi fost rezolvată în cele din urmă în conformitate cu deciziile relevante adoptate de Adunarea Generală a Organizației Națiunilor Unite, atunci acele persoane ar deveni eligibile să beneficieze de dispozițiile prezentei convenții ca urmare a acestui fapt.",
+            "ref": "Atunci cind aceasta protectie sau aceasta asistenta va inceta pentru un motiv oarecare, fara ca situatia acestor persoane sa fi fost reglementata in mod definitiv, in conformitate cu rezolutiile pertinente adoptate de Adunarea generala a Natiunilor Unite, aceste persoane vor beneficia, de drept, de regimul prevazut de aceasta conventie.",
+            "COMET": 0.9573047161102295
+        },
+        {
+            "src": "هاء- لا تنطبق أحكام هذه الاتفاقية علي أي شخص اعتبرته السلطات المختصة في البلد الذي اتخذ فيه مقاما له مالكا للحقوق وعليه الالتزامات المرتبطة بجنسية هذا البلد.",
+            "mt": "E. Prezenta convenție nu se aplică niciunei persoane care a fost considerată de autoritățile competente ale țării în care își are reședința ca având drepturile și obligațiile de cetățenie ale țării respective.",
+            "ref": "E. Aceasta conventie nu va fi aplicabila unei persoane considerate de autoritatile competente ale tarii in care aceasta persoana si-a stabilit resedinta ca avind drepturi si obligatii decurgind din faptul ca are cetatenia acestei tari.",
+            "COMET": 0.9201953411102295
+        },
+        {
+            "src": "واو- لا تنطبق أحكام هذه الاتفاقية علي أي شخص تتوفر أسباب جدية للاعتقاد بأنه:",
+            "mt": "Prezenta convenție nu se aplică niciunei persoane care este sau ale cărei motive serioase există pentru a crede că este:",
+            "ref": "F. Dispozitiile acestei conventii nu vor fi aplicabile persoanelor despre care ar exista motive serioase sa se creada:",
+            "COMET": 0.7077382802963257,
+            "errors": [
+                {
+                    "text": "persoane care este sau ale cărei motive serioase există pentru a crede că este:",
+                    "confidence": 0.42919921875,
+                    "severity": "major",
+                    "start": 40,
+                    "end": 120
+                }
+            ]
+        },
+        {
+            "src": "(أ) ارتكب جريمة ضد السلام أو جريمة حرب أو جريمة ضد الإنسانية، بالمعني المستخدم لهذه الجرائم في الصكوك الدولية الموضوعة للنص علي أحكامها بشأنها،",
+            "mt": "au comis o crimă împotriva păcii, o crimă de război sau o crimă împotriva umanității, deoarece aceste crime sunt utilizate în tratatele internaționale care le definesc;",
+            "ref": "a) ca au comis o crima contra pacii, o crima de razboi sau o crima contra umanitatii, in sensul instrumentelor internationale elaborate pentru a prevedea dispozitii cu privire la aceste crime;",
+            "COMET": 0.7466914057731628,
+            "errors": [
+                {
+                    "text": "crime",
+                    "confidence": 0.32763671875,
+                    "severity": "major",
+                    "start": 101,
+                    "end": 107
+                },
+                {
+                    "text": "utilizat",
+                    "confidence": 0.37255859375,
+                    "severity": "major",
+                    "start": 112,
+                    "end": 121
+                },
+                {
+                    "text": "defin",
+                    "confidence": 0.318603515625,
+                    "severity": "major",
+                    "start": 158,
+                    "end": 164
+                }
+            ]
+        },
+        {
+            "src": "(ب) ارتكب جريمة جسيمة غير سياسية خارج بلد اللجوء قبل قبوله في هذا البلد بصفة لاجئ،",
+            "mt": "(b) a comis o infracțiune apolitică gravă în afara țării solicitantului de azil înainte de a fi acceptat în această țară ca refugiat;",
+            "ref": "b) ca au comis o crima grava de drept comun in afara tarii de primire, inainte de a fi admise in aceasta ca refugiati;",
+            "COMET": 0.7286249995231628,
+            "errors": [
+                {
+                    "text": "b) a",
+                    "confidence": 0.40625,
+                    "severity": "major",
+                    "start": 1,
+                    "end": 5
+                },
+                {
+                    "text": "infracțiune apolitică grav",
+                    "confidence": 0.43896484375,
+                    "severity": "major",
+                    "start": 13,
+                    "end": 40
+                },
+                {
+                    "text": "solicitantului",
+                    "confidence": 0.4677734375,
+                    "severity": "major",
+                    "start": 56,
+                    "end": 71
+                }
+            ]
+        },
+        {
+            "src": "(ج) ارتكب أفعالا مضادة لأهداف الأمم المتحدة ومبادئها.",
+            "mt": "c) angajate în incompatibile cu obiectivele scopurile Unite.",
+            "ref": "c) ca s-au facut vinovate de actiuni contrare scopurilor si principiilor Natiunilor Unite.",
+            "COMET": 0.31779101490974426,
+            "errors": [
+                {
+                    "text": "angajate în incompatibile cu obiectivele scopurile Unite",
+                    "confidence": 0.6953125,
+                    "severity": "critical",
+                    "start": 2,
+                    "end": 59
+                }
+            ]
+        },
+        {
+            "src": "المادة 2: التزامات عامة",
+            "mt": "Articolul 2: Obligații generale",
+            "ref": "ARTICOLUL 2 Obligatii generale",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "علي كل لاجئ إزاء البلد الذي يوجد فيه واجبات تفرض عليه، خصوصا، أن ينصاع لقوانينه وأنظمته، وأن يتقيد بالتدابير المتخذة فيه للمحافظة علي النظام العام.",
+            "mt": "Ca refugiat în orice țară, aveți anumite obligații față de această țară, în special să respecta legile și reglementările sale și să respecta măsurile luate de aceasta pentru menținerea ordinii publice.",
+            "ref": "Orice refugiat are, fata de tara in care se afla, obligatii care comporta, in special, datoria de a se conforma legilor si regulamentelor, precum si masurilor luate pentru mentinerea ordinii publice.",
+            "COMET": 0.9260109663009644,
+            "errors": [
+                {
+                    "text": "aveți",
+                    "confidence": 0.38232421875,
+                    "severity": "minor",
+                    "start": 26,
+                    "end": 32
+                },
+                {
+                    "text": "să respecta",
+                    "confidence": 0.387451171875,
+                    "severity": "minor",
+                    "start": 83,
+                    "end": 95
+                },
+                {
+                    "text": "să respecta",
+                    "confidence": 0.39013671875,
+                    "severity": "minor",
+                    "start": 128,
+                    "end": 140
+                },
+                {
+                    "text": "aceasta",
+                    "confidence": 0.35888671875,
+                    "severity": "minor",
+                    "start": 158,
+                    "end": 166
+                }
+            ]
+        },
+        {
+            "src": "المادة 3: عدم التمييز",
+            "mt": "Articolul 3: Fără discriminare",
+            "ref": "ARTICOLUL 3 Nediscriminarea",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تطبق الدول المتعاقدة أحكام هذه الاتفاقية علي اللاجئين دون تمييز بسبب العرق أو الدين أو بلد المنشأ.",
+            "mt": "Statele contractante aplică prezenta convenție refugiaților fără discriminare pe motive de rasă, religie sau naționalitate.",
+            "ref": "Statele contractante vor aplica dispozitiile acestei conventii refugiatilor fara discriminare in ce priveste rasa, religia sau tara de origine.",
+            "COMET": 0.9909961223602295
+        },
+        {
+            "src": "المادة 4: الدين",
+            "mt": "Articolul patru: Religie",
+            "ref": "ARTICOLUL 4 Religia",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تمنح الدول المتعاقدة اللاجئين داخل أراضيها معاملة توفر لهم علي الأقل ذات الرعاية الممنوحة لمواطنيها علي صعيد حرية ممارسة شعائرهم الدينية وحرية توفير التربية الدينية لأولادهم.",
+            "mt": "Statele contractante vor acorda refugiatilor de pe teritoriul lor drepturile de care se bucura cetatenii unei tari in ceea ce priveste exercitarea scrupulelor religioase si educarea copiilor lor.",
+            "ref": "Statele contractante vor acorda refugiatilor pe teritoriul lor un tratament cel putin la fel de favorabil ca si cel acordat nationalilor in ce priveste libertatea de a practica religia lor si libertatea de instruire religioasa a copiilor lor.",
+            "COMET": 0.8742859363555908,
+            "errors": [
+                {
+                    "text": "scrupulelor",
+                    "confidence": 0.391357421875,
+                    "severity": "minor",
+                    "start": 146,
+                    "end": 158
+                }
+            ]
+        },
+        {
+            "src": "المادة 5: الحقوق الممنوحة بمعزل عن هذه الاتفاقية",
+            "mt": "Articolul 5: Drepturi garantate în temeiul prezentei convenții, cu excepția oricăror alte",
+            "ref": "ARTICOLUL 5 Drepturi acordate independent de aceasta conventie",
+            "COMET": 0.8864492177963257,
+            "errors": [
+                {
+                    "text": "excep",
+                    "confidence": 0.37158203125,
+                    "severity": "major",
+                    "start": 66,
+                    "end": 72
+                }
+            ]
+        },
+        {
+            "src": "لا يعتبر أي حكم في هذه الاتفاقية مخلا بأية حقوق أو مزايا تمنحها دولة متعاقدة للاجئين بمعزل عن هذه الاتفاقية.",
+            "mt": "Nicio prevedere a prezentului acord nu aduce atingere drepturilor sau privilegiilor acordate refugiaților în temeiul convențiilor încheiate înainte de intrarea în vigoare a prezentului acord.",
+            "ref": "Nici o dispozitie din aceasta conventie nu aduce atingere celorlalte drepturi si avantaje acordate refugiatilor, independent de aceasta conventie.",
+            "COMET": 0.9792773723602295
+        },
+        {
+            "src": "المادة 6: عبارة \"في نفس الظروف\"",
+            "mt": "Articolul 6, alineatul 1: Aceleași condiții",
+            "ref": "ARTICOLUL 6 Expresia \"in aceleasi imprejurari\"",
+            "COMET": 0.9914734363555908,
+            "errors": [
+                {
+                    "text": "atul",
+                    "confidence": 0.397705078125,
+                    "severity": "minor",
+                    "start": 18,
+                    "end": 22
+                }
+            ]
+        },
+        {
+            "src": "لأغراض هذه الاتفاقية، تعني عبارة \"في نفس الظروف\"، ضمنا، أن علي اللاجئ، من أجل التمتع بحق ما، أن يستوفي كافة المتطلبات التي تقضي من الفرد العادي للتمتع بهذا الحق (ولا سيما تلك المتعلقة بمدة أو شروط المكوث والإقامة) لو لم يكن لاجئا، باستثناء تلك التي تحول طبيعتها دون استيفاء اللاجئ لها.",
+            "mt": "În sensul prezentei convenții, o persoană va fi considerată a fiîn aceleași circumstanțe” ca o altă persoană dacă aceasta trebuie să îndeplinească toate cerințele care ar fi în mod normal necesare pentru ca o persoană să se bucure de acest drept (în special cele legate de durată sau de condițiile de ședere) dacă nu ar fi refugiat, cu excepția cazului în care statutul său o împiedică să le satisfacă.",
+            "ref": "In sensul acestei conventii, expresia in aceleasi imprejurari implica faptul ca toate conditiile (si mai ales acelea care au legatura cu durata si conditiile de sedere sau de resedinta) pe care cel in cauza ar trebui sa le indeplineasca, pentru a putea exercita dreptul in chestiune, daca nu era refugiat, trebuie sa fie indeplinite de catre el, cu exceptia conditiilor care, datorita naturii lor, nu pot fi indeplinite de catre un refugiat.",
+            "COMET": 0.8127515316009521,
+            "errors": [
+                {
+                    "text": "fiîn",
+                    "confidence": 0.359375,
+                    "severity": "minor",
+                    "start": 61,
+                    "end": 66
+                },
+                {
+                    "text": "”",
+                    "confidence": 0.3837890625,
+                    "severity": "minor",
+                    "start": 88,
+                    "end": 89
+                }
+            ]
+        },
+        {
+            "src": "المادة 7: الإعفاء من المعاملة بالمثل",
+            "mt": "Articolul 7: Scutirea de reciprocitate",
+            "ref": "ARTICOLUL 7 Dispensa de reciprocitate",
+            "COMET": 0.8351796865463257,
+            "errors": [
+                {
+                    "text": "Scutirea de reciprocitate",
+                    "confidence": 0.50341796875,
+                    "severity": "major",
+                    "start": 12,
+                    "end": 38
+                }
+            ]
+        },
+        {
+            "src": "1. حيثما لا تنص هذه الاتفاقية علي منح اللاجئين معاملة أفضل، تعاملهم الدولة المتعاقدة معاملتها للأجانب عامة.",
+            "mt": "(1) În măsura în care prezenta convenție nu dă dreptul refugiaților la un tratament mai bun, aceștia vor fi în conformitate cu aceleași reguli aplicabile altor străini care se află în mod neregulamentar în țară.",
+            "ref": "1. Sub rezerva dispozitiilor mai favorabile prevazute de prezenta conventie, orice stat contractant va acorda refugiatilor regimul pe care il acorda in general strainilor.",
+            "COMET": 0.64404296875,
+            "errors": [
+                {
+                    "text": "fi",
+                    "confidence": 0.3828125,
+                    "severity": "critical",
+                    "start": 104,
+                    "end": 107
+                },
+                {
+                    "text": "conformitate",
+                    "confidence": 0.351806640625,
+                    "severity": "major",
+                    "start": 110,
+                    "end": 123
+                },
+                {
+                    "text": "află",
+                    "confidence": 0.396240234375,
+                    "severity": "major",
+                    "start": 175,
+                    "end": 180
+                },
+                {
+                    "text": "mod neregulamentar",
+                    "confidence": 0.4375,
+                    "severity": "major",
+                    "start": 183,
+                    "end": 202
+                }
+            ]
+        },
+        {
+            "src": "2. يتمتع جميع اللاجئين، بعد مرور ثلاث سنوات علي إقامتهم، بالإعفاء، علي أرض الدول المتعاقدة، من شرط المعاملة التشريعية بالمثل.",
+            "mt": "(2) Toţii, după trei ani de rezid în orice stat semnatar, sunt scutiţi de de a trata altor state cu privire la acest subiect ca fiind reciproc aplicabilă.",
+            "ref": "2. Dupa o perioada de rezidenta de trei ani, toti refugiatii vor beneficia pe teritoriul statelor contractante de dispensa de reciprocitate legislativa.",
+            "COMET": 0.2371966540813446
+        },
+        {
+            "src": "3. تواصل كل دولة متعاقدة منح اللاجئين الحقوق والمزايا التي كانوا مؤهلين لها فعلا، مع عدم توفر معاملة بالمثل، بتاريخ بدء نفاذ هذه الاتفاقية إزاء الدولة المذكورة.",
+            "mt": "În al treilea rând, fiecare stat contractant va continua să acorde refugiaților drepturi și privilegii la care aveau dreptul în mod efectiv înainte de data intrării în vigoare a prezentei convenții cu privire la acest stat, în pofida inexistenței unui recurs reciproc.",
+            "ref": "3. Orice stat contractant va continua sa acorde refugiatilor drepturile si avantajele pe care ei puteau sa le pretinda, in absenta reciprocitatii, la data intrarii in vigoare a prezentei conventii pentru statul respectiv.",
+            "COMET": 0.8342031240463257,
+            "errors": [
+                {
+                    "text": "unui recurs reciproc",
+                    "confidence": 0.335693359375,
+                    "severity": "major",
+                    "start": 246,
+                    "end": 267
+                }
+            ]
+        },
+        {
+            "src": "4. تنظر الدول المتعاقدة بعين العطف في إمكانية منح اللاجئين، مع عدم توفر معاملة بالمثل، حقوقا ومزايا بالإضافة إلي تلك التي تؤهلهم لها الفقرتان 2 و 3، وكذلك في إمكانية جعل الإعفاء من المعاملة بالمثل يشمل لاجئين لا يستوفون الشروط المنصوص عليها في الفقرتين 2 و3.",
+            "mt": "(4) Statele contractante acordă atenția cuvenită posibilității de a prevedea, fără a aduce atingere dispozițiilor referitoare la refugiații care sunt resortisanți ai unei țări aflate în război cu Regatul Unit și Franța sau care au avut reședința în această țară înainte de plecarea lor din această țară, drepturi și avantaje suplimentare față de cele menționate la literele (a) și (b), precum și întrebarea dacă ar fi de dorit să se renunțe la cerința de reciprocitate în temeiul prezentelor alineate în ceea ce privește alte categorii de refugiați care nu se încadrează în aceste state.",
+            "ref": "4. Statele contractante vor lua in considerare cu bunavointa posibilitatea de a acorda refugiatilor, in absenta reciprocitatii, drepturi si avantaje, in afara celor pe care le-ar putea pretinde in virtutea paragrafelor 2 si 3, precum si posibilitatea pentru refugiatii care nu indeplinesc conditiile vizate la paragrafele 2 si 3 de a beneficia de dispensa de reciprocitate.",
+            "COMET": 0.2458331286907196
+        },
+        {
+            "src": "5. تنطبق أحكام الفقرتين 2 و 3 علي الحقوق والمزايا المذكورة في المواد 13 و 18 و 19 و 21 و 22 من هذه الاتفاقية كما تنطبق علي الحقوق والمزايا التي لا تنص عليها هذه الاتفاقية.",
+            "mt": "(5) Dispozițiile alineatelor (2) și (3) se aplică drepturilor și prestațiilor menționate la articolele 13, 18, 19, 21 și 22 din prezenta convenție, precum și celor care nu sunt prevăzute de prezenta convenție.",
+            "ref": "5. Dispozitiile paragrafelor 2 si 3 de mai sus se aplica, de asemenea, drepturilor si avantajelor vizate la art. 13, 18, 19, 21 si 22 ale prezentei conventii, ca si drepturilor si avantajelor care nu sint prevazute de catre aceasta.",
+            "COMET": 0.9680469036102295
+        },
+        {
+            "src": "المادة 8: الإعفاء من التدابير الاستثنائية",
+            "mt": "Articolul 8: exceptarea de la măsuri excepționale",
+            "ref": "ARTICOLUL 8 Dispensa de masuri exceptionale",
+            "COMET": 0.9870789051055908,
+            "errors": [
+                {
+                    "text": "except",
+                    "confidence": 0.4052734375,
+                    "severity": "minor",
+                    "start": 12,
+                    "end": 19
+                }
+            ]
+        },
+        {
+            "src": "حين يتعلق الأمر بالتدابير الاستثنائية التي يمكن أن تتخذ ضد أشخاص أو ممتلكات أو مصالح مواطني دولة أجنبية معينة، تمتنع الدول المتعاقدة عن تطبيق هذه التدابير علي أي لاجئ يحمل رسميا جنسية تلك الدولة لمجرد كونه يحمل هذه الجنسية. وعلي الدول المتعاقدة التي لا تستطيع بمقتضى تشريعها تطبيق المبدأ العام المنصوص عليه في هذه المادة أن تقوم، في الحالات المناسبة، بمنح إعفاءات لمثل هؤلاء اللاجئين.",
+            "mt": "Atunci când este vorba de măsuri extraordinare care pot fi luate împotriva persoanelor, bunurilor sau intereselor unui anumit stat străin, statele contractante se abțin de la aplicarea acestor măsuri oricărui refugiat care deține pașaportul oficial eliberat de acest stat numai ca urmare a faptului că deține o astfel de cetățenie.",
+            "ref": "In ce priveste masurile exceptionale care pot fi luate impotriva persoanei, bunurilor sau intereselor cetatenilor unui stat determinat, statele contractante nu vor aplica aceste masuri unui refugiat, cetatean formal al sus-numitului stat, numai in considerarea cetateniei sale. Statele contractante care, potrivit legislatiei lor, nu pot aplica principiul general consacrat in acest articol, vor acorda, in cazurile corespunzatoare, dispense in favoarea unor asemenea refugiati.",
+            "COMET": 0.787262499332428,
+            "errors": [
+                {
+                    "text": "unui",
+                    "confidence": 0.40625,
+                    "severity": "major",
+                    "start": 113,
+                    "end": 118
+                },
+                {
+                    "text": "stat străin",
+                    "confidence": 0.4248046875,
+                    "severity": "major",
+                    "start": 125,
+                    "end": 137
+                },
+                {
+                    "text": "ul",
+                    "confidence": 0.3525390625,
+                    "severity": "minor",
+                    "start": 238,
+                    "end": 240
+                }
+            ]
+        },
+        {
+            "src": "المادة 9: التدابير المؤقتة",
+            "mt": "Articolul 9: Măsuri temporare",
+            "ref": "ARTICOLUL 9 Masuri provizorii",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "ليس في أي من أحكام هذه الاتفاقية ما يمنع دولة متعاقدة، في زمن الحرب أو في غيره من الظروف الخطيرة والاستثنائية، من أن تتخذ مؤقتا من التدابير، بحق شخص معين، ما تعتبره أساسيا لأمنها القومي، ريثما يثبت لتلك الدولة المتعاقدة أن هذا الشخص لاجئ بالفعل وأن الإبقاء علي تلك التدابير ضروري في حالته لصالح أمنها القومي.",
+            "mt": "În temeiul prezentei convenții, un stat contractant nu poate aplica legile sale oricărui refugiat care ajunge pe teritoriul său decât încircumstan extreme și excepționale” legate de securitatea națională.",
+            "ref": "Nici una din dispozitiile prezentei conventii nu are ca efect impiedicarea vreunui stat contractant, in timp de razboi sau in alte circumstante grave si exceptionale, de a lua, in mod provizoriu, cu privire la o persoana determinata, masurile pe care acest stat le apreciaza indispensabile securitatii nationale, pina la stabilirea de catre statul contractant respectiv ca aceasta persoana este efectiv un refugiat si ca mentinerea sus-ziselor masuri este necesara, in cazul sau, in interesul securitatii nationale.",
+            "COMET": 0.4420458972454071
+        },
+        {
+            "src": "المادة 10: تواصل الإقامة",
+            "mt": "Articolul 10: Reședi",
+            "ref": "ARTICOLUL 10 Continuitatea de resedinta",
+            "COMET": 0.9226257801055908,
+            "errors": [
+                {
+                    "text": ": Reședi",
+                    "confidence": 0.45068359375,
+                    "severity": "minor",
+                    "start": 12,
+                    "end": 20
+                }
+            ]
+        },
+        {
+            "src": "حين يكون اللاجئ قد أبعد قسرا خلال الحرب العالمية الثانية ونقل إلى أرض دولة متعاقدة، ويكون مقيما فيها، تعتبر فترة مكوثه القسري هذه بمثابة إقامة شرعية في أرض هذه الدولة.",
+            "mt": "Atunci când un refugiat a fost îndepărtat cu forța în timpul celui de-al doilea război mondial și transportat pe teritoriul unui stat contractant și își are reședința acolo, se consideră că perioada sa de ședere forțată a fost petrecută în mod legal pe teritoriul țării respective.",
+            "ref": "1. Atunci cind un refugiat a fost deportat in cursul celui de-al doilea razboi mondial si transportat pe teritoriul unuia dintre statele contractante, unde isi are resedinta, durata acestei resedinte fortate este considerata ca resedinta regulata pe acest teritoriu.",
+            "COMET": 0.9690234661102295
+        },
+        {
+            "src": "حين يكون اللاجئ قد أبعد قسرا أثناء الحرب العالمية الثانية عن أرض دولة متعاقدة، ثم عاد إليها قبل بدء نفاذ هذه الاتفاقية ليتخذ مقاما فيها، تعتبر فترتا إقامته السابقة واللاحقة لهذا الإبعاد القسري، من أجل أية أغراض تتطلب إقامة غير منقطعة، بمثابة فترة واحدة غير منقطعة.",
+            "mt": "Atunci când un refugiat a fost forțat să părăsească țara de reședință în timpul celui de-al doilea război mondial și se întoarce la aceasta înainte de intrarea în vigoare a prezentei convenții cu intenția de a-și face din aceasta noua sa locuință permanentă, perioada sa de ședere anterioară este considerată continuă dacă rămâne în afara sau nu se poate întoarce din cauza unor evenimente care nu pot fi controlate de el.",
+            "ref": "2. Atunci cind un refugiat a fost deportat de pe teritoriul unui stat contractant in cursul celui de-al doilea razboi mondial, iar el s-a intors in acel stat inainte de intrarea in vigoare a prezentei conventii, cu scopul de asi stabili resedinta pe acest teritoriu, perioada care precede si aceea care urmeaza acestei deportari vor fi considerate, pentru toate situatiile in care o resedinta neintrerupta este necesara, ca reprezentind o singura perioada neintrerupta.",
+            "COMET": 0.4265683591365814,
+            "errors": [
+                {
+                    "text": "dere anter",
+                    "confidence": 0.345947265625,
+                    "severity": "major",
+                    "start": 276,
+                    "end": 286
+                },
+                {
+                    "text": "continuă dacă rămâne în afara sau nu se poate întoarce din",
+                    "confidence": 0.425537109375,
+                    "severity": "major",
+                    "start": 308,
+                    "end": 367
+                },
+                {
+                    "text": "unor evenimente",
+                    "confidence": 0.35986328125,
+                    "severity": "major",
+                    "start": 373,
+                    "end": 389
+                },
+                {
+                    "text": "el",
+                    "confidence": 0.349609375,
+                    "severity": "major",
+                    "start": 418,
+                    "end": 421
+                }
+            ]
+        },
+        {
+            "src": "المادة 11: البحارة واللاجئون",
+            "mt": "Articolul 11: Marinarii și refugiații",
+            "ref": "ARTICOLUL 11 Marinari refugiati",
+            "COMET": 0.9890429973602295
+        },
+        {
+            "src": "في حالة اللاجئين الذين يعملون بصورة منتظمة كأعضاء في طاقم سفينة ترفع علم دولة متعاقدة، تنظر هذه الدولة بعين العطف في إمكانية السماح لهؤلاء اللاجئين بالاستقرار علي أرضها وتزويدهم بوثائق سفر، أو في قبولهم مؤقتا علي أرضها تسهيلا، علي الخصوص، لاستقرارهم في بلد آخر.",
+            "mt": "În cazul refugiaților care au fost angajați în mod regulat ca membri ai echipajului la bordul navelor înregistrate într-un stat contractant, acest stat va lua în considerare cu simpatie posibilitatea de a permite acestor refugiați să se stabilească acolo și să le acorde documente de călătorie sau să le pună temporar la dispoziția sa pentru a facilita stabilirea lor în altă parte.",
+            "ref": "In cazul refugiatilor folositi in mod regulat ca membri ai echipajului la bordul unei nave purtind pavilionul unui stat contractant, acest stat va examina cu bunavointa posibilitatea de a autoriza ca respectivii refugiati sa se stabileasca pe teritoriul sau si sa le elibereze documente de calatorie sau de a -i admite, cu titlu temporar, pe teritoriul sau, indeosebi in scopul facilitarii stabilirii lor intr-o alta tara.",
+            "COMET": 0.6943906545639038,
+            "errors": [
+                {
+                    "text": "simpatie",
+                    "confidence": 0.372314453125,
+                    "severity": "major",
+                    "start": 176,
+                    "end": 185
+                },
+                {
+                    "text": "le pun",
+                    "confidence": 0.4248046875,
+                    "severity": "major",
+                    "start": 300,
+                    "end": 307
+                },
+                {
+                    "text": "temporar la",
+                    "confidence": 0.4189453125,
+                    "severity": "major",
+                    "start": 308,
+                    "end": 320
+                },
+                {
+                    "text": "sa pentru",
+                    "confidence": 0.38134765625,
+                    "severity": "major",
+                    "start": 331,
+                    "end": 341
+                }
+            ]
+        },
+        {
+            "src": "الفصل الثاني: الوضع القانوني",
+            "mt": "Al doilea capitol: Statutul juridic",
+            "ref": "CAPITOLUL 2 Conditia juridica",
+            "COMET": 0.9690015316009521,
+            "errors": [
+                {
+                    "text": "doilea",
+                    "confidence": 0.36328125,
+                    "severity": "minor",
+                    "start": 2,
+                    "end": 9
+                },
+                {
+                    "text": "Statutul juridic",
+                    "confidence": 0.414794921875,
+                    "severity": "minor",
+                    "start": 18,
+                    "end": 35
+                }
+            ]
+        },
+        {
+            "src": "المادة 12: الأحوال الشخصية",
+            "mt": "Articolul 12: Statutul personal",
+            "ref": "ARTICOLUL 12 Statut personal",
+            "COMET": 0.9914734363555908,
+            "errors": [
+                {
+                    "text": "Statutul personal",
+                    "confidence": 0.444091796875,
+                    "severity": "minor",
+                    "start": 13,
+                    "end": 31
+                }
+            ]
+        },
+        {
+            "src": "1. تخضع أحوال اللاجئ الشخصية لقانون بلد موطنه، أو لقانون بلد إقامته إذا لم يكن له موطن.",
+            "mt": "(1) Statutul de refugiat este supus legii țării sale de origine sau celei a țării în care își are reședința, în cazul în care nu are o țară de origine.",
+            "ref": "1. Statutul personal al unui refugiat va fi guvernat de legea tarii unde isi are domiciliul sau, in lipsa unui domiciliu, de legea tarii unde isi are resedinta.",
+            "COMET": 0.9763476848602295
+        },
+        {
+            "src": "2. تحترم الدولة المتعاقدة حقوق اللاجئ المكتسبة والناجمة عن أحواله الشخصية، ولا سيما الحقوق المرتبطة بالزواج، علي أن يخضع ذلك عند الاقتضاء لاستكمال الشكليات المنصوص عليها في قوانين تلك الدولة، ولكن شريطة أن يكون الحق المعني واحد من الحقوق التي كان سيعترف بها تشريع الدولة المذكورة لو لم يصبح صاحبه لاجئا.",
+            "mt": "(2) Statul contractant respectă drepturile dobândite ale refugiatului și cele care rezultă din statutul său, în special cele legate de căsătorie, sub rezerva, atunci când este necesar, a îndeplinirii formal prevăzute de legislația acestui stat; dar cu condiția ca acest drept să fie unul care ar fi fost recunoscut de legislația acestui stat dacă acesta nu ar fi devenit stat de azil.",
+            "ref": "2. Drepturile dobindite anterior de catre refugiat, care decurg din statutul personal, in special cele care rezulta din casatorie, vor fi recunoscute de catre fiecare stat contractant, sub rezerva, daca va fi cazul, a indeplinirii formalitatilor prevazute de legislatia statului respectiv, intelegindu-se, totusi, ca dreptul in cauza trebuie sa fie dintre cele care ar fi fost recunoscute de legislatia statului respectiv, daca cel in cauza n-ar fi devenit un refugiat.",
+            "COMET": 0.6212031245231628,
+            "errors": [
+                {
+                    "text": "respect",
+                    "confidence": 0.37451171875,
+                    "severity": "major",
+                    "start": 22,
+                    "end": 30
+                },
+                {
+                    "text": "îndeplinirii formal prevăzut",
+                    "confidence": 0.437255859375,
+                    "severity": "major",
+                    "start": 186,
+                    "end": 215
+                },
+                {
+                    "text": "devenit stat de azil",
+                    "confidence": 0.4013671875,
+                    "severity": "major",
+                    "start": 362,
+                    "end": 383
+                }
+            ]
+        },
+        {
+            "src": "المادة 13: ملكية الأموال المنقولة وغير المنقولة",
+            "mt": "Articolul 13: Proprietatea asupra banilor mobili și imobili",
+            "ref": "ARTICOLUL 13 Proprietate mobiliara si imobiliara",
+            "COMET": 0.845910906791687,
+            "errors": [
+                {
+                    "text": "banilor mobili",
+                    "confidence": 0.404296875,
+                    "severity": "major",
+                    "start": 33,
+                    "end": 48
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.347900390625,
+                    "severity": "minor",
+                    "start": 58,
+                    "end": 59
+                }
+            ]
+        },
+        {
+            "src": "تمنح الدول المتعاقدة كل لاجئ أفضل معاملة ممكنة، لا تكون في أي حال أدني رعاية من تلك الممنوحة، في نفس الظروف، للأجانب عامة، في ما يتعلق باحتياز الأموال المنقولة وغير المنقولة والحقوق الأخرى المرتبطة بها، وبالإيجار وغيره من العقود المتصلة بملكية الأموال المنقولة وغير المنقولة.",
+            "mt": "Statele contractante vor acorda unui refugiat același tratament, care nu este mai puțin favorabil decât cel acordat de ele cetățenilor lor în ceea ce privește dobândirea, deținerea și cedarea drepturilor de proprietate, reale sau personale, legate de terenuri, precum și orice alte avantaje economice care decurg din proprietatea asupra acestor proprietăți.",
+            "ref": "Statele contractante vor acorda oricarui refugiat un tratament cit mai favorabil posibil si, in orice caz, un tratament care sa nu fie mai putin favorabil decit cel acordat, in aceleasi imprejurari, strainilor in general, in ce priveste dobindirea de proprietati mobiliare si imobiliare, precum si de alte drepturi care se refera la acestea, inchirierea si alte contracte privind proprietatea mobiliara si imobiliara.",
+            "COMET": 0.5855039358139038,
+            "errors": [
+                {
+                    "text": "ce",
+                    "confidence": 0.30419921875,
+                    "severity": "major",
+                    "start": 183,
+                    "end": 186
+                },
+                {
+                    "text": "reale sau personale, legate",
+                    "confidence": 0.380126953125,
+                    "severity": "major",
+                    "start": 219,
+                    "end": 247
+                },
+                {
+                    "text": "terenuri",
+                    "confidence": 0.364013671875,
+                    "severity": "major",
+                    "start": 250,
+                    "end": 259
+                },
+                {
+                    "text": "economic",
+                    "confidence": 0.290771484375,
+                    "severity": "major",
+                    "start": 290,
+                    "end": 299
+                }
+            ]
+        },
+        {
+            "src": "المادة 14: الحقوق الفنية والملكية الصناعية",
+            "mt": "Articolul paisprezece: Proprietatea intelectuală și drepturile artistice",
+            "ref": "ARTICOLUL 14 Proprietate intelectuala si industriala",
+            "COMET": 0.9782788753509521,
+            "errors": [
+                {
+                    "text": "pai",
+                    "confidence": 0.40087890625,
+                    "severity": "minor",
+                    "start": 9,
+                    "end": 13
+                },
+                {
+                    "text": "drepturile artistic",
+                    "confidence": 0.428955078125,
+                    "severity": "minor",
+                    "start": 51,
+                    "end": 71
+                }
+            ]
+        },
+        {
+            "src": "في مجال حماية الملكية الصناعية، كالاختراعات والتصاميم أو النماذج والعلامات المسجلة والأسماء التجارية، وفي مجال حماية الحقوق علي الأعمال الأدبية والفنية والعلمية، يمنح اللاجئ في بلد إقامته المعتادة نفس الحماية الممنوحة لمواطني ذلك البلد، ويمنح في إقليم أي من الدول المتعاقدة الأخرى نفس الحماية الممنوحة في ذلك الإقليم لمواطني بلد إقامته المعتادة.",
+            "mt": "În domeniul proprietății intelectuale, cum ar fi brevetele, desenele sau modelele industriale, mărcile comerciale și denumirile comerciale, precum și în domeniul drepturilor de autor pentru opere literare, științifice și artistice, unui refugiat aflat în locul său obișnuit de reședință i se acordă aceeași protecție acordată resortisanților țării respective și i se acordă pe teritoriul unuia dintre statele contractante aceeași protecție acordată în acest stat resortisanților locului său obișnuit de reședință.",
+            "ref": "In materie de protectie a proprietatii industriale, in special de inventii, desene, modele, marci de fabrica, firme de comert si in materie de protectie a proprietatii literare, artistice si stiintifice, orice refugiat va beneficia, in tara unde isi are resedinta obisnuita, de aceeasi protectie care este acordata nationalilor tarii respective. Pe teritoriul oricaruia dintre statele contractante, el se va bucura de aceeasi protectie care este acordata pe teritoriul respectiv cetatenilor tarii in care el isi are resedinta obisnuita.",
+            "COMET": 0.7003046870231628,
+            "errors": [
+                {
+                    "text": "resortisan",
+                    "confidence": 0.37451171875,
+                    "severity": "major",
+                    "start": 325,
+                    "end": 336
+                },
+                {
+                    "text": "stat resortisan",
+                    "confidence": 0.361083984375,
+                    "severity": "major",
+                    "start": 457,
+                    "end": 473
+                },
+                {
+                    "text": "locului",
+                    "confidence": 0.406982421875,
+                    "severity": "major",
+                    "start": 478,
+                    "end": 486
+                }
+            ]
+        },
+        {
+            "src": "المادة 15: حق الانتماء للجمعيات",
+            "mt": "Articolul 15: Dreptul de a constitui asociații",
+            "ref": "ARTICOLUL 15 Drepturi de asociere",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تمنح الدول المتعاقدة اللاجئين المقيمين بصورة نظامية في إقليمها، بصدد الجمعيات غير السياسية وغير المستهدفة للربح والنقابات المهنية، أفضل معاملة ممكنة تمنح، في نفس الظروف لمواطني بلد أجنبي.",
+            "mt": "Statele contractante vor acorda refugiaților care își au reședința pe teritoriul lor și care se află în afara oricărui loc de muncă obișnuit și care sunt membri ai asociațiilor religioase sau culturale, precum și ai organizațiilor non-profit și ai asociațiilor profesionale, același tratament de care beneficiază resortisanții unei țări care nu este parte contractantă la prezenta convenție în ceea ce privește calitatea de membru, dacă aceștia îndeplinesc toate celelalte cerințe pentru calitatea de membru menționată.",
+            "ref": "Statele contractante vor acorda refugiatilor care isi au resedinta legala pe teritoriul lor, in ce priveste asociatiile cu scop apolitic si nelucrativ si sindicatele profesionale, tratamentul cel mai favorabil acordat cetatenilor unei tari straine, in aceleasi imprejurari.",
+            "COMET": 0.51318359375,
+            "errors": [
+                {
+                    "text": "află în afara oricăru",
+                    "confidence": 0.397216796875,
+                    "severity": "major",
+                    "start": 95,
+                    "end": 117
+                },
+                {
+                    "text": "loc",
+                    "confidence": 0.380615234375,
+                    "severity": "major",
+                    "start": 118,
+                    "end": 122
+                },
+                {
+                    "text": "muncă obișnui",
+                    "confidence": 0.42919921875,
+                    "severity": "major",
+                    "start": 125,
+                    "end": 139
+                },
+                {
+                    "text": "resortisan",
+                    "confidence": 0.328857421875,
+                    "severity": "minor",
+                    "start": 312,
+                    "end": 323
+                },
+                {
+                    "text": "nu",
+                    "confidence": 0.36962890625,
+                    "severity": "major",
+                    "start": 341,
+                    "end": 344
+                },
+                {
+                    "text": "membru",
+                    "confidence": 0.387939453125,
+                    "severity": "major",
+                    "start": 423,
+                    "end": 430
+                },
+                {
+                    "text": "celelalte",
+                    "confidence": 0.35009765625,
+                    "severity": "major",
+                    "start": 462,
+                    "end": 472
+                },
+                {
+                    "text": "membru men",
+                    "confidence": 0.3876953125,
+                    "severity": "major",
+                    "start": 500,
+                    "end": 511
+                },
+                {
+                    "text": "ată",
+                    "confidence": 0.360595703125,
+                    "severity": "major",
+                    "start": 515,
+                    "end": 518
+                }
+            ]
+        },
+        {
+            "src": "المادة 16: حق التقاضي أمام المحاكم",
+            "mt": "Articolul 16: Dreptul la o cale de atac",
+            "ref": "ARTICOLUL 16 Dreptul de a sta in justitie",
+            "COMET": 0.9738953113555908,
+            "errors": [
+                {
+                    "text": "cale",
+                    "confidence": 0.397705078125,
+                    "severity": "minor",
+                    "start": 26,
+                    "end": 31
+                }
+            ]
+        },
+        {
+            "src": "1. يكون لكل لاجئ، علي أراضي جميع الدول المتعاقدة، حق التقاضي الحر أمام المحاكم.",
+            "mt": "(1) Fiecare refugiat, pe teritoriul tuturor statelor contractante, are acces liber la.",
+            "ref": "1. Orice refugiat va avea, pe teritoriul statelor contractante, acces liber si facil in fata tribunalelor.",
+            "COMET": 0.6993827819824219,
+            "errors": [
+                {
+                    "text": ", are acces liber la.",
+                    "confidence": 0.5888671875,
+                    "severity": "critical",
+                    "start": 65,
+                    "end": 86
+                }
+            ]
+        },
+        {
+            "src": "2. يتمتع كل لاجئ، في الدولة المتعاقدة محل إقامته المعتادة، بنفس المعاملة التي يتمتع بها المواطن من حيث حق التقاضي أمام المحاكم، بما في ذلك المساعدة القضائية، والإعفاء من ضمان أداء المحكوم به.",
+            "mt": "(2) Fiecare refugiat, în limitele resurselor sale, are aceleași drepturi ca și un cetățean în ceea ce privește beneficiul economic și cultural care rezultă din toate formele de proprietate intelectuală, astfel cum se prevede la articolul 78 și următoarele articole din prezenta convenție.",
+            "ref": "2. In statul contractant unde isi are resedinta obisnuita, orice refugiat se va bucura de acelasi tratament ca oricare cetatean in ce priveste accesul la tribunale, inclusiv asistenta judiciara si scutirea de cautiunea judicatum solvi ",
+            "COMET": 0.1926867663860321
+        },
+        {
+            "src": "3. في ما يتعلق بالأمور التي تتناولها الفقرة 2، يمنح كل لاجئ، في غير بلد إقامته المعتادة من بلدان الدول المتعاقدة، نفس المعاملة الممنوحة فيها لمواطني بلد إقامته المعتادة.",
+            "mt": "(3) În ceea ce privește aspectele reglementate la alineatul (2), fiecărui refugiat i se acordă, în țara sa de reședință, alta decât reședința sa obișnuită într-un stat contractant, același tratament ca și cel acordat în acest stat resortisanților săi în ceea ce privește educația, serviciile culturale și publice furnizate de asigurările sociale generale.",
+            "ref": "3. In statele contractante, altele decit cel unde isi are resedinta obisnuita, in legatura cu problemele vizate la paragraful 2, orice refugiat se va bucura de acelasi tratament ca cel acordat unui cetatean al tarii unde el isi are resedinta obisnuita.",
+            "COMET": 0.2958984375,
+            "errors": [
+                {
+                    "text": "resortisanților săi în ceea",
+                    "confidence": 0.406494140625,
+                    "severity": "critical",
+                    "start": 230,
+                    "end": 258
+                },
+                {
+                    "text": "privește educa",
+                    "confidence": 0.393310546875,
+                    "severity": "critical",
+                    "start": 261,
+                    "end": 276
+                },
+                {
+                    "text": ", serviciile culturale și publice furnizate de asigurările sociale generale",
+                    "confidence": 0.4423828125,
+                    "severity": "critical",
+                    "start": 279,
+                    "end": 354
+                }
+            ]
+        },
+        {
+            "src": "الفصل الثالث: أعمال الكسب",
+            "mt": "Capitolul 3: de afaceri",
+            "ref": "CAPITOLUL 3 Activitati lucrative",
+            "COMET": 0.8444570302963257,
+            "errors": [
+                {
+                    "text": "Capitolul 3: de afaceri",
+                    "confidence": 0.454345703125,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 23
+                }
+            ]
+        },
+        {
+            "src": "المادة 17: العمل المأجور",
+            "mt": "Articolul 17: Munca salariată",
+            "ref": "ARTICOLUL 17 Profesiuni salarizate",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تمنح الدول المتعاقدة اللاجئين المقيمين بصورة نظامية في إقليمها أفضل معاملة ممكنة تمنح، في نفس الظروف، لمواطني بلد أجنبي في ما يتعلق بحق ممارسة عمل مأجور.",
+            "mt": "(1) Statele contractante acordă refugiaților aflați pe teritoriul lor cel mai bun tratament posibil, similar celui acordat de aceștia, în condiții similare, resortisanților unei țări străine în ceea ce privește încadrarea în muncă.",
+            "ref": "1. Statele contractante vor acorda oricarui refugiat avind resedinta obisnuita pe teritoriul lor tratamentul cel mai favorabil acordat, in aceleasi imprejurari, cetatenilor unei tari straine in ce priveste exercitiul unei activitati profesionale salarizate.",
+            "COMET": 0.8811218738555908,
+            "errors": [
+                {
+                    "text": "resortisan",
+                    "confidence": 0.35546875,
+                    "severity": "minor",
+                    "start": 156,
+                    "end": 167
+                }
+            ]
+        },
+        {
+            "src": "2. وفي أي حال، لا تطبق علي اللاجئ التدابير التقييدية المفروضة علي الأجانب أو علي استخدام الأجانب من أجل حماية سوق العمل الوطنية إذا كان قد أعفي منها قبل تاريخ بدء نفاذ هذه الاتفاقية إزاء الدولة المتعاقدة المعنية، أو إذا كان مستوفيا أحد الشروط التالية:",
+            "mt": "(2), în orice caz, nici un refugiat nu va fi supus unor măsuri menite să reglementeze sau să limiteze drepturile străinilor sau ale resortisanților unei țări străine care își exercită șederea legală în statul contractant la acord, dacă astfel de măsuri nu au fost aplicate înainte de data la care prezenta convenție intră în vigoare în ceea ce privește respectivul stat contractant sau dacă este în măsură să dovedească una dintre următoarele condiții:",
+            "ref": "2. In orice caz, masurile restrictive impuse strainilor sau angajarii strainilor, in scopul protectiei pietei nationale a muncii, nu vor fi aplicabile refugiatilor care au fost deja dispensati de acestea la data intrarii in vigoare a acestei conventii de catre statul contractant interesat sau care indeplinesc una din urmatoarele conditii:",
+            "COMET": 0.51953125,
+            "errors": [
+                {
+                    "text": "(2),",
+                    "confidence": 0.38134765625,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 4
+                },
+                {
+                    "text": "reglement",
+                    "confidence": 0.3740234375,
+                    "severity": "major",
+                    "start": 72,
+                    "end": 82
+                },
+                {
+                    "text": "limite",
+                    "confidence": 0.357177734375,
+                    "severity": "major",
+                    "start": 92,
+                    "end": 99
+                },
+                {
+                    "text": "drepturile",
+                    "confidence": 0.389892578125,
+                    "severity": "major",
+                    "start": 101,
+                    "end": 112
+                },
+                {
+                    "text": "ilor sau ale resortisanților unei țări stră",
+                    "confidence": 0.38134765625,
+                    "severity": "major",
+                    "start": 119,
+                    "end": 162
+                },
+                {
+                    "text": "exercită șederea legal",
+                    "confidence": 0.41943359375,
+                    "severity": "major",
+                    "start": 174,
+                    "end": 197
+                },
+                {
+                    "text": "la acord",
+                    "confidence": 0.43408203125,
+                    "severity": "major",
+                    "start": 220,
+                    "end": 229
+                }
+            ]
+        },
+        {
+            "src": "(أ) أن يكون قد استكمل ثلاث سنوات من الإقامة في بالبلد،",
+            "mt": "a) să fi împlinit trei ani de în această;",
+            "ref": "a) au 3 ani de rezidenta in tara respectiva;",
+            "COMET": 0.5010312795639038,
+            "errors": [
+                {
+                    "text": "să fi",
+                    "confidence": 0.5380859375,
+                    "severity": "critical",
+                    "start": 2,
+                    "end": 8
+                },
+                {
+                    "text": "de în această",
+                    "confidence": 0.7890625,
+                    "severity": "critical",
+                    "start": 26,
+                    "end": 40
+                }
+            ]
+        },
+        {
+            "src": "(ب) أن يكون له زوج يحمل جنسية بلد إقامته. علي أن اللاجئ لا يستطيع أن يتذرع بانطباق هذا الحكم عليه إذا كان قد هجر زوجه،",
+            "mt": "(b) să aibă un de cetățenie a țării de reședință; cu toate acestea, refugiatul nu poate invoca această condiție dacă și-a părăsit",
+            "ref": "b) au ca sot o persoana posedind cetatenia tarii de resedinta. Un refugiat nu poate invoca beneficiul acestei dispozitii in cazul cind si-a abandonat sotul ;",
+            "COMET": 0.287353515625,
+            "errors": [
+                {
+                    "text": "(b) să aibă un de cetățenie a",
+                    "confidence": 0.5791015625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 29
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.41943359375,
+                    "severity": "critical",
+                    "start": 34,
+                    "end": 35
+                },
+                {
+                    "text": "re",
+                    "confidence": 0.705078125,
+                    "severity": "critical",
+                    "start": 38,
+                    "end": 41
+                },
+                {
+                    "text": "cu",
+                    "confidence": 0.62646484375,
+                    "severity": "critical",
+                    "start": 49,
+                    "end": 52
+                },
+                {
+                    "text": "și",
+                    "confidence": 0.724609375,
+                    "severity": "critical",
+                    "start": 116,
+                    "end": 119
+                }
+            ]
+        },
+        {
+            "src": "(ج) أن يكون له ولد أو أكثر يحمل جنسية بلد إقامته.",
+            "mt": "(c) să aibă un fiu sau mai mulți care dețin cetățenia locului său de reședință.",
+            "ref": "c) are unu sau mai multi copii posedind cetatenia tarii de resedinta.",
+            "COMET": 0.7012265920639038,
+            "errors": [
+                {
+                    "text": "(c) să aibă un fiu",
+                    "confidence": 0.473876953125,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 18
+                },
+                {
+                    "text": "mulți care",
+                    "confidence": 0.396484375,
+                    "severity": "major",
+                    "start": 26,
+                    "end": 37
+                },
+                {
+                    "text": "n",
+                    "confidence": 0.376708984375,
+                    "severity": "major",
+                    "start": 42,
+                    "end": 43
+                },
+                {
+                    "text": "locului",
+                    "confidence": 0.448974609375,
+                    "severity": "major",
+                    "start": 53,
+                    "end": 61
+                }
+            ]
+        },
+        {
+            "src": "3. تنظر الدول المتعاقدة بعين العطف في أمر اتخاذ تدابير لمساواة حقوق جميع اللاجئين بحقوق مواطنيها من حيث العمل المأجور، وعلي وجه الخصوص حقوق أولئك اللاجئين الذي دخلوا أراضيها بمقتضى برامج لجلب اليد العاملة أو خطط لاستقدام مهاجرين.",
+            "mt": "Trei, statele părți contractante privesc cu favoare măsurile de egalizare a drepturilor tuturor refugiaților cu cele ale cetățenilor lor în ceea ce privește salariile de angajare, în special drepturile acestor refugiați care au intrat pe teritoriile lor în cadrul programelor de recrutare a forței de muncă sau al planurilor de imigrare pentru lucrătorii calificați.",
+            "ref": "3. Statele contractante vor primi cu bunavointa adoptarea de masuri tinzind sa asimileze drepturile tuturor refugiatilor in ce priveste exercitarea de profesiuni salarizate cu acelea ale cetatenilor lor, in special pentru refugiatii care au intrat pe teritoriul lor in aplicarea unui program de recrutare de forta de munca sau a unui program de imigrare.",
+            "COMET": 0.619140625,
+            "errors": [
+                {
+                    "text": "Trei,",
+                    "confidence": 0.400146484375,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 5
+                },
+                {
+                    "text": "privesc cu favoare",
+                    "confidence": 0.416015625,
+                    "severity": "major",
+                    "start": 32,
+                    "end": 51
+                },
+                {
+                    "text": "salariile de angajare",
+                    "confidence": 0.50146484375,
+                    "severity": "major",
+                    "start": 156,
+                    "end": 178
+                },
+                {
+                    "text": "pentru",
+                    "confidence": 0.366455078125,
+                    "severity": "major",
+                    "start": 336,
+                    "end": 343
+                },
+                {
+                    "text": "califica",
+                    "confidence": 0.393310546875,
+                    "severity": "major",
+                    "start": 354,
+                    "end": 363
+                }
+            ]
+        },
+        {
+            "src": "المادة 18: العمل الحر",
+            "mt": "Articolul 18: Libertatea Ocupa",
+            "ref": "ARTICOLUL 18 Profesiuni nesalarizate",
+            "COMET": 0.5362968444824219,
+            "errors": [
+                {
+                    "text": ": Libertatea Ocupa",
+                    "confidence": 0.49658203125,
+                    "severity": "critical",
+                    "start": 12,
+                    "end": 30
+                }
+            ]
+        },
+        {
+            "src": "تمنح الدول المتعاقدة اللاجئين المقيمين بصورة نظامية في إقليمها أفضل معاملة ممكنة، وعلي ألا تكون في أي حال أقل رعاية من تلك الممنوحة للأجانب عامة في نفس الظروف، في ما يتعلق بممارستهم عملا لحسابهم الخاص في الزراعة والصناعة والحرف اليدوية والتجارة، وكذلك في إنشاء شركات تجارية وصناعية.",
+            "mt": "Statele contractante vor acorda refugiaților care locuiesc în mod normal pe teritoriul lor protecția și beneficiile care pot fi acordate, în același timp, străinilor care nu intră în domeniul de aplicare al prezentei convenții, cu condiția ca nimic din prezentul articol să nu poată fi interpretat ca negând dreptul refugiatului de a-și câștiga existența prin munca desfășurată pe cont propriu în agricultură, industrie, artizanat sau comerț sau pentru a stabili afaceri comerciale, industriale, agricole, artizanale sau de altă natură.",
+            "ref": "Statele contractante vor acorda refugiatilor care se afla in mod legal pe teritoriul lor tratamentul cel mai favorabil posibil si, in orice caz, un tratament nu mai putin favorabil decit cel acordat, in aceleasi imprejurari, strainilor in general, in ce priveste exercitarea unei profesiuni nesalarizate in agricultura, industrie, artizanat sau comert, precum si pentru crearea de societati comerciale si industriale.",
+            "COMET": 0.6132011413574219,
+            "errors": [
+                {
+                    "text": "pot",
+                    "confidence": 0.32470703125,
+                    "severity": "major",
+                    "start": 120,
+                    "end": 124
+                },
+                {
+                    "text": "nu in",
+                    "confidence": 0.348388671875,
+                    "severity": "major",
+                    "start": 170,
+                    "end": 176
+                }
+            ]
+        },
+        {
+            "src": "المادة 19: المهن الحرة",
+            "mt": "Articolul 19: Profesii gratuite",
+            "ref": "ARTICOLUL 19 Profesiuni libere",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تمنح الدول المتعاقدة اللاجئين المقيمين بصورة نظامية في إقليمها، إذا كانوا يحملون شهادات معترفا بها من قبل السلطات المختصة في الدولة ويرغبون في ممارسة مهنة حرة، أفضل معاملة ممكنة، على ألا تكون في أي حال أقل رعاية من تلك الممنوحة للأجانب عامة في نفس الظروف.",
+            "mt": "(1) Statele contractante acordă refugiaților care au reședința obișnuită pe teritoriul lor și care dețin certificate eliberate de autoritățile competente ale statului în cauză și recunoscute de refugiile care doresc să exercite o ocupație profesională sau independentă, un tratament care nu este mai puțin favorabil decât cel acordat resortisanților statului respectiv în condiții similare.",
+            "ref": "1. Fiecare stat contractant va acorda refugiatilor care se afla in mod legal pe teritoriul lor, titulari de diplome recunoscute de catre autoritatile competente ale statului respectiv si care doresc sa exercite o profesiune libera, un tratament cit mai favorabil posibil si, in orice caz, un tratament nu mai putin favorabil decit acela acordat, in aceleasi imprejurari, strainilor in general.",
+            "COMET": 0.5872675776481628,
+            "errors": [
+                {
+                    "text": "recunoscute de refugiile care",
+                    "confidence": 0.4248046875,
+                    "severity": "major",
+                    "start": 178,
+                    "end": 208
+                },
+                {
+                    "text": "sau independentă",
+                    "confidence": 0.4697265625,
+                    "severity": "major",
+                    "start": 251,
+                    "end": 268
+                },
+                {
+                    "text": "resortisanților statului respectiv",
+                    "confidence": 0.4306640625,
+                    "severity": "major",
+                    "start": 333,
+                    "end": 368
+                }
+            ]
+        },
+        {
+            "src": "2. تبذل الدول المتعاقدة قصارى جهدها، وفقا لقوانينها ودساتيرها، لتأمين استيطان مثل هؤلاء اللاجئين في غير إقليمها المتروبولي من الأقاليم التي تتولى هذه الدول المسؤولية عن علاقاتها الدولية.",
+            "mt": "(2) Statele contractante depun toate eforturile, în limitele practicii lor, pentru a facilita colonizarealor în afara teritoriului lor metropolitan.",
+            "ref": "2. Statele contractante vor face tot ceea ce le sta in putinta, in conformitate cu legile si constitutiile lor, pentru a asigura instalarea unor asemenea refugiati in teritorii, altele decit teritoriile metropolitane, pentru care ele isi asuma responsabilitatea relatiilor internationale.",
+            "COMET": 0.344482421875,
+            "errors": [
+                {
+                    "text": "le practic",
+                    "confidence": 0.38134765625,
+                    "severity": "major",
+                    "start": 58,
+                    "end": 68
+                },
+                {
+                    "text": ",",
+                    "confidence": 0.376953125,
+                    "severity": "major",
+                    "start": 74,
+                    "end": 75
+                },
+                {
+                    "text": "colonizarealor în",
+                    "confidence": 0.4345703125,
+                    "severity": "critical",
+                    "start": 93,
+                    "end": 111
+                },
+                {
+                    "text": "ui",
+                    "confidence": 0.392822265625,
+                    "severity": "major",
+                    "start": 128,
+                    "end": 130
+                },
+                {
+                    "text": "metropol",
+                    "confidence": 0.389892578125,
+                    "severity": "major",
+                    "start": 134,
+                    "end": 143
+                }
+            ]
+        },
+        {
+            "src": "الفصل الرابع: الرعاية",
+            "mt": "Capitolul 4: Îngrijire",
+            "ref": "CAPITOLUL 4 Bunastarea",
+            "COMET": 0.872278094291687,
+            "errors": [
+                {
+                    "text": "Capitolul",
+                    "confidence": 0.3603515625,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 9
+                },
+                {
+                    "text": "Îngrijire",
+                    "confidence": 0.47998046875,
+                    "severity": "major",
+                    "start": 12,
+                    "end": 22
+                }
+            ]
+        },
+        {
+            "src": "المادة 20: التوزيع المقنن",
+            "mt": "Articolul 20: Raționare",
+            "ref": "ARTICOLUL 20 Rationalizarea",
+            "COMET": 0.9323914051055908,
+            "errors": [
+                {
+                    "text": ": Raționare",
+                    "confidence": 0.41796875,
+                    "severity": "minor",
+                    "start": 12,
+                    "end": 23
+                }
+            ]
+        },
+        {
+            "src": "حيثما وجد نظام تقنين ينطبق علي عموم السكان ويخضع له التوزيع العمومي للمنتجات غير المتوفرة بالقدر الكافي، يعامل اللاجؤون معاملة المواطنين.",
+            "mt": "Ori de câte ori un sistem de raționalizare se aplică populației generale și controlează distribuția de produse care nu sunt suficient de disponibile, refugiații sunt ca cetățeni.",
+            "ref": "In cazul cind exista un sistem de rationalizare la care este supusa populatia in ansamblul sau si care reglementeaza repartitia generala a produselor la care exista o penurie, refugiatii vor avea tratamentul nationalilor.",
+            "COMET": 0.6421445608139038,
+            "errors": [
+                {
+                    "text": "ra",
+                    "confidence": 0.38671875,
+                    "severity": "major",
+                    "start": 28,
+                    "end": 31
+                },
+                {
+                    "text": "onal",
+                    "confidence": 0.34521484375,
+                    "severity": "major",
+                    "start": 33,
+                    "end": 37
+                },
+                {
+                    "text": "suficient",
+                    "confidence": 0.370849609375,
+                    "severity": "major",
+                    "start": 123,
+                    "end": 133
+                },
+                {
+                    "text": "refugiații sunt ca cetățeni",
+                    "confidence": 0.40380859375,
+                    "severity": "major",
+                    "start": 149,
+                    "end": 177
+                }
+            ]
+        },
+        {
+            "src": "المادة 21: الإسكان",
+            "mt": "Articolul 21: Locui",
+            "ref": "ARTICOLUL 21 Locuinte",
+            "COMET": 0.9611999988555908,
+            "errors": [
+                {
+                    "text": ": Locui",
+                    "confidence": 0.427978515625,
+                    "severity": "minor",
+                    "start": 12,
+                    "end": 19
+                }
+            ]
+        },
+        {
+            "src": "فيما يخص الإسكان، وبقدر ما يكون هذا الموضوع خاضعا للقوانين أو الأنظمة أو خاضعا لإشراف السلطات العامة، تمنح الدول المتعاقدة اللاجئين المقيمين بصورة نظامية في إقليمها أفضل معاملة ممكنة، علي ألا تكون في أي حال أقل رعاية من تلك الممنوحة للأجانب عامة في نفس الظروف.",
+            "mt": "În ceea ce privește locuințele, în măsura în care aceste aspecte sunt supuse legilor, reglementărilor sau supravegherii autorităților publice, statele părți oferă refugiaților care își au reședința pe teritoriul lor cel mai bun tratament posibil, cu excepția faptului că îngrijirea nu poate fi mai mică decât cea acordată străinilor, în general, în aceleași circumstanțe.",
+            "ref": "In privinta locuintelor, in masura in care aceasta problema intra sub incidenta legilor si regulamentelor sau este supusa controlului autoritatilor publice, statele contractante vor acorda refugiatilor care isi au resedinta legala pe teritoriul lor un tratament cit mai favorabil posibil; in orice caz, acest tratament nu va fi mai putin favorabil decit cel acordat, in aceleasi imprejurari, strainilor in general.",
+            "COMET": 0.822907030582428,
+            "errors": [
+                {
+                    "text": "cep",
+                    "confidence": 0.375,
+                    "severity": "major",
+                    "start": 252,
+                    "end": 255
+                },
+                {
+                    "text": "faptului",
+                    "confidence": 0.3662109375,
+                    "severity": "major",
+                    "start": 258,
+                    "end": 267
+                },
+                {
+                    "text": "îngriji",
+                    "confidence": 0.39697265625,
+                    "severity": "minor",
+                    "start": 270,
+                    "end": 278
+                }
+            ]
+        },
+        {
+            "src": "المادة 22: التعليم الرسمي",
+            "mt": "Articolul 22: Educație",
+            "ref": "ARTICOLUL 22 Educatie publica",
+            "COMET": 0.9914734363555908,
+            "errors": [
+                {
+                    "text": "Educație",
+                    "confidence": 0.401611328125,
+                    "severity": "minor",
+                    "start": 13,
+                    "end": 22
+                }
+            ]
+        },
+        {
+            "src": "1. تمنح الدول المتعاقدة اللاجئين نفس المعاملة الممنوحة لمواطنيها في ما يخص التعليم الأولي.",
+            "mt": "(1) Statele contractante acordă refugiaților același tratament pe care îl acordă propriilor cetățeni în ceea ce privește educația de nivel școlar inițial sau primar.",
+            "ref": "1. Statele contractante vor acorda refugiatilor acelasi tratament ca si cetatenilor lor in ceea ce priveste invatamintul primar.",
+            "COMET": 0.9831726551055908,
+            "errors": [
+                {
+                    "text": "lar",
+                    "confidence": 0.406494140625,
+                    "severity": "minor",
+                    "start": 142,
+                    "end": 145
+                }
+            ]
+        },
+        {
+            "src": "2. تمنح الدول المتعاقدة اللاجئين أفضل معاملة ممكنة، علي ألا تكون في أي حال أقل رعاية من تلك الممنوحة للأجانب عامة في نفس الظروف، في ما يخص فروع التعليم غير الأولي، وخاصة علي صعيد متابعة الدراسة، والاعتراف بالمصدقات والشهادات المدرسية والدرجات العلمية الممنوحة في الخارج، والإعفاء من الرسوم والتكاليف، وتقديم المنح الدراسية.",
+            "mt": "(2) Statele contractante acordă refugiaților cel mai bun tratament posibil, fără a fi mai puțin favorabil decât cel acordat străinilor în general în aceleași condiții, în ceea ce privește oportunitățile educaționale de tip neprimar și, în special, în ceea ce privește desfășurarea studiilor, recunoașterea certificatelor și diplomelor eliberate în străinătate, scutirea de taxe și costuri și acordarea de burse.",
+            "ref": "2. Statele contractante vor acorda refugiatilor un tratament cit mai favorabil posibil si, in orice caz, nu mai putin favorabil decit cel acordat strainilor in general, in aceleasi imprejurari, in privinta formelor de educatie, altele decit invatamintul primar si, in special, in ceea ce priveste accesul la studii, recunoasterea certificatelor de studii, a diplomelor si titlurilor universitare eliberate in strainatate, reducerea de taxe si impozite si acordarea de burse de studii.",
+            "COMET": 0.8507828116416931,
+            "errors": [
+                {
+                    "text": "fi",
+                    "confidence": 0.36572265625,
+                    "severity": "minor",
+                    "start": 82,
+                    "end": 85
+                },
+                {
+                    "text": "de tip neprimar",
+                    "confidence": 0.34912109375,
+                    "severity": "major",
+                    "start": 215,
+                    "end": 231
+                },
+                {
+                    "text": "cost",
+                    "confidence": 0.40966796875,
+                    "severity": "minor",
+                    "start": 380,
+                    "end": 385
+                }
+            ]
+        },
+        {
+            "src": "المادة 23: الإغاثة العامة",
+            "mt": "Articolul 23: Ameliorarea generală",
+            "ref": "ARTICOLUL 23 Asistenta publica",
+            "COMET": 0.8757070302963257,
+            "errors": [
+                {
+                    "text": "Ameliorarea generală",
+                    "confidence": 0.53076171875,
+                    "severity": "major",
+                    "start": 13,
+                    "end": 34
+                }
+            ]
+        },
+        {
+            "src": "تمنح الدول المتعاقدة اللاجئين المقيمين بصورة نظامية في إقليمها نفس المعاملة الممنوحة لمواطنيها في مجال الإغاثة والمساعدة العامة.",
+            "mt": "Statele contractante acordă refugiaților care sunt rezidenți regulari pe teritoriul lor același tratament pe care îl acordă propriilor cetățeni în ceea ce privește prestațiile de securitate socială.",
+            "ref": "Statele contractante vor acorda refugiatilor avind resedinta regulata pe teritoriul lor acelasi tratament in materie de asistenta si securitate publica ca si cel acordat cetatenilor lor.",
+            "COMET": 0.9690124988555908,
+            "errors": [
+                {
+                    "text": "regulari",
+                    "confidence": 0.42431640625,
+                    "severity": "minor",
+                    "start": 60,
+                    "end": 69
+                }
+            ]
+        },
+        {
+            "src": "المادة 24: تشريع العمل والضمان الاجتماعي",
+            "mt": "Articolul 24: Legislația privind munca și asigurările sociale",
+            "ref": "ARTICOLUL 24 Legislatia muncii si securitatii sociale",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تمنح الدول المتعاقدة اللاجئين المقيمين بصورة نظامية في إقليمها نفس المعاملة الممنوحة للمواطنين فيما يخص الأمور التالية:",
+            "mt": "(1) Statele contractante acordă refugiaților care sunt locuitori obișnuiți ai teritoriului lor același tratament pe care îl acordă propriilor cetățeni în ceea ce privește aspectele enumerate mai jos.",
+            "ref": "1. Statele contractante vor acorda refugiatilor avind resedinta regulata pe teritoriul lor acelasi tratament ca si cetatenilor lor in ceea ce priveste urmatoarele materii:",
+            "COMET": 0.9807422161102295
+        },
+        {
+            "src": "(أ) في حدود كون هذه الشؤون خاضعة للقوانين والأنظمة أو لإشراف السلطات الإدارية: الأجر بما فيه الإعانات العائلية إذا كانت تشكل جزءا من الأجر، وساعات العمل، والترتيبات الخاصة بساعات العمل الإضافية، والأجازات المدفوعة الأجر، والقيود علي العمل في المنزل، والحد الأدنى لسن العمل، والتلمذة والتدريب المهني، وعمل النساء والأحداث، والاستفادة من المزايا التي توفرها عقود العمل الجماعية،",
+            "mt": "În măsura în care aceste aspecte sunt supuse legilor și reglementărilor sau autorității administrative, salariile, inclusiv prestațiile familiale, dacă fac parte din salariu, orele de muncă, dispozițiile speciale privind orele de lucru suplimentare, concediile plătite, restricțiile privind serviciul casnic, vârsta minimă pentru angajare, programele de ucenicie și formare profesională, munca femeilor și a minorilor, accesul la prestațiile prevăzute de contractele colective de muncă,",
+            "ref": "a) in masura in care aceste probleme sint reglementate de legislatie sau depind de autoritatile administrative, remuneratia, inclusiv alocatiile de familie, atunci cind aceste alocatii fac parte din remuneratie, durata timpului de munca, orele suplimentare, concediile platite, restrictiile privind munca la domiciliu, virsta minima de angajare, ucenicia si formarea profesionala, munca femeilor si a adolescentilor, beneficiul avantajelor oferite de contractele colective de munca;",
+            "COMET": 0.737457811832428,
+            "errors": [
+                {
+                    "text": "sau",
+                    "confidence": 0.324462890625,
+                    "severity": "minor",
+                    "start": 71,
+                    "end": 75
+                },
+                {
+                    "text": "familia",
+                    "confidence": 0.353515625,
+                    "severity": "major",
+                    "start": 135,
+                    "end": 143
+                },
+                {
+                    "text": "casnic",
+                    "confidence": 0.369140625,
+                    "severity": "major",
+                    "start": 300,
+                    "end": 307
+                }
+            ]
+        },
+        {
+            "src": "(ب) الضمان الاجتماعي (الأحكام القانونية الخاصة بإصابات العمل والأمراض المهنية والأمومة والمرض والعجز والشيخوخة والوفاة والبطالة والأعباء العائلية، وأية طوارئ أخري تنص القوانين والأنظمة علي جعلها مشمولة بنظام الضمان الاجتماعي)، رهنا بالقيود التي قد تفرضها:",
+            "mt": "(b) asigurările sociale (dis legale privind vătămările corporale și bolile profesionale ale lucrătorilor, concediul de maternitate, boala, handicapul, bătrânețea, decesul și indemnizațiile de, sarcinile familiale și orice altă situație de urgență prevăzută de actele cu putere de lege și normele administrative care urmează să fie acoperite de un sistem de securitate socială), sub rezerva restricțiilor care pot fi impuse de:",
+            "ref": "b) asigurarile sociale (dispozitiile legale cu privire la accidentele de munca, bolile profesionale, maternitate, boli, invaliditate, batrinete, deces, somaj, sarcini familiale, precum si cu privire la orice alt risc care, potrivit legislatiei nationale, este acoperit de catre un sistem de securitate sociala), sub rezerva:",
+            "COMET": 0.544921875,
+            "errors": [
+                {
+                    "text": "dis legale",
+                    "confidence": 0.3837890625,
+                    "severity": "major",
+                    "start": 25,
+                    "end": 35
+                },
+                {
+                    "text": "și indemnizațiile de, sarcinile",
+                    "confidence": 0.435546875,
+                    "severity": "major",
+                    "start": 170,
+                    "end": 202
+                },
+                {
+                    "text": "urge",
+                    "confidence": 0.443359375,
+                    "severity": "major",
+                    "start": 238,
+                    "end": 243
+                },
+                {
+                    "text": "administrative",
+                    "confidence": 0.37353515625,
+                    "severity": "major",
+                    "start": 295,
+                    "end": 310
+                },
+                {
+                    "text": "urmează",
+                    "confidence": 0.42236328125,
+                    "severity": "major",
+                    "start": 315,
+                    "end": 323
+                },
+                {
+                    "text": "de:",
+                    "confidence": 0.40478515625,
+                    "severity": "major",
+                    "start": 422,
+                    "end": 426
+                }
+            ]
+        },
+        {
+            "src": "\"1\" ترتيبات ملائمة تهدف للحفاظ علي الحقوق المكتسبة أو التي هي قيد الاكتساب،",
+            "mt": "Un mod de a gândi despre acest lucru este că este un set de aranjamente menite să mențină sau să protejeze drepturile existente, sau cele care sunt achiziționate.",
+            "ref": "i) aranjamentelor corespunzatoare vizind mentinerea drepturilor cistigate si a drepturilor in curs de dobindire;",
+            "COMET": 0.26953125,
+            "errors": [
+                {
+                    "text": "Un mod de a gândi despre acest lucru este că este",
+                    "confidence": 0.6103515625,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 49
+                },
+                {
+                    "text": "a",
+                    "confidence": 0.37353515625,
+                    "severity": "critical",
+                    "start": 59,
+                    "end": 61
+                },
+                {
+                    "text": "sunt",
+                    "confidence": 0.367919921875,
+                    "severity": "major",
+                    "start": 142,
+                    "end": 147
+                },
+                {
+                    "text": "onate",
+                    "confidence": 0.34521484375,
+                    "severity": "major",
+                    "start": 156,
+                    "end": 161
+                }
+            ]
+        },
+        {
+            "src": "\"2\" قوانين أو أنظمة خاصة ببلد الإقامة قد تفرض أحكاما خاصة بشأن الإعانة الحكومية الكلية أو الجزئية المدفوعة بكاملها من الأموال العامة، وبشأن الإعانات المدفوعة للأشخاص الذين لا يستوفون شروط المساهمة المفروضة لمنح راتب تقاعدي عادي.",
+            "mt": "Legile sau regulamentele unei anumite țări pot impune speciale privind asistența guvernamentală totală sau parțială plătită în întregime din fonduri publice, precum și subvențiile plătite persoanelor fizice care nu îndeplinesc cerințele de contribuție pentru dreptul la o pensie obișnuită.",
+            "ref": "ii) dispozitiilor speciale prevazute de legislatia nationala a tarii de resedinta, vizind prestatiile sau fractiunile de prestatii platibile exclusiv din fondurile publice, ca si alocatiile varsate persoanelor care nu indeplinesc conditiile privind cotizatia pentru obtinerea unei pensii normale.",
+            "COMET": 0.7961171865463257,
+            "errors": [
+                {
+                    "text": "pot impune speciale privind asisten",
+                    "confidence": 0.470947265625,
+                    "severity": "major",
+                    "start": 42,
+                    "end": 78
+                }
+            ]
+        },
+        {
+            "src": "2. إن حق التعويض عن وفاة لاجئ بنتيجة إصابة عمل أو مرض مهني لا يتأثر بوقوع مكان إقامة المستحق خارج إقليم الدولة المتعاقدة.",
+            "mt": "(2) Dreptul la despăgubiri pentru decesul unui refugiat ca urmare a unui prejudiciu industrial sau a unei boli profesionale nu este afectat de faptul că locul său de reședință se află în afara teritoriului unui stat contractant.",
+            "ref": "2. Drepturile la prestatie rezultate din decesul unui refugiat, ca urmare a unui accident de munca sau a unei boli profesionale, nu vor fi afectate de faptul ca persoana indreptatita isi are resedinta in afara teritoriului statului contractant.",
+            "COMET": 0.9050039052963257,
+            "errors": [
+                {
+                    "text": "prejudiciu industrial",
+                    "confidence": 0.435546875,
+                    "severity": "major",
+                    "start": 72,
+                    "end": 94
+                }
+            ]
+        },
+        {
+            "src": "3. تجعل الدول المتعاقدة المزايا الناجمة عن الاتفاقات التي عقدتها أو التي يمكن أن تعقدها، والخاصة بالحفاظ علي الحقوق المكتسبة أو التي هي قيد الاكتساب علي صعيد الضمان الاجتماعي، شاملة للاجئين، دون أن يرتهن ذلك إلا باستيفاء اللاجئ للشروط المطلوبة من مواطني الدول الموقعة علي الاتفاقات المعنية.",
+            "mt": "(3) Beneficiază de avantajele rezultate din acordurile încheiate sau care pot fi încheiate de statele contractante cu privire la păstrarea drepturilor dobândite sau care urmează să fie dobândite în materie de securitate socială, aplicabile refugiaților, fără a aduce atingere condițiilor stabilite pentru resortisanții acestor state în temeiul acordurilor menționate.",
+            "ref": "3. Statele contractante vor extinde pentru refugiati efectele favorabile ale acordurilor pe care le-au incheiat sau le vor incheia intre ele, cu privire la mentinerea drepturilor cistigate sau in curs de dobindire, in materie de securitate sociala, daca refugiatii indeplinesc conditiile prevazute pentru cetatenii tarilor semnatare ale acordurilor respective.",
+            "COMET": 0.321533203125,
+            "errors": [
+                {
+                    "text": "(3) Beneficiază de",
+                    "confidence": 0.61328125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 18
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.6484375,
+                    "severity": "critical",
+                    "start": 63,
+                    "end": 64
+                },
+                {
+                    "text": "care pot fi",
+                    "confidence": 0.38623046875,
+                    "severity": "critical",
+                    "start": 68,
+                    "end": 80
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.421142578125,
+                    "severity": "critical",
+                    "start": 89,
+                    "end": 90
+                },
+                {
+                    "text": "cu",
+                    "confidence": 0.496337890625,
+                    "severity": "critical",
+                    "start": 114,
+                    "end": 117
+                },
+                {
+                    "text": "fără a aduce atingere",
+                    "confidence": 0.473876953125,
+                    "severity": "critical",
+                    "start": 253,
+                    "end": 275
+                },
+                {
+                    "text": "lor",
+                    "confidence": 0.3740234375,
+                    "severity": "critical",
+                    "start": 284,
+                    "end": 287
+                },
+                {
+                    "text": "resortisan",
+                    "confidence": 0.38818359375,
+                    "severity": "critical",
+                    "start": 304,
+                    "end": 315
+                },
+                {
+                    "text": "acestor",
+                    "confidence": 0.36767578125,
+                    "severity": "critical",
+                    "start": 318,
+                    "end": 326
+                },
+                {
+                    "text": ".",
+                    "confidence": 0.37841796875,
+                    "severity": "critical",
+                    "start": 366,
+                    "end": 367
+                }
+            ]
+        },
+        {
+            "src": "4. تنظر الدول المتعاقدة بعين العطف في إمكانية جعل الاتفاقات المماثلة، النافذة المفعول أو التي قد تصبح نافذة المفعول بين هذه الدول المتعاقدة ودول غير متعاقدة، بقدر الإمكان، شاملة للاجئين.",
+            "mt": "Statele contractante la astfel de acorduri vor lua în considerare, în măsura posibilului, încheierea unor acorduri similare cu statele nesemnatare aplicabile refugiaților.",
+            "ref": "4. Statele contractante vor examina cu bunavointa posibilitatea de a extinde, cit mai mult posibil, pentru refugiati, efectele favorabile ale acordurilor similare care sint sau vor fi in vigoare intre aceste state contractante si statele necontractante.",
+            "COMET": 0.344482421875,
+            "errors": [
+                {
+                    "text": "contract",
+                    "confidence": 0.370849609375,
+                    "severity": "critical",
+                    "start": 7,
+                    "end": 16
+                },
+                {
+                    "text": "la astfel",
+                    "confidence": 0.3916015625,
+                    "severity": "critical",
+                    "start": 20,
+                    "end": 30
+                },
+                {
+                    "text": "acorduri",
+                    "confidence": 0.353515625,
+                    "severity": "critical",
+                    "start": 33,
+                    "end": 42
+                },
+                {
+                    "text": "încheierea unor",
+                    "confidence": 0.378662109375,
+                    "severity": "critical",
+                    "start": 89,
+                    "end": 105
+                },
+                {
+                    "text": "uri",
+                    "confidence": 0.37060546875,
+                    "severity": "critical",
+                    "start": 111,
+                    "end": 114
+                },
+                {
+                    "text": "cu statele nesemnatare aplicabile refugiaților",
+                    "confidence": 0.4267578125,
+                    "severity": "critical",
+                    "start": 123,
+                    "end": 170
+                }
+            ]
+        },
+        {
+            "src": "الفصل الخامس: التدابير الإدارية",
+            "mt": "Capitolul 5: Măsuri administrative",
+            "ref": "CAPITOLUL 5 Masuri administrative",
+            "COMET": 0.9983203411102295
+        },
+        {
+            "src": "المادة 25: المساعدة الإدارية",
+            "mt": "Articolul 25: Asistența administrativă",
+            "ref": "ARTICOLUL 25 Asistenta administrativa",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. عندما يكون من شأن ممارسة اللاجئ حقا له أن تتطلب عادة مساعدة سلطات بلد أجنبي يتعذر عليه الرجوع إليها، تعمل الدول المتعاقدة التي يقيم اللاجئ علي أراضيها علي تأمين هذه المساعدة إما بواسطة سلطاتها أو بواسطة سلطة دولية.",
+            "mt": "(1) În cazul în care exercitarea drepturilor acordate unui refugiat în temeiul prezentei convenții poate necesita ajutor din partea autorităților țării în care acesta este prezent și în cazul în care o astfel de asistență nu poate fi oferită cu ușurință de către acestea, celelalte părți contractante în cauză îi acordă ajutorul pe care îl pot acorda, fie direct, fie prin intermediul organizațiilor internaționale corespunzătoare;",
+            "ref": "1. Atunci cind exercitarea unui drept de catre un refugiat ar necesita, in mod normal, concursul autoritatilor unei tari straine, la care el nu poate recurge, statele contractante pe teritoriul carora refugiatul isi are resedinta se vor ingriji sa-i fie acordata asistenta necesara fie de catre autoritatile lor proprii, fie de catre o autoritate internationala.",
+            "COMET": 0.9416797161102295
+        },
+        {
+            "src": "2. تصدر السلطة أو السلطات المذكورة في الفقرة الأولي للاجئين، أو تستصدر لهم بإشرافها، الوثائق أو الشهادات التي يجري إصدارها للأجنبي، عادة، من قبل سلطاته الوطنية أو بواسطتها.",
+            "mt": "(2) Autoritățile menționate la alineatul (1) eliberează sau fac să se emită, sub supravegherea lor, documentele sau certificatele care sunt eliberate în mod obișnuit de o autoritate străină resortisanților săi.",
+            "ref": "2. Autoritatea sau autoritatile mentionate la paragraful 1 vor elibera sau se vor ingriji sa se elibereze, sub controlul lor, refugiatilor, documentele sau certificatele care in mod normal ar fi eliberate unui strain de catre autoritatile sale nationale sau prin intermediul acestora.",
+            "COMET": 0.7101249694824219,
+            "errors": [
+                {
+                    "text": "o",
+                    "confidence": 0.3798828125,
+                    "severity": "major",
+                    "start": 168,
+                    "end": 170
+                },
+                {
+                    "text": "itate străină resortisanților săi",
+                    "confidence": 0.440673828125,
+                    "severity": "major",
+                    "start": 176,
+                    "end": 209
+                }
+            ]
+        },
+        {
+            "src": "3. تقوم الوثائق أو الشهادات الصادرة علي هذا النحو مقام الصكوك الرسمية التي تسلم للأجانب من قبل سلطاتهم الوطنية أو بواسطتها، وتظل معتمدة إلي أن يثبت عدم صحتها.",
+            "mt": "(3) Documentele sau certificatele eliberate pe această bază sunt considerate a fi echivalente cu documentele oficiale străine furnizate de autoritățile lor respective străinilor sau prin intermediul acestora și rămân valabile, cu excepția cazului în care se dovedește că nu sunt astfel.",
+            "ref": "3. Documentele sau certificatele astfel eliberate vor inlocui actele oficiale eliberate strainilor de catre autoritatile nationale sau prin intermediul acestora si vor fi considerate valabile pina la proba contrara.",
+            "COMET": 0.8967359066009521,
+            "errors": [
+                {
+                    "text": "străine",
+                    "confidence": 0.387451171875,
+                    "severity": "minor",
+                    "start": 117,
+                    "end": 125
+                },
+                {
+                    "text": "lor respective",
+                    "confidence": 0.3955078125,
+                    "severity": "minor",
+                    "start": 151,
+                    "end": 166
+                }
+            ]
+        },
+        {
+            "src": "4. رهنا بالحالات التي يمكن أن يستثني فيها المعوزون، يجوز استيفاء رسوم لقاء الخدمات المذكورة في هذه المادة، ولكن ينبغي أن تكون هذه الرسوم معتدلة ومتكافئة مع ما يفرض علي المواطنين من رسوم لقاء الخدمات المماثلة.",
+            "mt": "(4) Sub rezerva cazurilor în care persoanele nevoiașe pot fi scutite, pot fi percepute taxe pentru serviciile menționate în prezentul articol; dar astfel de taxe ar trebui să fie rezonabile și proporționale cu ceea ce cetățenii sunt taxa pentru servicii similare.",
+            "ref": "4. Sub rezerva exceptiilor care ar putea fi admise in favoarea persoanelor nevoiase, serviciile mentionate in prezentul articol vor putea fi remunerate, dar aceste remunerari vor fi moderate si raportate la cele percepute nationalilor pentru servicii similare.",
+            "COMET": 0.7941640615463257,
+            "errors": [
+                {
+                    "text": "ceea ce cetățenii sunt taxa",
+                    "confidence": 0.4951171875,
+                    "severity": "major",
+                    "start": 209,
+                    "end": 237
+                }
+            ]
+        },
+        {
+            "src": "5. لا تمس أحكام هذه المادة بالمادتين 27 و 28.",
+            "mt": "5. Acest articol nu afectează articolele 27 și 28.",
+            "ref": "5. Dispozitiile acestui articol nu afecteaza cu nimic dispozitiile art. 27 si 28.",
+            "COMET": 0.9929492473602295
+        },
+        {
+            "src": "المادة 26: حرية التنقل",
+            "mt": "Articolul 26: Libertatea de circulație",
+            "ref": "ARTICOLUL 26 Libertate de circulatie",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "تمنح كل من الدول المتعاقدة اللاجئين المقيمين بصورة نظامية في إقليمها حق اختيار محل إقامتهم والتنقل الحر ضمن أراضيها، علي أن يكون ذلك رهنا بأية أنظمة تنطبق علي الأجانب عامة في نفس الظروف.",
+            "mt": "Fiecare stat contractant acordă refugiaților care își au reședința legală pe teritoriul său aceleași drepturi ca și cetățenii în ceea ce privește alegerea reședi și libertatea de circulație pe teritoriul său, sub rezerva dispozițiilor paragrafului 2.",
+            "ref": "Fiecare stat contractant va acorda refugiatilor care se gasesc in mod legal pe teritoriul sau dreptul de a-si alege locul de resedinta si de a circula liber, cu rezervele instituite de reglementarile aplicabile strainilor, in general, in aceleasi imprejurari.",
+            "COMET": 0.5005976557731628,
+            "errors": [
+                {
+                    "text": "cetățenii",
+                    "confidence": 0.34130859375,
+                    "severity": "major",
+                    "start": 115,
+                    "end": 125
+                },
+                {
+                    "text": "alegerea reședi",
+                    "confidence": 0.3427734375,
+                    "severity": "major",
+                    "start": 145,
+                    "end": 161
+                },
+                {
+                    "text": "sub rezerva dispozițiilor paragrafului 2.",
+                    "confidence": 0.35986328125,
+                    "severity": "major",
+                    "start": 208,
+                    "end": 250
+                }
+            ]
+        },
+        {
+            "src": "المادة 27: بطاقات الهوية",
+            "mt": "Articolul 27: Cărți de identitate",
+            "ref": "ARTICOLUL 27 Documente de identitate",
+            "COMET": 0.9880554676055908,
+            "errors": [
+                {
+                    "text": "Cărți",
+                    "confidence": 0.420166015625,
+                    "severity": "minor",
+                    "start": 13,
+                    "end": 19
+                }
+            ]
+        },
+        {
+            "src": "تصدر الدول المتعاقدة بطاقة هوية شخصية لكل لاجئ موجود في إقليمها لا يملك وثيقة سفر صالحة.",
+            "mt": "Statele contractante eliberează o carte de identitate personală fiecărui refugiat prezent pe teritoriul lor care nu posedă un document de călătorie valabil.",
+            "ref": "Statele contractante vor elibera documente de identitate fiecarui refugiat care se gaseste pe teritoriul lor si care nu poseda un document de calatorie valabil.",
+            "COMET": 0.9826843738555908,
+            "errors": [
+                {
+                    "text": "carte",
+                    "confidence": 0.414306640625,
+                    "severity": "minor",
+                    "start": 33,
+                    "end": 39
+                }
+            ]
+        },
+        {
+            "src": "المادة 28: وثائق السفر",
+            "mt": "Articolul 28: Documente de călătorie",
+            "ref": "ARTICOLUL 28 Documente de calatorie",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. تصدر الدول المتعاقدة للاجئين المقيمين بصورة نظامية في إقليمها وثائق سفر لتمكينهم من السفر إلي خارج هذا الإقليم، ما لم تتطلب خلاف ذلك أسباب قاهرة تتصل بالأمن الوطني أو النظام العام. وتنطبق أحكام ملحق هذه الاتفاقية بصدد الوثائق المذكورة. وللدول المتعاقدة إصدار وثيقة سفر من هذا النوع لكل لاجئ آخر فيها. وعليها خصوصا أن تنظر بعين العطف إلي إصدار وثيقة سفر من هذا النوع لمن يتعذر عليهم الحصول علي وثيقة سفر من بلد إقامتهم النظامية من اللاجئين الموجودين في إقليمها.",
+            "mt": "(1) Statele contractante eliberează documente de călătorie refugiaților care își au reședința în mod legal pe teritoriul lor, permițându-le să călătorească în afara acestui teritoriu, cu excepția cazului în care o astfel de călătorie este împiedicată din motive legate de securitatea națională sau de ordinea publică. Dispozițiile anexei II se aplică acestor documente.",
+            "ref": "1. Statele contractante vor elibera refugiatilor care isi au resedinta obisnuita pe teritoriul lor documente de calatorie care sa le permita sa calatoreasca in afara acestui teritoriu, afara de cazul ca ratiuni imperioase privind securitatea nationala sau ordinea publica nu se opun la aceasta; dispozitiile anexei la prezenta conventie se vor aplica acestor documente. Statele contractante vor putea elibera un astfel de document de voiaj oricarui alt refugiat care se gaseste pe teritoriul lor; ele vor acorda o atentie speciala cazurilor refugiatilor care se gasesc pe teritoriul lor si care nu sint in masura de a obtine un document de calatorie din tara unde isi au resedinta obisnuita.",
+            "COMET": 0.7839539051055908,
+            "errors": [
+                {
+                    "text": "II",
+                    "confidence": 0.313720703125,
+                    "severity": "minor",
+                    "start": 337,
+                    "end": 340
+                }
+            ]
+        },
+        {
+            "src": "2. تعترف الدول المتعاقدة بوثائق السفر التي أصدرها أطراف الاتفاقات الدولية السابقة في ظل هذه الاتفاقات، وتعاملها كما لو كانت قد صدرت بمقتضى أحكام هذه المادة.",
+            "mt": "(2) Statele contractante recunosc și acceptăle eliberate de alte state contractante în temeiul acordurilor anterioare, pe care le tratează ca și cum ar fi fost eliberate în conformitate cu prezentul articol.",
+            "ref": "2. Documentele de calatorie eliberate potrivit acordurilor internationale anterioare de catre partile la aceste acorduri vor fi recunoscute de catre statele contractante si considerate ca si cum ele ar fi fost eliberate refugiatilor in virtutea prezentului articol.",
+            "COMET": 0.5751953125,
+            "errors": [
+                {
+                    "text": "și acceptăle",
+                    "confidence": 0.53125,
+                    "severity": "major",
+                    "start": 33,
+                    "end": 46
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.578125,
+                    "severity": "critical",
+                    "start": 55,
+                    "end": 56
+                },
+                {
+                    "text": "ul",
+                    "confidence": 0.4599609375,
+                    "severity": "critical",
+                    "start": 92,
+                    "end": 94
+                }
+            ]
+        },
+        {
+            "src": "المادة 29: الأعباء الضريبية",
+            "mt": "Articolul 29: Impozitarea",
+            "ref": "ARTICOLUL 29 Taxe fiscale",
+            "COMET": 0.9900085926055908,
+            "errors": [
+                {
+                    "text": "tarea",
+                    "confidence": 0.42578125,
+                    "severity": "minor",
+                    "start": 20,
+                    "end": 25
+                }
+            ]
+        },
+        {
+            "src": "1. تمتنع الدول المتعاقدة عن تحميل اللاجئين أية أعباء أو رسوم أو ضرائب، أيا كانت تسميتها، تغاير أو تفوق تلك المستوفاة أو التي قد يصار إلي استيفائها في أحوال مماثلة.",
+            "mt": "(1) Statele contractante nu solicită refugiaților o contribuție mai mare la bugetul public și nici nu le impun alte impozite și taxe, directe sau indirecte, care sunt în mod evident excesive în raport cu cele stabilite sau care ar putea fi stabilite asupra unor persoane cu circumstanțe similare în țara de origine sau care sunt plătite de astfel de persoane în statul respectiv.",
+            "ref": "1. Statele contractante nu vor impune refugiatilor obligatii, taxe, impozite, indiferent ce denumire ar purta, altele sau mai ridicate decit cele care sint sau vor fi percepute de la propriii cetateni in situatii similare.",
+            "COMET": 0.5810546875,
+            "errors": [
+                {
+                    "text": "solicit",
+                    "confidence": 0.308837890625,
+                    "severity": "major",
+                    "start": 27,
+                    "end": 35
+                },
+                {
+                    "text": "contribu",
+                    "confidence": 0.3359375,
+                    "severity": "major",
+                    "start": 51,
+                    "end": 60
+                },
+                {
+                    "text": "mai mare",
+                    "confidence": 0.394775390625,
+                    "severity": "major",
+                    "start": 63,
+                    "end": 72
+                },
+                {
+                    "text": "bugetul",
+                    "confidence": 0.368896484375,
+                    "severity": "major",
+                    "start": 75,
+                    "end": 83
+                },
+                {
+                    "text": "sunt",
+                    "confidence": 0.31982421875,
+                    "severity": "major",
+                    "start": 323,
+                    "end": 328
+                }
+            ]
+        },
+        {
+            "src": "2. ليس في أحكام الفقرة السابقة ما يحول دون أن تطبق علي اللاجئين القوانين والأنظمة المتعلقة بالرسوم المتصلة بإصدار الوثائق الإدارية، بما فيها بطاقات الهوية.",
+            "mt": "(2) Nicio dispoziție a prezentului articol nu împiedică aplicarea actelor cu putere de lege și a normelor administrative care prevăd taxe legate de eliberarea documentelor de identitate, inclusiv a vizelor de călătorie.",
+            "ref": "2. Dispozitiile paragrafului precedent nu impiedica aplicarea fata de refugiati a dispozitiilor legilor si regulamentelor cu privire la taxele aferente pentru eliberarea catre straini de documente administrative, inclusiv documente de identitate.",
+            "COMET": 0.7281367182731628,
+            "errors": [
+                {
+                    "text": "ac",
+                    "confidence": 0.368408203125,
+                    "severity": "major",
+                    "start": 65,
+                    "end": 68
+                },
+                {
+                    "text": "lege",
+                    "confidence": 0.32958984375,
+                    "severity": "major",
+                    "start": 86,
+                    "end": 91
+                },
+                {
+                    "text": "vizelor de călători",
+                    "confidence": 0.345703125,
+                    "severity": "major",
+                    "start": 197,
+                    "end": 217
+                }
+            ]
+        },
+        {
+            "src": "المادة 30: نقل الموجودات",
+            "mt": "Articolul 30: Transferul de active",
+            "ref": "ARTICOLUL 30 Transferul bunurilor",
+            "COMET": 0.9861023426055908,
+            "errors": [
+                {
+                    "text": "de active",
+                    "confidence": 0.43017578125,
+                    "severity": "minor",
+                    "start": 24,
+                    "end": 34
+                }
+            ]
+        },
+        {
+            "src": "1. تسمح الدول المتعاقدة للاجئين، وفقا لقوانينها وأنظمتها، بنقل ما حملوه إلي أرضها من موجودات إلى بلد آخر سمح لهم بالانتقال إليه بقصد الاستقرار فيه.",
+            "mt": "(1) Statele contractante vor permite refugiaților, în conformitate cu legile și reglementările lor, să transfere unui alt stat contractant orice bunuri aduse cu ei în țara în care caută refugiu în scopul stabilirii în acel alt stat.",
+            "ref": "1. Fiecare stat contractant va permite refugiatilor, potrivit legilor si regulamentelor din tarile lor, sa transfere bunurile pe care ei le-au introdus pe teritoriul sau, pe teritoriul unei alte tari unde ei au fost admisi in scopul de a se reinstala.",
+            "COMET": 0.9612109661102295
+        },
+        {
+            "src": "2. تنظر الدول المتعاقدة بعين العطف إلي الطلبات التي يقدمها اللاجؤون للسماح لهم بنقل أي موجودات أخري لهم، أينما وجدت، يحتاجون إليها للاستقرار في بلد آخر سمح لهم بالانتقال إليه.",
+            "mt": "(2) Statele contractante vor acorda o atenție favorabilă cererilor făcute de refugiați pentru permisiunea de a transfera orice alte bunuri pe care le-ar putea avea, oriunde s-ar afla, de care au nevoie pentru întreținerea lor într-o țară în care li se permite să se mute.",
+            "ref": "2. Fiecare stat contractant va trata cu bunavointa cererile prezentate de refugiatii care doresc sa obtina autorizatia de a-si transfera toate bunurile necesare pentru reinstalarea lor in alta tara unde ei au fost admisi.",
+            "COMET": 0.8938171863555908,
+            "errors": [
+                {
+                    "text": "alte",
+                    "confidence": 0.363037109375,
+                    "severity": "minor",
+                    "start": 126,
+                    "end": 131
+                }
+            ]
+        },
+        {
+            "src": "المادة 31: اللاجئون الموجودون بصورة غير مشروعة في بلد الملجأ",
+            "mt": "Articolul 31: Existențial ilegal în țara de refugiați",
+            "ref": "ARTICOLUL 31 Refugiati aflati ilegal in tara de primire",
+            "COMET": 0.7663320302963257,
+            "errors": [
+                {
+                    "text": ": Existențial ilegal în țara de refugiați",
+                    "confidence": 0.488525390625,
+                    "severity": "major",
+                    "start": 12,
+                    "end": 53
+                }
+            ]
+        },
+        {
+            "src": "1. تمتنع الدول المتعاقدة عن فرض عقوبات جزائية، بسبب دخولهم أو وجودهم غير القانوني، على اللاجئين الذين يدخلون إقليمها أو يوجدون فيه دون إذن، قادمين مباشرة من إقليم كانت فيه حياتهم أو حريتهم مهددة بالمعني المقصود في المادة 1، شريطة أن يقدموا أنفسهم إلي السلطات دون إبطاء وأن يبرهنوا علي وجاهة أسباب دخولهم أو وجودهم غير القانوني.",
+            "mt": "err",
+            "ref": "1. Statele contractante nu vor aplica sanctiuni penale, pe motivul intrarii sau sederii lor ilegale, refugiatilor care, sosind direct din teritoriul unde viata sau libertatea lor erau amenintate in sensul prevazut de art. 1, intra sau se gasesc pe teritoriul lor fara autorizatie, sub rezerva prezentarii lor fara intirziere la autoritati pentru a le expune motivele, recunoscute ca valabile, ale intrarii sau prezentei lor ilegale.",
+            "COMET": 0.2287432849407196
+        },
+        {
+            "src": "2. تمتنع الدول المتعاقدة عن فرض غير الضروري من القيود علي تنقلات هؤلاء اللاجئين، ولا تطبق هذه القيود إلا ريثما يسوي وضعهم في بلد الملاذ أو ريثما يقبلون في بلد آخر. وعلي الدول المتعاقدة أن تمنح اللاجئين المذكورين مهلة معقولة، وكذلك كل التسهيلات الضرورية ليحصلوا علي قبول بلد آخر بدخولهم إليه.",
+            "mt": "(2) Statele contractante se abțin de la impunerea unor obstacole inutile în calea circulației refugiaților, iar aceste măsuri se aplică numai atât timp cât statutul lor este soluționat sau până când sunt acceptate de o altă țară.",
+            "ref": "2. Statele contractante nu vor aplica, in ce priveste deplasarile acestor refugiati, alte restrictii decit acelea care sint necesare; aceste restrictii vor fi aplicate numai pina la reglementarea statutului lor de refugiati in tara respectiva sau pina la obtinerea admiterii in alta tara. In vederea acestei ultime admiteri, statele contractante vor acorda acestor refugiati un termen rezonabil si toate facilitatile necesare.",
+            "COMET": 0.6837577819824219,
+            "errors": [
+                {
+                    "text": "solu",
+                    "confidence": 0.34765625,
+                    "severity": "major",
+                    "start": 173,
+                    "end": 178
+                },
+                {
+                    "text": "acceptate",
+                    "confidence": 0.3544921875,
+                    "severity": "major",
+                    "start": 203,
+                    "end": 213
+                }
+            ]
+        },
+        {
+            "src": "المادة 32: الطرد",
+            "mt": "Articolul 32: Expulzarea",
+            "ref": "ARTICOLUL 32 Expulzare",
+            "COMET": 0.9914734363555908,
+            "errors": [
+                {
+                    "text": "zarea",
+                    "confidence": 0.4208984375,
+                    "severity": "minor",
+                    "start": 19,
+                    "end": 24
+                }
+            ]
+        },
+        {
+            "src": "1. لا تطرد الدولة المتعاقدة لاجئا موجودا في إقليمها بصورة نظامية، إلا لأسباب تتعلق بالأمن الوطني أو النظام العام.",
+            "mt": "(1) Nici un stat contractant nu poate expulza un refugiat care se află pe teritoriul său decât din motive de securitate națională sau de ordine publică.",
+            "ref": "1. Statele contractante nu vor expulza un refugiat care se gaseste in mod legal pe teritoriul lor decit pentru ratiuni de securitate nationala sau de ordine publica.",
+            "COMET": 0.9890429973602295
+        },
+        {
+            "src": "2. لا ينفذ طرد مثل هذا اللاجئ إلا تطبيقا لقرار متخذ وفقا للأصول الإجرائية التي ينص عليها القانون. ويجب أن يسمح للاجئ ما لم تتطلب خلاف ذلك أسباب قاهرة تتصل بالأمن الوطني، بأن يقدم بينات لإثبات براءته، وبأن يمارس حق الاستئناف ويكون له وكيل يمثله لهذا الغرض أمام سلطة مختصة أو أمام شخص أو أكثر معينين خصيصا من قبل السلطة المختصة.",
+            "mt": "(2) Expulzarea nu poate fi efectuată atât timp cât există un motiv real pentru a presupune că un astfel de refugiat este un refugiat care se încadrează în definiția termenului și dacă acest lucru nu a fost stabilit în conformitate cu procedurile prevăzute de lege.",
+            "ref": "2. Expulzarea unui asemenea refugiat nu va avea loc decit in executarea unei hotariri adoptate conform procedurii prevazute de lege. Refugiatului va trebui sa i se permita, in afara cazului in care ratiuni imperioase privind securitatea nationala se opun, sa prezinte probe in apararea sa, sa poata face recurs si sa poata fi reprezentat, in acest scop, in fata unei autoritati competente sau in fata uneia sau mai multor persoane special desemnate de autoritatea competenta.",
+            "COMET": 0.310302734375,
+            "errors": [
+                {
+                    "text": "există un motiv real",
+                    "confidence": 0.322265625,
+                    "severity": "critical",
+                    "start": 50,
+                    "end": 71
+                },
+                {
+                    "text": "presupune",
+                    "confidence": 0.333251953125,
+                    "severity": "critical",
+                    "start": 80,
+                    "end": 90
+                },
+                {
+                    "text": "este",
+                    "confidence": 0.32177734375,
+                    "severity": "critical",
+                    "start": 115,
+                    "end": 120
+                },
+                {
+                    "text": "at",
+                    "confidence": 0.28759765625,
+                    "severity": "critical",
+                    "start": 130,
+                    "end": 132
+                },
+                {
+                    "text": "termen",
+                    "confidence": 0.2978515625,
+                    "severity": "major",
+                    "start": 164,
+                    "end": 171
+                },
+                {
+                    "text": "nu",
+                    "confidence": 0.387939453125,
+                    "severity": "critical",
+                    "start": 195,
+                    "end": 198
+                },
+                {
+                    "text": "stabilit",
+                    "confidence": 0.32421875,
+                    "severity": "critical",
+                    "start": 205,
+                    "end": 214
+                }
+            ]
+        },
+        {
+            "src": "3. تمنح الدولة المتعاقدة مثل هذا اللاجئ مهلة معقولة ليلتمس خلالها قبوله بصورة قانونية في بلد آخر. وتحتفظ الدولة المتعاقدة بحقها في أن تطبق، خلال هذه المهلة، ما تراه ضروريا من التدابير الداخلية.",
+            "mt": "(3) Statul contractant acordă refugiatului o perioadă rezonabilă de timp, în cursul căreia acesta își poate legaliza statutul într-o altă țară.",
+            "ref": "3. Statele contractante vor acorda unui asemenea refugiat un termen rezonabil pentru a-i permite sa incerce sa fie admis legal intr-o alta tara. Statele contractante pot aplica, in cadrul acestui termen, masurile de ordine interna pe care le vor considera oportune.",
+            "COMET": 0.8122523427009583,
+            "errors": [
+                {
+                    "text": "Stat",
+                    "confidence": 0.330078125,
+                    "severity": "minor",
+                    "start": 3,
+                    "end": 8
+                },
+                {
+                    "text": "ant",
+                    "confidence": 0.319091796875,
+                    "severity": "minor",
+                    "start": 19,
+                    "end": 22
+                },
+                {
+                    "text": "statut",
+                    "confidence": 0.31494140625,
+                    "severity": "minor",
+                    "start": 116,
+                    "end": 123
+                }
+            ]
+        },
+        {
+            "src": "المادة 33: حظر الطرد أو الرد",
+            "mt": "Articolul 33: Interzicerea expulzării sau deportării",
+            "ref": "ARTICOLUL 33 Interdictia de expulzare si returnare",
+            "COMET": 0.9953906536102295
+        },
+        {
+            "src": "1. لا يجوز لأية دولة متعاقدة أن تطرد لاجئا أو ترده بأية صورة من الصور إلي حدود الأقاليم التي تكون حياته أو حريته مهددتين فيها بسبب عرقه أو دينه أو جنسيته أو انتمائه إلي فئة اجتماعية معينة أو بسبب آرائه السياسية.",
+            "mt": "(1) Nici un stat contractant nu poate expulza sau returna (returna) un refugiat în orice mod la frontierele teritoriilor în care sau libertatea sa ar fiă din cauza rasei, religiei, naționalității, apartenenței la un anumit grup social sau a opiniei politice.",
+            "ref": "1. Nici un stat contractant nu va expulza sau returna, in nici un fel un refugiat peste frontierele teritoriilor unde viata sau libertatea sa ar fi amenintate pe motiv de rasa, religie, nationalitate, apartenenta la un anumit grup social sau opinii politice.",
+            "COMET": 0.5078125,
+            "errors": [
+                {
+                    "text": "returna (returna",
+                    "confidence": 0.440185546875,
+                    "severity": "critical",
+                    "start": 49,
+                    "end": 66
+                },
+                {
+                    "text": "la",
+                    "confidence": 0.29736328125,
+                    "severity": "major",
+                    "start": 92,
+                    "end": 95
+                },
+                {
+                    "text": "în care sau libertatea sa ar fiă",
+                    "confidence": 0.5830078125,
+                    "severity": "critical",
+                    "start": 120,
+                    "end": 153
+                }
+            ]
+        },
+        {
+            "src": "2. علي أنه لا يسمح بالاحتجاج بهذا الحق لأي لاجئ تتوفر دواع معقولة لاعتباره خطرا علي أمن البلد الذي يوجد فيه أو لاعتباره يمثل، نظرا لسبق صدور حكم نهائي عليه لارتكابه جرما استثنائي الخطورة، خطرا علي مجتمع ذلك البلد.",
+            "mt": "(2) Nu este permis niciunui refugiat care are motive să creadă că reprezintă un pericol pentru securitatea țării în care se află sau a comunității sale, ca urmare a săvârșirii în trecut a unor infracțiuni de o gravitate excepțională.",
+            "ref": "2. Beneficiul prezentei dispozitii nu va putea totusi fi invocat de catre un refugiat fata de care ar exista motive serioase de a fi considerat ca un pericol pentru securitatea tarii unde se gaseste sau care, fiind condamnat definitiv pentru o crima sau un delict deosebit de grav, constituie o amenintare pentru comunitatea tarii respective.",
+            "COMET": 0.478271484375,
+            "errors": [
+                {
+                    "text": "(2) Nu este permis niciunui refugiat care are",
+                    "confidence": 0.38427734375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 45
+                },
+                {
+                    "text": "să creadă",
+                    "confidence": 0.3681640625,
+                    "severity": "critical",
+                    "start": 52,
+                    "end": 62
+                },
+                {
+                    "text": "trecut",
+                    "confidence": 0.347412109375,
+                    "severity": "major",
+                    "start": 178,
+                    "end": 185
+                }
+            ]
+        },
+        {
+            "src": "المادة 34: التجنس",
+            "mt": "Articolul 34: Naturalizarea",
+            "ref": "ARTICOLUL 34 Naturalizarea",
+            "COMET": 0.9846484661102295
+        },
+        {
+            "src": "تسهل الدول المتعاقدة بقدر الامكان استيعاب اللاجئين ومنحهم جنسيتها، وتبذل علي الخصوص كل ما في وسعها لتعجيل إجراءات التجنس وتخفيض أعباء ورسوم هذه الإجراءات إلي أدني حد ممكن.",
+            "mt": "Statele contractante facilitează, pe cât posibil, absorbţialor naturalizarea acestora, în special prin accelerarea procedurii de dobândire aei reducerea în cea mai mare măsură posibilă a oricăror taxe percepute pentru acest cont.",
+            "ref": "Statele contractante vor facilita, pe cit posibil, asimilarea si naturalizarea refugiatilor. Ele se vor stradui, in special, sa accelereze procedura de naturalizare si de reducere, pe cit posibil, a taxelor si costurilor acestei proceduri.",
+            "COMET": 0.468017578125,
+            "errors": [
+                {
+                    "text": "absorbţialor naturalizarea acestora",
+                    "confidence": 0.432861328125,
+                    "severity": "major",
+                    "start": 49,
+                    "end": 85
+                },
+                {
+                    "text": "dobândire aei",
+                    "confidence": 0.42431640625,
+                    "severity": "critical",
+                    "start": 128,
+                    "end": 142
+                },
+                {
+                    "text": "orică",
+                    "confidence": 0.52734375,
+                    "severity": "major",
+                    "start": 186,
+                    "end": 192
+                },
+                {
+                    "text": "taxe percep",
+                    "confidence": 0.46630859375,
+                    "severity": "major",
+                    "start": 195,
+                    "end": 207
+                },
+                {
+                    "text": "pentru acest cont",
+                    "confidence": 0.436767578125,
+                    "severity": "major",
+                    "start": 210,
+                    "end": 228
+                }
+            ]
+        },
+        {
+            "src": "الفصل السادس: أحكام تنفيذية وانتقالية",
+            "mt": "Capitolul 6: Dispoziții executive și tranzitorii",
+            "ref": "CAPITOLUL 6 Dispozitii executorii si tranzitorii",
+            "COMET": 0.9318921566009521,
+            "errors": [
+                {
+                    "text": "Capitol",
+                    "confidence": 0.389404296875,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 7
+                },
+                {
+                    "text": "Dispoziții executive și tranzitorii",
+                    "confidence": 0.398193359375,
+                    "severity": "minor",
+                    "start": 12,
+                    "end": 48
+                }
+            ]
+        },
+        {
+            "src": "المادة 35: تعاون السلطات الوطنية مع الأمم المتحدة",
+            "mt": "Articolul 35: Autoritățile naționale să coopereze cu Organizația Națiunilor Unite",
+            "ref": "ARTICOLUL 35 Cooperarea autoritatilor nationale cu Natiunile Unite",
+            "COMET": 0.9665601253509521,
+            "errors": [
+                {
+                    "text": "să",
+                    "confidence": 0.3916015625,
+                    "severity": "minor",
+                    "start": 36,
+                    "end": 39
+                },
+                {
+                    "text": "eze",
+                    "confidence": 0.385498046875,
+                    "severity": "minor",
+                    "start": 46,
+                    "end": 49
+                }
+            ]
+        },
+        {
+            "src": "1. تتعهد الدول المتعاقدة بالتعاون مع مفوضية الأمم المتحدة لشؤون اللاجئين، أو أية مؤسسة أخري تابعة للأمم المتحدة قد تخلفها، في ممارسة وظائفها، وتتعهد علي وجه الخصوص بتسهيل مهمتها في الإشراف على تطبيق أحكام هذه الاتفاقية.",
+            "mt": "(1) Statele contractante se angajează să coopereze cu Înaltul Comisariat al Națiunilor Unite pentru Refugiați sau cu orice alt organism succesor al UNHCR în exercitarea funcțiilor sale și se angajează, în special, să faciliteze sarcina acestuia de supraveghere a aplicării dispozițiilor prezentei convenții.",
+            "ref": "1. Statele contractante se angajeaza sa coopereze cu Inaltul Comisariat al Natiunilor Unite pentru Refugiati sau cu orice alta institutie a Natiunilor Unite care i-ar succeda, in exercitarea functiilor sale si, in special, sa usureze sarcina sa de supraveghere a aplicarii dispozitiilor acestei conventii.",
+            "COMET": 0.8967578411102295
+        },
+        {
+            "src": "2. من أجل جعل المفوضية، أو أية مؤسسة أخري تابعة للأمم المتحدة قد تخلفها، قادرة علي تقديم تقارير إلى الهيئات المختصة في الأمم المتحدة، تتعهد الدول المتعاقدة بتزويدها علي الشكل المناسب بالمعلومات والبيانات الإحصائية المطلوبة بشأن:",
+            "mt": "(2) Pentru ca Comisia sau orice alt organism al Organizației Națiunilor Unite care i-ar putea succeda să fie în măsură să prezinte rapoarte organismelor corespunzătoare din cadrul sistemului ONU, statele contractante se angajează să le furnizeze informațiile și datele statistice solicitate de: (a)",
+            "ref": "2. In scopul de a permite Inaltului Comisariat sau oricarei alte institutii a Natiunilor Unite care i-ar succeda de a prezenta rapoarte organelor competente ale Natiunilor Unite, statele contractante se angajeaza sa le furnizeze, in forma potrivita, informatiile si datele statistice cerute cu privire la:",
+            "COMET": 0.6129570007324219,
+            "errors": [
+                {
+                    "text": "Comisia",
+                    "confidence": 0.359375,
+                    "severity": "major",
+                    "start": 13,
+                    "end": 21
+                },
+                {
+                    "text": "e",
+                    "confidence": 0.3330078125,
+                    "severity": "major",
+                    "start": 278,
+                    "end": 279
+                }
+            ]
+        },
+        {
+            "src": "(أ) وضع اللاجئين،",
+            "mt": "A, refugiații sunt o problemă umanitară.",
+            "ref": "a) statutul refugiatilor;",
+            "COMET": 0.8449453115463257,
+            "errors": [
+                {
+                    "text": "A, refugiații sunt o problemă umanitară",
+                    "confidence": 0.40966796875,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 39
+                }
+            ]
+        },
+        {
+            "src": "(ب) وضع هذه الاتفاقية موضع التنفيذ،",
+            "mt": "(b) să ia măsurile necesare pentru a pune în aplicare dispozițiile prezentei convenții;",
+            "ref": "b) aplicarea prezentei conventii;",
+            "COMET": 0.9909851551055908,
+            "errors": [
+                {
+                    "text": "b) să ia",
+                    "confidence": 0.383056640625,
+                    "severity": "minor",
+                    "start": 1,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "src": "(ج) القوانين والأنظمة والمراسيم النافذة أو التي قد تصبح بعد الآن نافذة بشأن اللاجئين،",
+            "mt": "c) legi, reglementări și decrete care sunt în prezent sau vor intra în vigoare în ceea ce privește refugiații;",
+            "ref": "c) legile, regulamentele si decretele care sint sau vor intra in vigoare in ce priveste refugiatii.",
+            "COMET": 0.9611890316009521,
+            "errors": [
+                {
+                    "text": "legi",
+                    "confidence": 0.4111328125,
+                    "severity": "minor",
+                    "start": 2,
+                    "end": 7
+                },
+                {
+                    "text": "ări",
+                    "confidence": 0.41845703125,
+                    "severity": "minor",
+                    "start": 18,
+                    "end": 21
+                }
+            ]
+        },
+        {
+            "src": "المادة 36: تبليغ المعلومات عن التشريع الوطني",
+            "mt": "Articolul 36: Notificarea legislației naționale",
+            "ref": "ARTICOLUL 36 Informatii privind legile si regulamentele nationale",
+            "COMET": 0.9807312488555908,
+            "errors": [
+                {
+                    "text": "Notificarea legisla",
+                    "confidence": 0.42822265625,
+                    "severity": "minor",
+                    "start": 13,
+                    "end": 33
+                }
+            ]
+        },
+        {
+            "src": "توافي الدول المتعاقدة الأمين العام للأمم المتحدة بنصوص ما قد تعتمده من قوانين وأنظمة لتأمين تطبيق هذه الاتفاقية.",
+            "mt": "Statele contractante vor transmite secretarului general al Organizatiei Natiunilor Unite o declaratie cu privire la orice legi si regulamente pe care le vor adopta pentru a pune in aplicare prezenta conventie.",
+            "ref": "Statele contractante vor comunica secretarului general al Natiunilor Unite textele legilor si regulamentelor pe care le vor putea adopta pentru a asigura aplicarea acestei conventii.",
+            "COMET": 0.9411914348602295
+        },
+        {
+            "src": "المادة 37: علاقة الاتفاقية بالاتفاقيات السابقة",
+            "mt": "Articolul 37: Relația cu acordurile anterioare",
+            "ref": "ARTICOLUL 37 Legatura cu conventiile anterioare",
+            "COMET": 0.9953906536102295
+        },
+        {
+            "src": "مع عدم المساس بأحكام الفقرة 2 من المادة 28 من هذه الاتفاقية، تحل هذه الاتفاقية بين الأطراف فيها محل ترتيبات 5 تموز/يوليه 1922 و 31 أيار/مايو 1924 و 12 أيار/مايو 1926 و 30 حزيران/يونيه 1928 و 30 تموز/يوليه 1935، واتفاقيتي 28 تشرين الأول/أكتوبر 1933 و 10 شباط/فبراير 1938، وبروتوكول 14 أيلول/سبتمبر 1939، واتفاق 15 تشرين الأول/أكتوبر 1946.",
+            "mt": "Acest acord, fără a aduce atingere articolului II din articolul XXVIII, înlocuiește convențiile din 5 iulie 1922 și 31 mai 1924 și 12 mai 1926, 30 iunie 1928, 30 iulie 1935, acordurile din 28 octombrie 1933, 10 februarie 1938, 14 septembrie 1939 și 15 octombrie 1946.",
+            "ref": "Fara prejudicierea dispozitiilor paragrafului 2 al art. 28, aceasta conventie inlocuieste, intre partile contractante, acordurile din 5 iulie 1922, 31 mai 1924, 12 mai 1926, 30 iunie 1928 si 30 iulie 1935, precum si conventiile din 28 octombrie 1933 si 10 februarie 1938, protocolul din 14 septembrie 1939 si acordul din 15 octombrie 1946.",
+            "COMET": 0.48253124952316284,
+            "errors": [
+                {
+                    "text": "articolului II din articolul XXVIII",
+                    "confidence": 0.386962890625,
+                    "severity": "major",
+                    "start": 34,
+                    "end": 70
+                },
+                {
+                    "text": "și",
+                    "confidence": 0.39794921875,
+                    "severity": "major",
+                    "start": 112,
+                    "end": 115
+                },
+                {
+                    "text": "și",
+                    "confidence": 0.396240234375,
+                    "severity": "major",
+                    "start": 127,
+                    "end": 130
+                }
+            ]
+        },
+        {
+            "src": "الفصل السابع: أحكام ختامية",
+            "mt": "Capitolul 7: Dispoziţii finale",
+            "ref": "CAPITOLUL 7 Clauze finale",
+            "COMET": 0.9528882503509521,
+            "errors": [
+                {
+                    "text": "Capitol",
+                    "confidence": 0.44189453125,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 7
+                },
+                {
+                    "text": "Dispoziţii",
+                    "confidence": 0.386962890625,
+                    "severity": "minor",
+                    "start": 12,
+                    "end": 23
+                }
+            ]
+        },
+        {
+            "src": "المادة 38: تسوية المنازعات",
+            "mt": "Articolul 38: Soluționarea litigiilor",
+            "ref": "ARTICOLUL 38 Solutionarea diferendelor",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "كل نزاع ينشأ بين أطراف في هذه الاتفاقية حول تفسيرها أو تطبيقها، ويتعذر حله بطريقة أخري، يحال إلى محكمة العدل الدولية بناء علي طلب أي من الأطراف في النزاع.",
+            "mt": "Orice diferend între părțile la prezentul acord privind interpretarea sau aplicarea sa, care nu este soluționat altfel, va fi înaintat Curții Internaționale de Justiție la cererea oricărei părți la diferend.",
+            "ref": "Orice diferend intre partile la prezenta conventie referitor la interpretarea sau aplicarea acesteia, care nu va putea fi solutionat prin alte mijloace, va fi supus Curtii Internationale de Justitie, la cererea uneia dintre partile in diferend.",
+            "COMET": 0.9660937786102295
+        },
+        {
+            "src": "المادة 39: التوقيع والتصديق والانضمام",
+            "mt": "Articolul 39: Semnarea, ratificarea și intrarea în vigoare",
+            "ref": "ARTICOLUL 39 Semnare, ratificare si aderare",
+            "COMET": 0.9826734066009521,
+            "errors": [
+                {
+                    "text": "intra",
+                    "confidence": 0.40625,
+                    "severity": "minor",
+                    "start": 38,
+                    "end": 44
+                },
+                {
+                    "text": "vigoare",
+                    "confidence": 0.41015625,
+                    "severity": "minor",
+                    "start": 50,
+                    "end": 58
+                }
+            ]
+        },
+        {
+            "src": "1. تعرض هذه الاتفاقية للتوقيع في جنيف في 28 تموز/يوليه 1951 وتودع بعد ذلك لدي الأمين العام للأمم المتحدة. وهي تعرض للتوقيع في المكتب الأوربي للأمم المتحدة بين 28 تموز/يوليه و 31 آب/أغسطس 1951 ثم تعرض مجددا للتوقيع في المقر الرئيسي للأمم المتحدة بين 17 أيلول/سبتمبر 1951 و 31 كانون الأول/ديسمبر 1952.",
+            "mt": "1. Prezenta convenție este deschisă spre semnare la Geneva la 28 iulie 1951 și va fi depusă la Secretarul General al Organizației Națiunilor Unite. Ea va fi deschisă spre semnare la sediul ONU între 28 iulie și 31 august 1951, apoi din nou între 17 septembrie 1951 și 31 decembrie 1952.",
+            "ref": "1. Prezenta conventie va fi deschisa spre semnare la Geneva, la 28 iulie 1951 si, dupa aceasta data, depusa la secretarul general al Organizatiei Natiunilor Unite. Ea va ramine deschisa spre semnare la Oficiul european al Natiunilor Unite de la 28 iulie pina la 31 august 1951 si din nou deschisa spre semnare la sediul Organizatiei Natiunilor Unite de la 17 septembrie 1951 pina la 31 decembrie 1952.",
+            "COMET": 0.8615906238555908,
+            "errors": [
+                {
+                    "text": "este",
+                    "confidence": 0.360595703125,
+                    "severity": "minor",
+                    "start": 21,
+                    "end": 26
+                }
+            ]
+        },
+        {
+            "src": "2. يتاح توقيع هذه الاتفاقية لجميع الدول الأعضاء في الأمم المتحدة وكذلك لأية دولة أخري دعيت إلي مؤتمر المفوضين حول وضع اللاجئين وعديمي الجنسية أو وجهت إليها الجمعية العامة دعوة لتوقيعها. وتخضع هذه الاتفاقية للتصديق، وتودع صكوك التصديق لدي الأمين العام للأمم المتحدة.",
+            "mt": "(2) Prezenta convenție este deschisă spre semnare tuturor statelor membre ale Organizației Națiunilor Unite, precum și oricărui alt stat care a fost invitat la Conferința comisarilor pentru refugiați și apatrizi sau la care Adunarea Generală a invitat semnarea.",
+            "ref": "2. Prezenta conventie va fi deschisa semnarii de catre toate statele membre ale Organizatiei Natiunilor Unite, precum si de catre orice alt stat care nu este membru al organizatiei, invitat la Conferinta plenipotentiarilor referitoare la statutul refugiatilor si apatrizilor sau de catre orice stat caruia adunarea generala i-a adresat o invitatie in acest sens. Ea va trebui sa fie ratificata, iar instrumentele de ratificare vor fi depuse la secretarul general al Natiunilor Unite.",
+            "COMET": 0.5591914057731628,
+            "errors": [
+                {
+                    "text": "comisarilor",
+                    "confidence": 0.41796875,
+                    "severity": "major",
+                    "start": 170,
+                    "end": 182
+                },
+                {
+                    "text": "la care",
+                    "confidence": 0.338623046875,
+                    "severity": "major",
+                    "start": 215,
+                    "end": 223
+                },
+                {
+                    "text": "a invitat semnarea",
+                    "confidence": 0.394775390625,
+                    "severity": "major",
+                    "start": 241,
+                    "end": 260
+                }
+            ]
+        },
+        {
+            "src": "3. تكون هذه الاتفاقية متاحة لانضمام الدول المشار إليها في الفقرة 2 من هذه المادة ابتداء من 28 تموز/يوليه 1951. ويقع الانضمام بإيداع صك انضمام لدي الأمين العام للأمم المتحدة.",
+            "mt": "(3) Prezenta convenție este deschisă spre semnare statelor menționate la alineatul (2) de mai sus la sediul Organizației Națiunilor Unite, până la Ziua Armistiului, și anume 30 iunie 1952;",
+            "ref": "3. Statele vizate la paragraful 2 al prezentului articol vor putea sa adere la prezenta conventie incepind cu data de 28 iulie 1951. Aderarea se va face prin depunerea unui instrument de aderare la secretarul general al Natiunilor Unite.",
+            "COMET": 0.3006884753704071
+        },
+        {
+            "src": "المادة 40: بند الانطباق الإقليمي",
+            "mt": "Articolul 40: Dispoziții privind aplicabilitatea teritorială",
+            "ref": "ARTICOLUL 40 Clauza de aplicare teritoriala",
+            "COMET": 0.9773132801055908,
+            "errors": [
+                {
+                    "text": "abilitatea",
+                    "confidence": 0.37841796875,
+                    "severity": "minor",
+                    "start": 38,
+                    "end": 48
+                }
+            ]
+        },
+        {
+            "src": "1. لأية دولة، عند التوقيع أو التصديق أو الانضمام، أن تعلن أن هذه الاتفاقية ستشمل جميع الأقاليم التي تمثلها علي الصعيد الدولي أو واحد أو أكثر منها. ويبدأ سريان مفعول هذا الإعلان في تاريخ بدء نفاذ هذه الاتفاقية إزاء الدولة المعنية.",
+            "mt": "(1) Un stat, atunci când semnează sau aderă la prezenta convenție, poate declara că aceasta se aplică tuturor teritoriilor pe care le reprezintă pe scena internațională sau unuia sau mai multora dintre aceste teritorii. O declarație făcută în temeiul prezentului articol va intra în vigoare de la data la care prezenta convenție este încheiată de statul în cauză.",
+            "ref": "1. Orice stat va putea, in momentul semnarii, ratificarii sau aderarii, sa declare ca prezenta conventie se va extinde la ansamblul teritoriilor pe care el le reprezinta pe plan international sau la unu ori mai multe dintre ele. O asemenea declaratie isi va produce efectele in momentul intrarii in vigoare a conventiei pentru statul respectiv.",
+            "COMET": 0.7994804382324219,
+            "errors": [
+                {
+                    "text": "este încheiat",
+                    "confidence": 0.40478515625,
+                    "severity": "major",
+                    "start": 328,
+                    "end": 342
+                },
+                {
+                    "text": "de",
+                    "confidence": 0.386474609375,
+                    "severity": "major",
+                    "start": 343,
+                    "end": 346
+                }
+            ]
+        },
+        {
+            "src": "2. وفي أي وقت آخر بعد ذلك يتم توسيع نطاق شمول هذه الاتفاقية بإشعار يوجه إلي الأمين العام للأمم المتحدة ويصبح ساري المفعول ابتداء من اليوم التسعين الذي يلي استلام الأمين العام للأمم المتحدة هذا الإشعار، أو من تاريخ بدء نفاذ هذه الاتفاقية إزاء الدولة المعنية أيهما جاء لاحقا.",
+            "mt": "(2) Prezenta convenție se aplică în orice alt moment în temeiul unei notificări adresate secretarului general al Organizației Națiunilor Unite, care intră în vigoare la nouăzeci de zile de la data primirii respectivei notificări de către secretarul general sau de la data la care prezenta convenție intră în vigoare împotriva acestui stat, oricare dintre acestea survine mai târziu.",
+            "ref": "2. In orice moment ulterior, aceasta extindere se va face prin notificare adresata secretarului general al Natiunilor Unite si isi va produce efectele incepind cu cea de-a 90-a zi care va urma datei la care secretarul general al Natiunilor Unite a primit notificarea sau de la data intrarii in vigoare a conventiei pentru statul respectiv, daca aceasta ultima data este posterioara.",
+            "COMET": 0.5654734373092651,
+            "errors": [
+                {
+                    "text": "aplică",
+                    "confidence": 0.34716796875,
+                    "severity": "major",
+                    "start": 25,
+                    "end": 32
+                },
+                {
+                    "text": "orice alt moment",
+                    "confidence": 0.35888671875,
+                    "severity": "major",
+                    "start": 35,
+                    "end": 52
+                },
+                {
+                    "text": "in",
+                    "confidence": 0.302001953125,
+                    "severity": "major",
+                    "start": 148,
+                    "end": 151
+                },
+                {
+                    "text": "nouă",
+                    "confidence": 0.302734375,
+                    "severity": "minor",
+                    "start": 168,
+                    "end": 173
+                },
+                {
+                    "text": "împotriva",
+                    "confidence": 0.325927734375,
+                    "severity": "major",
+                    "start": 315,
+                    "end": 325
+                }
+            ]
+        },
+        {
+            "src": "3. وفي ما يتعلق بالأقاليم التي لا يوسع نطاق الاتفاقية، لجعله شاملا لها، عند التوقيع أو التصديق أو الانضمام، تنظر كل دولة معنية في إمكانية اتخاذ الخطوات اللازمة لجعل انطباق هذه الاتفاقية شاملا لها بعد الحصول، عند اقتضاء ذلك لأسباب دستورية، علي موافقة حكوماتها.",
+            "mt": "(3) În ceea ce privește teritoriile pentru care nu se intenționează extinderea prezentei convenții, fiecare stat interesat ia în considerare posibilitatea de a lua măsurile necesare pentru a aduce aplicarea prezentei convenții în sfera sa de aplicare, după ce a obținut, dacă acest lucru este impus de motive constituționale, aprobarea guvernului său.",
+            "ref": "3. In ce priveste teritoriile carora prezenta conventie nu li se aplica la data semnarii, ratificarii sau aderarii, fiecare stat interesat va examina posibilitatea de a lua, cit mai curind posibil, orice masuri necesare in scopul aplicarii ei la teritoriile respective, sub rezerva, daca este cazul, a consimtamintului guvernelor acestor teritorii, cerut din ratiuni constitutionale ",
+            "COMET": 0.7071406245231628,
+            "errors": [
+                {
+                    "text": "nu",
+                    "confidence": 0.3330078125,
+                    "severity": "major",
+                    "start": 47,
+                    "end": 50
+                },
+                {
+                    "text": "inte",
+                    "confidence": 0.3896484375,
+                    "severity": "major",
+                    "start": 53,
+                    "end": 58
+                },
+                {
+                    "text": "extinde",
+                    "confidence": 0.3662109375,
+                    "severity": "major",
+                    "start": 67,
+                    "end": 75
+                }
+            ]
+        },
+        {
+            "src": "المادة 41: بند الدولة الاتحادية",
+            "mt": "Articolul 41: Dis federală de stat",
+            "ref": "ARTICOLUL 41 Clauza federala",
+            "COMET": 0.8600820302963257,
+            "errors": [
+                {
+                    "text": "Dis federală de stat",
+                    "confidence": 0.484619140625,
+                    "severity": "major",
+                    "start": 13,
+                    "end": 34
+                }
+            ]
+        },
+        {
+            "src": "حين تكون الدولة اتحادية وغير مركزية، تطبق الأحكام التالية:",
+            "mt": "Atunci când un stat este federal și descentralizat, se aplică următoarele reguli:",
+            "ref": "In cazul unui stat federal sau neunitar, se vor aplica urmatoarele dispozitii:",
+            "COMET": 0.9914734363555908,
+            "errors": [
+                {
+                    "text": "des",
+                    "confidence": 0.404296875,
+                    "severity": "minor",
+                    "start": 35,
+                    "end": 39
+                }
+            ]
+        },
+        {
+            "src": "(أ) في ما يتعلق بمواد هذه الاتفاقية التي تقع ضمن الولاية التشريعية للسلطة التشريعية الاتحادية، تكون التزامات الحكومة الاتحادية ضمن هذا النطاق نفس التزامات الدول الأطراف التي ليست دولا اتحادية،",
+            "mt": "În ceea ce privește aspectele prezentei convenții care intră sub jurisdicția legislativă a Parlamentului Federal, obligațiile sunt cele ale unui stat parte care nu este un stat federal cu privire la astfel de chestiuni,",
+            "ref": "a) in ce priveste acele articole ale conventiei a caror aplicare depinde de actiunea legislativa a puterii legislative federale, obligatiile guvernului federal vor fi, in aceasta masura, aceleasi cu cele ale partilor care nu sint state federale;",
+            "COMET": 0.5869140625,
+            "errors": [
+                {
+                    "text": "obliga",
+                    "confidence": 0.332763671875,
+                    "severity": "major",
+                    "start": 113,
+                    "end": 120
+                },
+                {
+                    "text": "sunt",
+                    "confidence": 0.352783203125,
+                    "severity": "major",
+                    "start": 125,
+                    "end": 130
+                },
+                {
+                    "text": "parte",
+                    "confidence": 0.3115234375,
+                    "severity": "major",
+                    "start": 149,
+                    "end": 155
+                },
+                {
+                    "text": "sti",
+                    "confidence": 0.30712890625,
+                    "severity": "major",
+                    "start": 212,
+                    "end": 215
+                },
+                {
+                    "text": ",",
+                    "confidence": 0.31298828125,
+                    "severity": "major",
+                    "start": 218,
+                    "end": 219
+                }
+            ]
+        },
+        {
+            "src": "(ب) وفي ما يتعلق بمواد هذه الاتفاقية التي تقع ضمن الولاية التشريعية لمختلف الدول أو الولايات أو المقاطعات المكونة للاتحاد وغير الملزمة، وفقا للنظام الدستوري لهذا الاتحاد، باتخاذ إجراءات تشريعية، تقوم الحكومة الاتحادية في اقرب وقت ممكن بإحالة هذه المواد، مع توصية إيجابية إلي السلطات المختصة في هذه الدول أو الولايات أو المقاطعات،",
+            "mt": "În ceea ce privește articolele prezentei convenții care intră sub jurisdicția legislativă a diferitelor state sau provincii care alcătuiesc Uniunea și care nu sunt obligatorii, în conformitate cu sistemul al acestei Uniuni, pentru aceste state sau provincii, în conformitate cu procedura legislativă, cât mai curând posibil după intrarea sa în vigoare pentru aceste state sau provincii, guvernul federal transmite aceste articole cu recomandarea de a fi acceptate.",
+            "ref": "b) in ce priveste articolele prezentei conventii, a caror aplicare depinde de actiunea legislativa a fiecaruia dintre statele, provinciile sau cantoanele constitutive, care nu sint, in virtutea sistemului constitutional al federatiei, tinute sa ia masuri legislative, guvernul federal va aduce, cit mai curind posibil si cu avizul sau favorabil, articolele respective la cunostinta autoritatilor competente ale statelor, provinciilor sau cantoanelor;",
+            "COMET": 0.36181640625,
+            "errors": [
+                {
+                    "text": "Uniunea",
+                    "confidence": 0.440673828125,
+                    "severity": "major",
+                    "start": 139,
+                    "end": 147
+                },
+                {
+                    "text": "sistemul al acestei Uniuni",
+                    "confidence": 0.415283203125,
+                    "severity": "major",
+                    "start": 195,
+                    "end": 222
+                },
+                {
+                    "text": ", în conformitate cu procedura legislativ",
+                    "confidence": 0.361083984375,
+                    "severity": "major",
+                    "start": 257,
+                    "end": 298
+                },
+                {
+                    "text": ",",
+                    "confidence": 0.3544921875,
+                    "severity": "major",
+                    "start": 299,
+                    "end": 300
+                },
+                {
+                    "text": "după intrarea sa în vigoare pentru",
+                    "confidence": 0.368408203125,
+                    "severity": "major",
+                    "start": 323,
+                    "end": 358
+                },
+                {
+                    "text": "transmite",
+                    "confidence": 0.41162109375,
+                    "severity": "major",
+                    "start": 403,
+                    "end": 413
+                },
+                {
+                    "text": "cu recomandarea de a fi acceptate",
+                    "confidence": 0.36669921875,
+                    "severity": "major",
+                    "start": 429,
+                    "end": 463
+                }
+            ]
+        },
+        {
+            "src": "(ج) تزود الدولة الاتحادية الطرف في هذه الاتفاقية أية دولة متعاقدة أخري تطلب ذلك عن طريق الأمين العام للأمم المتحدة ببيان عن الأحكام القانونية والممارسات المعمول بها في الاتحاد والوحدات المكونة له بشأن أي حكم من أحكام هذه الاتفاقية مبينة مدي المفعول الذي أعطي له بإجراء تشريعي أو بإجراء آخر.",
+            "mt": "să furnizeze oricărui alt stat contractant, prin intermediul secretarului general al Organizației Națiunilor Unite, o declarație cu privire la dispozițiile și practicile sale juridice interne referitoare la orice dispoziție a acesteia care a fost pusă în aplicare prin măsuri legislative sau de altă natură;",
+            "ref": "c) un stat federal, parte la conventie, va comunica, la cererea oricarui alt stat contractant, care ii va fi transmisa prin secretarul general al Natiunilor Unite, o prezentare asupra legislatiei si practicilor in vigoare in statul federal si in unitatile sale constitutive in ce priveste o dispozitie sau alta a conventiei, indicind masura in care respectiva dispozitie a fost pusa in aplicare printr-o actiune legislativa sau de alta natura.",
+            "COMET": 0.32958984375,
+            "errors": [
+                {
+                    "text": "să",
+                    "confidence": 0.6376953125,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 2
+                },
+                {
+                    "text": "eze",
+                    "confidence": 0.5146484375,
+                    "severity": "critical",
+                    "start": 9,
+                    "end": 12
+                },
+                {
+                    "text": "i",
+                    "confidence": 0.6533203125,
+                    "severity": "critical",
+                    "start": 20,
+                    "end": 21
+                },
+                {
+                    "text": "cu",
+                    "confidence": 0.455078125,
+                    "severity": "critical",
+                    "start": 128,
+                    "end": 131
+                },
+                {
+                    "text": ";",
+                    "confidence": 0.390380859375,
+                    "severity": "critical",
+                    "start": 306,
+                    "end": 307
+                }
+            ]
+        },
+        {
+            "src": "المادة 42: التحفظات",
+            "mt": "Articolul 42: Rezervari",
+            "ref": "ARTICOLUL 42 Rezerve",
+            "COMET": 0.9748718738555908,
+            "errors": [
+                {
+                    "text": "Rezervari",
+                    "confidence": 0.3955078125,
+                    "severity": "minor",
+                    "start": 13,
+                    "end": 23
+                }
+            ]
+        },
+        {
+            "src": "1. لأية دولة، عند التوقيع أو التصديق أو الانضمام، حق إبداء تحفظات بشأن أية مواد في الاتفاقية غير المواد 1 و 3 و 4 و 16 (1) و 33 والمواد 36 إلي 46 شاملة المادة الأخيرة المذكورة.",
+            "mt": "(1) Un stat, atunci când semnează sau aderă la prezenta convenție, poate formula rezerve cu privire la orice articole din prezenta convenție, altele decât articolele 1, 3, 4, 16 alineatul (1), 33 și ultimul articol menționat de la articolele 36-46, inclusiv.",
+            "ref": "1. In momentul semnarii, ratificarii sau aderarii, orice stat va putea formula rezerve la articolele conventiei, cu exceptia art. 1, 3, 4, 16 (1), 33 si 36-46 inclusiv.",
+            "COMET": 0.7540156245231628,
+            "errors": [
+                {
+                    "text": "alineatul (1)",
+                    "confidence": 0.376953125,
+                    "severity": "major",
+                    "start": 177,
+                    "end": 191
+                },
+                {
+                    "text": "ultimul articol menționat de la articolele 36-46",
+                    "confidence": 0.491943359375,
+                    "severity": "major",
+                    "start": 198,
+                    "end": 247
+                },
+                {
+                    "text": "inclusiv",
+                    "confidence": 0.392333984375,
+                    "severity": "major",
+                    "start": 248,
+                    "end": 257
+                }
+            ]
+        },
+        {
+            "src": "2. لأي دولة أبدت تحفظا وفقا للفقرة 1 من هذه المادة أن تسحب تحفظها في أي حين برسالة موجهة إلي الأمين العام للأمم المتحدة.",
+            "mt": "(2) Un stat parte poate declara în orice moment, printr-o notificare adresată secretarului general, intenția sa de a se retrage din protocolul facultativ.",
+            "ref": "2. Orice stat contractant care a formulat o rezerva, conform paragrafului 1 al acestui articol, va putea in orice moment sa o retraga, printr-o comunicare, in acest sens, adresata secretarului general al Natiunilor Unite.",
+            "COMET": 0.7809804677963257,
+            "errors": [
+                {
+                    "text": "protocolul facultativ",
+                    "confidence": 0.412109375,
+                    "severity": "major",
+                    "start": 131,
+                    "end": 153
+                }
+            ]
+        },
+        {
+            "src": "المادة 43: بدء النفاذ",
+            "mt": "Articolul 43: Intrarea în vigoare",
+            "ref": "ARTICOLUL 43 Intrarea in vigoare",
+            "COMET": 1.0002734661102295
+        },
+        {
+            "src": "1. يبدأ نفاذ هذه الاتفاقية في اليوم التسعين الذي يلي تاريخ إيداع صك التصديق أو الانضمام السادس.",
+            "mt": "(1) Prezenta convenție intră în vigoare în a nouăzecea zi de la data depunerii celui de-al șaselea instrument de ratificare, acceptare sau aprobare.",
+            "ref": "1. Prezenta conventie va intra in vigoare in cea de-a 90-a zi care va urma datei depunerii celui de-al saselea instrument de ratificare sau de aderare.",
+            "COMET": 0.9704663753509521,
+            "errors": [
+                {
+                    "text": "accepta",
+                    "confidence": 0.42333984375,
+                    "severity": "minor",
+                    "start": 124,
+                    "end": 132
+                },
+                {
+                    "text": "aprobar",
+                    "confidence": 0.446533203125,
+                    "severity": "minor",
+                    "start": 138,
+                    "end": 146
+                }
+            ]
+        },
+        {
+            "src": "2. أما الدولة التي تصدق الاتفاقية أو تنضم إليها بعد إيداع صك",
+            "mt": "(2) Un stat care ratifică, acceptă sau aderă la convenție după depunerea instrumentului de ratificare, de acceptare sau de aderare devine obligat prin aceasta la data la care intră în vigoare pentru statul care face depozitul.",
+            "ref": "2. Pentru fiecare dintre statele care vor ratifica conventia sau vor adera la aceasta dupa depunerea celui de-al saselea instrument de ratificare sau de aderare, ea va intra in vigoare in cea de-a 90-a zi care va urma datei depunerii de catre acel stat a instrumentului sau de ratificare sau de aderare.",
+            "COMET": 0.1888427734375,
+            "errors": [
+                {
+                    "text": "(2)",
+                    "confidence": 0.376708984375,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 3
+                },
+                {
+                    "text": "ului",
+                    "confidence": 0.349365234375,
+                    "severity": "critical",
+                    "start": 83,
+                    "end": 87
+                },
+                {
+                    "text": "re",
+                    "confidence": 0.376220703125,
+                    "severity": "critical",
+                    "start": 113,
+                    "end": 115
+                },
+                {
+                    "text": "a",
+                    "confidence": 0.53125,
+                    "severity": "critical",
+                    "start": 122,
+                    "end": 124
+                }
+            ]
+        },
+        {
+            "src": "المادة 44: الانسحاب",
+            "mt": "Articolul 44: Retragerea",
+            "ref": "ARTICOLUL 44 Denuntare",
+            "COMET": 0.9392273426055908,
+            "errors": [
+                {
+                    "text": ": Retragerea",
+                    "confidence": 0.41357421875,
+                    "severity": "minor",
+                    "start": 12,
+                    "end": 24
+                }
+            ]
+        },
+        {
+            "src": "1. لأي دولة متعاقدة أن تنسحب من هذه الاتفاقية في أي حين بإشعار موجه إلى الأمين العام للأمم المتحدة.",
+            "mt": "(1) Un stat contractant se poate retrage din prezenta convenție în orice moment prin notificare adresată secretarului general al Organizației Națiunilor Unite.",
+            "ref": "1. Orice stat contractant va putea denunta conventia in orice moment, prin notificare adresata secretarului general al Natiunilor Unite.",
+            "COMET": 0.9924609661102295
+        },
+        {
+            "src": "2. يبدأ سريان مفعول هذا الانسحاب إزاء الدولة المتعاقدة بعد مرور عام علي تاريخ استلام الأمين العام الإشعار الذي يرد فيه قرار الانسحاب.",
+            "mt": "(2) Această retragere produce efecte față de un stat contractant la un an de la data primirii de către secretarul general a notificării deciziei sale de retragere.",
+            "ref": "2. Denuntarea va produce efecte pentru statul respectiv la un an de la data cind ea a fost primita de catre secretarul general al Natiunilor Unite.",
+            "COMET": 0.9431335926055908,
+            "errors": [
+                {
+                    "text": "contractant",
+                    "confidence": 0.42041015625,
+                    "severity": "minor",
+                    "start": 52,
+                    "end": 64
+                }
+            ]
+        },
+        {
+            "src": "3. لأية دولة أصدرت إعلانا أو إشعارا وفقا للمادة 40 أن تعلن في أي حين، بإشعار موجه إلي الأمين العام، أن هذه الاتفاقية ستتوقف عن شمول إقليم ما بعد سنة من تاريخ استلام الأمين العام لهذا الإشعار.",
+            "mt": "În al treilea rând, orice stat parte care a emis o declarație sau o notificare în temeiul articolului 40 poate oricând să declare prin notificare adresată secretarului general că prezenta convenție nu se va mai aplica unui teritoriu după un an de la data la care secretarul general primește o astfel de notificare.",
+            "ref": "3. Orice stat care a facut o declaratie sau o notificare potrivit art. 40 va putea sa notifice ulterior secretarului general al Natiunilor Unite ca prezenta conventie va inceta sa se aplice oricarui teritoriu mentionat in notificare. Conventia va inceta sa se aplice teritoriului respectiv dupa un an de la data la care secretarul general va fi primit aceasta notificare.",
+            "COMET": 0.9045703411102295
+        },
+        {
+            "src": "المادة 45: إعادة النظر",
+            "mt": "Articolul 45: Revizuire",
+            "ref": "ARTICOLUL 45 Revizuire",
+            "COMET": 0.9914734363555908,
+            "errors": [
+                {
+                    "text": "zu",
+                    "confidence": 0.397216796875,
+                    "severity": "minor",
+                    "start": 18,
+                    "end": 20
+                }
+            ]
+        },
+        {
+            "src": "1. لكل دولة متعاقدة، في أي حين، أن تطلب إعادة النظر في هذه الاتفاقية، بإشعار موجه إلي الأمين العام للأمم المتحدة.",
+            "mt": "(1) Fiecare stat contractant poate, în orice moment, să solicite revizuirea prezentei convenții printr-o notificare adresată secretarului general al Organizației Națiunilor Unite.",
+            "ref": "1. Orice stat contractant va putea, in orice moment, printr-o notificare adresata secretarului general al Natiunilor Unite, sa ceara revizuirea prezentei conventii.",
+            "COMET": 0.9909961223602295
+        },
+        {
+            "src": "2. توصي الجمعية العامة للأمم المتحدة بالخطوات الواجب اتخاذها، عند الاقتضاء، إزاء هذا الطلب.",
+            "mt": "(2) Adunarea Generală a Organizației Națiunilor Unite recomandă, dacă este cazul, să se ia măsuri cu privire la această cerere.",
+            "ref": "2. Adunarea generala a Natiunilor Unite va recomanda, daca va fi cazul, masurile ce vor trebui luate in legatura cu aceasta cerere.",
+            "COMET": 0.9709656238555908,
+            "errors": [
+                {
+                    "text": "Organiza",
+                    "confidence": 0.408935546875,
+                    "severity": "minor",
+                    "start": 23,
+                    "end": 32
+                }
+            ]
+        },
+        {
+            "src": "المادة 46: الإشعارات التي يصدرها الأمين العام للأمم المتحدة",
+            "mt": "Articolul 46: Notificările emise de Secretarul General al Organizației Națiunilor Unite",
+            "ref": "ARTICOLUL 46 Notificarile secretarului general al Natiunilor Unite",
+            "COMET": 0.9856250286102295
+        },
+        {
+            "src": "يقوم الأمين العام للأمم المتحدة بإعلام جميع الدول الأعضاء في الأمم المتحدة والدول غير الأعضاء المذكورة في المادة 39:",
+            "mt": "Secretarul general al Organizației Națiunilor Unite notifică tuturor statelor membre și statelor terțe menționate la alineatul (1) existența unui post vacant.",
+            "ref": "Secretarul general al Natiunilor Unite va notifica tuturor statelor membre ale Natiunilor Unite, precum si statelor nemembre vizate de art. 39:",
+            "COMET": 0.5851249694824219,
+            "errors": [
+                {
+                    "text": "alineatul (1) existența unui post vacant",
+                    "confidence": 0.37353515625,
+                    "severity": "critical",
+                    "start": 116,
+                    "end": 157
+                }
+            ]
+        },
+        {
+            "src": "(أ) بالإعلانات والإشعارات المذكورة في الفرع \"باء\" من المادة 1،",
+            "mt": "prin intermediul anunțurilor și anunțurilor menționate la litera (b),",
+            "ref": "a) declaratiile si notificarile prevazute la sectiunea B a art. 1;",
+            "COMET": 0.4021289050579071
+        },
+        {
+            "src": "(ب) بالتوقيعات وصكوك التصديق والانضمام المذكورة في المادة 39،",
+            "mt": "prin semnaturi, instrumente de ratificare, aprobare sau aderare mentionate in articol",
+            "ref": "b) semnaturile, ratificarile si aderarile prevazute de art. 39;",
+            "COMET": 0.7178828120231628,
+            "errors": [
+                {
+                    "text": "prin semnaturi",
+                    "confidence": 0.388916015625,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 14
+                },
+                {
+                    "text": "instrumente",
+                    "confidence": 0.359375,
+                    "severity": "major",
+                    "start": 15,
+                    "end": 27
+                },
+                {
+                    "text": "aprobar",
+                    "confidence": 0.33984375,
+                    "severity": "major",
+                    "start": 42,
+                    "end": 50
+                }
+            ]
+        },
+        {
+            "src": "(ج) بالإعلانات والإشعارات المذكورة في المادة 40،",
+            "mt": "prin intermediul anunțurilor și anunțurilor menționate la articolul 40;",
+            "ref": "c) declaratiile si notificarile prevazute de art. 40;",
+            "COMET": 0.8766835927963257,
+            "errors": [
+                {
+                    "text": "intermediul anunțurilor și anunțurilor",
+                    "confidence": 0.449462890625,
+                    "severity": "major",
+                    "start": 4,
+                    "end": 43
+                }
+            ]
+        },
+        {
+            "src": "(د) بالتحفظات ورسائل سحب التحفظات المذكورة في المادة 42،",
+            "mt": "(d) prin rezerve și prin notificarea retragerii rezervelor menționate la articolul 42,",
+            "ref": "d) rezervele formulate sau retrase la care se refera art. 42;",
+            "COMET": 0.7897148132324219,
+            "errors": [
+                {
+                    "text": "d) prin rezerve și prin notificarea retragerii rezervelor",
+                    "confidence": 0.4228515625,
+                    "severity": "major",
+                    "start": 1,
+                    "end": 58
+                },
+                {
+                    "text": ",",
+                    "confidence": 0.324951171875,
+                    "severity": "major",
+                    "start": 85,
+                    "end": 86
+                }
+            ]
+        },
+        {
+            "src": "(هـ) بالتاريخ الذي سيبدأ فيه نفاذ هذه الاتفاقية وفقا للمادة 43،",
+            "mt": "(e) de la data la care va intra în vigoare în conformitate cu articolul",
+            "ref": "e) data la care prezenta conventie va intra in vigoare, in aplicarea art. 43 ;",
+            "COMET": 0.6914609670639038,
+            "errors": [
+                {
+                    "text": "(e",
+                    "confidence": 0.4208984375,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 2
+                },
+                {
+                    "text": "de la data",
+                    "confidence": 0.4501953125,
+                    "severity": "major",
+                    "start": 3,
+                    "end": 14
+                },
+                {
+                    "text": "va intra în vigoare în conformitate",
+                    "confidence": 0.44287109375,
+                    "severity": "major",
+                    "start": 22,
+                    "end": 58
+                },
+                {
+                    "text": "articolul",
+                    "confidence": 0.48291015625,
+                    "severity": "major",
+                    "start": 61,
+                    "end": 71
+                }
+            ]
+        },
+        {
+            "src": "(و) بالانسحابات والإشعارات المذكورة في المادة 44،",
+            "mt": "(a) prin retragerile și notificările menționate la articolul 44,",
+            "ref": "f) denuntarile si notificarile prevazute de art. 44;",
+            "COMET": 0.9387280941009521,
+            "errors": [
+                {
+                    "text": "a",
+                    "confidence": 0.42578125,
+                    "severity": "minor",
+                    "start": 1,
+                    "end": 2
+                },
+                {
+                    "text": "retrager",
+                    "confidence": 0.40966796875,
+                    "severity": "minor",
+                    "start": 8,
+                    "end": 17
+                }
+            ]
+        },
+        {
+            "src": "(ز) بطلبات إعادة النظر المذكورة في المادة 45.",
+            "mt": "prin cererile de reexaminare menționate la articolul 45.",
+            "ref": "g) cererile de revizuire prevazute de art. 45.",
+            "COMET": 0.9763367176055908,
+            "errors": [
+                {
+                    "text": "prin",
+                    "confidence": 0.409423828125,
+                    "severity": "minor",
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        },
+        {
+            "src": "وإثباتا لما تقدم، ذيله الموقعون أدناه، المفوضون حسب الأصول بالتوقيع باسم حكوماتهم بتواقيعهم.",
+            "mt": "dovada acestui fapt, subsemnații, fiind autorizați în mod corespunzător, au semnat prezentul instrument în numele guvernelor lor respective.",
+            "ref": "Drept pentru care, subsemnatii, autorizati in mod cuvenit, au semnat, in numele guvernelor lor, prezenta conventie.",
+            "COMET": 0.8688710927963257,
+            "errors": [
+                {
+                    "text": "dovada",
+                    "confidence": 0.4091796875,
+                    "severity": "major",
+                    "start": 0,
+                    "end": 6
+                }
+            ]
+        },
+        {
+            "src": "حرر في جنيف، في هذا اليوم الثامن والعشرين من تموز/يوليه عام ألف وتسعمائة وواحد وخمسين، علي نسخة وحيدة يتساوى في الحجية نصها الإنكليزي والفرنسي، تودع في محفوظات الأمم المتحدة وتعطي صور مصدقة عنها لجميع الدول الأعضاء في الأمم المتحدة وللدول غير الأعضاء المذكورة في المادة 39.",
+            "mt": "Acest instrument este scris atât în limba engleză, cât și în limba franceză, fiecare text fiind în mod egal autentic. Un singur exemplar va fi depus la Arhivele Organizației Națiunilor Unite, pentru a fi copiat pentru a fi distribuit tuturor statelor membre ale Organizației Națiunilor Unite, precum și statelor menționate la alineatul 3 din prezentul acord.",
+            "ref": "Facuta la Geneva, la 28 iulie una mie noua sute cincizeci si unu, intr-un singur exemplar, ale carui texte in limbile engleza si franceza sint egal autentice, care va fi depus in arhivele Natiunilor Unite si de pe care vor fi transmise copii certificate conforme cu originalul tuturor statelor membre ale Natiunilor Unite, precum si statelor nemembre prevazute de art. 39.",
+            "COMET": 0.16015625,
+            "errors": [
+                {
+                    "text": "Acest instrument este scris atât",
+                    "confidence": 0.62841796875,
+                    "severity": "critical",
+                    "start": 0,
+                    "end": 32
+                },
+                {
+                    "text": ",",
+                    "confidence": 0.6943359375,
+                    "severity": "critical",
+                    "start": 49,
+                    "end": 50
+                },
+                {
+                    "text": ".",
+                    "confidence": 0.483154296875,
+                    "severity": "critical",
+                    "start": 116,
+                    "end": 117
+                },
+                {
+                    "text": "pentru a fi copiat pentru a",
+                    "confidence": 0.48095703125,
+                    "severity": "critical",
+                    "start": 191,
+                    "end": 219
+                },
+                {
+                    "text": "Na",
+                    "confidence": 0.5078125,
+                    "severity": "critical",
+                    "start": 274,
+                    "end": 277
+                }
+            ]
+        }
+    ]
+}
